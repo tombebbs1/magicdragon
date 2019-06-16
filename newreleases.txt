@@ -95,6 +95,23 @@ sublink:LISTSOURCE:https://1fichier.com/?a9lxyx5el0jo2hgagu2u::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Mustang (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2qox7bodqdd8/the_mustang_official_trailer_%5Bhd%5D_in_theaters_march_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wpmsy2nl96f9/the_mustang_2019_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oabqfskbldnlcabq/The_Mustang_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/kalqskddbdoeckpo/The_Mustang_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z0v7h4kl4fxx::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/5TDRM9tiEKq/The.Mustang.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/MLMqUlxesQ0/The.Mustang.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/94ddf627dbf41dccac9d77e4e4b43053/The.Mustang.2019.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?15kiej2i0vbiwkze2gy1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDkwYzBjOTItYTFhZC00ZWZlLTg1YzYtZWU4ZGZhZWI0MmNkXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Hummingbird Project (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/b2zipxu9r9zw/the_hummingbird_project_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,0 +1,1066 @@
+<item>
+<title>[B][COLORwhite]CLASSIC MOVIES[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Above and Beyond (1952)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/lar2jfoodgx8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTQyODVkY2EtNDc2Yi00ODUyLTk2NjgtYzE5YmVmMzczYmIzL2ltYWdlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]Air Cadet (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/n4qq7vnitqdz::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzNmM5ZjctOGQ4MC00MTI2LTg5NGUtZTFkMGU1OWE5YTdlXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Appointment with Danger (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/nwlpekmw5wpr::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGNmYjVhODItZmI1MC00MGI5LTkxZGYtYjk1YzZkODc5OTFlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Battle of Britain (1969)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/6n05s8kf0hvh.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGFjNzllMGItMDJhYy00ZjVlLTg2NDctYzU5YTMyMjgxZTVmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Battle of the Coral Sea (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/b8xf5us0ojht::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzdhNmY0OTMtMWJiNi00ZjNkLWEzZDAtMDRmZDU1YzA3ZDFmL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bedazzled (1967)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/0wcwornf5rwj::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmUyZWU0MzEtYmViZS00ZDBlLTg1M2ItMWI5NmYzNTU4ODBiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bigger Than Life (1956)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/f3u1uu611y0j::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjllNzJhNWYtMDlkMi00MzM0LWI1ZGItMjkwNGYxNTY0NWFhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Billy the Kid Returns 1938  [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/leotqtfkserqercr/Billy_the_Kd_Returns_1938_PROPER_DVDRip_x264-ARiES_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/ZbJ8evOP.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Boy, Did I Get a Wrong Number! (1966)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/rszhxgotup25.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDU4MDU1NzUyN15BMl5BanBnXkFtZTgwNDAxMTkwMzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Boom Town (1940)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/trfakx4ce5k2::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmJhYTJlNGQtMTdkYi00OTA5LWE0NTktMmQ2MDgyMmJmNGQ4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]By the Light of the Silvery Moon (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/w4mq9xabfao9::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODU2YzRmYjktN2NkYy00M2RhLTgzZjAtNzhmMzdjYzgzMzgxXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Captain Kidd and the Slave Girl (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/x5g2hq4g3big::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDQxOTczM15BMl5BanBnXkFtZTgwMzI2Nzk1MDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Carry on Screaming! (1966)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/faqmfofv57bm::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ4NDQ0MTIzMV5BMl5BanBnXkFtZTgwNjIxMTkwMzE@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Casanova's Big Night (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/annon849kz2u.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGQxOTA5MTYtNmIyZS00YWFkLThjNzUtNmQ3ODU2MWE0ZWE1XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SY1000_CR0,0,664,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cat on a Hot Tin Roof (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lkdnffftqrscoomc/Cat_on_a_Hot_Tin_Roof_1958_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMzFhNTMwNDMtZjY3Yy00NzY3LWI1ZWQtZTQxMWJmODVhZWFkXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SY1000_CR0,0,651,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cattle Drive (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/maloknqbrkfrorpk/cattle_drive_1951_bdrip_bluray_x264-rusted_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzJmNTcxYjItOWI3ZC00MzYwLWE2NjctMGYwYWNiYzNlYTk4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]China Doll (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/qgqa8540grgo.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1MjgxNTYwM15BMl5BanBnXkFtZTcwNDM1OTQ0MQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]Cry Terror! (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/dlcpefp5eoon.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTM2MmE5ZjctMDYyNC00MzcyLTliMTAtZTJkNjZjZjAzODNmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Deadline - U.S.A. (1952)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/4ja91fw9dx3y.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MTE5MDQzMV5BMl5BanBnXkFtZTgwNTI2Nzk1MjE@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Duel In The Sun (1946}[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/cfbkrtcqkplofbfq/Duel_In_The_Sun_1946_INTERNAL_BDRip_x264-RedBlade_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/l15bxKWvk.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Duffy of San Quentin (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/tjrbdtuqenvf::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4MjA5ODUxMV5BMl5BanBnXkFtZTgwNTY1MDc1NTE@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Face of Fire (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/cz52g7mi5y2l::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTRlOTU3ZTEtYThiMS00MjIzLWI1MTctMmMwODBlNDc3NzIxXkEyXkFqcGdeQXVyNjYwODc3ODk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fear Strikes Out (1957)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ksfeeplacrceldcc/fear_strikes_out_1957_internal_hdtv_x264-regret_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/C2RXcWN.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forbidden Planet (1956)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/ongnhe1ujcqi.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTdmODZkNmQtYjU4Mi00MTcyLTg5YmEtNmVjMWU1M2Y5NzgyXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fort Defiance (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/w2rvtg5s4t81::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGJiZTE4MmQtMTA1Yi00ODQ2LWEzMWQtODNjYjFmYTJkMDEzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Francis in the Haunted House (1956)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/qa7d18qys5ql::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2M0OTVmYzgtYmUxNS00ZjVmLWJhNTgtNGU2MGQ3NGIyM2UyXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]From the Terrace (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/99uff1mlhhys.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTMxMTI1MGMtMTZkOS00NzI1LTlkZjgtYjM1M2QzYmE2M2QxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_CR0,0,653,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gun Fury (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pcqqkarmntbesdfk/gun_fury_1953_proper_dvdrip_x264-regret_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/cUKYEXOFx.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guns of the Timberland (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/kkn994odig9r.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZDUzZDE0MDMtNzU2NC00NTk4LTkxZDItMjZlM2VlOGQ2MTQxXkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heaven Knows, Mr. Allison (1957)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/7a9c1rwr264j.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjRmYTIwMGYtZWZmYy00MjY5LTkzOTgtMGQwMDdhMTdhMjEwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]House of Women (1962)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/fdftebokkfetoaok/House_of_Women_dramucom_82217_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMDc1MDQyM15BMl5BanBnXkFtZTcwMzUxNzYyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Inside Straight (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qktalaqtmnfospab/inside_straight_1951_dsr_x264-regret_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDMzNjFkMzMtN2UzNS00NzE0LWE5YzItMDY0OWVkM2JjNTJjXkEyXkFqcGdeQXVyNDcxNDkxMjA@._V1_SY999_CR0,0,646,999_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Inside the Walls of Folsom Prison (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/utwbgg8w3vds::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDhjNTI0NTktMDBiMC00OWU3LWJkNGItOWRlZWYyOWYxZmI3XkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Interrupted Melody (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/utwbgg8w3vds::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://streamango.com/f/mftosffsldcpsqaq/interrupted_melody_1955_dsr_x264-regret_mkv_mp4</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jimmy the Gent (1934)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/tze3cn5oxzql::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGYzYzc1OGYtYzFkZi00NDhhLWE1YTEtN2U3NDczMTc1ODkyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_UY268_CR85,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]King Kong (1933)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/cb8wc21tkqxy.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODM0MTEyMjQxOF5BMl5BanBnXkFtZTgwNzYwNTk1MjE@._V1._CR8.883331298828125,6.5333404541015625,344,488_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ladies of the Big House (1931)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/amqncemmteonoknn/Ladies_of_the_Big_House_Dramucom_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDk0NmU2MGMtZGJkNi00NTA3LThjMTEtMmY4YmY2MWIzODc4XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_CR0,0,818,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Loving You (1957)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/u141j4uihlxb::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzkwMmU1ODQtYTA3Ni00OTFmLTk4MTktNzQ1MWVmZDJhYjUwXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mickey One (1965)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/oaecsmromtpcokpp/mickey_one_1965_restored_bdrip_x264-spooks_mkv_mp4::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/JmOIVze8W.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mister 880 (1950)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/h6mpgtt1fcmx::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGJiZjdlY2UtNjEwZS00ZmMwLTgxYjAtZTVkMmI3NWVjN2FkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]My Fair Lady (1964)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/fotpmtoedndeknec/My_Fair_Lady_1964_REMASTERED_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjA5MTEzMzE4MF5BMl5BanBnXkFtZTcwMDAzMTUyMg@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Night Creatures (1962)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/uk1673072bxp::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjkxZGY3NWEtOTE3MC00NTM0LWI1MjYtMTAyZmU4NjdiNzVjXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SY1000_CR0,0,655,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Night People (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/c86qtijg5ofy::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5NTQ1Nzk1Ml5BMl5BanBnXkFtZTYwNTAxMjg5._V1_UY268_CR90,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nightmare (1964)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/y5c5hfgdjuih::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWIwMGM0NmUtNTVkYS00MTBmLWJlNjUtMzk2YTllOWJmYmYyXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_CR0,0,653,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]North West Frontier (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/9uopkzywrh1d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzk5MDE1M15BMl5BanBnXkFtZTcwMjYwOTc2NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nothing Sacred (1937)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rndlcokkannsbsfa/Nothing_Sacred_1937_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BM2I3NzViYzgtMzdjYS00NjNkLWJhYWQtMjZhZTY4MGNmY2ZmXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SY1000_CR0,0,656,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]One of Our Aircraft Is Missing (1942)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/taw2a1r01eh0::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MzZmOWMtNjNhOS00MjMzLTg4MDgtMjFhOWYzZGY5ZTAxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Operation Secret (1952)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/2p5587o0kjij::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNzY1MDk3N15BMl5BanBnXkFtZTcwMjg2NTk5Mw@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Paranoiac (1963)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/ydofu5x1cgxp::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzFjYjZmNzItYjc3Yi00ZGFkLWI4NWUtZmYyMzI2OGM5NGRjXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Payment on Demand (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/pimhtsf5ne8t::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA1MDQ5NjA5NV5BMl5BanBnXkFtZTgwMjQzMjEwODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Problem Girls (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dqcmebklalbtcotn/Problem_Girls_1953DVDRipdramucom_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmUyYjAxYzMtY2RjMC00MzljLTlmNTItZTE1NmE1NzExODgxXkEyXkFqcGdeQXVyNTY4NjI2OTA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Quality Street (1937)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mnoerfqlsqpteckp/quality_street_1937_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmJmNmNkMDMtYmIzMS00ZDhhLWFlNjctMmRlMGI2MDRkYWNlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rebel Without a Cause (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/oqlbredqbqtcmlkp/Rebel_Without_A_Cause_1955_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORwhite]720p  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/d9eg9yfhvn0c::LISTNAME:[COLORwhite]1080p  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMwNWIwYzAtMWVhZi00YzQ2LTlmNGYtOTg3NDdkNTRjOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rebecca (1940)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/eskfftkpqllcrnek/Saga_of_Death_Valley_1939_DVDRip_x264-ARiES_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/S87Kz0bPG.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Saga of Death Valley 1939 [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nqbrrbmcccdqctbt/fico-cocklesshell_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/kpn3h.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Satan Never Sleeps (1962)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/kwrcwv3wu262::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2ODU0NjAzM15BMl5BanBnXkFtZTcwNDQxNzcyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shane (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/x7yvvpdgkb3r::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmZjM2RkZTAtMGIyMi00MTRlLTljY2ItOTRjOWQyODFiNjE3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Showdown (1963)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/u0t7qsf6hlmi::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2IwZWYwYTgtYzkzMS00ZjI5LThhNzEtOTFlZjM4YzEyOGFkXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sink the Bismarck! (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/ogrw3vmu99ex::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzRhNjRjODMtYTlkNS00ODA4LWI5M2MtMjNkZGI2YzZiYmE1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Stagecoach (1939)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/gx13l7itha8y.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGQ4NDUyNWQtZTEyOC00OTMzLWFhYjAtNDNmYmQ2MWQyMTRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX669_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Story of G.I. Joe (1945)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/y2yzzsdadxq0.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZWRmNzdhN2QtNjMyNS00Zjg5LWI3YmEtZTVlNzU2MDI4MTgxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tarantula (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qqpbcrptftlmftft/Tarantula_1955_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzk4ZWY4ZjgtNzRmMC00MWYyLTgxMzUtNGYwMmNlZTBjZjZhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tarzan and the Leopard Woman (1946)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/f9tarah0zh7t.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzViMjVlZGUtYjEyYi00YTUzLWJjOWYtZDU1ZWZjOTViY2M1XkEyXkFqcGdeQXVyMTI1NDQ4NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tarzan, the Ape Man (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/sfmrtmeooaptlocn/Tarzan_And_The_Leopard_Woman_1946-DVDRip_H264_AAC-DQ_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BOWNjOGRhYmQtODg5MC00MGE5LThlZTgtMGUxMjhlMjg5MWZmXkEyXkFqcGdeQXVyMzYyODU2NTU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tell Them Willie Boy Is Here (1969)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/w35luqy1g570.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTU3MWM3MjItZDIyYi00M2EyLWFiYzgtNDY5YjBiNTJhNjRjXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Texas Across the River (1966)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/3hhi9y1ll85i.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMzQyMDA3NV5BMl5BanBnXkFtZTcwNjEyOTUxMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Big Knife (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nakcfpmerkmnosdm/The_Big_Knife_1955_WS_BDRip_x264-RedBlade_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/OExlb3.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Brides of Dracula (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/2igz6a6uj3dg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGQxMTdjMmUtZjdkMy00YmExLTlkODMtMjQzMjU3ZjkyYjQ2XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,654,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Camp on Blood Island (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/dicm5hg6mv5f::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTRlMmNjOTUtMDVhNC00NDljLTkxOWYtYWUxNDYwZDRhODk2XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Cockleshell Heroes 1955[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nqbrrbmcccdqctbt/fico-cocklesshell_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/wrTQ.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Curse of the Werewolf (1961)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/e6bdsftvedc7::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTU5YTM3ZjktMWZkZC00MTY2LThkNjYtNWM3ZGI0MWUwZmNjXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_SY1000_CR0,0,642,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Day the Earth Stood Still (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/locersqkrlpbnecs/The_Day_the_Earth_Stood_Still_BluRay_1080p_x264_5_1_Judas_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjNkOWFmN2EtY2UwNy00N2QzLTkyMTgtYTA2NDdkNWIyMDIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Deadly Affair (1966)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/krssalrnscfebqdq/the_deadly_affair_1966_restored_bdrip_x264-spooks_mkv::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/KHZSyRB.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Decks Ran Red (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/5mroceja6q31::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDQxN2NlYTAtYzY5Yi00NTk0LWE4YTYtNzY4Yzg4MDhhMjk5XkEyXkFqcGdeQXVyNTI3NTM4MTA@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Dirty Dozen (1967)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/kmlradqccmqlslmf/The_Dirty_Dozen_mp4::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDI5M2IzZjgtNWJkYy00ODQwLThhNWYtNWY1MjViNWZhODdmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Doctor's Dilemma (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/c6gi8up8flyg.html::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGE1NTBiMWMtOWQyZi00N2MzLWI3ZGMtYjQ0ZmE1YmY4ZWQ2XkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Doughgirls (1944)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/zjbqj28wt0oo.html::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BNWUzNTgxMTgtZTkxOC00MDkwLWJkNDQtMTJmYjc1YjVkY2ZkXkEyXkFqcGdeQXVyMTI2OTM0NzQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Evil of Frankenstein (1964)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/wvllhyo2zwem::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjE1MTgwOWItODEzZS00MGEzLWJkZjEtNTQ0MWIwNGRhMGQ0XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY999_CR0,0,652,999_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Front Page (1931)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/koqlrefbbfdbbcfa/The_Front_Page_1931_REMASTERED_BDRip_x264-FRAGMENT_mkv_mp4::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST FIRST[COLORred]1080p RD Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/uMYc2Wd.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Ghost of St. Michael's (1941)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lecabnbeoqqamocf/The_Ghost_of_St_Michaels_1941_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0MzEwOTk4OV5BMl5BanBnXkFtZTcwNTA1MzEyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Glass Slipper (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/wzj9puy3astk::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjc2MTA0MDI1OV5BMl5BanBnXkFtZTgwMzE2MjkyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Gorgon (1964)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/h2p0lz9cfjdc::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmUyMjEzNGItNTZhOS00MmNhLWIyMDEtNDEwYTViMTQ2MTAwXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,653,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Green Slime (1968)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/i9sydndqvtdb.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2M3OGE1M2UtZDZkNC00ODU2LTlmYWItNDgwNTg4NGNmZmVmXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Hunters (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/bnqffisjkgpu.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDBiZDJjMzMtMGRlYy00NzRlLTk5ZDgtNDJjOGQzY2Q0ZmU3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX655_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Invisible Man (1933)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lbdcsnamtbeofpmr/the_invisible_man_1933_720p_bluray::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NzkyOTIzNl5BMl5BanBnXkFtZTcwNTI4MzI2OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Iron Curtain (1948)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dmaefaeormstdkmm/the_iron_curtain_1948_bdrip_x264_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTRjNWZkYTItZjU3OC00MDg0LTg5ZTItMGY1ZDA2ZmQ5ZjQyXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Iron Mistress (1952)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/qqzg5wsey7fl.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BM2JkNjg4YjYtZjA5Zi00MWNiLWEwYzYtZTQzN2RlMmEyMzEyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Kiss of the Vampire (1963)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/ldotaukebznk::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDQ2YTBiMTAtNzdiZS00ZDFkLThkNjUtNzViNGJhOGU3NWIyXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,659,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Lawless (1950)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/ayyf7c7ikzrq::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTc5NTk0M15BMl5BanBnXkFtZTgwOTY0Nzk1MDE@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]The Lemon Drop Kid (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/otrbfkpnsqsecaef/The_Lemon_Drop_Kid_1951_720p_BluRay_x264-SADPANDA_N1C_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BOWI0MDljNjAtMDc0MS00MDI0LWI5M2YtNjQ5Yjc5NTYyZWIxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Magnificent Seven (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/embed/bkcertetfoalnmqr/The_Magnificent_Seven_1960_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Man from the Alamo (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/59mxumvcf6y3::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzRmYjdkNWYtMTAxZi00NGY2LTliODgtMWE4ODhlNGQ0NzdhXkEyXkFqcGdeQXVyMTI1NDQ4NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Manster (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pcoptlspcrlnqneo/The_Manster_1959_iNTERNAL_BDRip_x264-LiBRARiANS_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/N5grJj4.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Moonlighter (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/h6js7rx2h13d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5MDAzMTM0M15BMl5BanBnXkFtZTcwNTU0MDAyMw@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Mudlark (1950)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/v9355edw0hjl.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BYzdkZTcyODEtMjU5Mi00MzI3LWJlMTAtZTIyODQ1MWE0NWFlXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SY1000_CR0,0,661,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Night of the Iguana (1964)[/COLOR]</title>
+<link>https://streamango.com/f/drcklcdpalbtfsaa/tt0058404</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTJiMDAyNzctMTBhYi00OTQ4LWEyNGMtYzI5M2MzNDA0YjgwXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Rack (1956)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/fyw7hugb57t2::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2ExMTBjNjktMWI1Yi00ZDI2LWI1ODktODdhM2U3MjdkM2Y4XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Runaway Bus (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/bcclknesmrmfbopq/The_RunawayBus_1953_540p_vhsrip_x264-BaTS_wmv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2ODM3NDI5Nl5BMl5BanBnXkFtZTgwNzkyMDkwMzE@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Sailor Takes a Wife (1945)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/qplxxb6e5y50.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BYTMwZGQwMDUtZTEwMy00ODhlLWJiYjItNzQwY2U0ZmQzN2NhXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Sea Chase (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/terbotopablsqmpt/the_sea_chase_1955_remastered_bdrip_x264-sprinter_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/qHJj9V6ZkD.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Story on Page One (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/febrafs4kffo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGM4OGYwNTUtOGU3Zi00ZDcyLWE5YzgtZDc0MjE3YjA4NzUxXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Strange Woman (1946)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/xqjjw8t9o6ke::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGNiZDJjZWYtNGNkNy00YWQzLTk3MWEtY2M2MWM5NmExOWE1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Thing from Another World (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lbapfmlnopekscco/The_Thing_From_Another_World_Horror_Sci-Fi_1951_James_Arness_Kenneth_Tobey_Margaret_Sheridan_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNjQzYTktN2RlMy00YTQ4LWE1YmYtMDEwY2U2ZDA0ZTlmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Time Machine (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nsspkrbkpqksasrc/The_Time_Machine_1960_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjE3YjE4MjktNDI3ZS00MjdlLTgxZjUtMWI1NjI3YjhiNWYxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Undefeated (1969)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/5tix5ti3adag::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDI3YWVjMWItN2M1NS00MzRiLTliODYtNjI2MGIwZjg5ODMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,656,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Them! (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ottlpndlprspfrfe/Them_1954_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZGFjZTM0ZjktMDIyZC00NTEwLTk4ZTEtOTg3MzgwMGQ3YWM5XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_SY1000_CR0,0,659,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]This Island Earth (1955)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/wfn95mjm4fva.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzY0MjM2OV5BMl5BanBnXkFtZTgwNzgyMjkyMjE@._V1._CR26.883331298828125,23.533340454101562,702,1093.5999908447266_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Those Redheads from Seattle (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/fbtcepkmkensrepp/Those_Redheads_from_Seattle_1953_BDRip_x264-VoMiT_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3NDIxNjgwN15BMl5BanBnXkFtZTgwMjE2Nzk1MDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Topper (1937)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/rm7h9a3t65o5::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTVjZmFhZDMtZTEyMi00YmJkLTljNzMtMjE0M2Y5OGE0YjgzXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Track of the Cat (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/ynobu9hxp4wm.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTgyMmVmM2UtMWVhZi00N2JjLWIyZjctYzc4MTE0YjhiMTMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Uranium Boom (1956)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/45fq4ihbiram::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMjAwMjkyMl5BMl5BanBnXkFtZTcwOTk1NDYyMQ@@._V1_UY268_CR79,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Vertigo (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/2oiglhdtr59q::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Warlock (1959)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/sqznwyjffy97::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMTYwNDk1OF5BMl5BanBnXkFtZTcwNjkwMjkyMQ@@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]When Worlds Collide (1951)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/acnatmknnmtnoeob/When_Worlds_Collide_1951_DvDrip_AC3_Eng_-aXXo_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDE2MGEwZDMtNGU3OC00NTA5LWJkMmQtMTg0ODlkM2Y0YTFhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Womans World (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/oqlprpkdfrnqaqsm/womans_world_1954_1080p_bluray_dd5_1_hevc_x265_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/2i95wv3Ya.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]You Gotta Stay Happy (1948)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/saabesknrlbqqccq/You_Gotta_Stay_Happy_1948_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzVjZGI3OGEtNDk5Mi00YzFhLWFmZWMtYjFiNmI1ODRlODQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>

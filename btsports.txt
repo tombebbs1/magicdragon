@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+<plugin>
+<name>[COLOR blue]Bt Sports 1[/COLOR]</name>
+<link>http://31.220.0.134:8081/live/jtvb1/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; en-US; ONEPLUS A5000 Build/ONEPLUS A5000_24_180103) MXPlayer/1.8.16</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>
+</item>
+
+<plugin>
+<title>[COLOR blue]Bt Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=9</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>
+
+<item>
+<plugin>
+<name>[COLOR blue]Bt Sports 2[/COLOR]</name>
+<link>http://31.220.0.134:8081/live/jtvb2/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; en-US; ONEPLUS A5000 Build/ONEPLUS A5000_24_180103) MXPlayer/1.8.16</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+</item>
+
+<plugin>
+<title>[COLOR blue]Bt Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=10</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>
+
+<item>
+<plugin>
+<name>[COLOR blue]Bt Sports 3[/COLOR]</name>
+<link>http://31.220.0.134:8081/live/jtvb3/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; en-US; ONEPLUS A5000 Build/ONEPLUS A5000_24_180103) MXPlayer/1.8.16</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>
+</item>
+
+<plugin>
+<title>[COLOR blue]Bt Sports 3[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=7</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>
+
+<plugin>
+<title>[COLOR blue]Bt Sports Espn[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=21</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>
+
+<plugin>
+<title>[COLOR blue]Bt Sports Espn[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://cricfree.cc/watch/site/update/btespn</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
+<summary></summary>
+</plugin>

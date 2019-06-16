@@ -1,0 +1,105 @@
+<item>
+<title>[B][COLORwhite]TOP 10 WAR FILMS[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]-1-[/COLOR][COLORwhite]Apocalypse Now (1979)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dnqsfaomaakpbloo/Apocalypse_Now_Redux_1979_720p_BRRip_x264-x0r_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg1MDgzMmQtNDhlYS00MzZiLTllZGItNzliZTE1ODBiZDQwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-2-[/COLOR][COLORwhite]Paths of Glory (1957)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/smpedaaktsnsbbac/Paths_of_Glory_1957_720p_Paths_of_Glory_1957_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-3-[/COLOR][COLORwhite]The Thin Red Line (1998)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/srclrmrmntrsqbkr/The_Thin_Red_Line_1998_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjEzMTM2NjAtNWFmZC00MTVlLTgyMmQtMGQyNTFjZDk5N2NmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-4-[/COLOR][COLORwhite]Ran (1985)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ampdoooaqofflfaf/Ran_1985_flv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-5-[/COLOR][COLORwhite]Come and See (1985)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ddnmnrltottltcoa/Come_and_See_War_Drama_1985_Aleksey_Kravchenko_Olga_Mironova_Liubomiras_Lauciavicius_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2E3NzNlZGYtMGNmMS00ZGUzLThiYWItYjk0MDQ4MmFlZmUzXkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-6-[/COLOR][COLORwhite]Three Kings (1999)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qqocntnptolnospo::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjQ5MzM1ZGItZDQyYi00ZDQ5LWJkMDQtYTIxZmIwNWQ5NmUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-7-[/COLOR][COLORwhite]The Deer Hunter (1978)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qcdqfctcadtrkpok/The_Deer_Hunter_1978_720p_BRRip_x264-YIFY_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjMxZWIyYzQtNjYzNy00NTk1LTg3ZDEtZDRmZmMxYmY4YmVjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-8-[/COLOR][COLORwhite]Where Eagles Dare (1968)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tfkdqcstckptfefq/Where_Eagles_Dare_1968_1080p_BluRay_x264_anoXmous_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGE3ZWZiNzktMDIyOC00ZmVhLThjZTktZjQ5NjI4NGVhMDBlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-9-[/COLOR][COLORwhite]Saving Private Ryan (1998)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/frmckqfkbrcfoaos/Saving_Private_Ryan_1998_720p_BluRay_x264_AAC_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-10-[/COLOR][COLORwhite]Platoon (1986)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/kpfqmdrsldbmrmkf/Platoon_1986_BRRip_aGaiusMariusproduction_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmJlOTE1ZTgtODdmNC00NmZhLThlZDYtNTllMmIyOTIwN2EwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

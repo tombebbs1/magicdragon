@@ -1,0 +1,888 @@
+<item>
+<title>[B][COLORwhite]YOU ARE IN TV BOX SETS[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]A Series of Unfortunate Events  Full Season 3[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/frwbqmuzxvm9/a_series_of_unfortunate_events_s03e01_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tvdfk0v10wag/a_series_of_unfortunate_events_s03e02_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5tvj8a48gsnm/a_series_of_unfortunate_events_s03e03_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/av7tzze5bspt/a_series_of_unfortunate_events_s03e04_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4a7oixn2r4qf/a_series_of_unfortunate_events_s03e05_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/habd5w04rsid/a_series_of_unfortunate_events_s03e06_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vf7clws2fr4q/a_series_of_unfortunate_events_s03e07_720p_nf_web-dl_x265-heteam::LISTNAME:[COLORwhite]07[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzMjA3OTgxOV5BMl5BanBnXkFtZTgwMjAwMDU5NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]After Life Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/70h7rs3tcsal/after_life_s01e01_web_x264-inflate::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/swap4bc6ncue/after_life_s01e02_web_x264-inflate::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zzc1a1uiohn8/after_life_s01e03_web_x264-inflate::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3rfr6pgmzxt3/after_life_s01e04_web_x264-inflate::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fya2idnugmak/after_life_s01e05_web_x264-inflate::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/x493b7nwdnf6/after_life_s01e06_web_x264-inflate::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM4MDExMjU3N15BMl5BanBnXkFtZTgwNzM2OTg0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]All or Nothing: Manchester City [/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/aoabfsefceolsfbq/S01E01_-_Great_Expectations_mkv::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/naokrrcqtqkarosm/S01E02_-_Noisy_Neighbours_mkv_mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/eqmloolcqbbecetq/S01E03_-_Winter_Is_Coming_mkv_mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/decsfbtmpoeqldoe/S01E04_-_War_of_Attrition_mkv_mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rtnoefapenssbamd/S01E05_-_Road_to_Wembley_mkv_mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pbdpssrkmsraakpd/S01E06_-_The_Beautiful_Game_mkv_mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/abfatcsbkpccrpep/S01E07_-_Welcome_to_Hell_mkv_mp4::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/erafmblcadppcdec/S01E08_-_Centurions_mkv_mp4::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTgwNjYyNzAyOF5BMl5BanBnXkFtZTgwNjAyMjAwNjM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]American Gods[COLORred] 4K RD Only[/COLOR][/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?cep7a366sh::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?25tuy7bu18::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5s0a3qgjrt::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f2pco9f9cx::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6gjk79mzpn::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9cj8kib5gt::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?m6khqcmekk::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3yuzg3cl4o::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>http://wildhunt.org/wp-content/uploads/2017/05/MV5BZjVjYzJjM2EtZWQ2MC00OGNkLTlmZGYtZDk3ZjZiZTE0NGI0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Blakes 7[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAPGcD5LGrp6WZOZyH1y3dkxi2eTxXi74/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AN66SAzu5EUWzJlXveI6nV-gkuQj_hMc7sV7ziBUfQ=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Bosch Season 4[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/sdpsmbddrqsorokp/Bosch_S04E01_Ask_the_Dust_mkv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/adeaprespqqmcnce/Bosch_S04E02_Dreams_of_Bunker_Hill_mkv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lfkfkqracbqcctqk/Bosch_S04E03_Devil_in_the_House_mkv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tfqdcpcsolfsbfaq/Bosch_S04E04_Past_Lives_mkv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/babcsaqsoptkaqca/Bosch_S04E05_The_Coping_mkv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/toopmbpfkbkdascb/Bosch_S04E06_The_Wine_of_Youth_mkv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qqfksrqorfbeaobs/Bosch_S04E07_Missed_Connections_mkv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qkannrdpptfldlrn/Bosch_S04E08_Dark_Sky_mkv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ormsmkmclerepsok/Bosch_S04E09_Rojo_Profundo_mkv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dmpcsnsnfbkbebfb/Bosch_S04E10_Book_of_the_Unclaimed_Dead_mkv::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjcyNzAxMDM2Nl5BMl5BanBnXkFtZTgwNTAxNDA4NDM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Butterflies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/butterflies.txt</externallink>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2009/06/23/article-0-05740F8F000005DC-22_468x286.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Chubby Brown Collection[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/chubbybrown.txt</externallink>
+<thumbnail>https://www.chortle.co.uk/images/photos/small/rcb_roy_chubby_brown.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Cobra Kai Season 2[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2bev3vdwuorj/cobra_kai_s02e01_mercy_2_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5spo3okcd8q6/cobra_kai_s02e02_back_in_black_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/msorm4i8wrk5/cobra_kai_s02e03_fire_and_ice_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1fhi4fvu2lh2/cobra_kai_s02e04_the_moment_of_truth_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2ukogot3i3pf/cobra_kai_s02e05_all_in_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/920dhqzfebd3/cobra_kai_s02e06_take_a_right_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d1yeju7gi7mi/cobra_kai_s02e07_lull_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6gu7991yiej9/cobra_kai_s02e08_glory_of_love_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/urwn3cf142j8/cobra_kai_s02e09_pulpo_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dreh99oe61dz/cobra_kai_s02e10_no_mercy_1080p_red_web-dl_aac5_1_vp9-ajp69::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://www.indiewire.com/wp-content/uploads/2018/05/cobra-kai-william-zabka.jpg?w=780</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Conversations with a Killer: The Ted Bundy Tapes[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/abspfndcofelctae/Conversations_With_A_Killer_The_Ted_Bundy_Tapes_S01E01_WEB_x264-RBB_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cesafaocbqbfcfof/Conversations_With_A_Killer_The_Ted_Bundy_Tapes_S01E02_WEB_x264-RBB_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nbmscokcofnqffnb/Conversations_With_A_Killer_The_Ted_Bundy_Tapes_S01E03_WEB_x264-RBB_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lermemkqomapkoka/Conversations_With_A_Killer_The_Ted_Bundy_Tapes_S01E04_WEB_x264-RBB_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::# 
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTI0NGQ3YTAtNmI1Yi00ODM4LWFhODAtMTU3MjM3ZTI4NGFkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Critters A New Binge Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tnmarcteoncmpoar/Critters_A_New_Binge_S01E01_No_Eating_1080p_AMZN_WEB-DL_DDP2_0_H_264-SiGMA_mkv_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/atfeatdbcctpsnar/Critters_A_New_Binge_S01E02_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bqftmacsplptcrfl/Critters_A_New_Binge_S01E03_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tkdbpbfrnmeblkkb/Critters_A_New_Binge_S01E04_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mecqeecldocmadel/Critters_A_New_Binge_S01E05_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/omknoaefkoblaalc/Critters_A_New_Binge_S01E06_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/peasncabekanfnec/Critters_A_New_Binge_S01E07_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/msmtbfcaprfmebkl/Critters_A_New_Binge_S01E08_WEB_H264-RBB_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzMxNDVlZmItZjM0NC00NjViLWExNjktMGY5NDQ1NTAyZDlmXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Escape at Dannemora Full Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamcherry.com/f/nmfsmkcnftberrkl/Escape_at_Dannemora_S01E01_720p_WEBRip_HEVC_x265_RMT_mkv::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/pqmqodrsppfkppro/Escape_At_Dannemora_S01E02_720p_x265_HEVC_mkv::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/mnsnckqsbdosqsma/Escape_At_Dannemora_S01E03_720p_x265_HEVC_mkv::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/tkqrtrdtceqtnlla/Escape_at_Dannemora_S01E04_720p_WEB-DL_2CH_x265_mkv::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/qfeebardsfplbldp/Escape_at_Dannemora_S01E05_720p_WEB-DL_2CH_x265_mkv::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/dttstmqtmkoktqqq/Escape_at_Dannemora_S01E06_720p_WEB-DL_2CH_x265_mkv::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/qmcdcrcdcdpdctec/Escape_at_Dannemora_S01E07_720p_WEB-DL_2CH_x265_mkv::LISTNAME:[COLORwhite]07[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTgxOTA3ODc1OF5BMl5BanBnXkFtZTgwMjI5OTQ1NjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item> 
+<title>[B][COLORwhite]Future Man Season 1[/COLOR][/B]</title> 
+<link>
+ n522mj5nxjt7.html::LISTNAME:[COLORwhite]E01[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/tstccldfdsktqlmf/_TorrentCounter_co_Future_Man_S01E01_1080p_x264_mp4::LISTNAME:[COLORgold]HD E01[/COLOR]::# 
+ 3aitk5jxbnzd.html::LISTNAME:[COLORwhite]E02[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/odbsqadlaleqbmnl/_TorrentCounter_co_Future_Man_S01E02_1080p_x264_mp4::LISTNAME:[COLORgold]HD E02[/COLOR]::# 
+ tg3cev3wlbwh.html::LISTNAME:[COLORwhite]E03[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/odbsqadlaleqbmnl/_TorrentCounter_co_Future_Man_S01E02_1080p_x264_mp4::LISTNAME:[COLORgold]HD E03[/COLOR]::#
+ wwt7010ooqwt.html::LISTNAME:[COLORwhite]E04[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/fqfqtmqbspekmopl/_TorrentCounter_co_Future_Man_S01E04_1080p_x264_mp4::LISTNAME:[COLORgold]HD E04[/COLOR]::#
+ x1ftrlrny6ja.html::LISTNAME:[COLORwhite]E05[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/rtssbsdalerborkd/_TorrentCounter_co_Future_Man_S01E05_1080p_x264_mp4::LISTNAME:[COLORgold]HD E05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ctlpceafltcbblem/Future_Man_S01E06_A_Blowjob_Before_Dying_1080p_Hulu_WEB-DL_AAC2_0_H_264-QOQ_mp4::LISTNAME:[COLORgold]HD E06[/COLOR]::# 
+ drc05i5eeel3.html::LISTNAME:[COLORwhite]E07[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/omttfdsdatkdpmsq/_TorrentCounter_co_Future_Man_S01E07_1080p_x264_mp4::LISTNAME:[COLORgold]HD E07[/COLOR]::#
+ y7cjowbop9ea.html::LISTNAME:[COLORwhite]E08[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/rmoqeolcknfapfps/_TorrentCounter_co_Future_Man_S01E08_1080p_x264_mp4::LISTNAME:[COLORgold]HD E08[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/rrftdkltcapfbknn/Future_Man_S01E09_Operation_Fatal_Attraction_WEB_x264-RBB_mp4::LISTNAME:[COLORwhite]E09[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/cdoaelolbqlkqmsf/Future_Man_S01E10_Operation_Natal_Attraction_WEB_x264-RBB_mp4::LISTNAME:[COLORwhite]E10[/COLOR]::# 
+ cyhougjw8zsw.html::LISTNAME:[COLORwhite]E11[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/pccpscnbbossmata/_TorrentCounter_co_Future_Man_S01E11_1080p_x264_mp4::LISTNAME:[COLORgold]HD E11[/COLOR]::# 
+ ktgmtkhwzw6n.html::LISTNAME:[COLORwhite]E12[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/erpllanaqqecsnqs/_TorrentCounter_co_Future_Man_S01E12_1080p_x264_mp4::LISTNAME:[COLORgold]HD E12[/COLOR]::# 
+ zbiq7ma4pgb2.html::LISTNAME:[COLORwhite]E13[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/ntqkrfdretrlqmac/_TorrentCounter_co_Future_Man_S01E13_1080p_x264_mp4::LISTNAME:[COLORgold]HD E13[/COLOR]::# 
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjUzNzQwNV5BMl5BanBnXkFtZTgwMDAwNDMwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item> 
+<title>[B][COLORwhite]Gunpowder Full Series HD[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qnatcmtpbostoebt/Gunpowder_S01E01_720p_HDTV_x264-FoV_mp4::LISTNAME:[COLORwhite]E01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aonmokldcledcsnn/Gunpowder_UK_S01E02_720p_WEB_mp4::LISTNAME:[COLORwhite]E02[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/oqspnorkrtbcrtqe/Gunpowder_UK_S01E03_720p_WEB_mp4::LISTNAME:[COLORwhite]E03[/COLOR]::# 
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyOWYzN2UtZGY5Ny00OTdiLWI0NGEtOTJmNzViZDc5MjFhXkEyXkFqcGdeQXVyNjI4NzQwMzM@._V1_SY1000_CR0,0,1545,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item> 
+<title>[B][COLORwhite]The Haunting of Hill House Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/esmpfetmooqblrna/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E01_720p_WEBRip_x264_452MB_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/eptnapsaenscodka/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E02_720p_WEBRip_x264_405MB_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ckqofltrcpkottcl/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E03_720p_WEBRip_x264_421MB_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/abktpfbfankcepcq/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E04_720p_WEBRip_x264_408MB_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rcrtreptmdmtrpda/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E05_720p_WEBRip_x264_531MB_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/etqkkopmcppqmpnn/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E06_720p_WEBRip_x264_474MB_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kqpntkkbmcfrsasa/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E07_720p_WEBRip_x264_476MB_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fstalobnbaekobdr/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E08_720p_WEBRip_x264_329MB_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mrooredqkprlrrqe/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E09_720p_WEBRip_x264_426MB_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kallqmaecsfaakol/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E10_720p_WEBRip_x264_507MB_MP4_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Homecoming (2018) Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/oppelclbsbfpaacm/Homecoming_S01E01_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rqkffclbmtmttfnf/Homecoming_S01E02_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/emlbqllbropsoopq/Homecoming_S01E03_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ttsfqkktrodqrmrm/Homecoming_S01E04_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bfaeapkffbploaqk/Homecoming_S01E05_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kkeetrermnsfpnsk/Homecoming_S01E06_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ddoaekrcmsqtmlna/Homecoming_S01E07_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/acbsqdtesckqmeff/Homecoming_S01E08_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tqnmnsktbodspdrk/Homecoming_S01E09_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/odcopcdlslspelee/Homecoming_S01E10_XviD-AFG_avi_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTZlZDM2YjAtYzdjNS00ZDQxLTgyZTQtYTY0ZDdlYWExMGMxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Land Of The Giants[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/landofgiants.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NjM3NDk0NF5BMl5BanBnXkFtZTgwMzU0MTkwMzE@._V1._CR0,1,293,373_UY268_CR14,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Making a Murderer (2018) Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/kntnkppocspnndcc/Making_A_Murderer_S01E01_720p_WEBRip_x264-spamTV_mkv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bnprlpdbspkloote/Making_a_Murderer_S01E02_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rkmncrpelplccksk/Making_a_Murderer_S01E03_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/odtpetsdsrpcbcbb/Making_a_Murderer_S01E04_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/etnekbtsbltnmtpc/Making_a_Murderer_S01E05_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/okqqcoasfqnskqrb/Making_a_Murderer_S01E06_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cfepelbddlcmcoft/Making_a_Murderer_S01E07_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qmocmkddmpndrssr/Making_a_Murderer_S01E08_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fpsqknrpdpabeobt/Making_a_Murderer_S01E09_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/sffkboosmepodoco/Making_a_Murderer_S01E10_720p_WEBRip_X264-DEFLATE_mkv::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Making a Murderer (2018) Season 2[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mlskdnrsbpbelamd/making_a_murderer_s02e01_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bqpctecseffflbpp/making_a_murderer_s02e02_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aeosppbeseomefmq/making_a_murderer_s02e03_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/smftspdkqcdrolck/making_a_murderer_s02e04_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/roepcekcpnpddlrq/making_a_murderer_s02e05_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fdmccclptdltnpse/making_a_murderer_s02e06_web_x264-strife_eztv_mkv_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mkfdfdooopnbmeak/Making_a_Murderer_S02E07_WEB_x264-STRiFE_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nfdfeaftllbnccqn/making_a_murderer_s02e08_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bkncmlmptcstcaad/making_a_murderer_s02e09_web_x264-strife_eztv_mkv_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/adrfldrstndbflkc/making_a_murderer_s02e10_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Manhunt Unabomber[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/manhunt.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Daredevil Season 3[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rdfcdtmnkqfsmspl/marvels_daredevil_s03e01_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rebkfcmlccqcamcn/marvels_daredevil_s03e02_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oocmdcesoloqcrpb/marvels_daredevil_s03e03_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qnkdlkeqdnfqosoo/marvels_daredevil_s03e04_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/klnlstosffdqfdaa/marvels_daredevil_s03e05_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tslcecdtescbcrbo/marvels_daredevil_s03e06_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rsceedsrtapclesn/marvels_daredevil_s03e07_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qcqkqmealepenood/marvels_daredevil_s03e08_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/csqefkenepdkmmkn/marvels_daredevil_s03e09_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ktktakedopbopfdq/marvels_daredevil_s03e10_1080p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+sublink:LISTSOURCE:https://streamango.com/f/flaotladcsnaadom/marvels_daredevil_s03e11_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 11[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/spbteoasaecoqrnt/marvels_daredevil_s03e12_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 12[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/tfadrdosambkcarp/marvels_daredevil_s03e13_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 13[/COLOR]::# 
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Murder Mountain Full Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pqaekltspbbsbtno/murder_mountain_s01e01_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dntmpekkcblddakk/murder_mountain_s01e02_720p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rffacntpprlcaosk/murder_mountain_s01e03_1080p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/efbbpofqardtocba/murder_mountain_s01e04_1080p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lqroopmcermkecnp/murder_mountain_s01e05_1080p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/sbsrrrrrponordln/murder_mountain_s01e06_1080p_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGE5OTMxMjYtNDNjZi00Y2IwLWI5YTYtOTA1NmM5ZmEwYjJhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Marvels Iron Fist (2018) Season 2[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/khqu9yc1byaf.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5x9vo3n1meow.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rieksriuen9x.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/j13pevkjyq36.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/01laj1ac1604.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/v0st6i7bvm95.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pkcu1dgetr1t.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2s7x1imurwnn.html::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/443hhmihlj8o.html::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/c9ymsoie6md8.html::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLORwhite]Marvels The Defenders Full Season 1[COLORred] HD[/COLOR][/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/j1gukj3aw3qu::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n35bt1k9w62i::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/k1zyi4m7kx65::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/y2fm22nay793::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/brj1w333jl0p::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/bmtkfavb5gps::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3nmcvxw41oy8::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2b1v8nzs2nag::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWU4NmY3MTMtMTBmMi00NjFjLTkwMmItYWZhZWUwNDg5M2ExXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Marvels Iron Fist 4K[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/marvelsironfist4k.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+
+<item> 
+<title>[B][COLORwhite]Marvels The Punisher Season 2[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/doetpsopmslfsnbf/Marvels_The_Punisher_S02E01_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nseronkcmkobdmos/Marvels_The_Punisher_S02E02_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fcnqtconeaefartk/Marvels_The_Punisher_S02E03_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qqqmrknsrtkamops/Marvels_The_Punisher_S02E04_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ercfktlaelomkppd/Marvels_The_Punisher_S02E05_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nlppqlbmldcsonda/Marvels_The_Punisher_S02E06_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bkakoomrfnnptbsd/Marvels_The_Punisher_S02E07_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rrarcdcktmpqntnn/Marvels_The_Punisher_S02E08_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lascdekclrtobeks/Marvels_The_Punisher_S02E09_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kdlaponbdtobntto/Marvels_The_Punisher_S02E10_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+sublink:LISTSOURCE:https://streamango.com/f/bloersomkrssspnp/Marvels_The_Punisher_S02E11_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 11[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/kplcmnrfbdrepefe/Marvels_The_Punisher_S02E12_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 12[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/fclkclebreqttqtm/Marvels_The_Punisher_S02E13_WEB_x264-STRiFE_mkv_mp4::LISTNAME:[COLORwhite]Ep 13[/COLOR]::# 
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Mindhunter[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/mindhunter.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNkZmNmZjMtZWI5OC00MzdiLTgxMjAtZWY2ZTIwMWM2Yzc2XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Mr Bean[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLe9kjFJ6bWHhZyRXzwK3XPBqXPSuJSyUp/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AN66SAz22G4pERLmwQoB8ZsyeA7IkF0W_Q1twwChOg=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Only Fools And Horses[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/main.txt</externallink>
+<thumbnail>https://st.onlinefree.me/images/2017-04/only-fools-and-horses-season-8-cover.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Orange Is the New Black  Full Season 6[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/elodeblfqmefaben/orange_is_the_new_black_s06e01_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tfmorndctancsbma/orange_is_the_new_black_s06e02_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bsdolcqsmeknendm/orange_is_the_new_black_s06e03_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qnkllnfpesrfoekq/orange_is_the_new_black_s06e04_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/eadotddtekkktflp/orange_is_the_new_black_s06e05_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/abrrqtkaatoctapb/orange_is_the_new_black_s06e06_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dnqfsoemotssnkqp/orange_is_the_new_black_s06e07_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/errfaenkrasntmdp/orange_is_the_new_black_s06e08_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bmoamnsetdrfmepf/orange_is_the_new_black_s06e09_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rqrtaflrpsttlqrb/orange_is_the_new_black_s06e10_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/olfnmsecdqndrfat/orange_is_the_new_black_s06e11_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 11[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mrmtbkacapnctcqq/orange_is_the_new_black_s06e12_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 12[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/alslaotflefbssel/orange_is_the_new_black_s06e13_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]Ep 13[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA3MTE5ODM3M15BMl5BanBnXkFtZTgwNTIyMjQ5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Ozark Season 2[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8xvu1wjlgc49.html::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9qvkvmernusg.html::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d2np4ix7fwe8.html::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/diavrkcy6jak.html::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/iqhyhr8ilyka.html::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fqipkne36g47.html::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/urp2tzgu74f9.html::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ra67hz16mrt9.html::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7nvuketikxbm.html::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tnus1bf7x093.html::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODIyNzk5NDg5M15BMl5BanBnXkFtZTgwMTE5NjA5MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Planet Earth II 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/planetearthii.txt</externallink>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2016/11/16/06/3A5CA99900000578-3940762-Planet_Earth_II_may_be_the_most_watched_TV_programme_on_British_-a-33_1479277295953.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item> 
+<title>[COLORwhite]Safe Season 1[/COLOR]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mckcdpbstonoqnde/Safe_S01E01_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ssadbrbpcsoeffef/Safe_S01E02_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qqrpnctpmdcaqfbp/Safe_S01E03_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/esabltpmnkcqmclp/Safe_S01E04_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tmntqlrpkoebptee/Safe_S01E05_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/okenkqabmldcandm/Safe_S01E06_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/caclefqfnbrorlmk/Safe_S01E07_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/amrcqfronblbekrt/Safe_S01E08_720p_WEBRip_2CH_x265_HEVC-PSA_mkv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#  
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMTY0MjMyODAyNV5BMl5BanBnXkFtZTgwNTcyMzc5NDM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Santa Clarita Diet Season 3[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5cerz4c72jrb/santa_clarita_diet_s03e01-wuffenloaf::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q7p500rezpyh/santa_clarita_diet_s03e02-knighttime::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/urvefwtddtuc/santa_clarita_diet_s03e03-we_let_people_die_every_day::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gixg284ultz5/santa_clarita_diet_s03e04-more_of_a_cat_person::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xuploko00q30/santa_clarita_diet_s03e05-belle_and_sebastian_protect_the_head::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9zrgd4mbaizu/santa_clarita_diet_s03e06-the_chicken_and_the_pear::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/a29r7ozqpjle/santa_clarita_diet_s03e07-a_specific_form_of_recklessness::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8wkqfu10mz09/santa_clarita_diet_s03e08-forever%21::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5dtehf9m6bom/santa_clarita_diet_s03e09-zombody::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0ed2qe3nofax/santa_clarita_diet_s03e10-the_cult_of_sheila::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTIwMDkzNTMwMF5BMl5BanBnXkFtZTgwNDA4MjI2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Save Me Full Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ooenoamlfenaotft/save_me_s01e01_720p_hdtv_x264-cherzo_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/sqpobordoabtcnpp/save_me_s01e02_720p_hdtv_x264-cherzo_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dlsqobrftbtofcsd/save_me_s01e03_720p_hdtv_x264-cherzo_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bekmdbopppbrkorq/save_me_s01e04_720p_hdtv_x264-cherzo_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aqkdklsqsmtkltob/save_me_s01e05_720p_hdtv_x264-cherzo_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tkkarqlmoaespoef/save_me_s01e06_720p_hdtv_x264-cherzo_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2OWYyODktNjU1Zi00OGRmLTlmOTktZWY1YmNiMjAzNzg5XkEyXkFqcGdeQXVyMTI0NjI5OTI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Star Trek TNG[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/startrektng.txt</externallink>
+<thumbnail>http://jonvilma.com/images/star-trek-the-next-generation-11.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Stranger Things Season 1[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/strangerthings.txt</externallink>
+<thumbnail>http://seryjni.blog.polityka.pl/wp-content/uploads/2016/07/strangerthingsposter-1.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Sunderland Til I Die 2018 [/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nllakrlpnfdmlqdb/_S1_Ep1_Sunderland_Til_I_Die_-_Blinded_By_The_Light_mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cclptekeslaelocd/_S1_Ep2_Sunderland_Til_I_Die_-_We_Can_t_Walk_Away_mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bosnlekofqentnrm/_S1_Ep3_Sunderland_Til_I_Die_-_Plastic_Shoes_mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/labkeakpeaqtkbmt/_S1_Ep4_Sunderland_Til_I_Die_-_Rocking_and_Rolling_mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cktfkanrpqqacfmp/_S1_Ep5_Sunderland_Til_I_Die_-_Sticking_Plasters_mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kssnodbkbobktlek/_S1_Ep6_Sunderland_Til_I_Die_-_No_Guarantees_mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qmfqmqtkmttcnaca/_S1_Ep7_Sunderland_Til_I_Die_-_Changing_the_Landscape_mp4::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oftpmotltpsmdokc/_S1_Ep8_Sunderland_Til_I_Die_-_A_Fresh_Start_mp4::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://occ-0-299-300.1.nflxso.net/art/8246c/9070118b446a5a0fd7fb054d3f235725a8f8246c.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]Taken  2002 [/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dfmmltppenclmbep/Vision_Behind_Steven_Spielberg_s_Taken_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]Spielbergs Vision Behind Taken[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/etftocbbqrmfrtsr/01_Beyond_The_Sky_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oskmbodakecklraf/02_Jacob_And_Jesse_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mkdeekskdtnlqsoq/03_High_Hopes_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/moqoakokqsplmdrl/04_Acid_Tests_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nltmebskandleaan/05_Maintenance_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qmqkrlpckndkatna/06_Charlie_And_Lisa_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mabattpdebsmfrll/07_God_s_Equation_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cfpoabkpeflftrpk/08_Dropping_The_Dishes_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rtneomofskfppboc/09_John_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tmpobecnkaqeaeqa/10_Taken_-_Miniseries_2002_Eng_Subs_H264-mp4_mp4::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTI0NTI0NjAxMV5BMl5BanBnXkFtZTYwOTM3MTg5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Tarzan and Jane [/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/tarzanandjane.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjFkY2RmZWItNDc3OS00MjM4LWJiNzYtYzM0ODEyMDZjZGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzEwOTk4NzQ@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]The Captains Close Up S01[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/bqlplmlnbrtffpal/The_Captains_Close_Up_S01E01_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/popbnrtdsqqsbrmp/The_Captains_Close_Up_S01E02_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kalpqncftpmetbpl/The_Captains_Close_Up_S01E03_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/raoerefqctfnoaft/The_Captains_Close_Up_S01E04_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nqobfltmnnmqcnlr/The_Captains_Close_Up_S01E05_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/VEWjo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Disappearance of Madeleine McCann Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/uwrt59g8b0kr/the_disappearance_of_madeleine_mccann_s01e01_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cw36j875fckq/the_disappearance_of_madeleine_mccann_s01e02_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nclajr49svvt/the_disappearance_of_madeleine_mccann_s01e03_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nh47nvo1h31a/the_disappearance_of_madeleine_mccann_s01e04_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hhy2fur3qw30/the_disappearance_of_madeleine_mccann_s01e05_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zcda631ut9u0/the_disappearance_of_madeleine_mccann_s01e06_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8ocmr9mchiq2/the_disappearance_of_madeleine_mccann_s01e07_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6e3hbas4dz7e/the_disappearance_of_madeleine_mccann_s01e08_720p_web_x264-amrap::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2E2ODAxODYtN2U2MC00YzE0LTllNDctNWQ1ZjMxODdiNzBiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item> 
+<title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?8kk8p7l5bmc6c0m2zxqp::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0dz3l5szzxgpt724fl7d::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yf466e2nlcrtsunmbon9::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2sgcyucgupx1r6kpocw6::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s26ejnapy3xpxhnawh5y::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hgf5bwzbnaogjxayb96z::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cbyz8xp6j2v0ogl5hte3::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?x7a7kfc3guyw6wl8m1n5::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?r44p25435gvjvybbmicd::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kkipgtu9c9171t75ge8j::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Haunting of Hill House Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/esmpfetmooqblrna/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E01_720p_WEBRip_x264_452MB_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/eptnapsaenscodka/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E02_720p_WEBRip_x264_405MB_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ckqofltrcpkottcl/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E03_720p_WEBRip_x264_421MB_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/abktpfbfankcepcq/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E04_720p_WEBRip_x264_408MB_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rcrtreptmdmtrpda/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E05_720p_WEBRip_x264_531MB_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/etqkkopmcppqmpnn/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E06_720p_WEBRip_x264_474MB_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kqpntkkbmcfrsasa/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E07_720p_WEBRip_x264_476MB_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fstalobnbaekobdr/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E08_720p_WEBRip_x264_329MB_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mrooredqkprlrrqe/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E09_720p_WEBRip_x264_426MB_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kallqmaecsfaakol/_TorrentCouch_net_The_Haunting_of_Hill_House_S01E10_720p_WEBRip_x264_507MB_MP4_mp4::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]The Jinx: The Life and Deaths of Robert Durst Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7pl2plq42h2p.html::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p5sjpwe22ybn.html::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zfb1vzq01y5k.html::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/thn7so16qwhp.htmlSW::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yj1epkekfoxo.html::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hxilpcou275j.html::LISTNAME:[COLORwhite]06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI0OTc3MzY5Ml5BMl5BanBnXkFtZTgwNjk3MDUyNDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Man in the High Castle Season 3[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/opbbpcsdraaflprd/The_Man_in_the_High_Castle_-_S03E01_-_Now_More_Than_Ever_We_Care_About_You_mkv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fmdlraedslmbrpmt/The_Man_in_the_High_Castle_-_S03E02_-_Imagine_Manchuria_mkv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ddatokafofcdfmor/The_Man_in_the_High_Castle_-_S03E03_-_Senso_Koi_mkv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mpeocofcnrkfptcn/The_Man_in_the_High_Castle_-_S03E04_-_Sabra_mkv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qtpaoobfrktrpobt/The_Man_in_the_High_Castle_-_S03E05_-_The_New_Colossus_mkv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dmlmarpnnmbepqdm/The_Man_in_the_High_Castle_-_S03E06_-_History_Ends_mkv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qbkdcddfbftkcano/The_Man_in_the_High_Castle_-_S03E07_-_Excess_Animus_mkv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/alsmrkoqqttcrbto/The_Man_in_the_High_Castle_-_S03E08_-_Kasumi_Through_the_Mists_mkv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tpqrmoplcsnpekkt/The_Man_in_the_High_Castle_-_S03E09_-_Baku_mkv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mmpsbkrstkeldbld/The_Man_in_the_High_Castle_-_S03E10_-_Jahr_Null_mkv::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzkwNzU0MTYwNV5BMl5BanBnXkFtZTgwMzU4NzAzNjM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Murder Castle Full[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nrmddnlbspcpfkta/the_murder_castle_part_1_a_place_to_stay_hdtv_x264-w4f_mkv_mp4::LISTNAME:[COLORwhite]E01[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/spdqtqrqomqdodak/The_Murder_Castle_Part_02_Down_the_Cellar_ID_WEB_h_264-SHRPY_mp4::LISTNAME:[COLORwhite]E02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nblafqtpmlltoffn/The_Murder_Castle_Part_03_Fight_or_Flight_ID_WEB_h_264_mp4_mp4::LISTNAME:[COLORwhite]E03[/COLOR]::# 
+</link>
+<thumbnail>http://theghosthuntuk.com/wp-content/uploads/2016/09/murder-castle3-1024x818.jpeg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Order Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ul16vghtoy5x/the_order_s01e01_hell_week_2c_part_one::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hbzttw2cwf2i/the_order_s01e02_hell_week_2c_part_two::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kuimcw9i00me/the_order_s01e03_introduction_to_ethics_2c_part_one::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0k9mjwf2gqa7/the_order_s01e04_introduction_to_ethics_2c_part_two::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tsp3mj7jfwzh/the_order_s01e05_homecoming_2c_part_one::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yyhjaxtsfd9q/the_order_s01e06_homecoming_2c_part_two::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/c0fmk5urmo8f/the_order_s01e07_undeclared_2c_part_one::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nwv44aludkc8/the_order_s01e08_undeclared_2c_part_two::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dc9lthirqwi7/the_order_s01e09_finals_2c_part_one::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/l1e6vf5of819/the_order_s01e10_finals_2c_part_two::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzdlOWM4OWMtNTVjMC00MTk5LWEwODEtMmQ0ZWZkZjJjNzIxXkEyXkFqcGdeQXVyOTc3ODM5NTQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item> 
+<title>[B][COLORwhite]The Punisher Season 1 HD[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/orllqdctbqpsnbra/_TorrentCounter_co_Marvels_The_Punisher_S01E01_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E01[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/nseobkmcmslbsnst/_TorrentCounter_co_Marvels_The_Punisher_S01E02_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E02[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/apraaefttkefaadr/_TorrentCounter_co_Marvels_The_Punisher_S01E03_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E03[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/mfdnmqtdnbpddffc/_TorrentCounter_co_Marvels_The_Punisher_S01E04_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E04[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/brbqdnameenqpmkn/_TorrentCounter_co_Marvels_The_Punisher_S01E05_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E05[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/qakolelrlmlrknfm/_TorrentCounter_co_Marvels_The_Punisher_S01E06_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rnabdocdffaatkot/_TorrentCounter_co_Marvels_The_Punisher_S01E07_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E07[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/qpdqcfdmsacmlkbt/_TorrentCounter_co_Marvels_The_Punisher_S01E08_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pferlaednaomsnod/_TorrentCounter_co_Marvels_The_Punisher_S01E09_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E09[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/tfbfoekpektkrsem/_TorrentCounter_co_Marvels_The_Punisher_S01E10_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E10[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/sqclmftbcsnqtaen/_TorrentCounter_co_Marvels_The_Punisher_S01E11_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E11[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/afoamqlaopesfenf/_TorrentCounter_co_Marvels_The_Punisher_S01E12_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E12[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/rkllrnpeeslkfnte/_TorrentCounter_co_Marvels_The_Punisher_S01E13_720p_HD_x264_mkv_mp4::LISTNAME:[COLORwhite]E13[/COLOR]::#  
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MjAzNjYwM15BMl5BanBnXkFtZTgwMTI5NzE1MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Umbrella Academy Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0myxq0kujt02/the_umbrella_academy_s01e01_xvid-afg::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3fg7r5rwqb7u/the_umbrella_academy_s01e02_xvid-afg::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9yyzbx1tvzyi/the_umbrella_academy_s01e03_xvid-afg::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hwgb7mpifxs6/the_umbrella_academy_s01e04_xvid-afg::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/lyunoajc4gxo/the_umbrella_academy_s01e05_xvid-afg::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h0q3dalx4t2b/the_umbrella_academy_s01e06_xvid-afg::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3umqrbg9lpsd/the_umbrella_academy_s01e07_xvid-afg::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gbrktewcxnoz/the_umbrella_academy_s01e08_xvid-afg::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/akjm4qls2eym/the_umbrella_academy_s01e09_xvid-afg::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpdfu6zo92hb/the_umbrella_academy_s01e10_xvid-afg::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTFhOTk1NTgtYWM1ZS00NWI1LTgzYzAtYmE5MjZiMDE0NzlhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Tin Star Season 2[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rtstekmekrfcdpcs/So2_Ep1_mp4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rntdmcdskrnkoldm/so2_Ep2_mp4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/onmcootoklfmptqp/so2_Ep3_mp4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rcralsceanbmneqs/so2Ep4_mp4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kcbbpbkdrllmnpol/so2Ep5_mp4::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rkbfbsqcptsocnct/so2Ep6_mp4::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bffpqfladacpcmtq/so2Ep7_mp4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dmrkkffdsrsndkpd/so2Ep8_mp4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rbltfnakttspsson/so2Ep9_mp4::LISTNAME:[COLORwhite]Ep 09[/COLOR]::# 
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTE0M2E5YmEtYWY0NS00NzEwLTgzNWItYzBkMzE1ZDY0YWY5XkEyXkFqcGdeQXVyNjI4OTg2Njg@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Tom Clancy's Jack Ryan[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qdmqlqlnoesqearo/tom_clancys_jack_ryan_s01e01_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/afktrslsktnrmpmq/tom_clancys_jack_ryan_s01e02_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mfsnqapdtecnpkka/tom_clancys_jack_ryan_s01e03_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mfraaosnoaptanbl/tom_clancys_jack_ryan_s01e04_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tfsqfqqmpmkemrqc/tom_clancys_jack_ryan_s01e05_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ocnkoprafsqrcmop/tom_clancys_jack_ryan_s01e06_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kfkkmcmlrqqeftfs/tom_clancys_jack_ryan_s01e07_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mdnmpmkffqesffnl/tom_clancys_jack_ryan_s01e08_720p_web_h264-memento_mkv_mp4::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIzMDcyMDcxOV5BMl5BanBnXkFtZTgwMTg1NDk2NTM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+item>
+<title>[B][COLORwhite]Top Of The Lake Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:http://watchvideo.us/9r1gksi4uiw3.html::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/63ul2qk1q6fc.html::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/i5fkh6k35ac3.html::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/ymmokbooxi9k.html::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/muij6227urv7.html::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/ekswztjlyse1.html::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/7m9f07qdvcal.html::LISTNAME:[COLORwhite]07[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/2738429_Top_of_the_Lake_2012.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]The Mist[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/themist.txt</externallink>
+<thumbnail>http://images6.fanpop.com/image/photos/39800000/The-Mist-the-mist-tv-series-39830866-656-372.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Trailer Park Boys: The Animated Series Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/q7e9d3ooa44t/trailer_park_boys_the_animated_series_s01e01_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/lpx9zcgrepr7/trailer_park_boys_the_animated_series_s01e02_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vpsdpgmnirzx/trailer_park_boys_the_animated_series_s01e03_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kq31a08mp5ik/trailer_park_boys_the_animated_series_s01e04_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/62v8w9luaegj/trailer_park_boys_the_animated_series_s01e05_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qirds04v2gyp/trailer_park_boys_the_animated_series_s01e06_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dhxuixweoxfp/trailer_park_boys_the_animated_series_s01e07_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jt2emwisgm3d/trailer_park_boys_the_animated_series_s01e08_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jlp0fm2l21wj/trailer_park_boys_the_animated_series_s01e09_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rwo502gvna6s/trailer_park_boys_the_animated_series_s01e10_720p_web_x264-galaxytv::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2M1NjcwZmMtODZmZS00Y2JhLWFlM2YtZmUyY2UyNTY3MTg3XkEyXkFqcGdeQXVyMTkwNDUxOQ@@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Turn Up Charlie Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0zvc9x1mgos8/turn_up_charlie_s01e01_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jig7r6o68k4r/turn_up_charlie_s01e02_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hyzcig6slosh/turn_up_charlie_s01e03_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/b05dxkx7d458/turn_up_charlie_s01e04_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n400isd068zs/turn_up_charlie_s01e05_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ctjpflcdwhpk/turn_up_charlie_s01e06_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/l8qlr8twcy9q/turn_up_charlie_s01e07_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cfid9und8ufz/turn_up_charlie_s01e08_720p_webrip_x264-strife::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGFiYmI3ODgtMWU3NC00MzM2LTk2ZjgtMGI0MjFjMjk1MmJjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]V[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/vtvseries.txt</externallink>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYxNTQ5NTg2Ml5BMl5BanBnXkFtZTcwODUyNTY5Mg@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Westworld[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/westworld.txt</externallink>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNThjM2Y3MDUtYTIyNC00ZDliLWJlMmItNWY1N2E5NjhmMGM4XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+

@@ -1,0 +1,105 @@
+<item>
+<title>[B][COLORgold]TOp 10 SCI FI EVER MADE[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://archive.org/download/movies_201706/movies.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://archive.org/download/movies_201706/movies.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]-1-[/COLOR][COLORwhite]2001: A Space Odyssey (1968)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/plnvi2dfj01g::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-2-[/COLOR][COLORwhite]Blade Runner (1982)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lktoqkppfbcdlpbp/Blade_Runner_1982_720p_BRRip_X264_AC3-PLAYNOW_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-3-[/COLOR][COLORwhite]Alien (1979)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ddknbdmaadlqsrmq/Alien_Director_s_Cut_1979_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-4-[/COLOR][COLORwhite]Close Encounters of the Third Kind (1977)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/8v8hmqq660ja::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-5-[/COLOR][COLORwhite]Aliens (1986)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/seeakcomcerbdqel/Aliens_Special_Edition_1986_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzVlMWViZGEtYjEyYy00YWZmLThmZGEtYmM4MDZlN2Q5MmRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-6-[/COLOR][COLORwhite]Star Wars: Episode IV - A New Hope (1977)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rptctpaplbrdssmd/Star_Wars_Episode_4_A_New_Hope_1977_1080p_BrRip_x264_BOKUTOX_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-7-[/COLOR][COLORwhite]Brazil (1985)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mlafktnefbnaqsol/Brazil_1985_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDM0YTM3Y2UtNzY5MC00OTc4LThhZTYtMmM0ZGZjMmU1ZjdmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-8-[/COLOR][COLORwhite]Metropolis (1927)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ckqtpfmeffmbctft/Metropolis_1927_DVDRip_XviD_avi_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOWI3ZWY3N2MtNjAzOS00ZjE3LTg3N2EtMDRkNjI1NWMyZDVmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-9-[/COLOR][COLORwhite]The Terminator (1984)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/sm1osli9zzku::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-10-[/COLOR][COLORwhite]Star Wars: Episode V - The Empire Strikes Back (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/edosesotecncfnrc/Star_Wars_Episode_V_The_Empire_Strikes_Back_1980_720p_BluRay_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmViY2M2MTYtY2MzOS00YjQ1LWIzYmEtOTBiNjhlMGM0NjZjXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

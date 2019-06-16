@@ -1,0 +1,28 @@
+<item>
+<title>[COLORblue][B]SERVICES--CLICK HERE TO PAIR[/B][/COLOR]</title>
+<link>plugin://script.maverick.pairwith/</link>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2017/05/How-to-Install-Openload-Movies-Add-on-Kodi-17.1-Krypton-22.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORblue][B]This Will Install Mavericks Pair With[/B][/COLOR]</title>
+<link>plugin://script.maverick.pairwith/</link>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2017/05/How-to-Install-Openload-Movies-Add-on-Kodi-17.1-Krypton-22.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgreen]Be Aware You Must Have[/COLOR]</title>
+<link>plugin://script.maverick.pairwith/</link>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2017/05/How-to-Install-Openload-Movies-Add-on-Kodi-17.1-Krypton-22.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORgreen]Maverick Repo Installed[/COLOR]</title>
+<link>plugin://script.maverick.pairwith/</link>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2017/05/How-to-Install-Openload-Movies-Add-on-Kodi-17.1-Krypton-22.jpg</thumbnail>
+<fanart></fanart>
+</item>

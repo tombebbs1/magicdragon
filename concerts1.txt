@@ -1,0 +1,2739 @@
+<item>
+<title>[COLOR blue]3 Doors Down[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/69909/bw_664kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]AC/DC[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-09/72775/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Aerosmith[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_xmzskkll/1611/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Adele[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-10/73886/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Against Me[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ms5sqyqw/1251/bw_664kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Air Supply[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_fvm6h7wi/991/bw_664kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Alan Jackson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-10/73871/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Alanis Morissette[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_uygqctio/346/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Alice In Chains - MTV Unplugged[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_i7dhoxl4/193/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Alice Cooper[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_n21go7rf/236/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Alicia Keys[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_at244faf/814/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Alison Kraus[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_iypr8cfx/1123/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]All That Remains - Live[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_x525bi1o/1594/bw_664kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Allman Brothers[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/53364/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Anthrax[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_6ys903ci/676/qello6/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]America[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9j648uoh/761/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Amy Winehouse[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-10/73948/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Anastacia[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-08/66099/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520747757~acl=/i/qello/video/2016-08/66099/*~hmac=a5495fe4df86a254d9d6b663453d676221e18b8fa4265c24f7fa366963294c52</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Annie Lennox[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-10/52878/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520749287~acl=/i/qello/video/2015-10/52878/*~hmac=1a3ac9bdbee9f319ffb9c7d1d960cfda82e5cd34c2de3a5d9f7994a55b96b487</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Anthrax/Slayer/Megadeth/Metallica(The Big Four)[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_xxzkidja/1622/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520749372~acl=/i/qello/video/1_xxzkidja/1622/*~hmac=82ff8b943cb7edb6a5ebeade7629639887813daaa20dabd4f7c9897cb34f478c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Audioslave[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-06/63168/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520685696~acl=/i/qello/video/2016-06/63168/*~hmac=22a5daf876fcd8fa8a9c2f2e711f1b4d995feee4667c4501687a6793391bcf64</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Asking Alexandria[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ptpgm8eo/1365/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520749588~acl=/i/qello/video/1_ptpgm8eo/1365/*~hmac=8b1f9f3670a428d75e8a1525643cd7baf3bb65f80a5c83330d5d39365c4eb90a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Avenged Sevenfold[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_kuq0ffov/1197/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704417~acl=/i/qello/video/1_kuq0ffov/1197/*~hmac=cb9736ff8f393cf29eed397af30eca750fe4d3b9015c1777146686917110601c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Avril Lavigne[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_h6gpz642/1059/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520749725~acl=/i/qello/video/1_h6gpz642/1059/*~hmac=25ca6cfa23aa436fdde1ddc21b7f1d8eb392df4678965de7576235934afd7cc6</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]B52's[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_st7p52rc/1467/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520751156~acl=/i/qello/video/1_st7p52rc/1467/*~hmac=df61ea06c15360d5a1801a26bf95a89a6f4ba9b2643100dc1cb54cc541a92f8c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Babyface[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-10/52871/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520751315~acl=/i/qello/video/2015-10/52871/*~hmac=dabca167c005016510b8077cc13384449cdb56f4128d0fb3e4e6787af90700f7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bachman Turner[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-10/52897/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704497~acl=/i/qello/video/2015-10/52897/*~hmac=10bb6d34111dbdec0fa686307925dfc27beddb43114918c3fe236291cff16e14</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Backstreet Boys[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ql6tgssb/1396/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520751479~acl=/i/qello/video/1_ql6tgssb/1396/*~hmac=4547a0ae7cb77025dc2e54c9fb1d4141f20c737409618bdab07da550d2d8c933</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bad Company[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_v963nh74/1529/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520687453~acl=/i/qello/video/1_v963nh74/1529/*~hmac=c188b1957ac67d3353fb727aa529ebcd933c3b762d78b2805d82a88c2d93d8a3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bad Religion[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_hlglydof/1080/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520751588~acl=/i/qello/video/1_hlglydof/1080/*~hmac=d89785491b68dc03e08db748811031ab341c419aae6ed40bb759746dd35580b4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Band[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_mptl5yi4/233/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520751742~acl=/i/qello/video/0_mptl5yi4/233/*~hmac=57b544b48b79b4377429264c82b77e2daca42c5d50a7b9dd51e0276e8b0a8d91</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Band Perry[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_pcryb3my/264/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520755705~acl=/i/qello/video/0_pcryb3my/264/*~hmac=b19c7299622bc003fc9b887d31b62bca05227be65bec06b3c70f85c062cce2fe</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Barbara Streisand[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0fd0ghqd/425/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520755786~acl=/i/qello/video/1_0fd0ghqd/425/*~hmac=d042553927afcfa56132e50f49f890a5a409747a5ea6c5c5b78befd1c9d278ce</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Barenaked Ladies[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_e6jy5pz2/926/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520755845~acl=/i/qello/video/1_e6jy5pz2/926/*~hmac=8945a7dab9e0184276906ab746bd7adc36648a0095c149fb22f0ea641a17fc00</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Barry White[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_pxxat67f/1372/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520755904~acl=/i/qello/video/1_pxxat67f/1372/*~hmac=5fbeac3656f0934b3942f9b84392d75ecc62ab274d8a4c2bbda34bd459322dcd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Barry Manilow[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-01/69028/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520750753~acl=/i/qello/video/2017-01/69028/*~hmac=2f3e4967bb2b378aa379069bf003fc98b380854028dd2e2aee38919b214e8823</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bastille[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-04/70546/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520750472~acl=/i/qello/video/2017-04/70546/*~hmac=4dab7a8bea3cae3eb1619746881464d603c5bb762e6f16d95d23f17808bcf9e0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]B.B. King[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_8j5765se/733/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520750933~acl=/i/qello/video/1_8j5765se/733/*~hmac=4b81d63a4fdb0d09c80df93a7af3a7a650a0e60258d90178a4ff9d763f034e67</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Beartooth[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-11/74424/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520750332~acl=/i/qello/video/2017-11/74424/*~hmac=94760e30a6d2172b82ed17522451708f849a0619f3a15fa43f6aae3e53f69728</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Beach Boys[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_z2a9hbbf/397/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756011~acl=/i/qello/video/0_z2a9hbbf/397/*~hmac=f963c83536b05282e52f06c5970738d60a4907977d1a7fe2e0f2fbc9d45458a8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Beatles[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_q88b359t/275/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756080~acl=/i/qello/video/0_q88b359t/275/*~hmac=da7070277dae629b883728c527b8a776cc2433ed68a9341a1c5fdc20f8a191f3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Bee Gees[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_nxelp3ru/246/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756140~acl=/i/qello/video/0_nxelp3ru/246/*~hmac=51ab47d8f6cb0ce7f6ea9142a337a9a44209ca2e54d2a46b5571ae473c0e7d33</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bellamy Brothers[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_w44z8zsu/1558/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756214~acl=/i/qello/video/1_w44z8zsu/1558/*~hmac=8b2908d544002ca1b9a5b14ac5530eb98b0f0cf524c194fe92fe6be9e8e7ddd9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ben Folds Five[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9v69f9e2/776/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756279~acl=/i/qello/video/1_9v69f9e2/776/*~hmac=1a7acaa717f95be3e045fa34c28c2161405690bab4cfa9b9ad0d4fa9ee330362</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ben Harper[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_p1cw4eto/1331/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756338~acl=/i/qello/video/1_p1cw4eto/1331/*~hmac=5e5b3af72e27bcb4371ba7e00c47d8468b041fb1dbc182a751f9e130c969ef1b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Beyonce[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_bx3mwl3n/134/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756412~acl=/i/qello/video/0_bx3mwl3n/134/*~hmac=0ccb458a7569a4aa5f955629b0c7b8d60c1f8a4bf1fa0dffbce01bc17fe64846</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bill Withers[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_68pkm3z1/653/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756479~acl=/i/qello/video/1_68pkm3z1/653/*~hmac=f3345634fc546dd72489f894896b7e0796f095f6f6bfd4daceca5d8af383a703</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Billy Idol[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_qmc0xeoy/1397/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704591~acl=/i/qello/video/1_qmc0xeoy/1397/*~hmac=744a81b36bda538b659c09b0a17d8e36559bd0178e26ec097da3488a64c50912</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Billy Joel[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_9ztank77/108/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704658~acl=/i/qello/video/0_9ztank77/108/*~hmac=53de44ff78fb6734b36be626f112801e61c656c429d9a8056c871d273632cd16</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Black Crowes[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_7p2310jv/82/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756633~acl=/i/qello/video/0_7p2310jv/82/*~hmac=ed1d3247bf8febf1dd7931ace08e2bced9f782f1fe12b7028f53524779d8f271</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Black Keys[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ova87ktj/1324/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756694~acl=/i/qello/video/1_ova87ktj/1324/*~hmac=b89c10d02ff5f272576a9edd72151a916f660cac75ce5b7158545c891f44e105</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Black Label Society[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_b9hif4a4/830/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704724~acl=/i/qello/video/1_b9hif4a4/830/*~hmac=f88b354a8339c785373fb1541fa501ffbe2be39b30216dca7343bbb17e40add4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Black Sabbath[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_tvgl3u01/334/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756776~acl=/i/qello/video/0_tvgl3u01/334/*~hmac=2c35fffff64a92fa350e7702c100208c42ec2874b34c0e55f990cd235123a72f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Blackhawk[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-12/55131/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756844~acl=/i/qello/video/2015-12/55131/*~hmac=58d01e2b944b9e151b1120d146445c266d942268abded3f305353bf221fa53d6</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Blake Shelton[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_7cuqyfqo/696/qello6/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756930~acl=/i/qello/video/1_7cuqyfqo/696/qello6/*~hmac=93a01ec9b375454b0ed47f09a3c6dfe4475aa50236f4773ba44110ae77c39a19</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Blondie[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ti3uxs9d/1489/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756997~acl=/i/qello/video/1_ti3uxs9d/1489/*~hmac=7475bec67eae4342ae961d1f361c81f934f2b5112e0e759f967d9fa86e5b4f46</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Blue October[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-11/67194/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520750608~acl=/i/qello/video/2016-11/67194/*~hmac=b6b424b221ec205fb4752c52ef5456f58df024b670b31d26f3d76d67040da6ad</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Blue[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_h2cdw12a/1053/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757081~acl=/i/qello/video/1_h2cdw12a/1053/*~hmac=a98fddd061c0e3a2690c6e7cb94c7717cf05d917ad3ad69758451b921e812065</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Blur[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_yhhyx04k/1644/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757141~acl=/i/qello/video/1_yhhyx04k/1644/*~hmac=54b44733503422533ce07a885ca760550d008202de87dae62f329b206ceaac34</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bob Dylan[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_p96eibtf/1343/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757289~acl=/i/qello/video/1_p96eibtf/1343/*~hmac=83ead7d5dc96f1f3daf60008da908b82aaad8ebc79e3782fcd5459265942868b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bob Marley[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0uhwfrxq/443/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757365~acl=/i/qello/video/1_0uhwfrxq/443/*~hmac=d45e4cdbd096fcb612a3c223beeef4c476dcf64ea0994d094e5ffc0f1413afc0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bon Jovi[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_fonx8gxs/984/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520749930~acl=/i/qello/video/1_fonx8gxs/984/*~hmac=06433c9f0a5602d02ebe5574a964e5d2cb2f2bb7fda53aee5102891f7f7762a7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Brett Eldridge[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_7qmf640q/84/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757450~acl=/i/qello/video/0_7qmf640q/84/*~hmac=f2ad10bf07a6cbf342a8ad12286dd09e4728467fd9e9ac3aaab5722bdbd724a7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bring Me The Horizon[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_5a79f9gg/65/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757505~acl=/i/qello/video/0_5a79f9gg/65/*~hmac=99baf8788bc45612d601029804c8fe26c97d01a4710328b0e11ce5a83f3f2289</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bjork[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_nepbz7hv/52334/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520756551~acl=/i/qello/video/1_nepbz7hv/52334/*~hmac=c9789e471605daef5f22410fad86daf25bb5fc44882d11e8e9354c974f5d5a39</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Brian Setzer[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-05/71049/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520750199~acl=/i/qello/video/2017-05/71049/*~hmac=2c9691d0c244f841518bc3150bf553c27d148603a8d613f99227549582cf5e2a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Britney Spears[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_bboyff8g/833/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757580~acl=/i/qello/video/1_bboyff8g/833/*~hmac=c8f801cb8e29a37e5f4c7fa6292870262c69667e496f263bb096178e0478f4b3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bruce Springsteen[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_0qbchd6p/6/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704910~acl=/i/qello/video/0_0qbchd6p/6/*~hmac=7d911a4833372a0c907879ce8dd4431d6fedbee9cb965b954c2d7aab1a2faf0b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bryan Adams[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-10/73243/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520704985~acl=/i/qello/video/2017-10/73243/*~hmac=075ce14001dae6e84cd095964650450f1afa9371d36582b0b422dd3c05efd467</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bullet For My Valentine[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_w769qgf6/361/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757650~acl=/i/qello/video/0_w769qgf6/361/*~hmac=419f5d5b33f97bcf7ee3b257ea24b4a8ef310a8b2b90b944e9281c06f937b923</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Bush[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dabx5zut/889/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520757701~acl=/i/qello/video/1_dabx5zut/889/*~hmac=01660307f40c3b34f2fb5a91817afe72819a7ed56ec51e5c21fd4bfb94a71b42</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cage The Elephant[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_h2bttz6n/1052/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520833784~acl=/i/qello/video/1_h2bttz6n/1052/*~hmac=bca3f9c9316c462b55cf7db22c968b71c3817cf9464c3fe5cac9ba12c7cf4d5f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cake[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0peji8xi/436/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520833847~acl=/i/qello/video/1_0peji8xi/436/*~hmac=b144fcb8161e511cdcc36f5dff9bb52187e53d69f00ec1f68b18c88d1b0a182e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Capital Cities[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-10/67019/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520833548~acl=/i/qello/video/2016-10/67019/*~hmac=80ffc5beb2545e79b4dc95c028bb2ed839eb8bb47d7b0f12716f6342f2d3804b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Carrie Underwood[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_k44ij5mn/206/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520833954~acl=/i/qello/video/0_k44ij5mn/206/*~hmac=e9a54e6a4021071dfa89ce41662bb7ceed26c97897ec7b91950f4b0a60e0e636</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cat Stevens[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_bdyoo8fe/128/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834049~acl=/i/qello/video/0_bdyoo8fe/128/*~hmac=70b21951a3b4fe08cef33e621c9369e6620bae296b06eb91e93bc373cd59446b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ceelo Green[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_5tfgk3ze/69/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834191~acl=/i/qello/video/0_5tfgk3ze/69/*~hmac=fac6a6c69f92ca81ece02aa913c40756009e8dabcd2f29673642caa826a5b24c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Celine Dion[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_3bl6p4xp/549/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834120~acl=/i/qello/video/1_3bl6p4xp/549/*~hmac=6af15df7b32f3bb6cf4c6f9d4836eb4d9360d3aa21695137c8d039b90057e24f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Celtic Woman[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ehd1q03c/938/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834257~acl=/i/qello/video/1_ehd1q03c/938/*~hmac=8f45da48942006bdb6381befbc322f42dae138a9fdad0435bfc34e538546392e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Celts[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_vrgdow0q/1549/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834330~acl=/i/qello/video/1_vrgdow0q/1549/*~hmac=b871c9c45886e1fc53b7f4fcad2affa015ebf0c748e68bdeaf8dac89d0d49c0e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Charlie Daniels[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_nynm0pvy/1290/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834430~acl=/i/qello/video/1_nynm0pvy/1290/*~hmac=38539656443aec3fd0c25bdec47e7ee739e2eda04d60599d653e439466b97973</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cheap Trick[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_3rp3tp56/567/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834531~acl=/i/qello/video/1_3rp3tp56/567/*~hmac=6a025ab5a8062e1a851b51fbf0604eca2bc6c10bb32b45166b7c05c7cab586d0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Chevelle[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_8o5t2arq/738/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705066~acl=/i/qello/video/1_8o5t2arq/738/*~hmac=f66f30f3bd38c40b63199773222246764b5b85af0bd65087884bc545de2ad281</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Chicago[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_7qd8h1wt/705/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705123~acl=/i/qello/video/1_7qd8h1wt/705/*~hmac=a89b2946cb2c22946b0a96fe4e0566729325d91e939fefcb4c854617a76f8c19</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Chris Isaak[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_yw4twsff/1656/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705191~acl=/i/qello/video/1_yw4twsff/1656/*~hmac=9941458d4fcdec7363b31ace6c42493e00e5ee6c586e4dae664c21ac004c8d1d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Christina Aguilera[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_z8896vdy/400/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834653~acl=/i/qello/video/0_z8896vdy/400/*~hmac=e0440ecdd09e8e4b4f7479037e546cc1be00089201c1c27592e49cfbf0bef08b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cinderella[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-10/52863/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705255~acl=/i/qello/video/2015-10/52863/*~hmac=0bd0f4dc43a34c70a621c0f9283feb98a038e1f43ecbddf642c13d8e522a6bca</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Clash[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9mmus3rb/764/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834730~acl=/i/qello/video/1_9mmus3rb/764/*~hmac=203372a7431825996174e8ff2c0049586d5e12056f86fd89c6251ef0ae6fde29</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Colbie Caillat[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_d0bwjq3d/878/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834832~acl=/i/qello/video/1_d0bwjq3d/878/*~hmac=c37cf0e4f11c4e20ac7dd6cd0d5963ecfb50473e5c9cb1feb2ba4a33cae105ec</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Coldplay[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_6140vl9e/642/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705393~acl=/i/qello/video/1_6140vl9e/642/*~hmac=c99610e2c196c6120a956ecb1fa3bd215d3bc80fdc944ce32834e50a8c714c3b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Colt Ford[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-01/56832/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520834912~acl=/i/qello/video/2016-01/56832/*~hmac=8ee1d63b526af3f79458a8daf01ea4ac93633fe4534eb9130aa873ea72fcf4cd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Counting Crows[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_zidglzf5/1674/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705462~acl=/i/qello/video/1_zidglzf5/1674/*~hmac=420bf7703cc6c0db739adf742b0877ec9aa0bcd19fcac29d48773c50dc0c8614</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cowboy Junkies[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_2qisoaio/521/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835012~acl=/i/qello/video/1_2qisoaio/521/*~hmac=10df967fbc044cecd535af9cb9de3e0a4d1ac56f2e1e00e38fc84609b223db3d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cream[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_szhz8e7x/1473/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835105~acl=/i/qello/video/1_szhz8e7x/1473/*~hmac=51a0235800a819ec30d4d7869c5b8d2b017aeb2b545a2036aac246503494e136</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Creedence Clearwater Revival[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_lpcpjjyi/1228/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705546~acl=/i/qello/video/1_lpcpjjyi/1228/*~hmac=81571f60e2a4ab05fdd7ec5dc0caff4d1e1e17abb964b86c021adae37df7bce7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Cult[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_kqlurbm6/1190/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835187~acl=/i/qello/video/1_kqlurbm6/1190/*~hmac=95daf2b7bc3e81b41a1e9d0a19be65ba90a4b5bd24492a740397c431458412b7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Culture Club[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_nf8fzfws/241/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835270~acl=/i/qello/video/0_nf8fzfws/241/*~hmac=01b31a1fe428178fc20dae2af1abf59963dc5da6d48cb24faeae8e8969c73408</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cyndi Lauper[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_tbjdyszs/323/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835362~acl=/i/qello/video/0_tbjdyszs/323/*~hmac=c86870ab0629d005e5f29509dbb205024b1220bfb5246dee61f33a555e0d57db</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Cypress Hill[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_z2ye6ojh/398/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835458~acl=/i/qello/video/0_z2ye6ojh/398/*~hmac=d28abc3e994d5a098804603fc665ae4b671ab219f852dfffe522a0b170568f41</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Daft Punk[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_xz4t3lfp/1626/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835723~acl=/i/qello/video/1_xz4t3lfp/1626/*~hmac=11e40eca3dab5059efdb9c25eaa3cbffb467a16bb12463fa99dfc09e20db5d34</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Daruis Rucker[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-12/54708/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835797~acl=/i/qello/video/2015-12/54708/*~hmac=1b9db810c32b3adb004bb8ac398e4e4dae10c00eebea0f9007a8a78ca0c8ce26</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Daughtry[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_n2fdqd4n/1264/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520685797~acl=/i/qello/video/1_n2fdqd4n/1264/*~hmac=76e601771fa8ef0dbaefae6d8fcf422f3ac59561cd34c13d0c7bc6376855d604</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dave Matthews[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ycs44i1x/1634/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835875~acl=/i/qello/video/1_ycs44i1x/1634/*~hmac=4b60e4c4cc636682d1c86e2452723b51192dcff63160fb1af7f4e7636198b7c0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]David Bowie[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_mbnun5vq/227/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835960~acl=/i/qello/video/0_mbnun5vq/227/*~hmac=58cfd91dc4e6f973438a4c3d7ef0992ad4d4122b0ebb7af84b18971cf06f5688</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]David Crosby[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-02/59031/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835556~acl=/i/qello/video/2016-02/59031/*~hmac=bb045ae32ee2efea1df107f438a476f5bf4bc725c148cf34c10ab20639f801f7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dean Martin[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_avh41lf2/818/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836362~acl=/i/qello/video/1_avh41lf2/818/*~hmac=1089a0ca227a9d4c6d3d706b2e88174c179bbceb113708aeaffc7a68f1e0211a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Deanna Carter[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ib2qmuzt/1107/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836439~acl=/i/qello/video/1_ib2qmuzt/1107/*~hmac=8bd2436ec053058b77ca4307d3bcab77241a3a82fc02bf718becac105199f957</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Death Cab For Cutie[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_wz06jpza/1587/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836516~acl=/i/qello/video/1_wz06jpza/1587/*~hmac=d1661504afe17f645194183304c897350df2158720b2e38d6d92647b4fe2c367</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Deep Purple[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_5acxkkmh/621/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705633~acl=/i/qello/video/1_5acxkkmh/621/*~hmac=a1c847b7d12c80e3dfa81cee35eda7310fff0579f196fdb720d26924f7a129fd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Def Leppard[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_30ni2l2t/529/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705701~acl=/i/qello/video/1_30ni2l2t/529/*~hmac=908d5273bfb71015c5c9f04ca6de4b147b77b9666269a0f55e645b059bcb7c9d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Depeche Mode[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_66r0fspb/651/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836597~acl=/i/qello/video/1_66r0fspb/651/*~hmac=d713d24436a7684f84cf07b45e8bac6b8c86171bee38c354324fa4464972d179</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Destiny's Child[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dvyeq5fr/912/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836670~acl=/i/qello/video/1_dvyeq5fr/912/*~hmac=8d99a077eab8923075d1c9cf060ea71913c7f352a59973d7aa7da5a62047c406</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Destruction[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_e5lby1eq/148/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836734~acl=/i/qello/video/0_e5lby1eq/148/*~hmac=6e22854366223050ba02dbe391061caae09b9ba021865f13e32ef6b9dcb9a9e5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Diana Krall[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_u5ul6bey/337/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836806~acl=/i/qello/video/0_u5ul6bey/337/*~hmac=34c9b9db4562a5181966cf8bcf659d553d65c84b567ea4cc4bb0393db48ad4e7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Diana Ross[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_13tuggl4/448/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836868~acl=/i/qello/video/1_13tuggl4/448/*~hmac=b2146d31f2b0c3d476580a378344f10b096dcd13cba7b0957b86e09dc84a1b4c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Die Mannequin[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_0630svm3/1/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520836921~acl=/i/qello/video/0_0630svm3/1/*~hmac=e9f50d7d20e05d0184e2adbef7679f3b8fde555f69b92fe5154b305b7992e425</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Die Toten Hosen[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2018-02/75251/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837002~acl=/i/qello/video/2018-02/75251/*~hmac=524d2cabf19a1d90684b75012ced032e5b1a94c08f11a6f03ce7df90ee81def6</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dierks Bentley[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-02/69784/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837074~acl=/i/qello/video/2017-02/69784/*~hmac=0b038607cd19b016a9d962e1aceac15432c9c00e82f91118d8e456b15b2cc658</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dio[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ni2mcmxn/1278/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837194~acl=/i/qello/video/1_ni2mcmxn/1278/*~hmac=0a2237ac1d3b6deb900c826cd3284dd892694696263028c0342c748e24f65b17</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dionne Warwick[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_1om7qo06/479/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837264~acl=/i/qello/video/1_1om7qo06/479/*~hmac=b428a23c35382f347263d97c3a514d5ce843a1d16bb4561135ab0fbc17ffa63e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dinosaur JR[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_kavee21x/1172/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837139~acl=/i/qello/video/1_kavee21x/1172/*~hmac=a406f97dbbd4fcaeffa31a33d3c9e269d398cbf21a95555f7eb2d16676cc294f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dixie Chicks[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_110420yl/11/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837346~acl=/i/qello/video/0_110420yl/11/*~hmac=0754eca6de173f1251373626ca7078ef3d3e18e4c447264acef66252cc37513e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]DMX[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_3q4xuuwf/565/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837411~acl=/i/qello/video/1_3q4xuuwf/565/*~hmac=3d05566e57bc586796a40f08340a9c60cc8e52f56ffd898e16190175bf714fe9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Don McLean[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_myge7o7s/1257/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837477~acl=/i/qello/video/1_myge7o7s/1257/*~hmac=feaf6b67957746ae25f5653cd13eb71a809071724dfb153406a5ca84fe7627c4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Donna Summer[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9rjcmgjx/771/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837539~acl=/i/qello/video/1_9rjcmgjx/771/*~hmac=97b9f0ef932862b010f90571c038b844f816050d75f0bd002911374d08cfb923</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Doobie Brothers[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_l3uhtjk8/1200/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837718~acl=/i/qello/video/1_l3uhtjk8/1200/*~hmac=5f5b152ef108d2a5ffdf6954021e402fe6f0e2e17e9422814f7df42de6ed6336</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Doors[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_ij4o31s9/197/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837759~acl=/i/qello/video/0_ij4o31s9/197/*~hmac=7439e81da915379e966c3a3a37b350c397492ab20ac6f25724ec7bd09217f4d2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dr Dre[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_erxhhk4j/945/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837799~acl=/i/qello/video/1_erxhhk4j/945/*~hmac=32f92d8332329619376ee0d6ba4e2c7e98dd99187e7a28445a5c0da312cb35e9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Dropkick Murphy's[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-05/61332/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520835641~acl=/i/qello/video/2016-05/61332/*~hmac=09068d7a983529d60a9c9d2fba96562995404a8085e3f892760b7d27a65c2996</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Duran Duran[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_bsl9jbn9/847/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837847~acl=/i/qello/video/1_bsl9jbn9/847/*~hmac=6296d763f5d9553ea7034aebd505531411e629c9ee5d064a9c3441905c8fac92</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Dustin Lynch[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_5613ffwl/63/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520837885~acl=/i/qello/video/0_5613ffwl/63/*~hmac=a31358adf4de8a97a7e716944b6b77613012b1b94fdfa286d277ea503e9f282e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Edgar Winter[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dtz2dk6a/910/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017116~acl=/i/qello/video/1_dtz2dk6a/910/*~hmac=457ed178ceb31f69559ec28ac4006f08d77e9ffd79a58c002e9c096f98b17510</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Elvis Costello[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_ousop8yj/258/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017199~acl=/i/qello/video/0_ousop8yj/258/*~hmac=04d42a298cece94303e9cc5c47f5aa0a1f7de41d366eca911de2d7d32b51a2f0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Eagles[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_d8hvqt5q/886/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017241~acl=/i/qello/video/1_d8hvqt5q/886/*~hmac=c2cc5b8c2995fa61592b3eaa892a5844c357cdc427d7616bae744be5c87b4fd1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Earth Wind & Fire[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_70bsmjz0/678/qello8/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017384~acl=/i/qello/video/1_70bsmjz0/678/qello8/*~hmac=335f13385cba38e767fa903cb202d2553e9537b3a1cf4c622663ee313a1ada7c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]E.L.O.[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_8t9qv980/742/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017465~acl=/i/qello/video/1_8t9qv980/742/*~hmac=010078ed735cfa49455d908156e02744756249a181c50eb647349977e9f313ed</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Elton John[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-12/55020/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017541~acl=/i/qello/video/2015-12/55020/*~hmac=5239ead3eae0b0c3b5f37a1f1f5b2017c2f33ed71984f919741575eeeea75543</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Elvis Presley[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_a2mx8b7q/110/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017611~acl=/i/qello/video/0_a2mx8b7q/110/*~hmac=2467c7ffc43e01b8a041a620cbb35fa828e1719c67d02638debdf92638feefb0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Emerson Lake and Palmer[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_o50vuh6f/1301/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017697~acl=/i/qello/video/1_o50vuh6f/1301/*~hmac=6ef052cd50e85f47ef1a8567bfabf6d5f11661743fcdac79fbb0813ae833a6c5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Emmylou Harris[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/70079/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017770~acl=/i/qello/video/2017-03/70079/*~hmac=6fcb8eee696b316ac73b500031da8886be59ee318f443752bfae5b2d340fd92d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Eric Clapton[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-12/55479/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017873~acl=/i/qello/video/2015-12/55479/*~hmac=3a09ca26af1a8d494c2ed6a0cc6cc04a35afa95374b4caf18393948c4c89cdd8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Europe[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_48xhs3sb/574/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017935~acl=/i/qello/video/1_48xhs3sb/574/*~hmac=d18aa14c1fb57a04daaf5ea09cdea3abc0b4c8ae4de8b8f9bc19301fb425daae</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Everly Brothers[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_dpp3tec3/146/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521017984~acl=/i/qello/video/0_dpp3tec3/146/*~hmac=1214719b117c8464905d1372a870e186cae52a447f54d8c1a07b57ba29be5d93</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Five For Fighting[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-08/66029/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018112~acl=/i/qello/video/2016-08/66029/*~hmac=f3b3a795d490ff52f91053230d12a3a8b37945a555ca1979a77059e20474100d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Faith Hill[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ppxd0s8f/1360/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018158~acl=/i/qello/video/1_ppxd0s8f/1360/*~hmac=75fb8010d842feeb882cba6aaca6e227248c295307190edf244f5bf97791de6c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Fall Out Boy[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-02/69652/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018211~acl=/i/qello/video/2017-02/69652/*~hmac=ed23751bce67a62858b980d6730b98d66851d19591ca2202453a25e80cead023</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Fatboy Slim[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_ptrcz7g2/273/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018257~acl=/i/qello/video/0_ptrcz7g2/273/*~hmac=4eafbb3d43996a1699e512d10179557224d99c6d60c1f1c7ff3a0f94a936064b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Florence and the Machine[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_lwox4g6s/222/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018348~acl=/i/qello/video/0_lwox4g6s/222/*~hmac=37d58655625ed88fc6eacd0c3d4ae5f28d65e7dd19f25197cdf68b450e8a3a7b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Fountains Of Wayne[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_q6jzv2hb/1381/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018445~acl=/i/qello/video/1_q6jzv2hb/1381/*~hmac=3868c2991939cca298c0bd591f781f84d053ffce9957ce888c04362b4be5275d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Frank Sinatra[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_smxfa7yl/1458/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018499~acl=/i/qello/video/1_smxfa7yl/1458/*~hmac=a7d920c319a7a6173fd1d1bb9c4f7c1025c21d6cafc38ef7a719b23a526624f2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Frank Zappa[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ib2d2dkc/52332/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018555~acl=/i/qello/video/1_ib2d2dkc/52332/*~hmac=e914fdac32cc4807e44f660060b02f43b82b177fdbba3ccd1294bc1560341028</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Franz Ferdinand[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_psi0rws2/1363/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018613~acl=/i/qello/video/1_psi0rws2/1363/*~hmac=872e43de43adbc8263bfc6fd4af919c7aff1c9d9d6c27216fdf19fc14399d188</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Fray[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dzybkq9x/920/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018654~acl=/i/qello/video/1_dzybkq9x/920/*~hmac=9e2f4392ac6410063ef1e09c768e1e154894723e4c791c005c0506ee32c48c93</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Freddie Mercury[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_zfndzahq/1673/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521018698~acl=/i/qello/video/1_zfndzahq/1673/*~hmac=a2ea48dd8ea14c57529dda349cdc45ec94f044604c6cf32a743a7bbdff1f9c9d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Fleetwood Mac - Live In Boston Part 1[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_b96cha3e/829/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520687585~acl=/i/qello/video/1_b96cha3e/829/*~hmac=099c59db7f088e094e30be590304effa791740573a743db2b10c91a31f17ac30</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Fleetwood Mac - Live In Boston Part 2[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_1v1obxgf/485/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520687635~acl=/i/qello/video/1_1v1obxgf/485/*~hmac=2424a6473753bd04cc902b7fcc9ff5867f1c1d442257e0b15115691fd0ea52b8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Foreigner[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_oiw1cfuu/1311/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520705845~acl=/i/qello/video/1_oiw1cfuu/1311/*~hmac=d6f4d941c257789d806bc11c8e5195b785bab05b6b473b3c7ce00323b445e1ea</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Godsmack[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-10/67070/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041338~acl=/i/qello/video/2016-10/67070/*~hmac=c472c22effe67a0bc5b6531ef6552e590e41e14dca50c1dc1cc96d91e418cda6</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]George Thorogood[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_hz7q2qz9/189/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041449~acl=/i/qello/video/0_hz7q2qz9/189/*~hmac=7b8d7db575707fb9742a3f9732704ad1d759014570182612c22349a4bf15239c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Garbage[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_gsung8xv/1034/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041535~acl=/i/qello/video/1_gsung8xv/1034/*~hmac=c2a68e2a9639cd9b5913f277b72ac2c2ec72bd05a7c605f58e726839aee2a666</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Gavin DeGraw[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_r7f99voe/1418/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041588~acl=/i/qello/video/1_r7f99voe/1418/*~hmac=ae5e09a6b899bf66f751ce4c04c3368a757b0a17758832a7573bcda2e38ff4e3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Genesis[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-01/55981/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041674~acl=/i/qello/video/2016-01/55981/*~hmac=702037f70b5aac576bc634b117515a4060dc6e6fbba774f92b67be56b584a579</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]George Harrison[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_4qiyj8by/59/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041744~acl=/i/qello/video/0_4qiyj8by/59/*~hmac=bae7a188850d65a5a45616220c1c450739977330598ec64e7bec63095463acf9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]George Jones[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0fbybwn8/424/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041788~acl=/i/qello/video/1_0fbybwn8/424/*~hmac=6f247c194bfd07b4ea44a9769e8ce9da2e29f8fd66d17fa1978445e7265e0a58</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]George Michael[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_eu6dvqhn/953/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041839~acl=/i/qello/video/1_eu6dvqhn/953/*~hmac=edeccba6e173bb00c60959e56991a4393db848d8494fbc7b22247372abe3e82d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Giselle[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_389d82bo/542/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521041978~acl=/i/qello/video/1_389d82bo/542/*~hmac=5a0b5decd08129dc08050deb09550542a203edde707a382aed2f25e9e28ce307</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Gloria Estefan[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-10/52873/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042045~acl=/i/qello/video/2015-10/52873/*~hmac=52743e461abd47730d2561a68556d8f30f61c2047b0f63899e7c2a7d891d903f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Goo Goo Dolls[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_eylmdx0c/959/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042108~acl=/i/qello/video/1_eylmdx0c/959/*~hmac=a82bdec9b90c6fcd7acbd72f2b73af06d200dec5656a61808b5f582e00904882</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Good Charlotte[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_rzuva13e/1442/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042159~acl=/i/qello/video/1_rzuva13e/1442/*~hmac=7001d776f3d93a2483949bf74df6be99239234e778978fd7add388c8651c9669</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Gorillaz[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_s7dhmnyx/1448/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042208~acl=/i/qello/video/1_s7dhmnyx/1448/*~hmac=7af6e8fe086a94307c789ec8e4f41b4fbe8a6e8bc036452e8ad6a5bb68f84317</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Grateful Dead[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/70075/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042290~acl=/i/qello/video/2017-03/70075/*~hmac=8d298e78e276cfd6a442fc3d7fcc2da5ea9ca794e474cdabcd8f11f09d4b9895</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Great Big Sea[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_4pb2w80i/595/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042345~acl=/i/qello/video/1_4pb2w80i/595/*~hmac=cea55fd3baad8894ee79fb09bdc20266ea04d506965b221b15d2f7fe6db2b3bf</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Green Day[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_yekkpab0/1636/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042392~acl=/i/qello/video/1_yekkpab0/1636/*~hmac=e747b165d186940726d54ba20c7202b8017a718e61127818a839843e0ac668f7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Gregg Allman[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/53364/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042456~acl=/i/qello/video/2015-11/53364/*~hmac=555f8ba09164c25df52080e3eab2d31ba637b9f12b5f69d534d4d867be76353f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Gretchen Wilson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dojoaho6/903/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042502~acl=/i/qello/video/1_dojoaho6/903/*~hmac=e9537efbee27f4a0ab01de2182d27c6adbcac881af58eac09587892821bdbdc0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]G.W.A.R[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_ifiekfk2/196/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042581~acl=/i/qello/video/0_ifiekfk2/196/*~hmac=9ba381750e9bc81c64a24647cfca0c7ea655c8d635ab553d4dbbb5beafd2b15d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Highwaymen[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-05/62186/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042647~acl=/i/qello/video/2016-05/62186/*~hmac=b780e924c25819fe935c0d7e69898082972c6d0f6258469cc246ef91ce1d6ba8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Hall & Oates[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_f4bdpkhg/965/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042724~acl=/i/qello/video/1_f4bdpkhg/965/*~hmac=951583bb147967e27a974bd2117eabddb454a531372cafb1906820bf0ac98bc9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Harry Connick JR[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_khcnb6ac/1177/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042769~acl=/i/qello/video/1_khcnb6ac/1177/*~hmac=b5f6d7720ab241fba4c7340a58d5f603b0d65f9eeb28479df936c59a95e05031</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Hatebreed[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_z1emhjix/396/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042808~acl=/i/qello/video/0_z1emhjix/396/*~hmac=4883477beba4cff9f961c360fee5d3b851783564be121d5729bd57badf3b40a0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Heart[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_h1wn673j/1050/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042859~acl=/i/qello/video/1_h1wn673j/1050/*~hmac=87d9234b98cc06ced35ac094b778d4c6180c22daf0c735bcbe0fd94f238626ca</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Heaven And Hell[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_csv6ezev/873/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042923~acl=/i/qello/video/1_csv6ezev/873/*~hmac=a4018cd75f2511e69c8339f3561de026eca896515b2209b47510b5461534d626</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]HELLYEAH[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-10/52891/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521042977~acl=/i/qello/video/2015-10/52891/*~hmac=3914b6de7b431de6ce1d1bcfa27818985c8741a0ad15a246cae5fab08db18dc8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]India Arie[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-10/67062/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043038~acl=/i/qello/video/2016-10/67062/*~hmac=8e221a27a5c9c1d39b6f818f893cfffc364021f85b7057a34ce9f905e9341e8e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Iggy Azalea[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-05/70849/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043121~acl=/i/qello/video/2017-05/70849/*~hmac=c55bbe8625a9dfd8a7cc19a481dd8891813a0a082eda857b1b33d2676d24e0e6</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Indigo Girls[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-03/59470/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043191~acl=/i/qello/video/2016-03/59470/*~hmac=4b0d5e496375e25f19febcfbf75c19b31ab3a7697f7e8148b7f31c5b0c3d7b89</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ice T[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_3150pzvs/34/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043259~acl=/i/qello/video/0_3150pzvs/34/*~hmac=52b7d1f7759756e2f14a35714e53cb6b92f2d0e64f398b611e18bdee11e225bc</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ike And Tina[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_tub4ndee/333/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043403~acl=/i/qello/video/0_tub4ndee/333/*~hmac=43ce23bb3e289758383ef2e06326105d157f4aeaf646fed0db2a5975556f23d8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Imagine Dragons[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-08/72422/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043493~acl=/i/qello/video/2017-08/72422/*~hmac=4325f75cf6a4dab7efe4fec4a3e35157725e7548bcb4b498751973fb48091102</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]In This Moment[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_hvwrkg42/186/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043561~acl=/i/qello/video/0_hvwrkg42/186/*~hmac=9174c128797fec9e03892798ed7df7e40a8068bb6d4e95174709b50dbe0ac62b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Incubus[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9cbleeg3/756/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043620~acl=/i/qello/video/1_9cbleeg3/756/*~hmac=1065c01b8ef1eeac32378c08252b199659657fc5902a025f2198205b9b8b32bd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]INXS[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_2m6c6c1r/516/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043670~acl=/i/qello/video/1_2m6c6c1r/516/*~hmac=1c2fda2508a29ee70c71f8cd990340f50c8335bfbd167a9d98981207a2edbe30</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Iron Maiden[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-12/74770/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043715~acl=/i/qello/video/2017-12/74770/*~hmac=be3d0394644171bd993963e89e1d6e344367d16ee1257a8f85ba79575010b03e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Julio Iglesias[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-04/70604/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043800~acl=/i/qello/video/2017-04/70604/*~hmac=d041caa492b75bf02b0e3cf4b780befd6034b2f8e03cfa3b4b442ddba70c045a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ja Rule[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_9ku34m8e/104/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043868~acl=/i/qello/video/0_9ku34m8e/104/*~hmac=93f427dc7e93b999a8f288ddc40a575ab7bbcc247fd9c1e862495f93fc592d01</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jack Johnson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dse204ss/907/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043918~acl=/i/qello/video/1_dse204ss/907/*~hmac=90dc05d3090aebcdd3e1539722a283e824226a694aa03b5ababb0244e8f97204</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jacob Dylan[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_7l60o6ff/702/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521043994~acl=/i/qello/video/1_7l60o6ff/702/*~hmac=24f25af4971b76e3be2761927a6ad38c687b5defedb194b54782246e37031250</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]James Brown[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_okfx3h1u/254/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044047~acl=/i/qello/video/0_okfx3h1u/254/*~hmac=80d65e3b221e0c53369ca3a7985a16c155039d7f5d09504c88627ab11176b1ce</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jane's Addiction[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0a3lbx0v/419/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044095~acl=/i/qello/video/1_0a3lbx0v/419/*~hmac=093828131c5e9063cb7ce6dedee6435a4f37b3da2b918bf87dbc79e98fa843cb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Janis Joplin[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_gan0p1fz/1011/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044159~acl=/i/qello/video/1_gan0p1fz/1011/*~hmac=d4b3df4e580c559cf6d1493df5699335fe7409190e80ee104bf063d4cb9a7c14</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jason Aldean[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_c6kn3i53/137/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044213~acl=/i/qello/video/0_c6kn3i53/137/*~hmac=05c0ea30fcd1160ef2f6ea8a1e23b3e4e96d0ee94efc1c5cae78d6d916def331</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jason Mraz[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_p2spo6ym/1332/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044278~acl=/i/qello/video/1_p2spo6ym/1332/*~hmac=b3f51a8cd9157d360723c6693cb2f2f163686dbf646cbd6fe0c7c9cdf559c472</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jay-Z[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_1bqnwb6x/16/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044326~acl=/i/qello/video/0_1bqnwb6x/16/*~hmac=603e38e5a4777b2d47330fedcf47c05d60837d81ad5d04d2c5a1d69227fda6aa</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jeff Beck[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_b6ni422f/125/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044382~acl=/i/qello/video/0_b6ni422f/125/*~hmac=7cf64473d22547399c986d63eb203e85506eeee1ba3054f54aa0acdc58736f0a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jeff Healey[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_2crrd442/27/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044438~acl=/i/qello/video/0_2crrd442/27/*~hmac=2c8b9ed4f195915716bc6a5309d8b17b5c96d8c09c293379e5a26c90678999cb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jennifer Lopez[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_qqervqgf/1400/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044480~acl=/i/qello/video/1_qqervqgf/1400/*~hmac=3a7296f61f3f18d45e42983c515f88de189a81be9d8aa1d6563b7bcc7d033aaa</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jerry Lee Lewis[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_folbqltu/983/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044548~acl=/i/qello/video/1_folbqltu/983/*~hmac=b5a78132c7ee5b9990b3e9ff4f6ae8a327499c629192222fea79a8958374fa6d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jessica Simpson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/54541/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044627~acl=/i/qello/video/2015-11/54541/*~hmac=55cb4ec2e3a24fd07a193980039ce988968dd06ffb37a956add4fd51c3ef278f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jethro Tull[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_jy733eyw/1161/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044695~acl=/i/qello/video/1_jy733eyw/1161/*~hmac=9b6838179382834b74cc1dbe355f827545e6125120aa1b1d4bc49c482af3bc83</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jewel[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_gwu4rw9a/1039/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044764~acl=/i/qello/video/1_gwu4rw9a/1039/*~hmac=a561fd9980a7343ed9968bf4608855f89b143e0e86ab1594acd0039a00671710</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jim Croce[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_osz7qaom/1320/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044835~acl=/i/qello/video/1_osz7qaom/1320/*~hmac=417dfcaeb2d93e3a88419bfb4a9625754da629f291660fa4e66559d1283e916a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jimmy Hendrix[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_h67y36lb/1058/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044905~acl=/i/qello/video/1_h67y36lb/1058/*~hmac=101acda224261925dcb2502c9c95e4267133ab3e79d8a55987e9f9a2d797ed13</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jimmy Buffett[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_cbkvpejl/863/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521044981~acl=/i/qello/video/1_cbkvpejl/863/*~hmac=3424afa28cce85d49b6866766b112eaaec274578f4067a6bfb68cfbd4f6e4123</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Joe Cocker[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_qorz9gf8/285/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045042~acl=/i/qello/video/0_qorz9gf8/285/*~hmac=76542fab355bf3762219c5d74b6317bd0db1e601f248719c5d613a9fa179ee97</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Joe Satriani[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_tlruoekd/326/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045094~acl=/i/qello/video/0_tlruoekd/326/*~hmac=9896b730698860114cc35df89ab2d778e7f815e4cc715d921f73d7603283e9d5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Joe Walsh[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_sbhithbf/1452/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045148~acl=/i/qello/video/1_sbhithbf/1452/*~hmac=3300e12122c29679c6be02ca315ba66fe4c0903b4f9c13eed170089aa695f3cb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Denver[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_4gfzzh00/54/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045213~acl=/i/qello/video/0_4gfzzh00/54/*~hmac=5244d221c1bcc3e24da5cacbfa67e57196b0d93b6d573f03151fdfc46e2c8e05</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Fogerty Part 1[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dzmhw01w/919/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045281~acl=/i/qello/video/1_dzmhw01w/919/*~hmac=0e2618282f921b359e170eb360fcafe138e44e7763dced5c5fe4e33ba5d22d7c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Fogerty Part 2[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_r0u4u6mw/1413/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045323~acl=/i/qello/video/1_r0u4u6mw/1413/*~hmac=d79854acc707652e52d08f2a8e967069162be2548e69965be03cb071369002c9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Legend[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_3i3wum06/41/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045387~acl=/i/qello/video/0_3i3wum06/41/*~hmac=3252135ed7559e5809e91c26c8610a179ee22f95bb4be966804d849b8516b91b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Lennon[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_jp0mzvhj/1151/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045435~acl=/i/qello/video/1_jp0mzvhj/1151/*~hmac=8702d3dc9df1ce83ce3e8d15e98d7e6e1eba9df5eaa9b944e611ec82502c054c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Mayer Part 1[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_375vklgx/539/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045503~acl=/i/qello/video/1_375vklgx/539/*~hmac=705a782961c9f7b4b78cffa85e53a6ace2007b4620b731bca9c2d6d4df7ca707</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]John Mayer Part 2[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_f230tg99/962/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045539~acl=/i/qello/video/1_f230tg99/962/*~hmac=710e35327c782e9b001edbf3f95dd6861f79baf12e6c58c582a264bc8975bf3e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Josh Groban[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_54belocn/616/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045599~acl=/i/qello/video/1_54belocn/616/*~hmac=ca2c7c073458235180583db1e34dce156f5789951f1947443b2ecc65216ec064</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Journey[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_zoad5ot3/1677/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045646~acl=/i/qello/video/1_zoad5ot3/1677/*~hmac=e321aefdc2a459587346f7e851e733a02251be1627e0a5e19d8def35aa5d4e7b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Judas Priest[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_xvuv5shl/1620/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045711~acl=/i/qello/video/1_xvuv5shl/1620/*~hmac=72a44e6ae6999ce64643bb12e809ba576079e960a01d8585f57a866519454133</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Judy Garland[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_x2zyw02u/1593/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045763~acl=/i/qello/video/1_x2zyw02u/1593/*~hmac=2b23121116efa8dade11dcbe7c15495f31374af88a1ef8e3d5b345b94af5fa3d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Joss Stone[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_8dit4ecx/728/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045812~acl=/i/qello/video/1_8dit4ecx/728/*~hmac=6d965a84a671bc9aee11e9cac71f74300c08bccdcf375a773b4bed291525b467</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Joni Mitchell[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_h008xll5/175/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521045862~acl=/i/qello/video/0_h008xll5/175/*~hmac=0daa9b739c7eea7945ed0fd9612646a7d4bbaf319ea0e2e5f6545256c68fe9cc</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kenny G[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-02/58738/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514276~acl=/i/qello/video/2016-02/58738/*~hmac=8d4eccd27d415a10f3b148342eac0a56a9751aec6eaceee55675153e6ce3d125</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kip Moore[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-11/74320/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514334~acl=/i/qello/video/2017-11/74320/*~hmac=494eb1e74c0b3a66d369e37d93e566b10c0b1af6e7e233ea9f474e62597473f3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kris Kristofferson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-05/62186/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514390~acl=/i/qello/video/2016-05/62186/*~hmac=a05acfd3c91eb5f388654cb838de5f4436f791e368b149b099e6a2a1c2de7ad8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Keith Urban[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_2hshibdi/503/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514451~acl=/i/qello/video/1_2hshibdi/503/*~hmac=572900eef82dffe25b480f22a7479c6e891b22d5fcb67b93d6bc26ab32e78537</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kenny Chesney[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_rk2iqurm/1427/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514512~acl=/i/qello/video/1_rk2iqurm/1427/*~hmac=624038fe1309342318b801eb25b20a25d49847e7c919383c3d1afbaf00406522</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kenny Loggins[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_xtcgbsk6/384/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514569~acl=/i/qello/video/0_xtcgbsk6/384/*~hmac=a32eec25cecd3239e517df13b32ddc55534a8d824030474cdc67c53ea942d113</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kenny Wayne Sheppard[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0keqf732/430/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514619~acl=/i/qello/video/1_0keqf732/430/*~hmac=78658e668acd5cb45f8f0446563fa5334b1102d7436cc0745c44a78be2f2068f</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Khaled[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_hknieytr/182/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1521514679~acl=/i/qello/video/0_hknieytr/182/*~hmac=8c2248ec81de1f99afa3ab2c2e6631530bb3bd3bd8f47aa3825a5dbb6b6e5328</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Killers[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-10/67018/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kiss[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-12/67943/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Korn[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_re2n7kb2/295/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kurt Cobain[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/53239/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kylie Minogue[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_js59rcek/1153/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]LeAnne Rimes[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-09/73058/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ludacris[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-10/67060/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lady Antebellum[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ebmp6inf/930/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lady Gaga[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_qj2vx7gq/1393/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lamb Of God[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_tb0verp6/1485/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lauryn Hill[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ht795dey/1091/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Led Zeppelin[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_1dc5794w/459/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Lee Ann Womack[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_e3c93jq5/923/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Leonard Cohen[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_k57crd63/207/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Lifehouse[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_k8onyo4x/1167/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue]Limp Bizkit[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_bp93h9r8/844/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lindsey Stirling[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/53246/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Linkin Park[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_cx4pvzvr/875/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Limp Bizkit[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_bp93h9r8/844/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lou Reed[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_f8301v1z/970/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Luciano Pavarotti[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_vuzgp1fk/358/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lynyrd Skynyrd[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_jhyrl5n8/1146/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Mudvayne[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-03/59466/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Madonna[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_myqunfwj/1259/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Marilyn Manson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_81ury8t1/88/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Marvin Gaye[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_j31pgtz8/202/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Mastodon[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_xhj6jq78/1605/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Meatloaf[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_605nloti/640/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Megadeth[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_gzostf1q/1046/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Metallica[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-03/59331/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Mike and The Mechanics[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_8hs7jtdq/730/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Miley Cyrus[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_d6g6ehd3/882/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Miranda Lambert[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_sdhdkeh3/307/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Motley Crue[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_zeuet56e/405/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Mumford & Sons[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-08/72420/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Muse[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_gc83ne5s/1013/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]My Chemical Romance[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0tsrmw5q/441/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]NSYNC[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/70087/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nazareth[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_25nr9c49/24/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Neil Diamond[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_za5gem78/401/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Neil Young[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_659k2oi7/648/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nick Cave And The Bad Seeds[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-10/73790/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nickel Creek[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_lztz1cmb/1236/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nine Inch Nails[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_huch95mt/1093/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nirvana[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_0iub3s6b/429/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Nitty Gritty Dirt Band[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ysr723ps/1653/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Norah Jones[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_t67bfq2t/1481/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Of Monsters and Men[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-11/67378/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]One Republic[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_nl9mhjxo/1279/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Owl City[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_1dlizu1o/462/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ozzy Osbourne[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_yhv0uugo/1645/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Pussycat Dolls[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/69798/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Pretty Reckless[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-07/71793/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Panic At The Disco[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_7vi8oe2d/712/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Papa Roach[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_yidzvnqz/1646/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Paul McCartney[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9k0xw3cq/762/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Paul Simon[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_4xcvtmg1/604/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Pet Shop Boys[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_oefhbwus/1309/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Peter Frampton[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_15w40r0u/13/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Peter Gabriel[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_mmolqfaa/232/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Phil Collins[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_6bpyiity/660/qello/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Pink[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_vcnan2v8/348/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Pink Floyd[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-09/72958/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Pitbull[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_wwlm0011/1586/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Pixies[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_a9q4p6yi/113/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Placebo[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/54536/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Poison[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_adrwcksz/794/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Police[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_uih1o98c/1513/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Primal Scream[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_sp25l0bn/311/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Prodigy[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_pvma1lpp/1370/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Puddle Of Mudd[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_8c99b0qp/725/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Queen[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_4hnegtxq/581/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]R.E.M[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_s20sp2s0/1444/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Raconteurs[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_nvk1wsfs/245/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Radiohead[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ne2ls3fv/1275/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rage Against The Machine[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_vripuql6/355/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Ramones[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-01/68115/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rascall Flatts[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_x8xe6iea/1597/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Reba McEntire[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_i3xt1qqd/192/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]REO Speedwagon[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_9rh27w2d/768/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ricky Martin[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_9sexj9o6/106/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rise Against[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_wef6yv1s/367/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Robbie Williams[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_iaptv3b6/1106/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Robert Plant[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_l5mlanjd/1202/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rod Stewart[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-05/62732/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rolling Stones[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-12/55032/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rush[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_4oyud9p0/593/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sarah McLachlan[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_x7vwr937/1596/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Scissor Sisters[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-11/67379/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Scorpions[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_qecbzd9b/280/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Seal[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_5nnj0dei/629/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Seether[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_t1wtavzp/1476/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sex Pistols[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_brzbmqro/133/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Shaggy[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_tzkgl4ss/1501/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Shakira[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-11/53506/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sheryl Crow Part 1[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_dxlt0o1i/914/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sheryl Crow Part 2[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_puufk01v/1369/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Shinedown[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_a791g000/788/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Simon & Garfunkel[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_wd7rxh7k/52337/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Simply Red[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_cypkuoro/142/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sinead OConnor[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_8jc2uuir/93/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Slash[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_tudmroja/1494/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Slayer[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_902wgg5u/98/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Slipknot[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_7gv04xs0/700/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Smashing Pumpkins[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_5f0ns46f/624/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Snoop Dog[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_gn9yhg4o/171/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Social Distortion[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_3qoyweps/566/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sonic Youth[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_wcpzsyog/1566/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Spice Girls[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/69906/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Staind[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_4ltc1fut/589/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Status Quo[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_mh4yuvnd/230/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Steely Dan[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2015-12/55015/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Steve Vai[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_hjm8g7cl/181/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Stevie Ray Vaughn[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ww2m9uf2/1585/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Stone Sour[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_do5voqn1/901/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520760480~acl=/i/qello/video/1_do5voqn1/901/*~hmac=94c2c4fa843c2f66e445be7f0f35ccf0f4799c8c4d262d7c5166b9e9a9a243bd</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Stone Temple Pilots[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_sui55w1t/314/bw_1996kb.mp4/index_0_av.m3u8?hdnts=exp=1520685453~acl=/i/qello/video/0_sui55w1t/314/*~hmac=326333d14a516d91cb40a32cc8f330f523087abd4ffa7837a0ec283afe5eb5e8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Stryper[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_aobt1bj5/807/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Styx[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_2ztb77jk/528/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sublime[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_hjf3hl3s/1074/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sugarland[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_vefz06pf/1537/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Sum 41[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_j0b43rkm/1127/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Switchfoot[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-06/71483/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Tenacious D[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-04/70602/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Talking Heads[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_ip44x32o/199/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Tears For Fears[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_rq5wy26m/1432/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ted Nugent[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-06/63179/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Testament[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_i5d57rw0/1101/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Therapy?[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_u198zlvw/1505/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]30 Seconds To Mars[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/70081/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Three Days Grace[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_bj0mhnqv/131/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Tom Petty[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_ld05b10l/1214/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Thousand Foot Krutch[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_h5hda070/1056/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Toto[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_w144xwxd/1554/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Trace Adtkins[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_oav5swcj/1307/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Tragically Hip[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-11/74347/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Train[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_ijl6z840/198/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Travis Tritt[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_o3yu0hdz/248/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Tupac[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_g9biwnns/1009/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]U2[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-06/62989/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Uriah Heep[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_j41mmzti/1131/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Used[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2016-06/63178/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Velvet Revolver[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_nzhqneps/1292/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Volbeat[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_4lb4ti2x/56/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Westife[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/2017-03/70088/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Whitesnake[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_5wg139gq/634/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Who[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_juq8wuad/205/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Willie Nelson[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_nr6skcwo/1282/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wilson Phillips[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_pupstbov/1368/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wolfmother[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_g80nu3q9/168/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wu-Tang Clan[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_m1ea5s2w/1238/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Yes[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_cffbl166/865/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Zac Brown Band[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/1_2ine59qs/504/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]ZZ Top[/COLOR]</title>
+<link>https://qellohls-vh.akamaihd.net/i/qello/video/0_s8kslubm/304/bw_1996kb.mp4/index_0_av.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+

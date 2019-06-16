@@ -1,0 +1,176 @@
+<item>
+<title>[B][COLORwhite]YOU ARE IN HALLOWEEN[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgold]***************************************[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+</item>
+
+<item> 
+<title>[COLORwhite][COLORlimegreen]25.10.17 - [/COLOR]Freaky Sweets E01 & E02[/COLOR]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/obrosqqkeprofbnp/Freaky_Sweets_S01E01_Creepy_Dolls_and_Viking_Brawls_HDTV_x264-CRiMSON_mkv_mp4::LISTNAME:[COLORwhite]E01 - Creepy Dolls and Viking Brawls[/COLOR]::#  
+sublink:LISTSOURCE:https://streamango.com/f/todmncmnrlaflklc/Freaky_Sweets_S01E02_Cakes_from_the_Crypt_720p_HDTV_x264-CRiMSON_mkv_mp4::LISTNAME:[COLORwhite]E02 - Cakes from the Crypt[/COLOR]::# 
+</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]HALLOWEEN TRICK OR TREAT (Scaring kids & Prank)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzS_HgzYHZIRD7aKUuzpiai8BRMa-rr1w/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORwhite]Playlist Above Collection Here[/COLOR]</title>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLzS_HgzYHZIRD7aKUuzpiai8BRMa-rr1w</link>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Party Music[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCOyq_mFipmIvRTYLmSH0k99hm_E4NSVG/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORwhite]Playlist Above Collection Here[/COLOR]</title>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLCOyq_mFipmIvRTYLmSH0k99hm_E4NSVG</link>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Playlist For Kids[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL2MsUPBdnyY5dRz25bxTqVEiztan2ekpV/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORwhite]Playlist Above Collection Here[/COLOR]</title>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL2MsUPBdnyY5dRz25bxTqVEiztan2ekpV</link>
+</item>
+
+<item>
+<title>[COLORwhite]Best Halloween Songs[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLA43338A942FF25D1/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORwhite]Playlist Above Collection Here[/COLOR]</title>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLA43338A942FF25D1</link>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Songs Playlist[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLA2qxpXMqqxQK4Oy-J_-o5m9_8U-carxh/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORwhite]Playlist Above Collection Here[/COLOR]</title>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLA2qxpXMqqxQK4Oy-J_-o5m9_8U-carxh</link>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Make Up Tutorials[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLnHq0pCliVoALvf1lLaisFOLonB8Zbtg2/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Ideas & Tutorials[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLsBjzStA0MjBGuACq7levUO4yc1VOk_cg/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]DIY Costumes Tutorials[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL56EDAA64D6285FD3/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Party Ideas & Recipes[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLlThBi_4yWKtCjLFYSKb0vwHC0r07LTI-/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]More Halloween Party Ideas & Recipes[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcva7TBTnjeNKgnG77FnyPJyKJ6tNo37W/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Pumpkins Pumpkin Carving Song Dance Ideas[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLbXsuFCpX9EOhLf_Yg1QVH0bv6MBGz9Lf/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]DIY Pumpkin Carvings | Cute Halloween Ideas [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLt529puvxTcWvXFhu8OPcQWZa2DOtg0dR/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORgold]HALLOWEEN MOVIES[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://www.wallpapersforu.com/wp-content/uploads/2016/09/haloween-background-13.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgold]***************************************[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://www.wallpapersforu.com/wp-content/uploads/2016/09/haloween-background-13.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgreenyellow]Adult Halloween Movies Here[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://pyramid.teamzt.seedr.io/pyramid/adulthalloween.txt</externallink>
+<thumbnail>https://archive.org/download/movies_201706/movies.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORredorange]Kids/Family Halloween Movies Here[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://pyramid.teamzt.seedr.io/pyramid/kidshalloween.txt</externallink>
+<thumbnail>https://archive.org/download/movies_201706/movies.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

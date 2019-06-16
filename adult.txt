@@ -1,0 +1,19 @@
+
+
+<item>
+<title>[B][COLORred]THIS SECTION IS FOR ADULTS ONLY[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/adultsection.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORred] I AM 18 OR OVER CLICK HERE TO CONTINUE[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/adultsection.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>

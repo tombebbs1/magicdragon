@@ -1,0 +1,8 @@
+<item>
+<title>[COLORwhite][B]SPECTO TV HERE[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://.video.yifymovies.hd</jsonrpc>
+<thumbnail>http://www.yourkodi.com/wp-content/uploads/2016/02/specto.png</thumbnail>
+<fanart></fanart>
+</item>
+

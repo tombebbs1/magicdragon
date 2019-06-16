@@ -1,0 +1,187 @@
+<item>
+<title>[B][COLORgold]YOU ARE IN THE KIDS ZONE[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgold]***************************************[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLORgreenyellow]Kids Movies Here[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/kidsmovies.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORorangered]Kids/Family Halloween Movies Here[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/kidshalloween.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+item>
+<title>[B][COLORgreenyellow]Disney Collection[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/disneycollection.txt</externallink>
+<thumbnail>https://images8.alphacoders.com/512/thumb-1920-512776.jpg</thumbnail>
+<fanart>https://images8.alphacoders.com/512/thumb-1920-512776.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORgreenyellow]More Kids Movies (You Tube)[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL5D0BE03FD28A76AD/?page=0</jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bob The Builder[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLT1qfSzvS6HOsK5g-gBpduERs00PoROrn/?page=0</jsonrpc>
+<thumbnail>http://a1545.phobos.apple.com/us/r30/Purple4/v4/93/f5/ff/93f5ff2a-ef2f-565b-130b-900462ef549f/mzl.phokpqpf.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Busy Beavers - Kids Learn ABCs 123s & More[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/wearebusybeavers/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-gB_SFlcGzDc/AAAAAAAAAAI/AAAAAAAAAAA/KwtbUnJTQTQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dangermouse[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLV-IE0OAylImCvZ9HxM82DZ9njpmCsmNR/?page=0</jsonrpc>
+<thumbnail>https://ichef.bbci.co.uk/childrens-responsive-ichef/r/400/1x/cbbc/IDV5-howto-danger-mouse_index.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Disney/Dreamworks Song Collection[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLdSMQMuTYK4A2e67n5JcmjQQODoRK4S-6/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-lDHlpcKNQSE/AAAAAAAAAAI/AAAAAAAAAAA/DIqBuZopz60/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]FunnyBones Bumps in the Night Complete Collection[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLyQYDeMT9rIXgm2l5rDYKKCAn-rU-Ve57/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-lDHlpcKNQSE/AAAAAAAAAAI/AAAAAAAAAAA/DIqBuZopz60/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Jabberjaw[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLk-agvxykF1q5n33kK6CQCMAuCrvOQejx/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Jabberjaw.png/250px-Jabberjaw.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kids Baby Club[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/thelittlebabyclub/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-hzuxfRs1E4Q/AAAAAAAAAAI/AAAAAAAAAAA/jZhq1P1Ed_c/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kids Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/thekydstv/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-08bC4ULIwPQ/AAAAAAAAAAI/AAAAAAAAAAA/71B5YHtofOw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kids Learning Tube[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC7EFWpvc1wYuUwrtZ_BLi9A/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-HnVNAvbSFBw/AAAAAAAAAAI/AAAAAAAAAAA/fJHu8YJqGEY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Magic Roundabout[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLhBiL8iNQj6167EbipM5Q9_YR3vWdnK8q/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-qZxbvRiVZ6E/AAAAAAAAAAI/AAAAAAAAAAA/bpvaVTC9NfU/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Rabbit[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLwRv63tYHSU004kcTFbfLiDpfy_IK0TNI/?page=0</jsonrpc>
+<thumbnail>https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/640/1x/cbeebies/peter-rabbit_onward_journey_image_bid.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peppa Pig[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0qkhhDzibUc2_kMx-YcqZ8u9Oknu9xAq/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-JbGGicOSaV0/AAAAAAAAAAI/AAAAAAAAAAA/Z7Z2IBEGx80/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Storybots[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/storybots/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-PIfPpQ2tnok/AAAAAAAAAAI/AAAAAAAAAAA/75fRaImiK_A/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Tarzan and Jane [/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/tarzanandjane.txt</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjFkY2RmZWItNDc3OS00MjM4LWJiNzYtYzM0ODEyMDZjZGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzEwOTk4NzQ@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Teletubbies Classic[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmdZ3yaBIVIW-OxGcVRCtD63thztEGK4_/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-lDHlpcKNQSE/AAAAAAAAAAI/AAAAAAAAAAA/DIqBuZopz60/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tom & Jerry[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLDm2Q2wd5Yan3YKLRHvLvLYvVkRuuWsDj/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-C1MVzoOEA-I/AAAAAAAAAAI/AAAAAAAAAAA/AYANtJEzN0c/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Wile E. Coyote and The Road Runner[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLGUtwbQMDQxg32-EULAt0_KR7YZq6PUM3/?page=0</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/w6KS6ofEAjs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAeC-lqcVZJxpkqissnIZxa6N6lMw</thumbnail>
+<fanart></fanart>
+</item>

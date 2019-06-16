@@ -1,0 +1,3204 @@
+<item>
+<title>[B][COLOR gold]YOU ARE IN MOVIES E-H[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/TombRaiderIcon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]**************************************[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/TombRaiderIcon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eadweard 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/qx886fefrmfk::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/NFdoEp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Earthtastrophe 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/edwfqtt3c3jp::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r9sby2878mq1::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/ysI68vVN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Easy Living (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=-4mTeCBdDCI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/06gn5am3j5jd.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6fy88g1lq01k::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jop3vmobgm::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWM2YWJmMjItZDY4ZS00ZmU1LWE5ZTQtZWRmMmE1NDJhY2UxXkEyXkFqcGdeQXVyNjQ1NDUxODE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eat, Drink & Be Buried: A Gourmet Detective Mystery (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.::LISTNAME:[COLORorchid]NO TRAILER AVAILABLE[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/lbvfhpa3n1fa.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tmpancolascaqaed/Eat_drnk_Be_Buried_A_Gourmet_Detective_Mystery_2017_Hallmark_HDTV_X264_Poke_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDJkYWZjZWEtMjk4Yy00NzU2LThjMTUtZjkwZTdmNjBjYzYzXkEyXkFqcGdeQXVyNDY3NjA4NQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eat Me (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=NG3q2UVl8-c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/0m19ec2e60cv.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/nslz6skiy2x4.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qqqrorrlkdrosrbc/Eat_Me_2018_720p_WEB-DL_DD5_1_H264-CMRG_N1C_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/dpsc2tn5ni5i::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mp0kntd085::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzY3YzlhOTAtMzFiYi00ZTZjLTlkMWUtOWY1MzIzYzJmYzQ2XkEyXkFqcGdeQXVyNjc1NzI1MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eat, Play, Love (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=mhMfnZznnT8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/efpsokottqbbqpqm/eat_play_love_2017_hdtv_x264-w4f_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lomonsatbesmqtfk/eat_play_love_2017_1080p_hdtv_x264-w4f_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/VxOjbt.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eddie (1996)[/COLOR]</title>
+<link>https://streamango.com/f/odedobefalknfqed/Eddie_1996_iNTERNAL_DVDRip_XviD-EXViDiNT_mkv_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MDE4NzIyMl5BMl5BanBnXkFtZTYwMTgxNTg5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eddies Life Coach 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/l6p8fedbgtuz::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/bcuqmeo3h9kv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjFiZTFlZjItNDJiNy00NjczLWFiZGItYjViYjA5YzA4ZWI0XkEyXkFqcGdeQXVyMzY3MDEzMTA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eden 2016[/COLOR]</title>
+<link>http://uptobox.com/bapa7xipu5cl</link>
+<thumbnail>http://www.mydownloadtube.com/poster_image/detail_page_poster/movies_poster_1475621325.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Edge of Darkness 2010[/COLOR]</title>
+<link>https://uptobox.com/q4831sleb98f</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMDk5MTg5Ml5BMl5BanBnXkFtZTcwOTYyMjE5Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Edge of Seventeen 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/c68ntyic4yho::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTM1NTQ1OF5BMl5BanBnXkFtZTgwNTk4MTM2MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Einsteins God Model 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/j0o0gez7ekik::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/29dv9588562v::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MTE5NTQwN15BMl5BanBnXkFtZTgwNzQwMDUwODE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]El Camino Christmas (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=8h5tAhXwma8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/a7sdq6qkeogt.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qlddmolsopttfats/El_Camino_Christmas_2017_WEB_x264-FS_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/m83t4f9phek8::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rgdv8nsfyg::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lfrbkbnpmqoptoab/El_Camino_Christmas_2017_720p_WEBRip_650_MB_-_iExTV_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rgdv8nsfyg::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/m83t4f9phek8::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODk3MzY0MDkyM15BMl5BanBnXkFtZTgwNzUxNzMyNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Elder Island 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/kld9iv4pf68x::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwNzgyMjM5NF5BMl5BanBnXkFtZTgwNzgyNTc1NzE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Election Night (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/2lw3hwlpocqk.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lqdrreapmoffeddd/Election_Night_2017_WEB_x264-FS_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODkzOTBhODMtYzcwNy00YjA1LWE0MmEtMjJkYjNhODEyYWU4XkEyXkFqcGdeQXVyNjIwNjQzOTc@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Element 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/43miuxe8uhqt::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/bCPADLU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Elements of Matter (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidzi.tv/8cqfxb68zd5c.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aqktrfcamdbqqcqf/Elements_of_Matter_2018_BDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2I0MDNmYmItZGYxMS00ZDQ4LTgwNjAtZWYwOTUxODdjZTJjXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]El Gallo (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=PY_VoCrNATM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/v9u81q2n4kwh.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qsmkbpclsamqobpc/El_Gallo_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/caviggfuamjv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cwvfgpalzm::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTdkNzgyMDktMjA4YS00YTYxLTgxNDktYWZkZjQxMzkwNWQ5XkEyXkFqcGdeQXVyMTk3ODA1OTE@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eliminators 2016[/COLOR]</title>
+<link>http://uptobox.com/ke6fo0a2tris</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZjYmNmYjgtZGU1MC00ZDQ5LWJmMjEtZWM0Y2FhOTZkMzkwL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Elite 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/z2nh46kv7col::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzU4ZjQ0YTUtNGQwYi00ZWFlLTg5ZWUtOGQyMjMyOGEwYTgyXkEyXkFqcGdeQXVyNjEyMTc3MDU@._V1_UY268_CR43,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Elvis And Nixon 2016[/COLOR]</title>
+<link>http://uptobox.com/irenpkawizn3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/73/Elvis_%26_Nixon_poster.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Embers & Dust (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=v-svV3NG9uI::LISTNAME:[COLORwhite]TRAILER[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/305nj2vtj39p.html::LISTNAME:[COLORwhite]LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://watchmovies-online.is/wp-content/uploads/2017/06/Embers-Dust.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Emperor Of The North 1973[/COLOR]</title>
+<link>http://uptobox.com/alytewu5xi7l</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNTMwODQ4MV5BMl5BanBnXkFtZTYwMTk3MTM5._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Empire of the Sharks (2017) [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=2AGMmNzyLbY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/877ytzf9qdjb.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/ik9mkaaf4p0w.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/asoaosbadmkftsdt/Empire_of_the_Sharks_2017_HDTV_x264-REGRET_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9uelxbk9d9::LISTNAME:[COLORgold]HD 1080p  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/UpBZ2.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]End Of A Gun 2016[/COLOR]</title>
+<link>https://uptobox.com/x609s64xyb12</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNzEzODIzNF5BMl5BanBnXkFtZTgwNzk2NzU3OTE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]England Is Mine (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=USchClpEGEU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ms76tryb0j9o.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/bqormkdy7l3y::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ek2hmcz37a::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWQ4Y2U5YjEtMTY5Mi00NDhjLWE4MmItNzFmZjM2YmMxMWU5XkEyXkFqcGdeQXVyMjY5OTA3NjM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Enter The Warriors Gate 2016 BDRip[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=tb36TnvEVUA::LISTNAME:[COLORwhite]TRAILER[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/xf9o7a1qhuux.html::LISTNAME:[COLORwhite]LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/v4XeohKm.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Equals 2016[/COLOR]</title>
+<link>http://uptobox.com/836eh3bjm9y4</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg3NTQ5MDU3OF5BMl5BanBnXkFtZTgwODc2Mzk5NzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Equity 2016[/COLOR]</title>
+<link>http://uptobox.com/qcmcytil0l5c</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3Mjc3NDY0M15BMl5BanBnXkFtZTgwNDUxMjExOTE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Erasing Eden 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/wd4b3sj4ougd::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA0ZWY0OWMtODdjYi00OTdkLTkyZTItNmI0NTQ0NjVhYjI2XkEyXkFqcGdeQXVyNjg2NDA5Mjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[COLORwhite]Eric Ernie And Me 2017[/COLOR]</title> 
+<link>
+sublink:LISTSOURCE:http://vidto.me/p35qotyamf4m.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/rkamlsmfsdqrlbll/Eric_Ernie_and_Me_2017_WEB-DL_x264-JIVE_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://ichef.bbci.co.uk/corporate2/images/width/live/p0/5j/63/p05j6339.jpg/624</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eruption: LA (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=40czR0dzzA0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/nxu6qmt98c53.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/75i3df1s7cz5.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pkleekosflonbepa/Eruption_LA_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3knwgcni45fm::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5nq4vm1yy7::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDQ5YjQ1ZGMtMDhiZi00YTc3LWEwZjEtODA5ZTEwM2FkOTNkXkEyXkFqcGdeQXVyMTYwMjMwOA@@._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Escape from Cannibal Farm (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=GAOY543u5Nk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/s7gjren8oke8.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/baplqslossqntlbp/Cannibal_Farm_2017_1080p_WEB-DL_AC3_H264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nnpcmqndffdscrbs/Cannibal_Farm_2017_1080p_WEB-DL_AC3_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?iavr3dzmpt::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/pbszchz8ojmd::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjA5OTQxYWYtMTdlNC00YmJhLWE0MzctNzU5NTVhNjc3MjkxXkEyXkFqcGdeQXVyMTA3OTQ3NQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Escape from Ensenada (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=HiiTCzg30oc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/l9qd1tpv7qnn.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/llellmabsttableb/Escape_20from_20Ensenada_202017_BDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTYxZTczYjktYTNiMi00YTBhLWEwODgtNmMwODUxNDU0ODkxXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Escape from Mr. Lemoncello's Library (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=M1nOp0Poom4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/bnptr3j0vyj0.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/felrslrcmbmknsts/Escape_from_Mr_Lemoncellos_Library_2017_1080p_WEB-DL_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oh8g3t0os529::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGEyYTM4NGQtYzM2Ni00Mjc2LTg3ZWMtYWQ1MWE1MmVmN2M3XkEyXkFqcGdeQXVyOTY2MzE5Mg@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Escape Room (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=QDpTNRjVCfg::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ryiedtqd1fry.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3clkxtennp::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0vymmcbwrm7l::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0l624swr7ef5::LISTNAME:[COLORgold]1080p  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?y322ub3c4u::LISTNAME:[COLORgold]1080p  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2ZjMjEwMjktOGU2NC00NTdiLThhNDEtOTEzZjlhY2RhNTJhXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Espionage Tonight (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=B9-IGcUpjSU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/fc87vmh1leju.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/85kwbgz0fytw::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?r7g0g1t0o3::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/vwM9et3b.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Essex Spacebin 2016[/COLOR]</title>
+<link>http://uptobox.com/z9luaa7qo8ow</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGMxZWUxYTctNDNiNi00MWU3LWE2ZjAtZDIyN2NjY2NmY2E4XkEyXkFqcGdeQXVyODk1NjQ3Mw@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Essex Vendetta 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/67yryook2doh::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/zv36d1985eet::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTA4MTUzMzU1NV5BMl5BanBnXkFtZTgwNDkxMDA5NzE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]E.T The Extra Terrestrial 1982[/COLOR]</title>
+<link>http://uptobox.com/jmr0896aoxgy</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc1NTQ0MTUyNF5BMl5BanBnXkFtZTcwMDYzMDU2Mw@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Evans Crime 2016[/COLOR]</title>
+<link>http://uptobox.com/7u3cf8vtlce6</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTMzMTYxNTU2OV5BMl5BanBnXkFtZTgwMTE4NTY0NjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Even the Rain 2010[/COLOR]</title>
+<link>https://uptobox.com/jrgqaepzw5aw</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NjcxMDYwNl5BMl5BanBnXkFtZTcwNDUxNTE0NA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Everest 2015[/COLOR]</title>
+<link>http://uptobox.com/uwolevoel624</link>
+<thumbnail>http://www.mydownloadtube.com/poster_image/detail_page_poster/movies_poster_1450248329.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Everlasting 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/k5b92y4m1xgm::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/dit488aa1rsw::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MzY0OTMwOV5BMl5BanBnXkFtZTgwNjk5ODk2MDI@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Everybody Wants Some!! 2016[/COLOR]</title>
+<link>https://uptobox.com/w77ub9idxt4m</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1_SY1000_CR0,0,642,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Everything Beautiful Is Far Away (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=yUuBBIeoIR0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/qrkcdni0binz.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/entmcnpkcblreelp/Everything_Beautiful_Is_Far_Away_2017_WEB-DL_x264-FGT_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6i0817xr80p0::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2d007uhqbp::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/orakeormqbntctpe/Everything_Beautiful_Is_Far_Away_2017_720p_WEB-DL_XviD_AC3-FGT_avi::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z65a12arzz::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lunjnrpb9293::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzk2ZjQxNGItMWU3ZC00ZTMwLWJlZGMtMDEyYmM4MmQwN2ZhXkEyXkFqcGdeQXVyNDc3MzAwNjI@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Everything, Everything (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=0LyEE7eR0nM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pb80zw8jtt::LISTNAME:[COLORwhite]SD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/n2z4denkaq6d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/f7j2jljhwa2r/everything.everything.2017.bdrip.x264-geckos.mkv.html::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?i751y8t1js::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/kr5f6ddx1l2b::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMTE1NzQxNF5BMl5BanBnXkFtZTgwNjcwODY3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLORwhite]Ex-Wife Killer (2017)[/COLOR]</title> 
+<link>
+sublink:LISTSOURCE:http://vidto.me/3izrahl0mixe.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::# 
+sublink:LISTSOURCE:https://streamango.com/f/cnmceoekccsqpfsb/Ex-Wife_Killer_2017_720p_HDTV_x264-CRiMSON_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://shazzmin-estore.com/wp-content/uploads/Ex-Wife-Killer-2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Eye In The Sky 2016[/COLOR]</title>
+<link>http://uptobox.com/mfsbnfzsbith</link>
+<thumbnail>https://goo.gl/pgk2s7</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Executor (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=d23mMxh3NDM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/iuy5kqu56j56.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ch8k7uj8jebe::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTBmZGQ0YjItODNjZi00MTBlLWFjMDEtZjljNzYwNjlhODhiXkEyXkFqcGdeQXVyMDc3ODUxNg@@._V1_UY268_CR12,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]ExPatriot (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=H7fVKptOhaU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/ltkcvncrgc0q.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ddz9r29rsakq::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/7dtmovedtkiu.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/yia9sup0mbqu::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmE3ZTkwMDMtMDI1MC00NmQ2LWJjZTUtMGU5NDg3NmE3YTI2L2ltYWdlXkEyXkFqcGdeQXVyNDYzMzcwNzc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Extortion (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=cr_T1pGT8lw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/wgfykop0hw0s.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/koccit4jrt86::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/huftmt47kfu9.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8lsyqtli1me9::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4MzA4NWEtNTI2NC00MzFlLWIzMTMtMzQzMDVkYjhlZmU0XkEyXkFqcGdeQXVyOTE2MTYxOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Exposed 2016[/COLOR]</title>
+<link>http://uptobox.com/9ncjzp1ny3n0</link>
+<thumbnail>http://www.mydownloadtube.com/poster_image/detail_page_poster/movies_poster_1457748297.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Face 2 Face (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=vgE0aWIojbM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/u45lwymec0ek.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/macqadmrdmpsmosf/Face_2_Face_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r25g7c68wkc3::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODU4OWM1NmItM2RmZS00MWM5LWI1ZjEtOTA2YzFlMjYzNTk2XkEyXkFqcGdeQXVyMjMwNjY1MDA@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]Fair Haven 2016[/COLOR]</title>
+<link>http://uptobox.com/ht480ts68fl6</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MDA0NjQxNl5BMl5BanBnXkFtZTgwNTQ5NzgxNzE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Faith Under Fire The Antoinette Tuff Story 2018[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/esmmofabdeslelel/Faith_Under_Fire_The_Antoinette_Tuff_Story_2018_HDTV_x264-TTL_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/edqaracarkepteeq/Faith_Under_Fire_The_Antoinette_Tuff_Story_2018_HDTV_x264-TTL_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/NWI9mF6K.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fallen 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/0ooaq3cdzc7b::LISTNAME:[COLORwhite]SD  LINK 1 [COLORred]Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2JlYmEwMGMtMWQ2Ny00ODJhLWIzNDAtMGZhOWVmNDc3NDBhXkEyXkFqcGdeQXVyNjQ3NTMwNjY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Falling for Vermont (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=AMIU2iXGPmQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/d47nqszvj3w1.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qedpmonrreqeqecb/Falling_for_Vermont_2017_Hallmark_HDTV_x264_Poke_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTAxNTAxOTYtMGI3OC00ZGE0LWJkZjItZDIwNjYzODllNWU0XkEyXkFqcGdeQXVyMTYwODk0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fall of Grace (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=IMqc1hx9nHw&t=3s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rplcprfklkcsmeka/F_G_2017_WEB-DL_XviD_MP3-FGT_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/spobfcfcmdrfrsfb/F_G_2017_WEB-DL_XviD_MP3-FGT_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/Zj4i8aAuB.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fall of the Krays 2016[/COLOR]</title>
+<link>http://uptobox.com/iy84em5uy0kx</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MTQ1MzEyOF5BMl5BanBnXkFtZTgwODcyNjA2NzE@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Blood (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=tXPrC7eKk1A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/3hmj23kpfrmu.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/q0np06jng5ht.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qcmpcsmmttkqbqoq/F_B_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/3y3l0d7peryn::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?agu8dwfym6::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZWYyOWZkMjgtMzFmZS00NGI2LThiMmEtMTQwYTY3YTU2MGJiXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Enforcer 1979[/COLOR]</title>
+<link>https://uptobox.com/rlgpdnmqw58u</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMTQ0NzM4OV5BMl5BanBnXkFtZTcwMzY1NTcyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family of Lies (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/xgkmnv7ixiib.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/samkcbafddomfknk/Family_Of_Lies_2018_DVDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMTM1NjJmODQtYzRiMS00ZDBhLWIwNDUtMDA5MmEwYTExOTg2XkEyXkFqcGdeQXVyMDYyMTUxMQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fantastic Beasts And Where To Find Them 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/b0vspusnu1js::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/wy761zvrrrp8::LISTNAME:[COLORgold]720p  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/5jpumekgbq6q::LISTNAME:[COLORgold]1080p  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fantastic Four 2015[/COLOR]</title>
+<link>http://uptobox.com/hzpxk867xt4f</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fare 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/icnrrb992uww::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/g1u9khnjs3ua::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2OTYxMTkzNl5BMl5BanBnXkFtZTgwODAzMjEyNzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fargo 1996[/COLOR]</title>
+<link>http://uptobox.com/4fk4or56195o</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDEzOTYzMDkzN15BMl5BanBnXkFtZTgwODkzNTAyNjE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fat Camp (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=pgqj3hnGYxs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/muu63owqqbzx.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kpsfqctrlnpkomkp/Fat_Camp_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/eriABTtFn.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Father And Guns 2 (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=zujShZT8_go::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mprpmafnbenaprde/father_and_guns_2_2017_bdrip_x264-redblade_HC-ESUB_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ffnsqaccndctpcat/father_and_guns_2_2017_bdrip_x264-redblade_HC-ESUB_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/Fk4Zwmx.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fathers Day 1997[/COLOR]</title>
+<link>https://uptobox.com/l0bqdcb8nys8</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNjQyMTcxNl5BMl5BanBnXkFtZTcwMDU2OTUyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Father Figures 2018[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=dFAPfwoXzWI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/qqy7j99tinjt.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/i3yb7740a3ao.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bnalsfmeldrcteqt/Father_Figures_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/82elubz98urs::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sp73yxbskm::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/poalqdmccsqdsblc/Father_Figures_2017_1080p_WEB-DL_DD5_1_H264-CMRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/d3lypeq02ajv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2agg276jd2::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/Y9zj7hH.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fear Of Water 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/pvotf2naxo0o::LISTNAME:[COLORgold]HD  720p LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/z9df4r4q2q7s::LISTNAME:[COLORgold]HD  1080p LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwOTEzNTc4MV5BMl5BanBnXkFtZTgwOTc1OTk2OTE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Feast Of The Body 2016[/COLOR]</title>
+<link>http://uptobox.com/xk2lepwdrxxp</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjM0MWU5NDYtY2FlOS00NTVmLWE0ZjQtZWQxYTYxNTBlYzA4XkEyXkFqcGdeQXVyMjAwODk1OTA@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Feed (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=Q-ml6edaQzI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/x79apvn8n45t.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/k25vslnbbzle::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTJlNmE1MWItNzE1OC00NWRkLTgwMmQtODk4NDY3ZTllNTc4XkEyXkFqcGdeQXVyNjkxMzgzODU@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Félicité (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=-6LC3ys9pqM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/4hvdx1phb7pf.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/4hvdx1phb7pf.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDc0NjRmZTktMTM2MS00ODBiLWFjNDktMjk1ZWQyOWE0OGZmXkEyXkFqcGdeQXVyNTQwMDA5NTg@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Felon 2008[/COLOR]</title>
+<link>https://uptobox.com/jialvt2aoqh7</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5NzE1ODk4OTJeQTJeQWpwZ15BbWU3MDI5NzE0ODE@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Felony 2013[/COLOR]</title>
+<link>https://uptobox.com/awa33w8uz5iv</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmQ3ZTRiNjEtZWNhOC00ZjNhLWFjYzQtODhkMzhkZDg5ZjFjXkEyXkFqcGdeQXVyNjU1MTEwMjI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Female Fight Club 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/vyslt3evbuvw::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWRhNzhlNDctYTMzZi00ZTlkLWExZjItOTVlMTgyM2ViNTlhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI4NjM1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Female Fight Squad (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=_Qfo0AOHKNQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/9rg2qx8keeyf.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/ljpm243pyd61.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/sfikzzrysh19::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5xqe5z4pbf::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/HFKve.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fences 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/jtxtzoq5j5ch::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ds1peyvomh3o::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fender Bender 2016[/COLOR]</title>
+<link>http://uptobox.com/g4web7yljydn</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0YmQzZGYtMzljNy00ZGMxLWI1ZDgtZmUzNjU5ZDk1YTk2XkEyXkFqcGdeQXVyMzMyODAzNw@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fences 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/jtxtzoq5j5ch::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ds1peyvomh3o::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fifty Shades Darker Uncut 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/0yjxr0usnm6e::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/8gbmsr4q58k8::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fifty Shades Freed (2018) Unrated[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=rNftKPy55gI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/4csql7mcwbqr.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/x6dkg853bxez.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/opeecfdbcclrmces/Fifty_Shades_Freed_2018_UNRATED_WEBRip_x264-FGT_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ex135molyvrr::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bvewdi2j9j::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/spkdbamrcoaloots/Fifty_Shades_Freed_2018_UNRATED_720p_WEBRip_XviD_AC3-FGT_avi::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/zjxjdiai7a79::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gtdtays7sc::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fight Club 1999[/COLOR]</title>
+<link>https://uptobox.com/rsdtxnqkv1ur</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzc1YmU2ZjEtYWIwMC00ZjM3LWI0NTctMDVlNGQ3YmYwMzE5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fight Valley 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/6nt07tg5hrvd::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ux4ld80c0lvb::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0MjQ2NDE3OV5BMl5BanBnXkFtZTgwOTYzMTMyODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Film Stars Don't Die in Liverpool (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=43_KLNaEc6M::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/609mwk2fifk6.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/1m1oepr7vxay.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tmnpfpqratlckfrl/Film_Stars_Dont_Die_in_Liverpool_2017_BRRip_XviD_AC3-EVO_EtMovies_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/dfku923dcddb::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ybsaqxqg0i::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nbncrkarncaacodm/Film_Stars_Dont_Die_in_Liverpool_2017_1080p_WEB-DL_x264-worldmkv_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/g4io63ojifc0::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sjpifbbusj::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MDQxODg2NTJeQTJeQWpwZ15BbWU4MDIwODkyMjQz._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Final Farewell AKA See You In Valhalla 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/r93d3tuxu9uv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzMzc3OTQ4NV5BMl5BanBnXkFtZTgwODc2NDMwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Final Portrait (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=e3iFt_lOxIw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/iky1a17pgjdw.html::LISTNAME:[COLORwhite]SD   LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oaqrcmadomsbmred/Final_Portrait_2017_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/tkhyn6yqantq::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ln37w5kk6k::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nelbmbqpmlreodkm/Final_Portrait_2017_1080p_NF_WEBRip_DDP_5_1_H264-CMRG_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/a3ha30cjrvik::LISTNAME:[COLORgold]HD   LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p1h7hjdc6t::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMDc0NTU1MV5BMl5BanBnXkFtZTgwMTcxOTk3MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Fireangels: A Drifter's Fury (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=_JTGX9dh4Cw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/ytrqv865ff83.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/injmvc4shpyd::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTM1OTIwM15BMl5BanBnXkFtZTgwMDE5NTk0MTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fire City End Of Days 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/ielqzfw84e0w::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/chplz15egl94::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMTgwOTY2MV5BMl5BanBnXkFtZTgwNDc2NjE3NjE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Firefox 1982[/COLOR]</title>
+<link>http://uptobox.com/zv23sm665v8e</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2RjZjcxNzktMmU3YS00YmViLWE1MjgtNDYwNGQ5ZjBlNzhhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]First Girl I Loved 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/qcf5p14glmfk::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWE0MWU0NGMtODQ4MC00MDFkLWFmYjEtYzQyNTQ2OWQ4MjJiXkEyXkFqcGdeQXVyNTQ0NjU2OTk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]First Kill (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=NO0fMNOLr1A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+/j48suc26i2as.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/llt46gd1en3b::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+/h9oiu1uto96c.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/v59c9mk5dx4f::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDE1YjU5YzYtYTdmYi00NjkzLThiZTItMTQ5NzMxZTNiMzdiXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]First Match (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=bwOr-qEVPao::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/peletoormbcaopam/First_Match_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/astqelpqdkolcqps/First_Match_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjI2MDMxOTQzMF5BMl5BanBnXkFtZTgwNzIxNzk5NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]First Round Down (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=POSQACT04Ck::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/7618ib3v2yib.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/mh53iw886zat::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/cm2zyafa07yl.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/m3760b46n8v2::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTVkMjlhNGEtZDMyYS00MWMyLThjNjUtNTE1NTFkOTFjYTgyXkEyXkFqcGdeQXVyNTE4MjM5NDg@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]First We Take Brooklyn (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=CRhjKQfB-2A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/j1tk0n7yw2yu.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/crakkmosomdtoabc/First_We_Take_Brooklyn_2018_WEB-DL_X264-CMRG_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/GrVYAw.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fishbowl California (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=2Q-8z_3cqWE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/twuzsf72mnr3.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/i70gzmzj7prv.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pecfkbdecffpecof/Fishbowl_California_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dp4putipr07t::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4yob0nngx7::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjIwMDYzMzc4Nl5BMl5BanBnXkFtZTgwNjgzMzQwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fist Fight 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/hjo1d0lcgnj6::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/b1zxhc5ovyq0::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/s15lb24zups6::LISTNAME:[COLORgold]1080p [/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fixed (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=_BVkYqhVxP8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/dtyj4954v7k3.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/1t2rirxj23as.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cseabrcpepntqtfc/Fixed_2017_BluRay_1080p_AAC_x264-MTeamPAD_EtHD_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mz9oecjjpxmp::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mfez9bpd5h::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/norqptcrcrserond/Fixed_2017_BluRay_1080p_AAC_x264-MTeamPAD_EtHD_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dh9e626yz6ae::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s1gpdmq9h2::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWUyODM1YzYtNmI4Mi00MTBhLTk4MDgtZjVmZGI5OWFhMzczXkEyXkFqcGdeQXVyMjE1MTYwOA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Five Nights in Maine 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/qyv2v2lakz49::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NTAyMDc2MF5BMl5BanBnXkFtZTgwMjExNTYzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flashburn (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=JFHS_56Lv9I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/8wom2899en5w.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aokmnmtnocpmdtke/Flashburn_2017_1080p_WEB-DL_H264_DD5_1-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDBhMjI2N2UtOGI3YS00YWYxLWExMTAtNDYyNGFhYTc5MWVlXkEyXkFqcGdeQXVyNDg3MTQxOTg@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flatliners (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=gUDV0CUzG0k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/5319pzhwf8rb.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qlkpenerqlrknlmt/Flatliners_2017_BDRip_x264-GECKOS_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/v34wrwnbxus4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?luzdvkjwo1::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/klqlotcfkscqdmor/_movcr_com_Flatliners_2017_720p_BRRip_-_x264_-_AAC_-_ESubs_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jldupcokpz::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/p6mozihfzcnk::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/kn1ibvkx7yac::LISTNAME:[COLORgold]1080p  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5iqh9t0nmw::LISTNAME:[COLORgold]1080p  LINK 2[COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMTk2ODk0NDNeQTJeQWpwZ15BbWU4MDMxNTExNjIy._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flesh and Blood (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=owb0FH90Ugw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/td67gup8eze1.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pknropaolatromcd/Flesh_and_Blood_2017_HDRip_x264_AC3-Manning_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/207i575hv74y::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dnf5bpzxle::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmNiYzc2NzktMWZiNi00NTliLWJiNzUtODIxN2JkN2Q4OTdiXkEyXkFqcGdeQXVyMjQ1NDQyNjQ@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flint (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/bu8tdnwcjpav.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nfeptkamaqncnbdc/flint_2017_480p_hdtv_x264_rmteam_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://tvcrimesky.com/wp-content/uploads/2017/10/Flint-lifetime-movie-josh-sanburn-article-the-toxic-tap-based-inspired-true-story-flint-michigan-water-crisis-film-2017-2-700x437.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flowers in The Attic 1987[/COLOR]</title>
+<link>https://uptobox.com/gsqh0ytmm3fe</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NDA1NTc3MF5BMl5BanBnXkFtZTcwOTkwNzczNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flowers in The Attic 2014[/COLOR]</title>
+<link>https://uptobox.com/ibh702agko76</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzk4MDk4MV5BMl5BanBnXkFtZTgwNjg5ODY5MDE@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flowers in the Attic 2: Petals on the Wind 2014[/COLOR]</title>
+<link>https://uptobox.com/cvxj9latxinc</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyNjI2MTczMjdeQTJeQWpwZ15BbWU4MDA3MTcyNzEx._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Folk Hero And Funny Guy 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/sg47t81vacl0::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/2jrt4in8idxw::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/4Xxi.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Followers (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=MerqCnLvlNk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/hqmlyfy964fp.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/8j2z6mz8sxhd.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BYTNkOWIwZDYtNDNkZi00MWY1LWFmYmEtNThiM2M5Y2QyNGRhXkEyXkFqcGdeQXVyNjIwMDc1NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forced To Kill 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/vxjdupnxm7j7::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/z4nj42duafi7::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/h0xEGswW3A.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forever 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/qbhpxgml2789::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/v6uvwi8mueb5::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+</link>
+<thumbnail>http://img.rlsbb.ru/images/PqZFyxE3w.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forever My Girl (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=3vqcMr1q5Uc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/x7ywsjox0qd2.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/9bxzhzz4b4rj.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/neqlqfcqlklrfkqd/Forever_My_Girl_2018_HDrip_AC3_X264-CMRG_N1C_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/jvj2dirovkop::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gt7560xjqu::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cmkomlraropofsba/Forever_My_Girl_1080p_WEB-DL_DD5_1_H264-CMRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/jicn796z8v7x::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6y6uubhwzh::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link> 
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjAwNTA5NTYyNl5BMl5BanBnXkFtZTgwMDIzMzA2MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forgotten (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=fh899UbMhOE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/98m7i1u4nldm.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/cb2sq36wzrcv.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGQ1YzU3MTktZjliMC00NmEyLWEzMjUtYmZmYjY5NTJiYjEwXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SY1000_CR0,0,695,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forgotten Evil (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=nLJK0txvpbQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/nrafve0k0m6q.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ck4wvalo4u49::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGQ3MWUxOWQtODAzMi00OWJhLTkxM2ItMjBkNzYzNGZiZWI5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forsaken 2016[/COLOR]</title>
+<link>http://uptobox.com/9whiik067b59</link>
+<thumbnail>http://www.mydownloadtube.com/poster_image/detail_page_poster/movies_poster_1477895506.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Found Footage (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=Dcm4RPfnVBQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/vhukrg7x48d9.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oqfskbfoltlenerf/Found_Footage_2016_Forced_Engsub_WEB-DL_x264-FGT_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?v3v52qvzdh::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNjcxMzE5MF5BMl5BanBnXkFtZTgwMzU3NDc3OTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Four Lions 2010[/COLOR]</title>
+<link>http://uptobox.com/mrg4bilc9fy6</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNDQxNzI0NF5BMl5BanBnXkFtZTcwNDM0NzEwNA@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fracture (2007)[/COLOR]</title>
+<link>https://streamango.com/f/bnafotnpqbtqqfat/Fracture_2007_720p_Fracture_2007_720p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzIzNjQyMzkwM15BMl5BanBnXkFtZTcwOTg5ODQ0MQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Frank And Lola 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/neo9fy4gshhh::LISTNAME:[COLORwhite]STANDARD DEF [/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTAzMDQ0NF5BMl5BanBnXkFtZTgwODk3NTkzMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Framed by My Fiance (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/a4gxn63crji4.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/50hbcadcew8b.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODcwYjAwNDItYzhhOS00NTRmLWI2NzktYjEzMjBkM2U5ZTQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Framed For Murder A Fixer Upper Mystery 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/n8iioadllacu::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/r5SbE4W.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Freak Show (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=g3T1K-hI-9c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fbcmmbrrntfbmnsr/Freak_Show_720p_WEB-DL_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/capmqbspteedetcf/Freak_Show_720p_WEB-DL_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMjI5NzQxNTVeQTJeQWpwZ15BbWU4MDY0MTIzNTQz._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Free Fire (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=csH3FUfRiSg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/30a7ewm1bkwh.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/6fy6bqcozpeh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/we2dbd7z3w4y.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/6j6encvimk8m::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOWZjMDVhMDgtMTljZC00NmM0LWE1ODYtNGZmMGRhZTc3MTg2XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Freehold (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=CBmkkf8uv3g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ygy0kk6qmgex.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/3vzh12xybzrd.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kdoatbndlaocflmc/Two_Pigeons_2017_BRRip_XviD_AC3-XVID_avi::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/45u4g64bnfi6::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8ol2youk4c::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZDZlMzQ1YzEtOWVhMS00MWQ5LWE2MTYtODVjMWRkYWY3YjE2XkEyXkFqcGdeQXVyMTIxNzk0MTY@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Free State Of Jones 2016[/COLOR]</title>
+<link>http://uptobox.com/plimjto767dy</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSpaewqovU9VEqEIWAGfQMmuV2sxwQT0MGJVz0Oglp6UM4d_R3I</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Friends Don't Let Friends (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=uYhESrUZGw4::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ng7glapankdj.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lkptocclkdqbmbor/Friends_Dont_Let_Friends_2017_BDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/kdxtthaa3yln::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vvehyxpl2a::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/HjLFowe.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]From Hell to the Wild West[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=-3roJEwVqWs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/4bqi2x5rqzqh.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/wjvic2yqjxrh.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kafmbkddtmsftkod/From_Hell_to_the_Wild_West_2017_HDRip_XviD_AC3-EVO_EtMovies_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/1ebc7rtsjltv::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7ak39nwsp4::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDBlYmI3NjktMTBlMS00MjU4LWEzMTgtYWYyMTY3ODgwOTAxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]From Straight A's To XXX[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/ujxhwmr89edn::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/68k4e74524ci::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzAzZTliMzAtYzIxNS00YzczLTgyNDktNTdjMWJjOTk5ZWFhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Frozen in Love (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/98jhscwxrmvb.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/anmmmrkklntpsaqp/Frozen_In_Love_2018_HDTV_x264-TTL_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTZlZTA3YTgtNmVmNy00ZGMzLTk5YzctYmI4Y2ZiNmU0MWU4XkEyXkFqcGdeQXVyODA4MzkyNjM@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]F*&% the Prom (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=CLWrLZMyzhU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/6jf0u66ch71n.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/feofelnnqemsmaak/Fuck_the_Prom_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kyvoa4g4toz5::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fkytsfm0i5::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWEwMDUzNzctMmZkZC00NzY3LWJhZWYtNDA4NTQ3ZmUxNDBlXkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fullmetal Alchemist (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=NSy2NzKK-8A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/vd6lw7841bru.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kalrkresqbfbfflf/fullmetal_alchemist_2018_web_x264-HC-ESUB_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmUwNDBkMGItOTJlMy00ZDY0LTk1N2UtMGQ1MzVjNTgwNzI5XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fundamentals Of Caring 2016[/COLOR]</title>
+<link>http://uptobox.com/i12pmckeb8f6</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTA1Mjc4ODI0NzReQTJeQWpwZ15BbWU4MDQ3MzAwMjkx._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fun Mom Dinner (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=3AkVZJoBXg4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/lwmm1ukpygxd.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?k4umab1tos::LISTNAME:[COLORwhite]SD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ywjwtidw65hs::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWRhOTcwMGUtYzAwYi00Y2E2LTgyZTQtZjdjM2Y4YTE4ZTZiXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Funny Farm 1988[/COLOR]</title>
+<link>http://uptobox.com/d42rzbyr2grk</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4MTAwMzM2Ml5BMl5BanBnXkFtZTYwMjQwMTY5._V1._CR33,21,273,431_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Furlough (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=KUzhD_wYgFg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/rcz86gkucp4k.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/2v9zink98uvx.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/asbtlappcrqbarfr/Furlough_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/plzghfrhd0x2::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xbyutpc92w::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cplfkrketscpkbol/Furlough_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/2moon9l51zre::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sz0l0mx7xt::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMDhiZTFiNzYtNWUzYy00ZWIzLWFkNGMtOWVmZWJjNGJkNDliXkEyXkFqcGdeQXVyMDU3NTkzOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fury 2014[/COLOR]</title>
+<link>http://uptobox.com/9k7h36xheou5</link>
+<thumbnail>http://i.imgur.com/MfHcReS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]GadgetGang in Outer Space (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=::LISTNAME:[COLORorchid]SORRY NO TRAILER[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/pezbpzspnf3z.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7llqv9jyi8tv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/6jbiebmyq5fs.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dia5d1r9l83l::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2M1Y2U1NmQtYWFlYS00YTJjLTgwZmYtY2M4YWU4YjgyN2FiXkEyXkFqcGdeQXVyMDc3ODUxNg@@._V1_UY268_CR12,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Galaxy of Horrors (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=8nA0sZeyNOE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/bp906nblsykq.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kmosllckncaslntf/galaxy_of_horrors_2017_dvdrip_x264-spooks_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1i9ja282ov2p::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MjIyNDU2Ml5BMl5BanBnXkFtZTgwOTAwODkzMTI@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Game Night (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=qmxMAdV6s4U::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/129yqzmkziom.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/m996427lbaxj.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pteeslkdlapnsqbf/Game_Night_2018_BRRip_XviD_AC3-XVID_avi::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/png61cu9yxt9::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2b5obyjhfc::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/faplsdpfnmssdfde/Game_Night_2018_1080p_WEB-DL_DD5_1_H264-FGT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fgzev1kufz25::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1kdh0lcyt2::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLORwhite]Game of Thrones Conquest and Rebellion 2017[/COLOR]</title> 
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ldneroatnoacarmr/flame-game_of_thrones_conquest_and_rebellion_2017_1080p_bluray_x264_mkv_mp4::LISTNAME:[COLORwhite]E09[/COLOR]::#  
+</link>
+<thumbnail>http://img.rlsbb.ru/images/87wRQDp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Game Over, Man! (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=2Imr9gL8_Qs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/qenb9e8e48r3.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/baadncfnnmltesqf/Game_Over_Man_2018_HDRip_AC3_X264-CMRG_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mrbaoflecsfpapkl/Game_Over_Man_2018_1080p_NF_WEBRip_DD5_1_x264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/jofrx8e7fb0j::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5zr9b3kwcr::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMTUxNjI4MDU2OF5BMl5BanBnXkFtZTgwMDAzMzA1NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gangster Land (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=lRmOo5fDACo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/z797djiwr5n4.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ttctpbmkllfaqaqt/Gangster_Land_2017_WEB-DL_1080p_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/anmneatbtebfbkfo/Gangster_Land_2017_1080p_WEB-DL_DD5_1_H264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jcr62iw5ph::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/8aauxa4iaq3k::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTkzNzgzMGEtZjM1OS00MDVmLTk5ZmEtNjg0NjI1YWRlMGIwXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Genesis: Fall of the Crime Empire (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=PfI2EKU3dBA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/p2llvu3ia7tq.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ny9ecd6rm2cs::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3MGExZDMtZDRjYi00NDlmLWIzMjAtZWRhYzgzMjJhNjFkXkEyXkFqcGdeQXVyNDg4NjQwODI@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gangsters Gamblers Geezers 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/2pqd2m7t85jq::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzBjN2I2YzgtMmRmYi00YTRmLWEwZDYtOGZjMjY1YWU4NWZlXkEyXkFqcGdeQXVyMTQyMzQ2Njg@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Garage Sale Mystery Art Of Murder 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/e3sxejq5baxp::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/agE8Z5yXDW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Garage Sale Mystery The Beach Murder (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=zuNBa8Dx_9A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ldmnbkpertnfcprd/Garg_Sale_Mystery_The_Beach_Murder_2017_Hallmark_HDTV_x264_Poke_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/2GXHctkap.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gathering of Heroes: Legend of the Seven Swords (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=By-hWl4eGpo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/wddzxo8nm9z2.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lrqbtmdeosbqdkkq/Gathering_of_Heroes_2018_WEB_x264-FS_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjAxNTU4ODQ3OF5BMl5BanBnXkFtZTgwNjY4ODc0MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gattaca 1997[/COLOR]</title>
+<link>https://uptobox.com/ov9sl0jms4cd</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDQxOTc0MzMtZmRlOS00OWQ5LWI2ZDctOTAwNmMwOTYxYzlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gehenna: Where Death Lives (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=seHmt6YwVH0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ei20y6mjbb1j.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/rsx8xi7yu1xe.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nnampbmrbsemtlpt/G_W_D_L_2016_HDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/a1kw7t3lltcc::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bikzg10lqq::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BODYzMjQ5ODg3M15BMl5BanBnXkFtZTgwODUyNTc1NzE@._V1_SY1000_SX707_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Genesis (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=uKJk_YdWvr0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/kisu2kpcjipf.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/72yrnknp1cmz.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bslpdrdkodlqefkl/Genesis_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/j70grh71y175::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?d0l7cwtkgh::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lektmfflstsmerda/Genesis_2018_720p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/hoeftssqy6p4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yzod6anjk8::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZTczNGE3NTctMWIwMy00NjgxLTk3NmItYWQ1Yzg0YjVlMTViXkEyXkFqcGdeQXVyNDgyMjg4Ng@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Genius 2016[/COLOR]</title>
+<link>http://uptobox.com/l300wdobi1eh</link>
+<thumbnail>http://img.sceper.ws/thumbs/DosCv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Geo-Disaster (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=40Hu847l_ww::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/sr1g0st5xatr.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/taporbmbafcdcmbn/Geo-Disaster_2017_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/y7kvyla90eeq::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qojrb3eioc::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/BVEAHGOj.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Geostorm (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=FStnSqKi9KI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/00w7wpriwjr3.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/slemmppmaptkbrqc/Geostorm_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/0v6hx7at7bxp::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zahlyiadgs::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kppocnqdflfcbkrs/Geostorm_2017_1080p_WEB-DL_X264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nuryrk8zfi::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/q64deavyixs8::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gerald's Game (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=3vqClccReXQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/7zp2m1342n46.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5lkl7cga9rt0::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yrnt2pfv2p::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?i7283ytdw4::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/pt6i2gyiv8f7::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Get Back 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/buar3ollfcp2::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODcwNTE2Njg1NV5BMl5BanBnXkFtZTgwODA5NDEzNDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Get Hard 2015[/COLOR]</title>
+<link>http://uptobox.com/xqv5kt4jcv3p</link>
+<thumbnail>http://i.imgur.com/F3KxXiv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Get Out 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/gdx9194fgfhg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/48ad85xty5o6::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/71ojqug4xuct::LISTNAME:[COLORgold]1080p [/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/H1BWCtFGdq.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Get the Girl (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=XlypFgK9TII::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/19ph3j8l3yn7.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/8nxo9mqjom5t::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/mxqak4esqg8w.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/cz4iq9ohdd9j::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODVkZTdlY2ItYmEzNC00ZmI3LWI4MzAtZGVhMGFhN2ZlOWU1L2ltYWdlXkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghosbusters 2016[/COLOR]</title>
+<link>http://uptobox.com/6phoo4qradch</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3OTM4NTM4NV5BMl5BanBnXkFtZTgwOTI3NDc0OTE@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghostbusters 1984 REMASTERED[/COLOR]</title>
+<link>http://uptobox.com/z7p8m5tg124r</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SY1000_CR0,0,650,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghost in the Shell (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=sEDctELIm3I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/rwhhvmy33fz6.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/w19ztt2y80me::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/0npjd2ajh8ud.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/w633mmzy0gc6::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghost House (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=U9WvN8WVtrw::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/spi093olcfmn.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zo3jlxb3yct7::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?40385ku58u::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mu8x04bla7::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oco0nka8mw7u::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTkyMjRkMzgtMzAyMi00ZjI4LThhYjUtZTlmYzQwZjI1Y2YxXkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghostmates 2016[/COLOR]</title>
+<link>http://uptobox.com/0gehwntn1aq2</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExODE0NDc4NTZeQTJeQWpwZ15BbWU4MDAxODMxODAy._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghost Note (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=HVbJU6_SGrA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/l9k3heltriwf.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/02v4jpbf9xhp.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/eoaddkbtaqrndrpr/Ghost_Note_2017_WEBRip_x264_aac-FS_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWU0ZGZlMjMtYjJmMC00MTg2LThlMWQtOTg1MzY3ZThkYWI3XkEyXkFqcGdeQXVyNTY2ODUzNg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghost of Camp Blood (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=lJMgjGGNboI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/1t3o95gls8t5.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/c3rvv2d6sn7h.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZjRlZjgyMGQtMjYzYS00NDg2LTlhYWQtOGFmMTVhMjljZmQxXkEyXkFqcGdeQXVyNjkyMTgwNjE@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Giant (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/mpj8xp31wgiz.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/q4pksm94p7de.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTFmNzVlZjQtNGZlZS00ZjFjLWI3M2YtYWY5OWFkNTgzN2IyXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,702,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gifted 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/su61264h46ce::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/oq0pgxoz4rai::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/FR5YGNST.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Girlfriends Day 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/v6u8rfldekm2::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTVjYWQyZWUtMWI5ZS00NDEwLWJjM2ItZTlmNGJmNDViMTU2L2ltYWdlXkEyXkFqcGdeQXVyNjE4ODA3NTY@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Girl Asleep 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/rj1zcn26dpw9::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MjczMDgzMjZeQTJeQWpwZ15BbWU4MDU3OTk2Nzkx._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Girls Trip (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=7jE61BzKmgQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/mc1arqtdcm0h.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/8ok7ly6r66nv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1qeb3ckw1o::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nobetrh116::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/b8ilx2dkqovo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNTEzODUwMV5BMl5BanBnXkFtZTgwNjE5NjA5MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Global Meltdown (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/tmpgqz179nw5.html:LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/v9vl1xjggnlw.html:LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ndrnaofnmdbpokol/Global_Meltdown_2017_720p_HDTV_x264-aAF_mkv_mp4:LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/Ef3TWPopw.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Glory 1989 REMASTERED[/COLOR]</title>
+<link>http://uptobox.com/stux4bv0uw0c</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNTc2MzU1OV5BMl5BanBnXkFtZTgwNDQzMzcxMTE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Glory Day (2016) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=1l07KEW-OWE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/itelaxn6efi0.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nlfrmqbdsqcpldcp/Glory_Day_2016_ENGSUB_BDRip_x264-killerHD_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzU0OGZjOGItNGVlMi00YWY2LWE2YWUtYmNkYmY5ODA3NTc0XkEyXkFqcGdeQXVyNTQ0NTUxOTA@._V1_SY1000_CR0,0,698,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Goat 2016[/COLOR]</title>
+<link>http://uptobox.com/d53pk23it5yn</link>
+<thumbnail>http://img.sceper.ws/images/fkyOa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]God of War (2017)Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=pQ6xZ_Om2Mo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lcdkptpdlaoptfcm/God_Of_War_2017_720p_BRRip_MkvCage_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pbkpeqnmmmbncbrk/God_Of_War_2017_720p_BRRip_MkvCage_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmQ5MjE4NDgtZjAxNC00MDVhLTlkNWQtZDNlYTU5NTA5NTM3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_SX701_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Gods Not Dead 2 2016[/COLOR]</title>
+<link>http://uptobox.com/ugn1i1c0su9h</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjIxNTExMDk4NF5BMl5BanBnXkFtZTgwODM0MDczNzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]God's Own Country (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=q1YAhyU6-tA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/wvpsttjvdoee.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/omgznjr9pgx2.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ftebromcplsnlded/Gods_Own_Country_2017_BRRip_XviD_AC3-EVO_EtMovies_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/bhadpvof3u6q::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?e29fjxynxi::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/5296pm10j8vd::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hpjcwlqajc::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjRhYzk2NDAtYzA1Mi00MmNmLWE1ZjQtMDBhZmUyMTdjZjBiXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Godzilla: Monster Planet (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/fyzc604ew0lv.html::LISTNAME:[COLORwhite]SD   LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mokfmopemcbqcqpm/Godzilla_Monster_Planet_Part_1_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODhiZDk1Y2MtYjBjMy00NGJlLWJkMjEtZTMzZjliOTM1MzFhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjgyNTMzMDk@._V1_SY1000_CR0,0,645,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Godzilla Resurgence 2016[/COLOR]</title>
+<link>http://uptobox.com/ozuk68xbrmvc</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDA3NWUyYWMtYzM2Zi00M2EyLTk4NTAtMGQ5Y2M1NTdiZGE4XkEyXkFqcGdeQXVyMjA2MDg5MDE@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Going in Style (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=hcdTN5soeQw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/wj6z0arb8x6y.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/r1wz9fye9emk::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/l0eso5s204sc.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/jxs3hb04682j::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Going Off Big Time (2000)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/fmtnmfokcdoframr/Going_Off_Big_Time_2000_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNTA2NjY1OF5BMl5BanBnXkFtZTYwNzAxMzg5._V1_UY268_CR96,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gold 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/inpvdqecqa2t::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ek998u5bokgr::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjEwNzMzMDI4Nl5BMl5BanBnXkFtZTgwMTM2ODkwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Golden Exits (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=c5a1-oX58lw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/i3y5wyf8h2gi.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/1gia6pudg0ko.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTUxMzk2OF5BMl5BanBnXkFtZTgwODI5MjU3NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Golden Years 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/n2gdb98cbyjx::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/3FSzjs9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Goldstone 2016[/COLOR]</title>
+<link>https://uptobox.com/gkjr2nic3uvj</link>
+<thumbnail>http://img.rlsbb.ru/images/2srwkaTN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Golmaal Again (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=AATS5ZnzCP8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/fk7nqvf16tcw.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mmasfrmeamcaoqkd/Golmaal_Again_2017_720p_DvDRip_x264_AC3_hc_eng_subs_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmI5Y2JkNzUtNWJkZC00OTE1LTg3ZDItMjQ0Mzc1MjdhMzhiXkEyXkFqcGdeQXVyMjQwOTU5NTg@._V1_SY1000_CR0,0,690,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Gone Are the Days (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=rNy2XLAJDj4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/vf7wzkj2p4pk.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/ouxiym5gcrnn.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ebmmsqbreoncctps/Gone_Are_The_Days-2018_BRRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/m8mqtgvt1ywa::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?t7x0i4wq4z::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZTU5MDc0NTAtZjRiNS00NTgxLTgzOWMtYjg5ZWNmM2Y4Mzc4XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Go North 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/u8nalr0g9hjw::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/hPY6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Goodbye Christopher Robin (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=IsAlKzokl-8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/aq849s93kcrf.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/seasaoqpepcknmrl/Goodbye_Christopher_Robin_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/94dgktq7gub1::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3ozoqd6efv::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pqenfsonffqeftel/Goodbye_Christopher_Robin_2017_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7n5jjxrxm3::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/wcrmqjtamg6x::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MTUzMDQzNF5BMl5BanBnXkFtZTgwMDYxMDQ1MjI@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Goodbye, Mr. Chips 1939[/COLOR]</title>
+<link>https://uptobox.com/lfi0ugqtomwr</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzU2NzIwMjc5Nl5BMl5BanBnXkFtZTgwMDAwMTAyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Good Kids 2016[/COLOR]</title>
+<link>http://uptobox.com/2eeoyob0w0nq</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3NjMyNDgzM15BMl5BanBnXkFtZTgwOTA5MDExMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Good Time (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=nrR-SbCRgCU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/7janohto1tuy.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ein4n6s27ef9::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z86tt3leq7::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/eqqaeancfsodmeno/Good_Time_2017_720p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0cblql0gh4::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/vo32b6037czo::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGQ3Y2VjNmUtMDdiMC00YTE1LWI5NmUtZDIzMTJmODQyNDU4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gook (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=6Duh20o-qWs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/nwdtbgcojqcu.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/flllqkfdlcpqepqa/Gook_2017_BDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2E1ZmQ2NmEtMWJhMi00ZGI2LWJkZDMtZjQ0ZDMyZDEwZjk2XkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Goon: Last of the Enforcers (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=ZIMiohEiMZA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/caft089o0val.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/4g7qau82poa5.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?n1n8elgce0::LISTNAME:[COLORgold]HD 720p  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jzagj63j14u3::LISTNAME:[COLORgold]HD 720p  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aefepfafselobtea/Goon_Last_of_the_Enforcers_2017_720p_HDRip_x264_AAC-N_O_K_mp4::LISTNAME:[COLORgold]HD 720p  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hr0oph4fym::LISTNAME:[COLORgold]HD 1080p  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/40hh7shn0ppu::LISTNAME:[COLORgold]HD 1080p  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTYxNzk5NzM3OV5BMl5BanBnXkFtZTgwMjEzOTc4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]Gone Girl 2014[/COLOR]</title>
+<link>http://uptobox.com/u1jn2fuj749y</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gone in Sixty Seconds 2000[/COLOR]</title>
+<link>https://uptobox.com/ljo0epv69v06</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Good Kids 2016[/COLOR]</title>
+<link>https://uptobox.com/av8naeq9ewy0</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3NjMyNDgzM15BMl5BanBnXkFtZTgwOTA5MDExMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Good Morning Vietnam 1987[/COLOR]</title>
+<link>https://uptobox.com/agvrqpzffiol</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMDExNzk4MV5BMl5BanBnXkFtZTgwODc3NjIyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gords Brother 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/xuqd5up58n85::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjNlOTI2MjItNzk2Ni00OGRlLWEwNTYtNDU4ZDJhNGZhNDdjXkEyXkFqcGdeQXVyNjUzNTg4ODM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Graduation (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lmlksbcanopqdfns/Graduation_2016_1080p_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxNTAwNzk5MF5BMl5BanBnXkFtZTgwNDY3NTM3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Grandpas Great Escape (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/nnfeslscdoqfcdtf/Grandpas_Great_Escape_2018_HDTV_x264-RBB_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/cXfWqTC3.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Granny of the Dead (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/s75kju7janme.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/gijzmx3o4q6n.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/lkz4890uxo6a::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1qx9th2cz8::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmIwNTY4YTYtNTIyMS00ZDAyLTk2ODEtYWQ3NDA3ZTIzNDVhXkEyXkFqcGdeQXVyMjU5Mzk5Nzg@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gray 2016[/COLOR]</title>
+<link>http://uptobox.com/7uwfgvct3a95</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2JiNDkxY2UtYzFhMS00NTg2LWI0OWItODBhMjg3MjA3ZjVjL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Greater 2016[/COLOR]</title>
+<link>http://uptobox.com/sgttiz3r265t</link>
+<thumbnail>http://img.rlsbb.ru/images/J0MQ1VP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Greed: Heavy Is The Hand (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/j5dubig5d6xr.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dmflerscqstsdlfd/Greed_Heavy_Is_The_Hand_2018_HDRip_x264-DiRG_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmU2MzI0MGEtZjExYi00ZDhiLWEwYzUtNjczNjQ4NmZlNmNhXkEyXkFqcGdeQXVyODE4NjAwNTM@._V1_SY1000_CR0,0,709,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Green Is Gold 2016[/COLOR]</title>
+<link>http://uptobox.com/gajqrwepq5sj</link>
+<thumbnail>http://img.rlsbb.ru/images/zIGt5sCkD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Green Street Hooligans 2005[/COLOR]</title>
+<link>https://uptobox.com/zo6bwc6buith</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/36479/p36479_p_v8_ad.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Gremlin (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=Mu3QbZDUl4A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/90fpujbt34qa.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/xpiou501hr68.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://watchmovies-online.is/wp-content/uploads/2017/07/Gremlin.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Grey Agenda (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=oEodQ-_DD4M::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/9xeypok1a24c.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kfokfnaqopdqsmtk/Grey_Agenda_2016_WEB_x264-FS_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDJhMTc5ZTgtOGE1My00MDI1LTk0NWYtZDE2MzNlMTdlMzVhXkEyXkFqcGdeQXVyNzIyMDUxOA@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Grey Lady (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=FCMRSRu0ibo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/yhhw15tux1a4.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/wg087cl02s9h::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/s9p8au6xdaos::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTRjYTgwMWItNjRmNC00ZGI5LWI5OGEtMjRkNzg2MDM3MjIzXkEyXkFqcGdeQXVyNTYwMDQwMTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gridlock'd (1997)[/COLOR]</title>
+<link>https://streamango.com/f/kfkfsnsttokskolk/Gridlock_d_1997_1080p_BluRay_x264-_YTS_AG_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWFlYTY1YWUtOWY1Yy00ODgwLTk0YzQtYTdjMDBlOTcwMGZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Grindhouse Nightmares (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=W7VS0a3cOr4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/197ol71b6qkm.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/ati9lgnssn2v.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ebaoqbldlfbmanml/Grindhouse_Nightmares_2017_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/acgzoqcolpmm::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?j61b1o2bf6::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmU4Y2JkNWUtOTQ1YS00YzEzLWEwZWItNzU4NmM0NWZkMWIyXkEyXkFqcGdeQXVyMTc0ODg5NTQ@._V1_SY1000_CR0,0,777,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Groundhog Day 1993[/COLOR]</title>
+<link>http://uptobox.com/0fujzxt5puey</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTU0MzQyNTExMV5BMl5BanBnXkFtZTgwMjA0Njk1MDE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Growing Up Smith 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/5233ft6frct7::LISTNAME:[COLORwhite]LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/ExCidz0.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Grow House (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=nmlb_7g8SfM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/2amzegxqst6t.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qponqalqmatkrldk/Grow_House_2017_DVDrip_x264-DiRG_mp4_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmI5NDM0MTYtNDlhNi00YTE4LWExMjQtZjk3ZGRhOTE0YTUzXkEyXkFqcGdeQXVyMjI5MDIxOTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guardians Of The Galaxy[/COLOR]</title>
+<link>http://uptobox.com/kt9z8huuqhlx</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQW3LbpT94mtUG1PZIIzJNxmFX399wr_NcvoppJ82k7z99Hx6in</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guardians of the Galaxy VOL-2 (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=duGqrYw4usE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/btqfkelfofkmssfp/G_of_the_G_Vol_2_2017_BDRip_x264-SPARKS_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eyijtv1xnm::LISTNAME:[COLORwhite]SD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/bs6l7b6sh6wi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/v7wngc7lok9b.html::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ctrj87o2lb::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/lg9wry7jpljh::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/bdIVC.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guardians of the Tomb (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=Ffd4Ir20XA4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/gffrm30ksk2o.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dsokmfbnpnbttnas/Guardians_of_the_Tomb_2018_WEB-DL_X264-CMRG_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/pko79noxmvuk::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?707cyuhlik::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ohw65imhzcll::LISTNAME:[COLORgold]1080p  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fmw44h9906::LISTNAME:[COLORgold]1080p  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gun Shy (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=e0mmLQsnd_I::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/f1p8fw3cn3ez.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4venrbrtkbnq::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eshkbvcihb::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDQwNTk2MDk1NV5BMl5BanBnXkFtZTgwMzgwOTUxMzI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]H 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/cd3yo94d1mqi::LISTNAME:[COLORwhite]STANDARD DEF [/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzNDIzMjQyMDReQTJeQWpwZ15BbWU4MDUwODQ0NTMx._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hack House (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=GQAQjn1kBsE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/s0sb8shti3s8.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/m7krh9g8a372::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?752ma1kzbx::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bcn8m7e3ux::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mvtz2gar5a2m::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTYyODFiNDctY2IxNS00N2E4LWIzZDktNTA3ZDBlNzEyNjU4XkEyXkFqcGdeQXVyMTkyMDk3NTM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hackshaw Ridge 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/0ryn08qqkxal::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/e26hyribpbup::LISTNAME:[COLORgold]HD 720p  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/5cucyr5yzich::LISTNAME:[COLORgold]HD 1080p  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hail Caesar 2016[/COLOR] </title>
+<link>http://uptobox.com/bvxy7rwpsx3u</link>
+<thumbnail>http://i.imgur.com/cSVx41P.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Half Magic (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=iONGdtpZujg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/zdo0w21hfcr6.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/8b2ndfyg69af.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lnocktonnoecobrc/Half_Magic_2018_1080p_WEB-DL_DD5_1_H_264_CRO-DIAMOND_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6v4w0sz1d2fc::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f9q76e6qmy::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOWM0NjQzZWYtN2ExZC00MDcwLTkzNGMtZGRmMGJkZGVhZGJmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Halfway (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ommdldeblakprpfq/Halfway_2017_1080p_AMZN_WEB-DL_DD_5_1_H_264-monkee_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nw0q1tbz6l::LISTNAME:[COLORgold]HD 1080p  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMTA4MjQtN2FkMS00YWFhLWJlNmQtMGExMzIyMTJjNTEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDIzOTcwMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Pussy Trap Kill Kill (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=fE-jnqHTkbA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/yvg9nqalcal3.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/rvxdl8kam9yb::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?72d6ib7qm4::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc2ZGM5MTMtOGUxMC00NTdhLWIzM2MtZTE0NWRmMDcxZDVkXkEyXkFqcGdeQXVyNzcxOTk0MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Halloween Tales (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/7twug5ax027i.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/hrctn0l8lsp1::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9pjllnz3qy::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTViM2FkZjctZGE5OS00ZWI3LTljYTMtNjM3N2U0NmNjZGU0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hampstead (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=mcSWi_Oaf6M::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ekbaxna2bdki.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/h4t5ctnr9pw0::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5j4k60fgu3::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dxab9xtgxq::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/a19hybcamvgz::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/ZYPefjxbsU.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hancock 2008[/COLOR]</title>
+<link>http://uptobox.com/d3d6enh6k96k</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hands Of Stone 2016[/COLOR]</title>
+<link>http://uptobox.com/phio5xmb5nbu</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxNzE4ODU1Nl5BMl5BanBnXkFtZTgwMDA4Njk0ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Handsome: A Netflix Mystery Movie 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/uo6pj5va5rnk::LISTNAME:[COLORwhite]SD  LINK 2 (RD)[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/hn1mu9n2pio9::LISTNAME:[COLORgold]HD  LINK 2 (RD)[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/tU1gE.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Hangman (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=CNhLBNG-dUg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/u7dg1s555z55.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/menbatmbksrbmofb/Hangman_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/6gd3avr91oex::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kcfg4b0wh4::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qolcfldnplscdcpb/Hangman_2017_720p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eco0itdwhc::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/xs8w9ljwbowa::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyODA0Njc4Nl5BMl5BanBnXkFtZTgwMTU5MDU5MzI@._V1_SY1000_SX692_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Happy 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:hhttp://youwatch.org/ser5wu4b3v13::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2pgqstwqjdq8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjE4NGIyNjctMDdjMC00M2E5LTk5M2UtYjBlMmNiNTY4OTk3XkEyXkFqcGdeQXVyNjcwNDAwMTM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Happy Anniversary (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=MEUrkjwMq58::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/q7snklmsejvp.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ptksalmnfcdeldps/Happy_Anniversary_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BOGFkM2FmMDItZmU3Ni00ZWNmLWIyMTktODExNjM0ZDNiZjBlXkEyXkFqcGdeQXVyNzQzNDYwMA@@._V1_SY999_CR0,0,674,999_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Happy Death Day (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=1NTaDm3atkc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/hvp2vosho7y8.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ntpdaapfmapbetsn/Happy_Death_Day_2017_WEB-DL_x264-FGT_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/aso20z02jv2t::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?blcma099no::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lebkddfepabbsroc/Happy_Death_Day_2017_1080p_WEB-DL_DD5_1_H264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?evqcwgosgq::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/bjvzbtztmuf0::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ODMyNjk1NF5BMl5BanBnXkFtZTgwNDkxOTk4MzI@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Happy Hunting (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=p_RY50wJ3lc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/3lw2vzexi3rr.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/idayqgkjrsnq::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?v63lif7j0r::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?23lzp9f3n0::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jpq7iggxvoih::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NDYwZDItYmNlNi00Njg0LTlmNDUtNWNmYzg3OTI5YmI3XkEyXkFqcGdeQXVyNjQ0MzY1NTI@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hardcore Henry 2016[/COLOR]</title>
+<link>http://uptobox.com/8ykm7qvhntzo</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ed/Hardcore_(2015_film).jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hard Line 2016[/COLOR]</title>
+<link>http://uptobox.com/o7v6zz05rj1a</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ0YWJhNTktY2I4NC00ZTg0LTgyOTYtZTgyZGI2MDI3YmRiXkEyXkFqcGdeQXVyMjQ5Mzk5Nzk@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hard Sell 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/4nlp7gykacan::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWRkNWJjMzctZWVkMi00OGE4LWI5OTItOTZhNjBjMGI5OTEzXkEyXkFqcGdeQXVyMjMyMTg1OTM@._V1_UY268_CR15,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Haunted (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=SLPsczwEs54::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/75vrf5bml559.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qeemrlqebdakdakc/haunted_2017_720p_bluray_x264-getit_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/trpBswv.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Headgame (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/ugubg834a1p0.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/v73ne40mwnyo.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/snlbddapfecenome/Headgame_2018_BDRip_x264-ROVERS_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODMwZDYzYTItZjllYy00NTI5LTk4YTktZDg0NGQ5MDRmMDhkXkEyXkFqcGdeQXVyMTg4Njg1NDY@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heartbeats (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=VGRA_BAyW_w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/qr6nsq9i1wop.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/etfkoklpmpecldob/curse-Heartbeats_2017_BDRip_x264_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/46nss90p2la4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vlkqrwpaq9::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dkrrnpckckmesbka/curse-heartbeats_2017_720p_bluray_x264_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eogqmv882e::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/1rso3r9a7egb::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ZjM3MzQtZDFlMy00NjhiLTg2ZjMtZDljZGEyMTVhYzQ0XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heartthrob (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=3EVHZOGt6vw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/2zm57d0kuh60.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/plbbsclcdrbqsrot/Heartthrob_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWRmZmQ1YjYtNDM1My00ZjczLTg4M2MtYjg0Y2JiMWZkNWVhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heaven Sent 2016[/COLOR]</title>
+<link>http://uptobox.com/j6dl7ylpjz92</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDFjYWExNWUtOTRkNS00OTk2LWIzNjYtYjA2NzllMmMzOWFkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQzMDc3MTQ@._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hectic Knife 2016[/COLOR]</title>
+<link>http://uptobox.com/dt5k0upqx3at</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODBlN2IzNTQtNDliNi00ZTJhLWIwNGEtMDRkMGZjYjE3YjcxXkEyXkFqcGdeQXVyNjQ4MzU0NzU@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heist 2015[/COLOR]</title>
+<link>http://uptobox.com/tlpjytci9g87</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEzNTkyMDE3NV5BMl5BanBnXkFtZTgwMTM2MDY4NjE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hellcat's Revenge (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/4jturgiu1g7g.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/ls6gcxoonme9.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mbktdtnoqacmetle/Hellcats_Revenge_2017_HDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTgzOTM0OF5BMl5BanBnXkFtZTgwNTMwMDY3OTE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hell Or High Water 2016[/COLOR]</title>
+<link>http://uptobox.com/kce67vudks1j</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hello Destroyer (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=i3S9033P8NU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/k4yyetsrvd7c.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qoboaskfsqellals/Hello_Destroyer_2016_1080p_Amazon_WEB-DL_DD_2_0_H_264-QOQ_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qo7lp4czf6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/f40b0gc9xky9::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MTA0NzMwN15BMl5BanBnXkFtZTgwOTg4NzgwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hellriser (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/97tprhbmmysx.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/2c2oda8i8lxr::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bkfes2e5d7::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUwYjJhODQtNjk1Ni00MTkwLWEzOGYtOTkwN2NlYzI0Mjg2XkEyXkFqcGdeQXVyNTEzNzk5Njg@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hellraiser Judgment (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=ttgFpfpBgUw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/5kzh1vwmbpku.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kbaktkfoqflpcpdt/Hellraiser_Judgment_2018_DVDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/CGIzEgiZ.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hell's Kitty (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=IQo9f7FdlUM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/cowf3gtctoh6.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/orb8enh9jkj9.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/antskqqepttbsqdn/Hells_Kitty_2018_HDRip_AC3_X264-CMRG_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODU5MGM4M2EtNTFjMS00ZTlkLWEwMmQtMmE1YTFiOGM4OTFiXkEyXkFqcGdeQXVyMTg0MTI3Mg@@._V1_SY1000_CR0,0,709,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Henry Gamble's Birthday Party 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/in8blfhe6v67::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/6nsd9wtgv0fx::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmM5Yjg3YjItNDJlNC00MzJiLTkyM2MtOGIxZDQ5MTY3OTk4XkEyXkFqcGdeQXVyNzgwNDM0Mg@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hens Night (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=sI7aCNA2CPY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/mlg8w6pdc516.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/d0jajtjz1cyf.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/plqnnrrksaqolllo/Hens_Night_2018_WEBRip_x264-iNTENSO_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/3vbxv42wsv2i::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7yhvlu47fc::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qblfocpsnrtmadfr/Hens_Night_2018_720p_WEBRip_x264-iNTENSO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/6j9jk8vzygp3::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?k44lgroxor::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BNDZkMTEzYjQtYmFkYS00Y2MxLTk3YmEtMjU4NTlmNzkxOWVjXkEyXkFqcGdeQXVyMjI0NjY2NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Her Stolen Past (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/56vei79c9cew.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/entnpaqrlcetaoee/Her_Stolen_Past_2018_Lifetime_720p_HDTV_X264-Solar_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2E4MjFhNWYtNjYxYy00MWI0LWIzZjYtNTIzMzA4ZjdlMTlhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Here Alone 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/0345842ykpds::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/hnzcq8enlwnh::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/QEt3pD9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hero Of The Underworld 2016[/COLOR]</title>
+<link>http://uptobox.com/6ljtlifwel93</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODdhYjcwNzYtZTA5Mi00N2Y5LTgwZGQtYTFkMTFkZjFkZjI2XkEyXkFqcGdeQXVyMDgwMzQxNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heroes Don't Come Home (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=0l0tvJaJKTc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/o3zv460ssj02.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/14lbxk5io533.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTMxNTQ5Ml5BMl5BanBnXkFtZTgwNTYxMzA2NzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]HHhH AKA The Man with the Iron Heart (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=EhGS2jnfMus::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/5kobasi6idvf.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/hjm4eztz4dwd::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gmmzjsdiia::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zt6io8e6ec::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/bmi8dzzpmyc6::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWYzYzViYzgtZWRjZS00MzkxLWJhNjQtZWM3OGZhY2E3NGJjXkEyXkFqcGdeQXVyMTk1MDM0OTc@._V1_SY1000_CR0,0,763,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Hickey 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/i07o6ajl9zpr::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/vk4LZfe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hickok (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=EpHFKeXBYgo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/sx1nieq0x74r.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ugx66s8k22ce::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://watchvideo.us/266y2s78kaq2.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/xyprygzv3adh::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDQ1Mjk1MjAtYjRiOC00ZjQyLTgxZDctYmE4YjY1YTg1ZThjXkEyXkFqcGdeQXVyMzY0MzA3NTg@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hidden Figures 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/e352xdtmngha::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/s5s8r1axni5q::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.sceper.ws/thumbs/TtPM0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]High Noon 1952[/COLOR]</title>
+<link>http://uptobox.com/yccmg3dsdsou</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUxMzg0MzIwM15BMl5BanBnXkFtZTgwOTU0MjkwMTE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]High-Rise Rescue (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=ZPe-f4WcCwk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/90uyj55vl0oc.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/a5hdv90b7j6v.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mmfmqafrmfmaamns/High-Rise_Rescue_2017_UPtv_720p_HDTV_X264_Solar_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3bop22qb7bc7::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s611cu9j1r::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cfdmqraffaclfplf/High_Rise_Rescue_2017_1080p_WEB-DL_DD5_1_H264-FGT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l6jr39jsv8at::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zqhonnayrm::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzYzZWRiNGQtNmRiMC00YWY4LTk3NWUtZDAzYWYzYTFhYTllXkEyXkFqcGdeQXVyMjQxODI3Ng@@._V1_SX707_CR0,0,707,999_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]High School Lover 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/n7rrctmgxclt::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ1ZmU0NzMtZGE1MS00ODVmLTkxNDctNGFmZTUyOTFiNWI4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]High Strung 2016[/COLOR]</title>
+<link>http://uptobox.com/n7evwtfwcwx9</link>
+<thumbnail>http://img.sceper.ws/images/kGEmg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Highway To Havasu 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/7jlfzxwu5plv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/oh3jseaeb8cd::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjgxYTgxZDItYWMxNS00ZDEwLTlhYmItYTE3MDZkMDI0N2VjL2ltYWdlXkEyXkFqcGdeQXVyNTMyMDExNTc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Him (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.::LISTNAME:[COLORorchid]Sorry No Trailer[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bptqdnomdnlsenom/Him_2016_DVDRip_XViD_AC3-juggs_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/ztu6yd1pcgce.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjI3YzRlNDEtY2FiMC00OTE5LThlOTctNDIwODQ3ZTdkNGJiXkEyXkFqcGdeQXVyMzUzMDM3MA@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hobsons Choice 1954[/COLOR]</title>
+<link>http://uptobox.com/rnim8x4atped</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyOTg3Njc5NF5BMl5BanBnXkFtZTcwOTc1MTIzMg@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hogan (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/l6wwhtxsetaw.html:LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/lq146k3vw5ak.html:LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmM3YzhkYWYtYmRiMi00ZDVlLThjZTctYzFhOGQ5YTc3ZGYzXkEyXkFqcGdeQXVyNzQxMDI0Mjg@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Holiday Breakup 2016[/COLOR]</title>
+<link>https://uptobox.com/et82o5iwpsig</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDBmZjUxZjctNTc3NS00ZTQ1LWFiMmItYzJkZjcxMDI0MjU2XkEyXkFqcGdeQXVyNDg2MjU0MDY@._V1_SY1000_CR0,0,669,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hollow in the Land (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=pgpSB8D2XTQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/v7co47pg0efc.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ldeccoelqatrmdpp/Hollow_in_the_Land_2017_1080p_WEB-DL_H264_DD5_1-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ojjacp3e5a6e::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2axng9q25b::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/psldpkbdprmdbete/Hollow_in_the_Land_2017_720p_WEB-DL_x264_AAC_-_Hon3y_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ivf6gtf31b::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/o3w4ifacu0ai::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDQ3MTAyZjMtZjVkMC00NzFmLWE2ZjYtZDkyYzlmZWU4NTAwXkEyXkFqcGdeQXVyMTg1MzYyMzQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hollywood Dirt (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=1mrSXBDs_FA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/6h5jaa6l0mky.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oqsoerfqbbmptnbc/Hollywood_Dirt_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/rdkefvkcnrna::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mlsoikesb4::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzgzMDhhOTUtZjMxMC00NGU2LTk3MjQtMzI0YTJmYTMzNDM5XkEyXkFqcGdeQXVyMTA0NTk4Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Holy Terror (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=CNjDmcCRAhY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/zum00hdiit6r.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/tvjcrtrlkzs4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9gsmyb0w25::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDk1ZGQ4ZTktNjkxYS00ZWUwLWIyZWItOTAwODNjYjM1ZjMwXkEyXkFqcGdeQXVyMjM2OTAxNg@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Home Again (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=W3VhB1MmQOc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/c1hvvtg0160z.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/spqmkmecslmcnrdc/Home_Again_2017_WEB-DL_XviD_MP3-FGT_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/atlnwtmsk0cq::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6gmdfgi741::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pmpcbteocpsemcfp/Home_Again_2017_1080p_WEB-DL_DD5_1_H264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?t2hh06x86a::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/1x6q8w1nh48y::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/DzOfoTeSG0.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Home by Spring (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=TEZ3RPv6xSI::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/gbkwsn55kw0j.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/jsywowbmxiiz.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BNmJmYTIzZGMtZGFkYS00ZjIxLWE5NDEtMGNmNWZhMTE5YTdlXkEyXkFqcGdeQXVyMjMwNzExNTk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Honey: Rise Up and Dance (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=NdxIl3nwyhE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/kjn6n4yqd5ul.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nnttlpdoqmereqmn/Honey_Rise_Up_and_Dance_2018_DVDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aqtkpbroebamlknq/Honey_Rise_Up_and_Dance_2018_1080p_WEB-DL_DD5_1_H_264-FGT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jii9r0zsgrzt::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cqubx9tr40::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZGMwODQ0NjUtMWRiOC00YzZiLWFkNWYtNjc3NzBlYzU3MjI5XkEyXkFqcGdeQXVyMjc1NDA2OA@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Honor Up (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=TJ-sbH59uic::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/5q5rqfjj5932.html:LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/omrw20q9477r.html:LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ctdmcoeabdobeknf/Honor_Up_2018_BDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/px42couw5l0l::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?18ich6ki20::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BMjFlZWZhODYtNjMzMS00YTBjLWE3YTYtZDI0N2ZiMTQ5OTQxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hooligan Escape The Russian Job (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=U2WaTNcytzU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/iytw5qb91vh8.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/q824fpudkqsd.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/okodqborqresbfta/Hooligan_Escape_The_Russian_Job_2018_HDRip_AC3_X264-CMRG_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/y565ogaexoo8::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ppduns395z::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rpsadadoraqmqtcr/Hooligan_Escape_The_Russian_Job_2018_1080p_WEB-DL_DD5_1_H264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/eefp8wtz4rvt::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7fg7a8kx4i::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BM2ExNmUwMTYtZGU2NC00M2NlLThlOWMtMjEzNjk4YTU3OTExXkEyXkFqcGdeQXVyMTA4NDk5ODE@._V1_SY1000_CR0,0,724,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hope & Glory 1987[/COLOR]</title>
+<link>https://uptobox.com/c0xgv1bzif1j</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxMDk0MjYyNF5BMl5BanBnXkFtZTcwNzgyMTYyMQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hostages (2017) Eng Subs[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=apVZcaujlGs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/aadok68whwgb.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kkkpfkpnbaftekpn/Hostages_2017_ENGSUB_720p_BRRip_x264_AAC_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTU3Njc1ZjEtMDU5ZC00ODIwLTk0NjItMzhlMzZmYWY1MWZhXkEyXkFqcGdeQXVyMTY3MjMxMjY@._V1_SX736_CR0,0,736,999_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hostile (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=o71Byvfe-Sk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/mfjs070z91vz.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/bom01in6hh4e.html::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qdplppanqotbblbp/Hostile_2017_DUBBED_BDRip_x264-PussyFoot_mkv::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/7e3v8nxy7hjm::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9j52e60vrd::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/dcfqofmocontfpte/Hostile_2017_DUBBED_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wbru2z1p2tft::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1u2pdmf9j3::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BZWYxOTM0YzMtNjAyZC00NTRmLWI3MmMtNmZiZTM4MzFlOTZhXkEyXkFqcGdeQXVyMTk4MDMyOTM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hostiles (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=vJz5l5ru7ws::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/litsmqiqb6sw.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/eha8vm22j0vi.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lnnpeanrbqpfrcsq/Hostiles_2017_BRRip_XviD_MP3-XVID_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/5yaodpsyw071::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tew2aess0s::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lbtlqpfmbmlfdfpt/Hostiles_2017_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/qctst5mv73jr::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9zjurd4ef8::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjFhZjM4ZDYtMGRjYi00Yzc2LWExYmEtMDQ3NzA4ODU4YTljXkEyXkFqcGdeQXVyNjkwMzU3NDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hot Shots 1991[/COLOR]</title>
+<link>http://uptobox.com/10jox19gxgg3</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzgxNmI1ODItZWZlYy00ZjE0LWIwYjgtMTk2MzU0MjhkOWIzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hounds of Love (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=UNEurXzvHqE&t=9s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/dz6cxeqykr4v.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/okeal48k3pbc::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?co0vg4acj5::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ek12e6b67s::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/u08j8yrjwzb0::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2Mjg3MzM5M15BMl5BanBnXkFtZTgwNTA4ODQ5MTI@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]House by the Lake (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=lOIixK_9AGk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/6ny16gmnpqo9.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/slmpekcsbsolsplo/h-b-l_2017_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/589inrdb4gc1::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cmzuvbz9tz::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNTYyNjItNTcyOS00NWNlLTk3MjQtZDUwMTIwODkwOTc5XkEyXkFqcGdeQXVyNzY4MzEyMzc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]House of Demons (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=odWCjAjgYJc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/fgvui7aspznp.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/3zqkzw1dvzsl.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rscdfkcpkeqlkeot/House_of_Demons_2018_DVDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pmioh9zzqe5h::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4y5gwgff9z::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTI3MTA1MF5BMl5BanBnXkFtZTgwNDEyMjE2NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]House of Evil (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=ECJSG3D6cfE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/rfm6ddtm9rz8.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/r7yrsr019v0y::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3hc55pypph::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjJjMjhkMzItMTg3ZC00MjcwLTlkYmQtYWE3MDNkNzkwYTAxXkEyXkFqcGdeQXVyMjM5NDgwOTQ@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]House on Elm Lake (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=pYtEkjLMRnY::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/qa2pq1vm0wbj.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/c1ot9psq46u0.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/saspqqtoppcmqdob/House_on_Elm_Lake_2017_HDRIP_AC3_X264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/k1byhilejl5l::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tad6gwaceh::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjk1YmJiYzMtMGJlYS00N2RjLWE3ZGItMjgzYjc0OTk2NzE5XkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]House Shark (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=S1FUQ2JOs5Q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/rmqhyp7j1tt5.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/fkrrnlssblqsaman/House_Shark_2018_HDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/OJXFr.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]How to Be a Latin Lover (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=Tir_yK1kROg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?530i9ig4bp::LISTNAME:[COLORwhite]SD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/41l26evltuib::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/uy7wkdbdg3qz/How.to.Be.a.Latin.Lover.2017.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fl3paf12u7::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/97d4r83zgvcm::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTAwZDk5NzItM2U0MS00NDUxLTgwMDAtNzVmZDMxMzMxMWYxXkEyXkFqcGdeQXVyNTAwODk1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Humor Me (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=rHFpydQdqv0::LISTNAME:[COLORorchid]SHOW ME THE SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/1q5nel81kvuf.html:LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/h5oxxcvm3klq.html:LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ddpllscecolnrdlr/Humor_Me_2017_BDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/uyps28w8hbsy::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kcez7l4bna::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BYmY2OTQ1MzEtNDRjNS00MTBmLTgxZmUtNWJlOGY1Mzg1MjdiXkEyXkFqcGdeQXVyMjkxMTYyMTQ@._V1_SY1000_CR0,0,704,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hunter Gatherer 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/6cda73f0h934::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/m97mcpvne64a::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxODcyMjM5M15BMl5BanBnXkFtZTgwNjQ1Mzg0MDI@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hunters 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/zdm6wvrkxt7c::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NjIwNTI0M15BMl5BanBnXkFtZTgwODQ3MDI0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hunting the Phantom 2014[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/w77z6ka5mk9z::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/2zu393unes2s::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4OTY3OTAxOV5BMl5BanBnXkFtZTcwMjQ2NDA0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hunt for the Wilderpeople 2016[/COLOR]</title>
+<link>http://uptobox.com/p49koz7hu0ns</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI1MDQ2MDg5Ml5BMl5BanBnXkFtZTgwMjc2NjM5ODE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hush 2016[/COLOR]</title>
+<link>http://uptobox.com/tl16y5ymc5v3</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BOWQ4OTdlODQtMDc3Yy00MGVmLWExYjUtOGI0Yjg4MDQzNDNhXkEyXkFqcGdeQXVyNjIzMzkyMzk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hush Little Baby (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=GmweaQi_FD8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/jsw6tz44lgpe.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM4ODNiNjItMWU2NC00ODRiLTlhOGItYWZmZWZhNzY5NzkzXkEyXkFqcGdeQXVyNTk0NzE2OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]H3[/COLOR]</title>
+<link>http://uptobox.com/l3ti521p95kg</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41QPkFCdKgL._SY300_.jpg</thumbnail>
+<fanart></fanart>
+</item>

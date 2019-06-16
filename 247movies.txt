@@ -1,0 +1,126 @@
+<item>
+<title>[COLOR white]Action Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=3</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Animation Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=10</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Comedy Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=31</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Documentaries[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=37</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Harry Potter and Lord of the Rings[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=51</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Horror Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=54</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Romance Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=77</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]Musicals[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=64</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Mafia Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=59</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Mystery Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=65</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR white]SciFi Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=153</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Star Wars and Star Trek Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=87</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Unsolved Mysteries[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=135</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]War Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=154</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Western Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=155</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+

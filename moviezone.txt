@@ -1,0 +1,260 @@
+<items>
+
+<item>
+<title>[B][I][COLORgold]YOU ARE IN THE MOVIE ZONE[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>ignoreme.xml</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORblue]Latest Trailer Releases[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/movieclipsTRAILERS/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-IT-HVCNwnkU/AAAAAAAAAAI/AAAAAAAAAAA/UpKKb5P-gkk/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]24/7 Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/247movies.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]3D Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/3d.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORgold]4K Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/uhd.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORgreenyellow]Boxsets[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLORpink]Chickflicks[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/chickflicks.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Christmas Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/xmasmovies.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORmagenta]Classic Movies Pre 1970[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/goldenoldies.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORorange]Halloween Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/adulthalloween.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Blue-Ray Movies RD Only (TORRENTS)[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/TorrentsHD.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORyellow]Horror Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/horror.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Kids Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/kidsmovies.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORyellowgreen]Movies A-Z[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/moviesa-z.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORgold]Musicals[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/musicals.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]New Cams/HDTS Releases[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/cams.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORlime]New Releases[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/newreleases.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Oscar Winners RD Only[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/oscarwinners.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORblue]People Watching[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/popular.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORred]Real Debrid BluRay Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/realdebrid.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORgreenyellow]Remastered/Extended/Directors Cut[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/specials.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLORmagenta]Top 10s Movie Section[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10section.txt</externallink>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORblue]Sci Fi Movies (You Tube)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLXGLqwmLREAGW8-QTT2oCURu5_kfk-vK1/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AN66SAz4zrisrB-gLXqh7RtSA4sLkMDusaALHyAhmQ=s88-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORpink]Maverick Movies (You Tube)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLDySQNnzfMCqoBxquMEhCOi0GUEB1RbCf/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-4g7SFjT3oN0/AAAAAAAAAAI/AAAAAAAAAAA/PNF6AnANgCM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORorange]Viewster Movies (You Tube)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/ViewsterTV/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-2IJeniUPrP8/AAAAAAAAAAI/AAAAAAAAAAA/aLMgMHFjMPc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORlime]Timeless Classic Movies (You Tube)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/TimelessClassicMovie/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-59bxvAQY0FU/AAAAAAAAAAI/AAAAAAAAAAA/bWmE_eGapCk/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Timeless Western Movies Movies (You Tube)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/timelesswesternmovie/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-VAmN310PZsY/AAAAAAAAAAI/AAAAAAAAAAA/4wsYX-3YuDg/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+</items>

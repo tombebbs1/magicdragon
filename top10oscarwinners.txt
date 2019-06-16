@@ -1,0 +1,115 @@
+<item>
+<title>[B][COLORwhite]TOP 10 Oscar Winners[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]-1-[/COLOR][COLORwhite]The Godfather (1972)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/psrqkrroemfesplf/The_Godfather_1972_720p_BrRip_x264_BOKUTOX_YIFY_mp4_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2Q2NzQ3ZDUtNWU5OC00Yjc0LThlYmEtNWM3NTFmM2JiY2VhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-2-[/COLOR][COLORwhite]Lawrence of Arabia (1962)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/spkppkdfelatttbc/lawrence_of_arabia_1962_720p_brrip_yify_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-3-[/COLOR][COLORwhite]Casablanca (1942)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rrenqlpdntpaosnr/Casablanca_1942_720_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-4-[/COLOR][COLORwhite]The Best Years of Our Lives (1946)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/sckffbmcntbffsdp/The_Best_Years_Of_Our_Lives_1946_720p_BRRip_x264-x0r_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-5-[/COLOR][COLORwhite]The Lord of the Rings: The Return of the King (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tlrofqdsnknnakse/The_Lord_of_the_Rings_The_Return_of_the_King_EXTENDED_2003_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY1000_SX668_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-6-[/COLOR][COLORwhite]12 Years a Slave (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dflrefrcttkmfrbf/12_Years_A_Slave_2013_720p_BluRay_x264-BLOW_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjFkOGNjZjAtMzZjNS00ZjI2LTkwNjEtOWQ3NzQzOTBlMDA5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-7-[/COLOR][COLORwhite]Titanic (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/adkbfopbtfmprtll/Titanic_1997_720p_BluRay_x264_YTS_AG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-8-[/COLOR][COLORwhite]The Hurt Locker (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dedqfqmslfloklfm/The_Hurt_Locker_2008_720pBrRip_x_264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzEwNzQ1NjczM15BMl5BanBnXkFtZTcwNTk3MTE1Mg@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-9-[/COLOR][COLORwhite]All About Eve (1950)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/deqbmrstoaqtkppk/All_About_Eve_1950_720p_BRRip_x264-x0r_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-10-[/COLOR][COLORwhite]Gone with the Wind (1939)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/npapfbfsqanaqesf/Gone_With_The_Wind_1939_720p_BluRay_x264_YIFY_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWQwOWVkMGItMDU2Yy00YjIzLWJkMjEtNmVkZjE3MjMwYzEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]Others Requested By Users below[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:ignoreme::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+

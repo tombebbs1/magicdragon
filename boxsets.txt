@@ -1,0 +1,552 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[B][COLORwhite]BOXSETS LISTED A-Z[/B][/COLOR]</name>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<externallink>ignoreme</externallink>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLORgold]****************************************[/B][/COLOR]</name>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<externallink>ignoreme</externallink>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Alien Boxset[/COLOR]</name>
+<thumbnail>http://www.scene-stealers.com/wp-content/uploads/2011/10/Alien-Vault-cover-image.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/alien.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Austin Powers Boxset[/COLOR]</name>
+<thumbnail>http://images4.static-bluray.com/movies/covers/51235_large.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/austinpowers.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Back To The Future Boxset[/COLOR]</name>
+<thumbnail>http://tesco.scene7.com/is/image/tesco/456-1343_PI_1000025MN?wid=493&ht=538</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/backtothefuture.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Bad Boys Boxset[/COLOR]</name>
+<thumbnail>https://uk.webuy.com/product_images/DVD/DVD%20Movies/5035822020511_l.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/badboys.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Batman Boxset[/COLOR]</name>
+<thumbnail>http://orig13.deviantart.net/b8c1/f/2007/089/8/a/batman_icon_by_barkerbaggies.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/batman.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Bourne Boxset[/COLOR]</name>
+<thumbnail>http://rs31.pbsrc.com/albums/c359/Nejikunsgirl/jasonbourne2.jpg~c200</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/bourne.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+
+<channel>
+<name>[COLORwhite]Carry On Collection[/COLOR]</name>
+<thumbnail>https://www.comedy.co.uk/images/library/comedies/900x450/c/carry_on_logo.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/carryon.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Death Wish Boxset[/COLOR]</name>
+<thumbnail>http://thumbs1.ebaystatic.com/d/l225/m/mPrPS__MHeV0RCjwKeVIR1w.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/deathwish.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Die Hard Boxset[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5B_1gZqtVBJcOc6bWGDHv_zizYkvKLB-N4Ib-qzwEkwaUmkprQ</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/diehard.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Divergent Series Boxset[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91kcSyno30L._SL1500_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/divergent.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Dollars Trilogy Boxset[/COLOR]</name>
+<thumbnail>http://musicbyemail.retomato.com/wp-content/uploads/sites/134/2015/03/the-dollars-trilogy-4CD.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/dollars.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Fast And Furious Boxset[/COLOR]</name>
+<thumbnail>https://www.zoom.co.uk/assets/images/0/0/2/3/3/mm00233205.jpg?width=450</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/fastandfurious.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Ghostbusters Boxset[/COLOR]</name>
+<thumbnail>https://www.geek.com/wp-content/uploads/2015/07/ghostbusting-625x350.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/ghostbusters.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Ghost Rider Boxset[/COLOR]</name>
+<thumbnail>http://iconbug.com/data/bc/512/dd340adcc862999ddeb1d06988c37196.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/ghostrider.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Hangover Boxset[/COLOR]</name>
+<thumbnail>http://orig03.deviantart.net/e2ed/f/2016/166/8/e/hangover_collection_folder_icon_by_dahlia069-da6dajy.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/hangover.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Harry Potter Boxset[/COLOR]</name>
+<thumbnail>http://rocketdock.com/images/screenshots/Harry-Potter-and-the-Deathly-Hallows-Part-2.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/harrypotter.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]HellBoy Boxset[/COLOR]</name>
+<thumbnail>http://www.sonypictures.com/movies/hellboy/assets/images/onesheet.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/hellboy.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Highlander Boxset[/COLOR]</name>
+<thumbnail>http://www.scifimoviepage.com/dvd/highlanderseries-dvd.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/highlander.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]I Spit On Your Grave Boxset[/COLOR]</name>
+<thumbnail>http://is2.mzstatic.com/image/thumb/Video49/v4/0b/14/d5/0b14d548-8128-ca2c-5d6a-6bd1487dff50/source/400x400-75.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/ispitonyourgrave.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+
+<channel>
+<name>[COLORwhite]Indiana Jones Boxset[/COLOR]</name>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51fwuaJapBL._AC_UL320_SR228,320_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/indianajones.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Insidious Boxset[/COLOR]</name>
+<thumbnail>http://www.nerdly.co.uk/wp-content/uploads/2015/10/InsidiousTriple_DVD_2D.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/insideous.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Jack Ryan Boxset[/COLOR]</name>
+<thumbnail>http://images3.static-bluray.com/movies/covers/476_medium.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jackryan.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Jackie Chan Boxset[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a5/IAmJackieChan_Book_Cover.gif</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jackiechan.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]James Bond Collection[/COLOR]</name>
+<thumbnail>https://lebeauleblog.files.wordpress.com/2014/09/bond-actors.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jamesbond.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]James Bond Collection 4K [COLORred] Real Debrid Only[/COLOR][/COLOR]</name>
+<thumbnail>https://i.redd.it/s2sz0t7ecz401.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/4kbonds.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+
+<channel>
+<name>[COLORwhite]Jean Claude Van Damme Collection[/COLOR]</name>
+<thumbnail>https://tse4.mm.bing.net/th?id=OIP.Mf77aba8820547003a4ae3fde8c7c936do1&pid=15.1&P=0&w=300&h=300</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jeanclaude.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Jeepers Creepers Boxset[/COLOR]</name>
+<thumbnail>https://images5.alphacoders.com/805/805016.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jeeperscreepers.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Jet Li Collection[/COLOR]</name>
+<thumbnail>https://i2-prod.mirror.co.uk/incoming/article9271631.ece/ALTERNATES/s615/Jet-Li.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jetli.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Jim Carrey Collection[/COLOR]</name>
+<thumbnail>https://theblemish.com/images/2017/10/jim-carrey-as-ace-ventura-600x600.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jimcarrey.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+
+<channel>
+<name>[COLORwhite]Jurassic Park Boxset[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/jurassic.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Karate Kid Boxset[/COLOR]</name>
+<thumbnail>http://ecx.images-amazon.com/images/I/516QKnc%2Bc2L._SY300_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/karatekid.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Lethal Weapon Boxset[/COLOR]</name>
+<thumbnail>http://img10.deviantart.net/7d1b/i/2009/170/b/8/dvd_movie_icon_pack_17_by_globalcinema.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/lethalweapon.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Lifetime Collection[/COLOR]</name>
+<thumbnail>http://assets.huluim.com/shows/key_art_lifetime_movies.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/lifetime.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Lord Of The Rings Boxset[/COLOR]</name>
+<thumbnail>http://cdn.windows7themes.net/icons/Lord_Ring_Dock_Icons1.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/lordrings.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Lost Boys Boxset[/COLOR]</name>
+<thumbnail>http://images.ttcdn.co/media/i/product/71989-938940d8f84a4420845b3acfcb0973f7.jpeg?size=2000</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/lostboys.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Marvel Universe Boxset[/COLOR]</name>
+<thumbnail>http://tesco.scene7.com/is/image/tesco/268-7330_PI_1000025MN?wid=493&ht=538</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/marvelmovies.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Matrix Boxset[/COLOR]</name>
+<thumbnail>http://tesco.scene7.com/is/image/tesco/664-9289_PI_1000025MN?wid=493&ht=538</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/matrix.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Mission Impossible Boxset[/COLOR]</name>
+<thumbnail>http://orig09.deviantart.net/95a4/f/2016/056/4/0/mission_impossible_movie_collection_icon_folder_v1_by_mohandor-d9t1r9l.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/missionimpossible.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Mummy Boxset[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fc/The_Mummy_Trilogy_Blu-ray_Boxset.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/mummy.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]National Treasure Boxset[/COLOR]</name>
+<thumbnail>http://icons.iconarchive.com/icons/firstline1/movie-mega-pack-2/512/National-Treasure-Book-of-Secrets-icon.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/nationaltreasure.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Now You See Me Boxset[/COLOR]</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_SY1000_CR0,0,642,1000_AL_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/nowyouseeme.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Oceans Boxset[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/419JNlz9rIL.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/oceans.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Paranormal Activity Boxset[/COLOR]</name> 
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/paranormalactivity.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Percy Jackson Boxset[/COLOR]</name>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/610gs7BoCwL._SY300_QL70_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/percyjackson.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Pitch Perfect Boxset[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/A1N5yrEl-tL._SY679_.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/pitchperfect.txt</externallink>
+<fanart>https://images8.alphacoders.com/512/thumb-1920-512776.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Planet Of The Apes Boxset[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Planet_of_the_Apes_%28logo%29.svg/1200px-Planet_of_the_Apes_%28logo%29.svg.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/planetoftheapes.txt</externallink>
+<fanart>https://images8.alphacoders.com/512/thumb-1920-512776.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Purge Boxset[/COLOR]</name>
+<thumbnail>https://teaser-trailer.com/wp-content/uploads/The-Purge-3-Election-Mega-Banner-2.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/purge.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+
+<channel>
+<name>[COLORwhite]Resident Evil Boxset[/COLOR]</name>
+<thumbnail>http://www.android-films.net/_dr/11/01346698.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/residentevil.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Riddick Boxset[/COLOR]</name>
+<thumbnail>http://images2.static-bluray.com/movies/covers/19723_front.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/riddick.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Ringu Boxset[/COLOR]</name>
+<thumbnail>http://horrornews.net/wp-content/uploads/2017/11/Ringu-2-movie-1999-Hideo-Nakata-8.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/ringu.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Rocky Boxset[/COLOR]</name>
+<thumbnail>https://moviesorder.com/wp-content/uploads/2015/03/rocky.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/rocky.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Sinister Boxset[/COLOR]</name>
+<thumbnail>http://i.ebayimg.com/images/g/DyYAAOSwYaFWg7Gn/s-l300.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/sinister.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Star Trek Boxset[/COLOR]</name>
+<thumbnail>http://orig03.deviantart.net/69c6/f/2013/108/b/6/star_trek_armada_2_custom_icon_by_thedoctor45-d3i425f.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/startrek.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Star Wars Boxset[/COLOR]</name>
+<thumbnail>https://www.planwallpaper.com/static/images/ogimage.img.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/starwars.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Teen Beach Boxset[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Teen_Beach_Movie_poster.jpg/250px-Teen_Beach_Movie_poster.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/teenbeach.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Terminator Boxset[/COLOR]</name>
+<thumbnail>http://allaboutwindowsphone.com/images/appicons/107235.png</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/terminator.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]The Punisher Boxset[/COLOR]</name>
+<thumbnail>http://images2.static-bluray.com/movies/covers/5298_front.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/punisher.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Tomb Raider Boxset[/COLOR]</name>
+<thumbnail>http://images5.fanpop.com/image/photos/30700000/Lara-Croft-lara-croft-tomb-raider-the-movies-30716531-200-200.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/tombraider.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Transformers Boxset[/COLOR]</name>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/bc/06/7f/bc067f6a89228498a6b7497c623e61ec.jpg</thumbnail>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/transformers.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Twilight Boxset[/COLOR]</name>
+<thumbnail>http://uktwilight.co.uk/wp-content/uploads/2013/07/boxset.jpg</thumbnail>
+<externallink>https://archive.org/download/abbottcostello_201706/twilight.txt</externallink>
+<fanart></fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Underworld Boxset[/COLOR]</name>
+<thumbnail>http://tshop.r10s.com/f90/be1/b622/c4d6/d097/c950/ad87/1173e4aae0005056b71b37.jpg</thumbnail>
+<externallink>https://archive.org/download/abbottcostello_201706/underworld.txt</externallink>
+<fanart></fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Wrong Turn Boxset[/COLOR]</name>
+<thumbnail>http://www.dvd7777.com/images/wrongG_setbox_.jpg</thumbnail>
+<externallink>https://archive.org/download/abbottcostello_201706/wrongturn.txt</externallink>
+<fanart></fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+<channel>
+<name>[COLORwhite]X-Men Boxset Boxset[/COLOR]</name>
+<thumbnail>http://www.smh.com.au/ffximage/2006/05/26/icon_xmen27_wideweb__470x343,0.jpg</thumbnail>
+<externallink>https://archive.org/download/abbottcostello_201706/xmen.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>
+
+
+<channel>
+<name>[COLORwhite]Zoolander Boxset[/COLOR]</name>
+<thumbnail>http://store.hmv.com/app_/responsive/HMVStore/media/product/265917/01-265917.jpg?w=240</thumbnail>
+<externallink>https://archive.org/download/abbottcostello_201706/zoolander.txt</externallink>
+<fanart>http://tombraiderbuilds.co.uk/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<info>Tomraider Movies/info>
+</channel>

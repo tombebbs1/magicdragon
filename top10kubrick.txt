@@ -1,0 +1,105 @@
+<item>
+<title>[B][COLORwhite]TOP 10 Stanley Kubrick Movies[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]-1-[/COLOR][COLORwhite]2001: A Space Odyssey (1968)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/frldftfnqbcmccrm/2001_A_Space_Odyssey_1968_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-2-[/COLOR][COLORwhite]The Shining (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/cmlqsoqkcbffmrmd/The_shining_1980_720p_x264_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-3-[/COLOR][COLORwhite]Barry Lyndon (1975)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ensmboqpdenklmap/Barry_Lyndon_1975_720p_BRRip_x264_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-4-[/COLOR][COLORwhite]Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ddkpfkppdsqqkqrl/Dr_Strangelove_1964_720p_BluRay_x264_YIFY_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTkxYjUxNDYtZGY0My00NTc2LThiZmYtNmNmNmU0NGVkZWYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-5-[/COLOR][COLORwhite]Paths of Glory (1957)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qbpcaoefabsfnbnr/Paths_of_Glory_1957_720p_Paths_of_Glory_1957_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-6-[/COLOR][COLORwhite]The Killing (1956)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lbreldronorafnnq/The_Killing_1956_CRITERION_BRRip_XviD-VLiS_avi_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDE5ZjAwY2YtOWM5Yi00ZWNlLWE5ODQtYjA4NzA1NGFkZDU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-7-[/COLOR][COLORwhite]Full Metal Jacket (1987)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/opfcdfkfafleqprq/Full_Metal_Jacket_BRrip_GaiusMarius_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-8-[/COLOR][COLORwhite]Eyes Wide Shut (1999)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lqmpprabdlkqclck/Eyes_Wide_Shut_1999_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NTUwNjI1N15BMl5BanBnXkFtZTYwOTE1ODc5._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-9-[/COLOR][COLORwhite]A Clockwork Orange (1971)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dcssqsfacnbqnllt/A_Clockwork_Orange_1971_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-10-[/COLOR][COLORwhite]Spartacus (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pktrbdefleppklrm/Spartacus_1960_720p_BRRip_x264_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjc4MTUxN2UtMmU1NC00MjQyLTk3YTYtZTQ0YzEzZDc0Njc0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

@@ -1,0 +1,107 @@
+
+
+<item>
+<title>[B][COLORwhite]TOP 10 FIGHTING MOVIES[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]-1-[/COLOR][COLORwhite]Undisputed 3: Redemption (2010)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/aqtnpkobckpfknrc/Undisputed_3_Redemption_2010_720p_BluRay_x264_anoXmous_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0YzA4YjQtZGZkMi00ZmRjLWFmM2ItMDcxZTYzZGU3ZTI1XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-2-[/COLOR][COLORwhite]Never Back Down (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ertemnlksrfeorro/Never_Back_Down_2008_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDg3MTIyMF5BMl5BanBnXkFtZTcwOTAwNDc1MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-3-[/COLOR][COLORwhite]Rocky (1976)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/sltbfokdafacsora/Rocky_1976_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-4-[/COLOR][COLORwhite]Undisputed 2: Last Man Standing (2006)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ktaebtmnonesfcas/Undisputed_2_2006_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MDA1MzgwMl5BMl5BanBnXkFtZTcwODg4NzAzMQ@@._V1_UY268_CR11,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-5-[/COLOR][COLORwhite]Warrior (2011)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/paaskldftdrcqaer/Warrior_2011_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-6-[/COLOR][COLORwhite]Fight Club (1999)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pneafembcrpmnnro/Fight_Club_10th_Anniversary_Edition_1999_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-7-[/COLOR][COLORwhite]Blood and Bone (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/oqeoobondpfombbb/Blood_and_Bone_2009_720p_BRRip_aGaiusMariusproduction_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjE0MDc4ODY4Ml5BMl5BanBnXkFtZTcwNDI2NjM4Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>https://archive.org/do]wnload/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-8-[/COLOR][COLORwhite]Enter the Dragon (1973)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rtemmpdkfokemtdc/Enter_The_Dragon_1973_720p_BluRay_x264_FILMas_BE_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ0M2Q3MzEtOTZjMy00NGQ1LTk0NDctOWQ4MjQzYTdlZmVjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+]
+<item>
+<title>[COLORred]-9-[/COLOR][COLORwhite]Mortal Kombat (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qpemsodcksmlpptn/Mortal_Kombat_1995_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzJhYjYxMTctNmY4My00NGIzLThmN2MtYjgwMjlmZWNjMTJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-10-[/COLOR][COLORwhite]Gladiator (2000)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/loqefqrmenqoaore/Gladiator_EXTENDED_2000_1080_BrRip_264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

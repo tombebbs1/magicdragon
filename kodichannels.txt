@@ -1,0 +1,171 @@
+<item>
+<title>[B][COLOR gold]YOU ARE IN THE KODI ZONE[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://pyramid.zerotolerance.gq/pyramid/Icons/kodi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://pyramid.zerotolerance.gq/pyramid/Icons/kodi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Doc Squiffy[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCFOStcorp34JSwYTaTZB1oQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-nYgh3GLcdyc/AAAAAAAAAAI/AAAAAAAAAAA/eseha30N5uY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Free Tech[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCb6hCXK3sezRKXOJRBEqX-A/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-GaYfI7NEJM0/AAAAAAAAAAI/AAAAAAAAAAA/yvsv_begjyA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]DB You Tube[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLLBxtO2u0gUTqHZCfE3cr7OlwXCOGngDA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-woJFVHVsvcQ/AAAAAAAAAAI/AAAAAAAAAAA/5iqAk9yQKCI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dimitrology Channel[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/dimitrology/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-gc8RvvduE-E/AAAAAAAAAAI/AAAAAAAAAAA/7YIGzK1cPME/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]DaButcher Builds[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC-jBkGiRokRd-B2ylx1VqJQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-Rq5_cE4Bab0/AAAAAAAAAAI/AAAAAAAAAAA/58sCN8EcKcA/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]CW Tutorials[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCypHJluApWqOtke0HY28gDQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-aoUNR6TihRQ/AAAAAAAAAAI/AAAAAAAAAAA/WtycToVTka8/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lee TV[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UClCRMB8kKz_-7funCdGdWLg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-FnE4cQB7d-o/AAAAAAAAAAI/AAAAAAAAAAA/nHsRjgm55CY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kodi Tutorials[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCnMIEL_1MLNUE4jxidbq2rg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-jOTGf8NXgkA/AAAAAAAAAAI/AAAAAAAAAAA/IqI1SEaDAlE/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]ABSYT[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC18WQbNSfrqxlIjKeIW3bGQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-OMUC1O8NtyI/AAAAAAAAAAI/AAAAAAAAAAA/cPrpjgnjkdE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Project Kodi[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCePmNnCSc0WjtZe6GxGT30w/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-ioM1cfryqvI/AAAAAAAAAAI/AAAAAAAAAAA/gIYVnkYoQAk/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Charlie Tec[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCbpoqAv4F37_SxXfiA3AlVA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-yfD_bl6qnvU/AAAAAAAAAAI/AAAAAAAAAAA/CwSarreMSMc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gentec[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC00Jx1zkJloh2Ow0ubv4mfQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-W0BrnKYJ-bA/AAAAAAAAAAI/AAAAAAAAAAA/XJ8P9GXM4tc/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLORwhite]Tech Timeruuu[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCoMOQDEEBECQ81CdojuEqfg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-xrpSGZutUms/AAAAAAAAAAI/AAAAAAAAAAA/WoCkFC1pt8Q/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Streaming Advisor[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/thestreamingadvisor/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-GMw3WwvdXOw/AAAAAAAAAAI/AAAAAAAAAAA/WggHgH1gbbI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]MeacePeace kodi Tutorials[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCx55aM88WDVMS-AR_q_VKUg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-FJG-6RzIfqY/AAAAAAAAAAI/AAAAAAAAAAA/Va7CqtdjKgA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]CSSCODER[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCNpGTnUm6xVUWxfOe3GEBVQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-3roPe7rO4bU/AAAAAAAAAAI/AAAAAAAAAAA/kb_I0Ga4gaM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Joe Nobody[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/JoeNobody010101/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-yyi7bfBAFdM/AAAAAAAAAAI/AAAAAAAAAAA/YZtjGJ9XsYo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kodimaster[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCfM9Y0sFwEJWP8sKUHceFTg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-2QIT9by2lOc/AAAAAAAAAAI/AAAAAAAAAAA/VYh0VnvwnzA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Kodi Gaming[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLO5cwnBQdOEnuD4O3pjym6jxLgPbpcnZJ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-khPe4uV0Vfc/AAAAAAAAAAI/AAAAAAAAAAA/mpAFGCevY2Q/s88-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>

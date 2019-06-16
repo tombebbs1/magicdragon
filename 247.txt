@@ -1,0 +1,727 @@
+<item>
+<title>[COLOR white]Adult Swim[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=4</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Adventure Time[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=148</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Always Sunny In Philadelphia[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=5</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]American Dad[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=7</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Anime[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=12</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Archer[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=13</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Arrested Development[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=14</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Batman[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=109</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Batman the Animated Series[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=116</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Battlestar Galactica[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=16</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Beavis and ButtHead[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=110</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Better Call Saul[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=17</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Blacklist[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=18</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Blue Bloods[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=19</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Bobs Burgers[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=20</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Bones[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=21</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Breaking Bad[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=24</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Celebrity Deathmatch[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=26</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Charmed[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=145</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Classic Toons[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=28</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Cops[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=33</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]CSI Miami[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=147</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Curb Your Enthusiasm[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=34</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Dexter[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=146</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Doctor Who[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=36</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Downton Abbey[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=125</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Dragonball Z[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=39</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Family Guy[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=41</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Fawlty Towers[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=42</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Frasier[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=45</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Friends[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=47</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Futurama[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=48</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Game of Thrones[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=50</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Golden Girls[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=114</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Home Improvement[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=53</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]House MD[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=139</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]How I Met Your Mother[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=113</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]I Love Lucy[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=55</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Invader Zim[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=56</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]King of the Hill[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=57</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Kings of Queens[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=132</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Law and Order SVU[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=134</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Malcolm in the Middle[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=60</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Married with Children[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=61</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Mission Impossible[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=144</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Modern Family[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=62</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]My Name Is Earl[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=118</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Narcos[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=66</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]NCIS[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=133</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Only Fools and Horses[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=143</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Outer Limits[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=70</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Parks and Recreation[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=126</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Prison Break[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=72</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Regular Show[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=151</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Reno 911[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=112</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Rick and Morty[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=150</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Salem[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=137</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Samurai Jack[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=149</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Scrubs[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=79</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Seinfeld[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=80</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Shark Tank[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=81</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Silicon Valley[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=82</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]South Park[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=84</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]SpongeBob SquarePants[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=86</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Stargate Atlantis[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=138</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Steven Universe[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=152</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Supernatural[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=115</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Teenage Mutant Ninja Turtles[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=142</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]That 70s Show[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=90</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Big Bang Theory[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=91</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Boondocks[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=2</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Fresh Prince of Bel-air[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=46</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Knick[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=136</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Last Airbender and legend of Korra[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=15</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Marvelous Misadventures of Flapjack[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=93</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Musketeers[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=64</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Office[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=127</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Ren and Stimpy Show[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=75</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Simpsons[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=83</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Sopranos[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=95</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Tudors[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=96</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Twilight Zone[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=97</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The White Queen[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=102</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Wire[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=141</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Top Gear UK[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=98</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Trailer Park Boys[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=99</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Unsolved Mysteries[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=135</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Vampire Diaries[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=101</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Whose line is it anyway?[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=103</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Workaholics[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=104</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]X Files[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=105</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>

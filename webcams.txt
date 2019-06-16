@@ -1,0 +1,273 @@
+<item>
+<title>[B][COLORgold]YOU ARE IN WEBCAM ZONE[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgold]SOME LINKS MAY NOT BE 24/7[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgold]****************************************[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]LIVE YOU TUBE CAMS HERE[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLIFqWCuxNyoiLyKzn7voShPAqCHxNeNas/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/BQSIiLDxZiZpzR4C6pK-NKkKOv3fsPsWuKVJxpmYCnEASI8W5pglXP1vF30D98doHzsP_JwPLycrfd-FFnw=s100-nd-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORgold]****************************************[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alaska ClimateCam</title>
+<link>http://climatecam.gi.alaska.edu/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Amsterdam Square</title>
+<utube>5FrCtTCYVWI</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Algonquin Restaurant Pier</title>
+<link>http://webcam.thealgonquin.com:8080/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Atlantic Eyrie Lodge</title>
+<link>http://webcam.atlanticeyrielodge.com/mjpg/video.mjpg?camera=1&resolution=640x480&rotation=0</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>City Cam, Sortland, Nordland, Norway</title>
+<link>http://webkamera.vesteralskraft.no/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Cleopatra Beach</title>
+<utube>teAvmnyW7Ms</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Disneyland Live</title>
+<utube>KbnlZF6W82E</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Duval Street</title>
+<link>http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Green Parrot Bar</title>
+<link>http://wse1.resortcams.com/live/greenparrot1-audio.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Grote Markt - Groningen - Holland</title>
+<utube>hB2mx4G1DfU</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Irish Kevins Bar</title>
+<link>http://52.2.51.240:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Irish Kevins Streetview</title>
+<link>http://52.2.51.240:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jackson Hole Town Square</title>
+<utube>psfFJR3vZ78</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Hungary</title>
+<link>http://87.101.127.24/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Kevin's Bar Ireland</title>
+<link>http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Key West Sunset Cam</title>
+<link>http://wowza.floridakeysmedia.com:8090/sunset/sunset.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lake Oroville Dam</title>
+<utube>MY-Yj5iTU3g</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mallory Square, Key West</title>
+<link>http://wowza.floridakeysmedia.com:8090/mallorysquare/mallorysquare.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NASA Live - Earth From Space</title>
+<utube>qzMQza8xZCc</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>OD Pavilion, South Carolina</title>
+<link>http://wse1.resortcams.com/live/odpavilion.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Port Town,  Balestrand, Norway</title>
+<link>http://217.17.220.110/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sloppy Joe's Bar Florida Keys</title>
+<link>http://wowza2.floridakeysmedia.com:1935/crowdcam/crowdcam.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Soggy Dollar Bar</title>
+<utube>IjGdi7z_B4U</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>St Petersburg</title>
+<link>http://doma-invest.axiscam.net/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sunset Pier, Ocean Key Resort</title>
+<link>http://wowza.floridakeysmedia.com:8090/oceankeyptz/oceankeyptz.stream/playlist.m3u8</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Thassos Live Webcam</title>
+<utube>mFznQAErea4</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Times Square New York</title>
+<utube>UIjREnjVI2I</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Tusto Pizza, Pizza Area Cam</title>
+<link>http://46.28.111.70:9092/stream.flv</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tusto Pizza, Kitchen Area Cam</title>
+<link>http://46.28.111.70:9091/stream.flv</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Venice Italy - Rialto Bridge</title>
+<utube>vPbQcM4k1Ys</utube>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>West Valley, Utah</title>
+<link>http://205.124.147.71/mjpg/video.mjpg</link>
+<thumbnail>http://tombraiderbuilds.co.uk/Icons/webcams.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

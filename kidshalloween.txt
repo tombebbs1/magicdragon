@@ -1,0 +1,121 @@
+<item>
+<title>[B][COLORgold]KIDS HALLOWEEN MOVIES[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://www.wallpapersforu.com/wp-content/uploads/2016/09/haloween-background-13.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORgold]***************************************[/COLOR][/B]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>http://www.wallpapersforu.com/wp-content/uploads/2016/09/haloween-background-13.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLORwhite]Beetlejuice (1988)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/clrmmeqddddkdddl/Beetlejuice_1988_BluRay_720p_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Casper (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rdrbocdafttnkfaa/Casper_1995_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZThhYTlhMDUtMDhjZi00MTljLTkwMDYtOGU3ZjVlMWE4NDk4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Coraline (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/fppcbtolceelombe/Coraline_2009_BluRay_720p_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Corpse Bride (2005)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/llbecasksarmsqqp/Corpse_Bride_2005_720p_x264_BOKUTOX_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Frankenweenie (2012)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tenommeesnqatbqt/Frankenweenie_2012_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2UwYWI3MTktM2MxNC00MjRhLTlkMWEtYTNjMjRkOTIwOTkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hocus Pocus (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/cclsonfcsfancnab/Hocus_Pocus_1993_720p_x264_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmQyYmY5ZTMtM2JkNi00NmM2LWE3ZmEtYWYzZmRkZDM0ZTdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Monster House (2006)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/kbtrsfbpcmkfcdmk/Monster_House_2006_BluRay_YIFY_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzNjE1NDg1N15BMl5BanBnXkFtZTcwOTg2NTMzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mostly Ghostly (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/oncatpbtsoqpbqmq/Mostly_Ghostly_flv_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwODkxODg1NV5BMl5BanBnXkFtZTgwNDk5MTA2MDE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Addams Family (1991)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mctodeotlrmmtnof/The_Addams_Family_1991_720p_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODc1NmY0MDUtNjUzNS00ODdhLWJlN2ItMTgwZjczZjI0MDkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR11,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Haunted Mansion (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tqmfrefrtemfrkde/The_Haunted_Mansion_2003_BDRip_X264_AC3-PLAYNOW_mp4_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3NDUwNzAxNzZeQTJeQWpwZ15BbWU3MDQyMTUwMDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Nightmare Before Christmas (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pmrkndmtaepbmeqf/The_Nightmare_Before_Christmas_1993_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tower of Terror (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/cfrrbslpfacmnpnm/Tower_of_Terror_1997_DVDRIP_avi_mp4::LISTNAME:[COLORwhite]SD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1Mjk3ODY2OF5BMl5BanBnXkFtZTcwNDQ4NDgyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

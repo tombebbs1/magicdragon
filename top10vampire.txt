@@ -1,0 +1,107 @@
+
+
+<item>
+<title>[B][COLORwhite]TOP 10 VAMPIRE MOVIES[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]-1-[/COLOR][COLORwhite]Interview with the Vampire: The Vampire Chronicles (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/fmcpqcnapbqalsnd/Interview_with_the_Vampire_1994_720p_BluRay_x264_YIFY_mp4::LISTNAME:#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYThmYjJhMGItNjlmOC00ZDRiLWEzNjUtZjU4MjA3MzY0MzFmXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-2-[/COLOR][COLORwhite]Twilight (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mmlcadcmfofcdssm/Twilight_Saga_2008_BrRip_720p_X264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-3-[/COLOR][COLORwhite]Underworld (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ntaommcdnttolote/Underworld_Extended_Cut_2003_720p_Brrip_x264_Deceit_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNDExNDEyMV5BMl5BanBnXkFtZTcwODY1OTkxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-4-[/COLOR][COLORwhite]30 Days of Night (2007)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/kqsfomkoqfmrmalc/_0389722_30_Days_Of_Night_2007_BRRip_XviD_AC3_RoSubbed-playXD_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MDE5ODIxMF5BMl5BanBnXkFtZTcwMjMyMTU1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-5-[/COLOR][COLORwhite]The Lost Boys (1987)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rlklklffqcqfqaod/The_Lost_Boys_1987_720p_BluRay_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWEzNmUxZTMtZjY0My00OGNmLWIyNDctODM2YzZjM2YwZWEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-6-[/COLOR][COLORwhite]Bram Stoker's Dracula (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/bmornknctrcrmamp/Dracula_1992_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyOTM5NzU3Nl5BMl5BanBnXkFtZTgwOTQxNjAxNzE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-7-[/COLOR][COLORwhite]Blade (1998)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dfnbqmomnlkqdeop/Blade_1998_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzkzNjcxNV5BMl5BanBnXkFtZTcwNzk4NTU0Mg@@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
+<fanart>https://archive.org/do]wnload/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-8-[/COLOR][COLORwhite]Dracula (1931)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/eocrqorckrpfcbnt/Dracula_1931_720p_BluRay_x264_AAC-ETRG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTQxMDA2ZmMtMmJhMC00MDBkLWFlNjMtYzI0ZTRmYTU1MzBhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+]
+<item>
+<title>[COLORred]-9-[/COLOR][COLORwhite]Fright Night (1985)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lbdnsdcdqplalqmd/Fright_Night_1985_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTBlOTEzZjYtZTlmMC00OTYyLWIyMTAtNzMzZTRhNzU1YzAyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]-10-[/COLOR][COLORwhite]Van Helsing (2004)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dsmcmnfpnkctlqtk/Van_Helsing_2004_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODRmY2NhNDItOWViNi00OTIyLTk3YjYtYzY0YTFlMDg1YzQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

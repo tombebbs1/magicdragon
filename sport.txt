@@ -1,0 +1,213 @@
+<item>
+<title>[B][COLORwhite]YOU ARE SPORTS[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>  
+<title>[B][COLORwhite]BT SPORT (CHAMPIONS LEAGUE HIGHLIGHTS)[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/BTSportOfficial/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AN66SAyFuaC_1fYw1SkzK9GXbBq7JkZQutzsR_BxMg=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]MOTOR RACING REPLAYS[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/motorreplays.txt</externallink>
+<thumbnail>http://www.f1fanatic.co.uk/wp-content/uploads/2013/05/forc-suti-barc-2013-21.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]LATEST WRESTLING/UFC/BOXING HIGHLIGHTS[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/wrestling.txt</externallink>
+<thumbnail>http://www.telegraph.co.uk/content/dam/boxing/2018/01/23/Rico-Verhoeven-medium_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]MY CLUB ZONE HERE[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/footballteams.txt</externallink>
+<thumbnail>http://simpleicon.com/wp-content/uploads/football.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]NFL NETWORK[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC_1H9v258pXiyLDaW0R5exw/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAAAAA/zSECZabGR3E/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]LATEST FOOTBALL HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/FIFATV/?page=0</jsonrpc>
+<thumbnail>http://allscores.co.uk/images/highlights.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]LATEST RUGBY LEAGUE HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/SLHighlights/</jsonrpc>
+<thumbnail>http://www.rebelsport.co.nz/productimages/magnify/1/27661_74687_48919.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]LATEST CRICKET HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCZ9BvGVJI8ekYiPxC2pzeug/</jsonrpc>
+<thumbnail>http://media.supercheapauto.com.au/sports/images/zooms/38181901-zoom.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]LATEST ATHLETICS HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/IAAF2012/</jsonrpc>
+<thumbnail>http://www.european-athletics.org/mm/Photo/News/General/01/28/05/63/1280563_G08_W01.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]FORMULA 1 HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<thumbnail>https://cdn-7.motorsport.com/images/amp/2j7XBmkY/s2/f1-abu-dhabi-gp-2017-valtteri-bottas-mercedes-amg-f1-w08-lewis-hamilton-mercedes-amg-f1-w0-7295925.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]MOTO GP HIGHLIGHTS & NEWS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/MotoGP/</jsonrpc>
+<thumbnail>https://tyres.cardekho.com/news/wp-content/uploads/2015/06/300x200xMotoGP-Marquez-Michelin-Test-Mugello-300x200.jpg.pagespeed.ic.I_2Ailr2x_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLORwhite]BOXING HIGHLIGHTS & NEWS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCa0AJRrU1YwY3iJ68SeLb2A/</jsonrpc>
+<thumbnail>http://www.thestatszone.com/images/_thumbnail460x340/Boxing-thumbnail.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]CLASSIC BOXING MATCHES[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL1pGK7B2Dr1Mhoe35ekzS24XG_FiLTMce/?page=0</jsonrpc>
+<thumbnail>http://resources1.news.com.au/images/2011/11/06/1226186/882885-joe-frazier.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]CLASSIC SPORTING MOMENTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLplxvYzy1lVepgY2x6a1lKu60u4EQ07yG/?page=0</jsonrpc>
+<thumbnail>http://www.thefamouspeople.com/profiles/images/emil-zatopek-4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>   
+<title>[B][COLORwhite]NHL HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/NHLVideo/?page=0</jsonrpc>
+<thumbnail>http://aux2.iconspalace.com/uploads/nhl-flat-circle-icon-256.png</thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>  
+<title>[B][COLORwhite]NBA HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCfaYgM4Upm3r3fQMg_c_agw/?page=0</jsonrpc>
+<thumbnail>https://c8.alamy.com/comp/E6C36X/national-basketball-association-nba-logo-icon-isolated-app-button-E6C36X.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>   
+<title>[B][COLORwhite]NFL HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/NFL/?page=0</jsonrpc>
+<thumbnail>https://orig00.deviantart.net/4d3f/f/2013/087/7/e/nfl_icon_by_slamiticon-d5zbovo.png</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>  
+<title>[B][COLORwhite]MLB HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCoLrcjPV5PbUrUyXq5mjc_A/?page=0</jsonrpc>
+<thumbnail>https://assets.materialup.com/uploads/57a21b2b-de21-400f-8908-c5ff18b7ac63/preview.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>   
+<title>[B][COLORwhite]MLS HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/mls/?page=0</jsonrpc>
+<thumbnail>https://cdn.dribbble.com/users/27672/screenshots/1961578/image_1x.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+ 
+
+<item>   
+<title>[B][COLORwhite]UFC HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCvgfXK4nTYKudb0rFR6noLA/?page=0</jsonrpc>
+<thumbnail>https://cdn6.aptoide.com/imgs/4/6/c/46c6384c94584f47551b62f51781d166_icon.png?w=240</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>  
+<title>[B][COLORwhite]MILB HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCiAnyTzITXGcNIBTBo6xfWQ/?page=0</jsonrpc>
+<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/82/bd/6f/82bd6f7b-2f18-b31b-3f50-a8e83995ea3c/source/512x512bb.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>  
+<title>[B][COLORwhite]RUGBY HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/irb/?page=0</jsonrpc>
+<thumbnail>https://c8.alamy.com/comp/JHY9YM/rugby-ball-icon-cartoon-style-JHY9YM.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>  
+<title>[B][COLORwhite]CRICKET HIGHLIGHTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC1g1_uvcxzoqez_8nOtH3VQ/?page=0</jsonrpc>
+<thumbnail>http://a3.mzstatic.com/us/r30/Purple/15/92/f6/mzi.maogxron.512x512-75.png</thumbnail>
+<fanart></fanart>
+</item>
+

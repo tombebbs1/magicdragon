@@ -1,0 +1,897 @@
+<item>
+<title>[B][COLORwhite]YOU ARE IN STAND UP[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart>ignoreme</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Adam Hills Clown Heart Live 2017[/COLOR]</title>
+<link>https://streamango.com/f/efrrcmrkqbqbnonq/Adam_Hills_Clown_Heart_Live_2017_DVDRip_x264-HAGGiS_mkv_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/S0c3Lod.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Adam Sandler: 100% Fresh (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/buoccbkuk05m.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tsnllorddpmpolkd/Adam_Sandler_100_Percent_Fresh_2018_NF_WEB-DL_DDP2_0_x264-NTG_EtMovies_mkv::LISTNAME:[COLORwhite]Link 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/hsNBJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Alan Davies Life Is Pain 2013[/COLOR]</title>
+ ig9ijgdvn98n.html</link>
+<thumbnail>http://img.rlsbb.ru/images/gMBWs5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Anjelah Johnson Mahalo and Good Night 2017[/COLOR]</title>
+<link>https://streamango.com/f/lfnrnbplddclqckm/anjelah_johnson_mahalo_and_good_night_2017_web_h264-tbs_mkv_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/8NwtIUMSg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Amy Schumer - Women Who Kill</title>
+<utube>uOAJiihzsAU</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Bernard Manning - Ungagged</title>
+<utube>QKnwn9SEkdA</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Billy Connolly - Bites Yer Bum [/COLOR]</title>
+<link>http://uptobox.com/89d3h8l9xo2s</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Billy Connolly Galore Click Here</title>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-sIpqBXHUeW2SZXro5grac2RRzDZbTdy/?page=0</jsonrpc>
+<thumbnail>ignoreme</thumbnail>
+<fanart></fanart>
+<link>ignorme</link>
+</item>
+
+<item>
+<title>[COLORwhite]Billy Connolly - High Horse Tour 2016[/COLOR]</title>
+<link>http://uptobox.com/y3vh2zh4sw5z</link>
+<thumbnail>https://files.list.co.uk/images/2015/09/30/billyconnolly-lst066922.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Billy Connolly: Live in New York [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/u3vt1y4j8r1o.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Q4MFGP5HL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Billy Connolly - The Pick Of[/COLOR]</title>
+<link>http://uptobox.com/0acfhb2rnl2c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bob Monkhouse - Last Stand[/COLOR]</title>
+<link>http://uptobox.com/l5j8kdvwsb2t</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bob Monkhouse - Live & Forbidden[/COLOR]</title>
+<link>http://uptobox.com/wa6qrkfofp4c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Brad Paisley's Comedy Rodeo ( 2017 )[/COLOR]</title>
+ 0ggt2ddox7qi.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOWI0MjNhNDctNTE1OS00ZjE5LWE0NmQtYzE1MWQzNmM2YjlmXkEyXkFqcGdeQXVyMTAwMjY1Mw@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Brian Regan: Nunchucks and Flamethrowers ( 2017 )[/COLOR]</title>
+ 8x7wcwiq8i2l.html</link>
+<thumbnail>https://netflixcenter.com/wp-content/uploads/2017/11/Brian-Regan_Nunchucks-and-Flamethrowers_Trailer.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cameron Esposito Marriage Material 2016[/COLOR]</title>
+<link>https://streamango.com/f/tefcdaneqfcdacct/Cameron_Esposito_Marriage_Material_2016_720p_AMZN_WEB-DL_DDP2_0_H_264-NTG_mkv</link>
+<thumbnail>http://img.rlsbb.ru/images/Utso3R.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Chingo Bling: They Can't Deport Us All (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qcrltmrdllaebmpo/chingo_bling_they_cant_deport_us_all_720p_web_x264-convoy_mkv_mp4::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTIwNjQ2NTctY2FkNi00MzZmLWIyZWItYTA3MzhhOGU3OWU5XkEyXkFqcGdeQXVyNDM2NDQwMDE@._V1_UY268_CR169,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Chris Rock - Bring The Pain</title>
+<utube>b-opn0LzBR8</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Chris D'Elia: Man on Fire (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/de593upbtd4j.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTM4NzIwMmUtMWVlNS00NjcyLTgyMDQtMGU3ZTVkYjBkMGI2XkEyXkFqcGdeQXVyMjMxMjQwMzM@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dave Chappelle - Bird Revolution 2017[/COLOR]</title>
+<link>
+ kl72keup3qkj.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://123moviess.online/images/movies/v2/movie-posters/f05dff_the_age_of_spin_dave_chappelle_live_at_the_hollywood_palladium.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dave Chappelle Equanimity 2017[/COLOR]</title>
+<link>
+ 1w0tgqy4jbkb.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://123moviess.online/images/movies/v2/movie-posters/f05dff_the_age_of_spin_dave_chappelle_live_at_the_hollywood_palladium.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dave Chappelle For What It's Worth 2004[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tpllmpsnamblacpq/Dave_Chappelle_For_What_Its_Worth_2004_DVDRip_XviD-iNCiTE_avi_mp4::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://123moviess.online/images/movies/v2/movie-posters/6ba5bb_dave_chappelle_for_what_its_worth.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dave Chappelle Live at the Hollywood Palladium 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/1htiuykusj4q.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://123moviess.online/images/movies/v2/movie-posters/f05dff_the_age_of_spin_dave_chappelle_live_at_the_hollywood_palladium.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Def Comedy Jam 25 (2017)[/COLOR]</title>
+<link>
+ hoe01frrpv7a.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/efavy2u71t25::LISTNAME:[COLORwhite]Link 2[/COLOR]::#
+</link>
+<thumbnail>https://art-s.nflximg.net/e695e/8e961427d3bca60d61284cf1600472c602ee695e.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Dennis Pennis - R.I.P[/COLOR]</title>
+<link>http://uptobox.com/h2u9qskug9ef</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]DeRay Davis How to Act Black 2017[/COLOR]</title>
+<link>https://streamango.com/f/afarlfdmskslkond/DeRay_Davis_How_to_Act_Black_2017_720p_WEB_x264-STRiFE_mkv</link>
+<thumbnail>http://img.rlsbb.ru/images/SvZl.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Don't Make That Face by Naveen Richard (2017)[/COLOR]</title>
+<link>https://vidzi.tv/xw5n945imzas.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzhkMmEyYTItMmU3My00MGFmLTgyNWUtMDM5ZWQyYjE4M2MzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk3ODQ3MzI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[COLORwhite]Drew Michael 2018[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rlkscbttsentbmsm/Drew_Michael_2018_AMZN_WEB-DL_AAC2_0_H_264-NTG_mp4:LISTNAME:[COLORwhite]LINK 1[/COLOR]::#  
+sublink:LISTSOURCE:https://streamcherry.com/f/csdrlcaqoffmqrbe/Drew_Michael_2018_AMZN_WEB-DL_AAC2_0_H_264-NTG_mp4:LISTNAME:[COLORwhite]LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/sAGQ9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Erik Griffin: The Ugly Truth ( 2017 )[/COLOR]</title>
+ gs62475t31eh.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTQyMTZhNTYtMjUyMi00ZjY2LWFkMjktNTU0ZGE5ZThmMTFlXkEyXkFqcGdeQXVyNjExMTQ3NjM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eddie Izzard - Dress To Kill </title>
+<utube>eeRX2mdpZi8</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Eddie Murphy - Delirious</title>
+<utube>eeRX2mdpZi8</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Ellen Degeneres - Here and Now</title>
+<utube>_W9JZkHdCdA</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]George Lopez: The Wall, Live from Washington D.C. (2017)[/COLOR]</title>
+<link>https://streamango.com/f/kfqlsdemrtmcbkkd/George_Lopez_The_Wall_Live_from_Washington_D_C_2017_720p_WEBRip_x264_AAC_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODgwOWQxZmYtNGI1OS00YTQ1LTk3NGUtYWNlNTZjYTk5MWM1XkEyXkFqcGdeQXVyMTc4MDIyMjQ@._V1_SY1000_CR0,0,788,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hari Kondabolu Warn Your Relatives 2018[/COLOR]</title>
+<link>https://streamango.com/f/tqppfacntcatopqq/Hari_Kondabolu_Warn_Your_Relatives_2018_720p_WEBRip_x264-AMRAP_mkv_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/IWbrROK.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Harry Hill - Man Alive</title>
+<utube>uCZhaZltbX8</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+
+<item> 
+<title>[COLORwhite]Henry Rollins Keep Talking Pal 2018[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mebffdkeeesennkq/Henry_Rollins_Keep_Talking_Pal_2018_720p_AMZN_WEB-DL_DDP2_0_H_264-monkee_mkv_mp4:LISTNAME:[COLORwhite]LINK 1[/COLOR]::#  
+sublink:LISTSOURCE:https://streamango.com/f/mebffdkeeesennkq/Henry_Rollins_Keep_Talking_Pal_2018_720p_AMZN_WEB-DL_DDP2_0_H_264-monkee_mkv_mp4:LISTNAME:[COLORwhite]LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/1Qxal.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jack Whitehall: At Large (2017)[/COLOR]</title>
+ ohgvmmepisyx.html</link>
+<thumbnail>https://www.ssearena.co.uk/assets/img/JW-613x299-d2b1cceaf5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jason Manford - First World Problems </title>
+<utube>Uap-T9BFvGI</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Jena Friedman - American C**t[/COLOR]</title>
+<link>http://uptobox.com/u705m5n89vmo</link>
+<thumbnail>https://chaosic.akamaized.net/NBCOTT_-_Production/182/91/k_f_t_16x9_Jena_Friedman_American_Cunt_1280x720.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jethro says Bull'cks to Europe </title>
+<utube>4G5ujp9jC1M</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Jim Davidson Back And Live No Further Action[/COLOR]</title>
+<link>http://uptobox.com/cidb7naav6to</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jim Davidson - On The Offensive </title>
+<utube>mg7CQGLjRzE</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Jeff Dunham Relative Disaster 2017[/COLOR]</title>
+<link>https://streamango.com/f/dfndolmecooqcclo/J_D_R_D_2017_HDRip_XviD_AC3-EVO_avi_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/rKFBE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jerrod Carmichael 8 2017[/COLOR]</title>
+<link>http://uptobox.com/lie2qls3kntk</link>
+<thumbnail>http://img.rlsbb.ru/images/ZDAB5vMjeJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jerry Before Seinfeld (2017)[/COLOR]</title>
+<link>http://uptobox.com/70nepc70bkc2</link>
+<thumbnail>https://edge.alluremedia.com.au/m/l/2017/08/Seinfeld-1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jim Gaffigan: Cinco[/COLOR]</title>
+/4y2rvp3tnl4v</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzM5N2YyODQtZTkyMC00ZGVhLWJmZmYtZTI3ZGM2ODAzMzA1L2ltYWdlXkEyXkFqcGdeQXVyMzcwMjcwNQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jim Jefferies This Is Me Now 2018[/COLOR]</title>
+<link>https://streamango.com/f/mnfatfletfoaoefc/Jim_Jefferies_This_Is_Me_Now_2018_1080p_NF_WEB-DL_DD5_1_H_264-SiGMA_mkv_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/NFpsUa5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jimmy Carr - Funny Business[/COLOR]</title>
+<link>http://uptobox.com/e9s5tbnp37g2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Joe Lycett Im About to Lose Control And I Think Live 2018 [/COLOR]</title>
+<link>https://vidoza.net/lt078qahxbs6.html</link>
+<thumbnail>http://img.rlsbb.to/images/p7mZLrI.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]John Bishop Winging It Live 2017[/COLOR]</title>
+<link>https://vidoza.net/uqklqkxqgatj.html</link>
+<thumbnail>http://img.rlsbb.to/images/lqBJVgh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jon Richardson Old Man Live 2018[/COLOR]</title>
+<link>https://vidoza.net/2blng525imak.html</link>
+<thumbnail>http://img.rlsbb.to/images/qBCG1XIzU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Josh Blue - Delete[/COLOR]</title>
+<link>http://uptobox.com/suhmlr0zkn1c</link>
+<thumbnail>http://ib4.huluim.com/show/28343?region=US&size=952x536</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Joe Mande's Award-Winning Comedy Special (2017)[/COLOR]</title>
+<link>https://estream.to/x5iylgsz1c2t.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTgzYWU3NWQtYTVmZS00MWU0LTgxZTItY2RiZWVhOWVjMzQ1XkEyXkFqcGdeQXVyMTkzMTc3Ng@@._V1_UY268_CR104,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[COLORwhite]Joe Rogan: Strange Times (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tsmddlpoatqkpkbn/Joe_Rogan_Strange_Times_2018_1080p_WEBRip_X264-AMRAP_mp4:LISTNAME:[COLORwhite]LINK 1[/COLOR]::#  
+sublink:LISTSOURCE:https://streamcherry.com/f/cqcbrakobqklsdpr/Joe_Rogan_Strange_Times_2018_1080p_WEBRip_X264-AMRAP_mp4:LISTNAME:[COLORwhite]LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzc2Mzg5YmMtMzM1NC00NDgwLTljYWQtZDdkNzBmNjZkNmJhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kathleen Madigan: Bothering Jesus (2016)[/COLOR]</title>
+<link>https://vidzi.tv/izs5p8i3uve8.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmNlNjE1MzUtZTA3OC00ZTRmLWJjZTgtODI5YTAyYmY3ZGI3XkEyXkFqcGdeQXVyNjg0MTA3Nzg@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[COLORwhite]Kevin Bridges The Brand New Tour Live 2018[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/x3jhpsl3au0n.html::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kekaeoddfffsdbdc/Kevin_Bridges_The_Brand_New_Tour_Live_2018_DVDRip_x264-HAGGiS_mkv::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hx3qiff7b35v::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/StMhtLOqLMw/Kevin.Bridges.The.Brand.New.Tour.Live.2018.DVDRip.x264-HAGGiS.mkv.mp4::LISTNAME:[COLORwhite]HD  LINK 4 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/m92Ogez.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kevin James Never Dont Give Up 2018[/COLOR]</title>
+<link>https://streamango.com/f/dblmeoclkeeclttb/Kevin_James_Never_Dont_Give_Up_2018_WEBRip_H264-RBB_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/j4R0c.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kirk Fox: That Guy (2018)[/COLOR]</title>
+ dv0n6y7b807v.html</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BNTYzZTU3ZGYtMTlkMS00ZGVjLTkzMGYtMmJhNmE5YTI3MDY1XkEyXkFqcGdeQXVyMjMxNTE1NjE@._V1_UY268_CR2,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Don't Be That Guy by Kenny Sebastian ( 2017 )[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/zlvc6j5s4vb3.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/2795874_Dont_Be_That_Guy_by_Kenny_Sebastian_2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lee Evans - Monsters Live[/COLOR]</title>
+<link>http://uptobox.com/aobl54mn81ri</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Lee Evans - XL Tour Live</title>
+<utube>pgJMxS92VAA</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>Lee Mack - Going Out</title>
+<utube>m_ckQJetRws</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Marc Maron: Too Real ( 2017 )[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/sekfpokacsksplbn/Marc_Maron_Too_Real_2017_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://art-2.nflximg.net/df0c6/3bf75265e0ae04a385e88b69a760940993ddf0c6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Michael McIntyre - Big Show</title>
+<utube>avI3JG56FQg</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Michael McIntyre - Hello Wembley 3D</title>
+<utube>61RscbaOEcY</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Michael McIntyre - Live and Laughing</title>
+<utube>AWSil0254KA</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Michael Mcintyre - Live at the Apollo</title>
+<utube>oJghQtQ-9x0</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Micky Flanagan An Another Fing Live 2017 [/COLOR]</title>
+<link>
+ 15szidphxp1u.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/JLYxNzp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mike Reid - Live Alive & Kidding</title>
+<utube>wp7aXVRizA4</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Paddy McGuinness</title>
+<utube>vevBCMrwZPs</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Patton Oswalt Annihilation 2017[/COLOR]</title>
+<link>
+ mm5bxddj20lv.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/mb0WJal7B.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay: Live & Back on Nights ( 2012 )[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/r64qgdeshz06.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/2736093_Peter_Kay_Live_Back_on_Nights.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay: Live at the Bolton Albert Halls ( 2003 )( 2012 )[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/wxos4drc73x0.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/13617_Peter_Kay_Live_at_the_Bolton_Albert_Halls_2003.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay Live at the Top of the Tower[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/lln066b4btgh.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/329713_Peter_Kay_Live_at_the_Top_of_the_Tower.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay Live at the Manchester Arena ( 2004 )[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/dv7y46wq4rcw.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/1153499_Peter_Kay_Live_at_the_Manchester_Arena_2004_9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Peter Kay Stand Up UKay ( 2007 )[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/moeqfpr3mdeg.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://images.primewire.ag/thumbs/2795088_Peter_Kay_Stand_Up_UKay_2007.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Peter Kay[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLLc_AXLqnRkicIdXYmEfkQJnWq--9rUoM/?page=0</jsonrpc>
+<thumbnail>https://tyres.cardekho.com/news/wp-content/uploads/2015/06/300x200xMotoGP-Marquez-Michelin-Test-Mugello-300x200.jpg.pagespeed.ic.I_2Ailr2x_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Richard Pryor ...Here and Now 1983[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/8jmxq4hss2bm.html::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+</link>
+<thumbnail>http://123moviess.online/images/movies/v2/movie-posters/f05dff_the_age_of_spin_dave_chappelle_live_at_the_hollywood_palladium.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Richard Pryor - Live And Smokin'</title>
+<utube>Bdeym7xv_V4</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Rich Hall - Hell No I Ain't Happy</title>
+<utube>Okyr8XzhjzE</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Ricky Gervais -  Animals</title>
+<utube>XMzXLDQttUg</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Ricky Gervais Humanity (2018)[/COLOR]</title>
+<link>
+ 5f5k96x1lyrw.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidzi.tv/p40vuq4ieh8q.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/0dYuiG.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Ricky Gervais -  Out Of England</title>
+<utube>oZVMihage5w</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Rob Brydon Live</title>
+<utube>24aFeUTx6Tw</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Robin Williams Live At The Met</title>
+<utube>5yxjK3_qBSo</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Ron White: If You Quit Listening, I'll Shut Up (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/rncbbfqfrrfaqrla/Ron_White_If_You_Quit_Listening_Ill_Shut_Up_2018_720p_WEB_X264-AMRAP_mkv_mp4::LISTNAME:[COLORwhite]Link 1[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/g3bavbp3vII/Ron.White.If.You.Quit.Listening.Ill.Shut.Up.2018.720p.WEB.X264-AMRAP.mkv.mp4::LISTNAME:[COLORwhite]Link 2 OLPAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2NhMGNhYzQtNzYxMi00NTA0LWE4YTYtN2JjMjJjYTUyMGU4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rosie ODonnell A Heartfelt Stand Up 2015[/COLOR]</title>
+ 48dgfnkz7bbh.html</link>
+<thumbnail>http://img.rlsbb.ru/images/mRdeE0Xyt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rowan Atkinson Live</title>
+<utube>uw8dW9Hyno0</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Roy Chubby Brown - Standing Room Only</title>
+<utube>aby4-Vn4YjY</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Roy Chubby Brown - Hairy Pie</title>
+<utube>1W6SSyImDQs</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Roy Chubby Brown - Hangs Up The Helmet </title>
+<utube>u8pZq_4UVHQ</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Roy Chubby Brown Live In Germany </title>
+<utube>dG51JHieezU</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Roy Chubby Brown - Great British Jerk Off[/COLOR]</title>
+<link>http://uptobox.com/5qa1fys9hjyh</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Roy Chubby Brown - Dont Get Fit Get Fat</title>
+<utube>F7GLVxCsVyA</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Roy Chubby Brown - Pussy & Meatballs[/COLOR]</title>
+<link>http://uptobox.com/vall3hxnmfz4</link>
+<thumbnail>https://s4.thcdn.com/productimg/0/300/300/93/10227393-1287566307-96000.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Roy Chubby Brown - The Second Coming[/COLOR]</title>
+ 4rglavawnifi.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91%2BhKeZbflL._SY445_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Russell Brand - The New God</title>
+<utube>PKk55Kpl2cs</utube>
+<thumbnail>ignoreme</thumbnail>
+<fanart>ignoreme</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Russell Howard Recalibrate 2017[/COLOR]</title>
+<link>https://streamango.com/f/tfslkbcrmsdncalb/russell_howard_recalibrate_2017_720p_web_x264-strife_mkv</link>
+<thumbnail>http://img.rlsbb.ru/images/qQ54n1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ryan Hamilton: Happy Face ( 2017 )[/COLOR]</title>
+ qua71zszvubr.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjE0MjI3MjAtOTRmNi00MDI0LTk4MjgtMzBjNjMzOTE4NjFhXkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sarah Colonna I Cant Feel My Legs 2016[/COLOR]</title>
+<link>http://uptobox.com/0tdwjx1jypii</link>
+<thumbnail>http://img.rlsbb.com/images/lw5SzTcQ3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sarah Millican Outsider Live 2016[/COLOR]</title>
+<link>http://uptobox.com/38vy00vz7hlw</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/517lHawPD6L.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sarah Millican Control Enthusiast Live 2018[/COLOR]</title>
+<link>https://vidoza.net/cht8gmbe2ir9.html</link>
+<thumbnail>http://img.rlsbb.ru/images/ANoPQG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sean Lock Keep it Light Live 2017[/COLOR]</title>
+<link>https://streamango.com/f/tnntdenesrannnno/Sean_Lock_Keep_it_Light_Live_2017_DVDRip_x264-HAGGiS_mkv_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/MitZTN4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Seth Rogens Hilarity For Charity 2018[/COLOR]</title>
+<link>https://streamango.com/f/dtrppptetkrlrqfk/Seth_Rogens_Hilarity_For_Charity_2018_WEB_x264-AMRAP_mkv_mp4</link>
+<thumbnail>http://img.rlsbb.ru/images/toZk1Sy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shawn Lamont The Way I See It 2018[/COLOR]</title>
+ chvzk9med10s.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41DQ7MBj6%2BL._AC_SL230_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidzi.tv/yptby5usjxom.html::LISTNAME:[COLORwhite]SD LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ddrfprfkfekrsbrl/Steve_Martin_and_Martin_Short_An_Evening_You_Will_Forget_for_the_Rest_of_Your_Life_2018_720p_WEBRip_x264-AMRAP_mp4::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/ndtsqmmdfsqcssqn/Steve_Martin_and_Martin_Short_An_Evening_You_Will_Forget_for_the_Rest_of_Your_Life_2018_720p_WEBRip_x264-AMRAP_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://www.northcharlestoncoliseumpac.com/assets/img/Martin-Web-Banner-NEW-da82f024f7.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Thom Pain 2017[/COLOR]</title>
+<link>https://vidzi.tv/71hny0p1bv7s.html</link>
+<thumbnail>http://img.rlsbb.ru/images/yj2JwqBgk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tiffany Haddish: She Ready! From the Hood to Hollywood (2017)[/COLOR]</title>
+<link>https://vidzi.tv/a1a4kc3lsd9d.html</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzRmNzU4OWUtNTM4Mi00YjMzLWI1MzEtODRmZmU3NGViYzk3XkEyXkFqcGdeQXVyMzcwMjcwNQ@@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tom Papa - Human Mule[/COLOR]</title>
+<link>http://uptobox.com/kex1it5stttr</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

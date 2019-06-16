@@ -93,7 +93,7 @@ sublink:LISTSOURCE:https://1fichier.com/?a9lxyx5el0jo2hgagu2u::LISTNAME:[COLORgo
 <thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
+ 
 <item>
 <title>[COLORwhite]Alita: Battle Angel (2019) 1Bet Copy[/COLOR]</title>
 <link>

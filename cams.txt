@@ -82,17 +82,7 @@ sublink:LISTSOURCE:https://uptobox.com/1i0h5hpu70u9::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Pokémon Detective Pikachu (2019) CAM UPDATED 15/05[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zvutm43xbt0w/pok%C3%89mon_detective_pikachu_official_trailer_1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/aomnnnretaltatrq/Pokemon_Detective_Pikachu_720p_NEW_HDCAM_1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bnrnlofntcrlsfbd/Pokemon_Detective_Pikachu_720p_NEW_HDCAM_1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/wxPaFaE_Ld0/Pokemon.Detective.Pikachu.720p.NEW.HDCAM.1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Hustle (2019) CAM UPDATED 13/05[/COLOR]</title>
@@ -234,17 +224,7 @@ sublink:LISTSOURCE:https://openload.co/f/gwoI1qYP9rg/Dumbo_2019_NEW_720p_HDCAM_V
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Beach Bum (2019) HDCAM UPDATED 31/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/xptfh0902rqz/the_beach_bum_official_red_band_trailer__matthew_mcconaughey%2C_snoop_dogg%2C_isla_fisher::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/hljuegwupt6z/the_beach_bum_2019_720p_hdcam-1xbet::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hiekaenahal1::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/Y0KjYmULnYc/The_Beach_Bum_2019_720p_HDCAM-1XBET.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3MDUzMTAzOV5BMl5BanBnXkFtZTgwNDk3ODQyNzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Unplanned (2019) HDCAM UPDATED 30/03[/COLOR]</title>

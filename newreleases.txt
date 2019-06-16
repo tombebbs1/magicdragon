@@ -95,6 +95,23 @@ sublink:LISTSOURCE:https://1fichier.com/?a9lxyx5el0jo2hgagu2u::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Pokémon Detective Pikachu (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zvutm43xbt0w/pok%C3%89mon_detective_pikachu_official_trailer_1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0bzinpofpf9h/pokemon_detective_pikachu_2019_1080p_hdrip_x264_aac2_0-stuttershit::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ntqpkemopeqcfaod/Pokemon_Detective_Pikachu_2019_1080p_HDRip_x264_AAC2_0-STUTTERSHIT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/ksnklblldtrcnere/Pokemon_Detective_Pikachu_2019_1080p_HDRip_x264_AAC2_0-STUTTERSHIT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/f2a08joeek06::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/cY7Ls4sW7ts/Pokemon.Detective.Pikachu.2019.1080p.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/BHucvwgzxiQ/Pokemon.Detective.Pikachu.2019.1080p.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/cb181e5810bf2419ed6969d9d884924e/Pokemon.Detective.Pikachu.2019.1080p.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mm9dtly3p5s322tnx9bi::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I Am Mother (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/z98lptxsuxg0/i_am_mother__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

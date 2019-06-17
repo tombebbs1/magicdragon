@@ -549,6 +549,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:b30918271c2e13d87c7e426efb81e55c6010af9b&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Captain Marvel (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f4e8f3d6318958121bfe8621a5f2fba7c151e7e4&dn=Captain.Marvel.2019.2160p.UHD.BluRay.x265-TERMiNAL&xl=9161364729&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2770/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Captain Philips 4K [/COLOR]</title>

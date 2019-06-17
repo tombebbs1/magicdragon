@@ -5,7 +5,7 @@
 <title>[B][COLORwhite]YOU ARE IN TV & ENTERTAINMENT[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -13,7 +13,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -22,26 +22,26 @@ item>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>http://supremacy.org.uk/Elektra_Vault/LIVETV/Plex/plexmovies33.xml</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][I][COLORwhite]Catch Up TV[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/latesttv.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][I][COLORblue]Episodes Of The Day[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/oldepisodes.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oldepisodes.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 
@@ -50,18 +50,18 @@ item>
 <title>[B][I][COLORpink]24/7 TV Shows[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/247.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/247.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 item>
 <title>[B][I][COLORgreenyellow]US TV Channels[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/ustv.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/ustv.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 
@@ -74,22 +74,22 @@ sublink:LISTSOURCE:https://streamango.com/f/amdofaklosolcsaf/Unlovable_2018_HDRi
 sublink:LISTSOURCE:https://streamcherry.com/f/tfqmkbpkklkebcro/Unlovable_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://i2-prod.walesonline.co.uk/lifestyle/article7030279.ece/ALTERNATES/s1200/18-classic-TV-adverts.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
 </item>
 item>
 <title>[B][I][COLORorange]Live TV[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/livetv.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/livetv.txt</externallink>
 <thumbnail>https://previews.123rf.com/images/dirkercken/dirkercken1311/dirkercken131100306/23545290-live-stream-tv-music-or-video-button-icon-or-sign-live-on-air-broadcasting-movie-or-radio-program-Stock-Photo.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 item>
 <title>[B][COLORviolet]Live Sports[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/livesports.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/livesports.txt</externallink>
 <thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
 <fanart></fanart>
 </item>
@@ -100,25 +100,25 @@ item>
 <title>[B][I][COLORgreenyellow]Stand Up Comedy Zone[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/standup.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/standup.txt</externallink>
 <thumbnail>https://lh4.ggpht.com/KlM0VmMQEu2inez-L7X-mZBLTJxXC_Z-PX0hdHyREKaE9-XZ3pTeuCdkLs0jLuPqBaA=w300</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][I][COLORtomato]TV Boxsets[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/fullseries.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fullseries.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Chubby Brown Collection[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/chubbybrown.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tvseries/chubbybrown.txt</externallink>
 <thumbnail>https://www.chortle.co.uk/images/photos/small/rcb_roy_chubby_brown.jpg</thumbnail>
 <fanart>http://pyramid.zerotolerance.gq/pyramid/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
 </item>
@@ -127,7 +127,7 @@ item>
 <title>[B][I][COLORwhite]Adult Versions Of Kids TV (Adults Only)[/B][/I][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLLBxtO2u0gUTYyxtvIzOQfvHQOeDbPuVc/?page=0</jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -135,7 +135,7 @@ item>
 <title>[B][I][COLORorange]Bloopers TV[/B][/I][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLQ7_GA82PpMFEC6PYfxBFPCc1qnAio3A-/?page=0</jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -143,7 +143,7 @@ item>
 <title>[B][I][COLORwhite]Natural Disasters Caught On Camera[/B][/I][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLIhyKgmJSkqK50xd2ZC3eYMPZQBGNgcmq/?page=0</jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -151,7 +151,7 @@ item>
 <title>[B][I][COLORtomato]Pranks TV[/B][/I][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLyejWMfk59mIGOp3N1mwSdPiG5iykxrnK/?page=0</jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -159,7 +159,7 @@ item>
 <title>[B][I][COLORgreen]Fishing TV[/B][/I][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/user/AddictiveFishing/</jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -170,9 +170,9 @@ item>
 <title>[B][I][COLORorange]WebCam Zone[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/webcams.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/webcams.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 

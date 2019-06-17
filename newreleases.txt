@@ -94,6 +94,61 @@ sublink:LISTSOURCE:https://1fichier.com/?a9lxyx5el0jo2hgagu2u::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+
+
+
+
+item>
+<title>[COLORwhite]Wonder Park (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/snscc1h3b8lp/wonder_park_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6foawwn5byd4/the_outsider_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/llannqmfdrllncpk/The_Outsider_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/rmpdoafrqasofllq/The_Outsider_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yj7ja1d2njzy::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/bABUyAbR69L/The.Outsider.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/8JY8f4NWtQA/The.Outsider.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/8e32734e2eac29e9075cfe473d458e1f/The.Outsider.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?l71s734sue1q8k9eia9k::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Professor and the Madman (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/03q0pzh66x6g/the_professor_and_the_madman_2019_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4i1ib6j82f5i/the_professor_and_the_madman_2019_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/renstrlkqktosppm/The_Professor_And_The_Madman_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/nrkrqnsqcffbmokr/The_Professor_And_The_Madman_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cc33jftzrx5i::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hBUjm6fdETH/The.Professor.And.The.Madman.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/ELohfRd9xq8/The.Professor.And.The.Madman.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/75e7873eacf3d3d03e5189554821fffc/The.Professor.And.The.Madman.2019.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?i76o8rjm9yauscikhcjg::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRjNWIxMWMtNzcxYi00NDYyLWFmMzAtZTRiZWZhZDMwZmVkXkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hotel Mumbai (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/odbcxyl9xo4w/hotel_mumbai_official_trailer_2019_dev_patel%2C_armie_hammerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/20ho1kdm177q/hotel_mumbai_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tsmbemnkqbcoktcr/Hotel_Mumbai_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/foocepakalosombb/Hotel_Mumbai_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/e4m2obctbiai::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/EhbkrTEbwvw/Hotel.Mumbai.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/Q4dfLK2qH2Y/Hotel.Mumbai.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ofp2cedu0jwetu04wyga::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ofp2cedu0jwetu04wyga::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTJlZWY2YjYtZGIxMy00MDEwLTliNzMtZGM3MDQ1NzlmNDY1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The Outsider (2018)[/COLOR]</title>
 <link>
@@ -398,19 +453,6 @@ sublink:LISTSOURCE:https://1fichier.com/?okhi0eeu4prwfct0xpbm::LISTNAME:[COLORgo
 
 
 <item>
-<title>[COLORwhite]Hotel Mumbai (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/odbcxyl9xo4w/hotel_mumbai_official_trailer_2019_dev_patel%2C_armie_hammerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/0y3wnpkor64g::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ip0vpl1oljle::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hwe5ygodb57m::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTJlZWY2YjYtZGIxMy00MDEwLTliNzMtZGM3MDQ1NzlmNDY1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
-<item>
 <title>[COLORwhite]Domino (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zy7ql73jwrpg/domino_official_trailer_2019_nikolaj_coster-waldau%2C_brian_de_palmaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -636,17 +678,7 @@ sublink:LISTSOURCE:https://1fichier.com/?vttmfw5b8nynvuna1wbb::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Wonder Park (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/snscc1h3b8lp/wonder_park_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/cjaziQdyv2r/Wonder.Park.2019.720p.HDRip.X264-1XBET.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/cjaziQdyv2r/Wonder.Park.2019.720p.HDRip.X264-1XBET.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/7b1v5udlydic::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Saints Rest (2018)[/COLOR]</title>

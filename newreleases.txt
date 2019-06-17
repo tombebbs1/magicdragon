@@ -88,6 +88,39 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Chasing Bullitt (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gmg34phydb6n/chasing_bullitt_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/txh5jt93befs/chasing_bullitt_2018_dvdrip_x264-spooks_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qqdqeedldfaqnonq/chasing_bullitt_2018_dvdrip_x264-spooks_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/admoepedfldcfpnt/chasing_bullitt_2018_dvdrip_x264-spooks_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0bjkegf5w1ou::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/-UMau3PaKsY/chasing.bullitt.2018.dvdrip.x264-spooks%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9a575a07b79cabf5419ee130fe923cf0/chasing.bullitt.2018.dvdrip.x264-spooks[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pvmlqbchmdlj4mtrtg31::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzExNTNjMDctYTRkOC00ZjAwLWEzMDYtNDk1Nzk5NzcxNGI0XkEyXkFqcGdeQXVyNTEzMTY0OTY@._V1_SY1000_CR0,0,680,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Red Joan (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/ncalssadstdabmkm/F9CF5FE2_mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/s6w7zfpmo8yg/red_joan_2018_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/btseafqlplkqtqsr/Red_Joan_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/acbsmrdeqdrbnbsn/Red_Joan_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3m47bwbdo1v5::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/652czmsjkEk/Red.Joan.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/652czmsjkEk/Red.Joan.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1b2bf306875a8275a81a52f93a78891b/Red.Joan.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?74dcw3rcp5me3msxjrfc::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTBhMDZjZmQtNmJjYS00OWI0LTkxM2ItN2ExZTc3NzkxZmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]15 Minutes of War (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i9kix3gaf6fw/15_minutes_of_war_official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

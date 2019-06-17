@@ -87,6 +87,16 @@ sublink:LISTSOURCE:https://1fichier.com/?tc834hy9c0awtc4gm9dm::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]13 Hours (2016)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613&dn=13.Hours.The.Secret.Soldiers.Of.Benghazi.2016.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT&xl=91775561962&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2750/announce&tr=udp%3A%2F%2F9.rarbg.to:2770/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjY0OWVjMGQtNTIzZi00OGU5LWI4N2EtMGU0YzQ4OWM4ZmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]21 Jump Street (2012)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/5gb46awh2t5v::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[B][COLORwhite]Black Mirror Season 5[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9myoh42vz1f5/black_mirror_s05e01_striking_vipers_720p_10bit_webrip_2ch_x265_hevc-psa::LISTNAME:[COLORwhite]01- Striking Vipers[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8v9ge58mcv12/black_mirror_s05e02_smithereens_720p_10bit_webrip_2ch_x265_hevc-psa::LISTNAME:[COLORwhite]02- Smithereens[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d8zl4ce3soag/black_mirror_s05e03_rachel_jack_and_ashley_too_720p_10bit_webrip_2ch_x265_hevc-psa::LISTNAME:[COLORwhite]03- Rachel Jack And Ashley[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite][COLORred]EPISODE OF THE DAY[/COLOR] - Game Of Thrones - S08 E06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jdnnvq54k9js/game_of_thrones_s08e06_the_iron_throne_1080p_amzn_webrip_x265_eac3_5_1_goki_5bsev_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -2,14 +2,14 @@
 <title>[B][COLORgold]YOU ARE IN THE KIDS ZONE[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORgold]***************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 </item>
 
 
@@ -18,25 +18,25 @@
 <title>[B][COLORgreenyellow]Kids Movies Here[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/kidsmovies.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kidsmovies.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORorangered]Kids/Family Halloween Movies Here[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/kidshalloween.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kidshalloween.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
 </item>
 
 item>
 <title>[B][COLORgreenyellow]Disney Collection[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets/disneycollection.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/boxsets/disneycollection.txt</externallink>
 <thumbnail>https://images8.alphacoders.com/512/thumb-1920-512776.jpg</thumbnail>
 <fanart>https://images8.alphacoders.com/512/thumb-1920-512776.jpg</fanart>
 </item>
@@ -45,7 +45,7 @@ item>
 <title>[B][COLORgreenyellow]More Kids Movies (You Tube)[/COLOR][/B]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL5D0BE03FD28A76AD/?page=0</jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -157,9 +157,9 @@ item>
 <title>[B][COLORwhite]Tarzan and Jane [/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/tarzanandjane.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tvseries/tarzanandjane.txt</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjFkY2RmZWItNDc3OS00MjM4LWJiNzYtYzM0ODEyMDZjZGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzEwOTk4NzQ@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
 </item>
 
 <item>

@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Zilla and Zoe (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lplsqlr6umpa/zilla_and_zoe_trailer_2019_comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8xp7thdxsoqz/zilla_and_zoe_2017_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/caldoscntscdnmtq/Zilla_And_Zoe_2017_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/lenlkpapfclqlrmo/Zilla_And_Zoe_2017_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/w7uj4xqo4x80::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/61NK5XE1zSP/Zilla.And.Zoe.2017.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/fWU4VkZxTXs/Zilla.And.Zoe.2017.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/043cde97f7619053cd8f85e419f9e02b/Zilla.And.Zoe.2017.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lfn4o6kdk3dx92s6usfu::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTI0YTQ5ZjktODBmZS00MjNmLThjMGMtMzVhOTFkN2RmZGJhXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Carrie (1976)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vir0xuirk5ew/carrie_1976_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

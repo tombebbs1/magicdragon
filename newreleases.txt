@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Goalie (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6okqezrma1jh/goalie_trailer_%5Bhd%5D_mongrel_media::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q84k2oghyeyi/goalie_2019_1080p_web-dl_dd5_1_h_264-ntb_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/sekqcfdcppcrrbfm/Goalie_2019_1080p_WEB-DL_DD5_1_H_264-NTb_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/rsbddmdcqbdrncqr/Goalie_2019_1080p_WEB-DL_DD5_1_H_264-NTb_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eeoorif4e392::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/dLMJ72Rtqt/Goalie.2019.1080p.WEB-DL.DD5.1.H.264-NTb%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/UzWq1SojtXY/Goalie.2019.1080p.WEB-DL.DD5.1.H.264-NTb%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?g4a4i0hottc4v62x47mu::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?g4a4i0hottc4v62x47mu::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDIwMjllYjMtMzYyNC00OGI0LWJiMTAtYTk1NzhkZTkzNDZiXkEyXkFqcGdeQXVyNDE0NjI3Nw@@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Zilla and Zoe (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/lplsqlr6umpa/zilla_and_zoe_trailer_2019_comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

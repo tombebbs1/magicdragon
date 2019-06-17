@@ -1,0 +1,71 @@
+<item>
+<title>[B][I][COLORgreenyellow]Specials[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/specials.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 1[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s1.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 2[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s2.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 3[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s3.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 4[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s4.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 5[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s5.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 6[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s6.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORgreenyellow]Season 7[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/tvseries/onlyfools/s7.txt</externallink>
+<thumbnail>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</thumbnail>
+<fanart>http://cnemacentre.com/wp-content/uploads/images/show-images/only-fools-and-horses-1.jpg</fanart>
+</item>

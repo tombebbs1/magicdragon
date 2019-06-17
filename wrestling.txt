@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Fury V Shwartz 15.06.19[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/n2k33o3zo125/boxing_2019_06_16_tyson_fury_vs_tom_schwarz_1080p_hdtv_x264-plutonium::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oafdlttfddfpaoor/Boxing_2019_06_16_Tyson_Fury_Vs_Tom_Schwarz_1080p_HDTV_x264-PLUTONiUM_mkv::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ecqjzzlhfoou::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/Fh-aSyxQyZ8/Boxing.2019.06.16.Tyson.Fury.Vs.Tom.Schwarz.1080p.HDTV.x264-PLUTONiUM.mkv.mp4::LISTNAME:[COLORwhite]HD  LINK 4 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]WWE Smackdown 02.04.19[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/v9egywvp0s6r/wwe_smackdown_live_2019_04_02_720p_hdtv_x264-nwchd::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

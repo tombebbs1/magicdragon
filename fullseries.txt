@@ -453,7 +453,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fclkclebreqttqtm/Marvels_The_Punishe
 <title>[B][COLORwhite]Only Fools And Horses[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>https://github.com/tombebbs1/magicdragon/blob/master/main.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/main.txt</externallink>
 <thumbnail>https://st.onlinefree.me/images/2017-04/only-fools-and-horses-season-8-cover.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>

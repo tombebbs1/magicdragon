@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]15 Minutes of War (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/i9kix3gaf6fw/15_minutes_of_war_official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/31llqf14jqby/15_minutes_of_war_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ksltferqfdrpdkoo/15_Minutes_Of_War_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/nfpsklqsppfbtonk/15_Minutes_Of_War_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7gy1kur4ell0::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/8Z2uJf88gOM/15.Minutes.Of.War.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/8Z2uJf88gOM/15.Minutes.Of.War.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0b6a22344317b7dff0c73318c3d7f27e/15.Minutes.Of.War.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?265cjk3radr0elt5d3a6::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGU5YWQ3MDMtOGRkNC00NGUzLTkxMjMtMzEwODcyNzI1ZDFlXkEyXkFqcGdeQXVyNTM4MjgzNzc@._V1_SY1000_CR0,0,737,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Goalie (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6okqezrma1jh/goalie_trailer_%5Bhd%5D_mongrel_media::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

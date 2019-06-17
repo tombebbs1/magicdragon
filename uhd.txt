@@ -3787,6 +3787,25 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:f5ea52fb7bd443c3c2251e173d562be55a10ccf4&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Toy Story 2 (1999)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a6042b17523847b1a254f20a2e36448b0544b586&dn=Toy.Story.2.1999.2160p.UHD.BluRay.X265-IAMABLE&xl=13866068764&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Toy Story 3 (2010)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a938015e8f6d0839379be17673d396e963a332da&dn=Toy.Story.3.2010.2160p.UHD.BluRay.X265-IAMABLE&xl=15779665423&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2740/announce&tr=udp%3A%2F%2F9.rarbg.to:2750/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 
 <item>

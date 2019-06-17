@@ -1,0 +1,78 @@
+<item>
+<title>[COLORblue]The Mist S01E01-E03  HDTV[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://estream.to/ku325a5yhirf.html::LISTNAME:[COLORwhite]E1 - LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/dgf2gt83o9ht::LISTNAME:[COLORwhite]E1 - LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/960mjku820cf.html::LISTNAME:[COLORwhite]E2 - LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/dtnxz8wcjbkb::LISTNAME:[COLORwhite]E2 - LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://estream.to/j4jyqoniij3f.html::LISTNAME:[COLORwhite]E3 - LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/zunvx7lmagt7::LISTNAME:[COLORwhite]E3 - LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://images6.fanpop.com/image/photos/39800000/The-Mist-the-mist-tv-series-39830866-656-372.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/39800000/The-Mist-the-mist-tv-series-39830866-656-372.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORblue]The Mist S01E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/0b1ibvqt6dq4.html::LISTNAME:[COLORwhite]LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://images6.fanpop.com/image/photos/39800000/The-Mist-the-mist-tv-series-39830866-656-372.jpg</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/39800000/The-Mist-the-mist-tv-series-39830866-656-372.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORblue]The Mist S01E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/jfo26dg3yn65.html::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/anUBT4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]The Mist S01E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?xc7g68fkv3::LISTNAME:[COLORwhite]Ep 06[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/3elscgvw9xxi/The.Mist.S01E06.720p.HDTV.x264-SVA.mp4.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/nRpgiOcV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]The Mist S01E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/soxziz1v9ig3.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zl19ntfdem::LISTNAME:[COLORwhite]Ep 07[COLORred]1080p Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue][COLORlimegreen]11.08.17 - [/COLOR]The Mist S01E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/d6vn2njbdb5e.html:[COLORwhite]Ep 01[/COLOR]::#
+</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue][COLORlimegreen]18.08.17 - [/COLOR]The Mist S01E09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/mysgd77s8hew.html:[COLORwhite]Ep 01[/COLOR]::#
+</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue][COLORlimegreen]25.08.17 - [/COLOR]The Mist S01E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/s63masr3o1q5.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,57 @@
+<item>
+<title>[COLOR blue]Wolf Creek S02E01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tonqerotdlsmdnpe/Wolf_Creek_S02E01_Journey_720p_STAN_WEB-DL_DDP5_1_H_264-NTb_mkv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</thumbnail>
+<fanart>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wolf Creek S02E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/dtolaacsefmnqkkt/Wolf_Creek_S02E02_Outback_720p_STAN_WEB-DL_DDP5_1_H_264-NTb_mkv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</thumbnail>
+<fanart>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wolf Creek S02E03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/onlfeeqrsttenfds/Wolf_Creek_S02E03_Chase_720p_STAN_WEB-DL_DDP5_1_H_264-NTb_mkv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</thumbnail>
+<fanart>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wolf Creek S02E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/artpfqcokfqpcbdl/Wolf_Creek_S02E04_Singing_720p_STAN_WEB-DL_DDP5_1_H_264-NTb_mkv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</thumbnail>
+<fanart>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wolf Creek S02E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mqmtcocbfmmmblfe/Wolf_Creek_S02E05_Shelter_720p_STAN_WEB-DL_DDP5_1_H_264-NTb_mkv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</thumbnail>
+<fanart>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Wolf Creek S02E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/lrassqbqffeboest/Wolf_Creek_S02E06_Return_720p_STAN_WEB-DL_DDP5_1_H_264-NTb_mkv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</thumbnail>
+<fanart>http://koditips.com/wp-content/uploads/westworld-kodi.jpg</fanart>
+</item>
+
+
+
+

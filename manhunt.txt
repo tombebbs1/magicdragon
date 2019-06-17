@@ -1,0 +1,71 @@
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/neambqrrmmlptoll/Manhunt_Unabomber_S01E01_Unabom_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pakocqeeldpkbafn/Manhunt_Unabomber_S01E02_Pure_Wudder_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/qcnpcdprdaekanpp/Manhunt_Unabomber_S01E03_Fruit_of_the_Poisonous_Tree_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pbfntfpceboankck/Manhunt_Unabomber_S01E04_Publish_or_Perish_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/cemfclelapmqmlsl/Manhunt_Unabomber_S01E05_Abri_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/drobbpfkltbndpnf/Manhunt_Unabomber_S01E06_Ted_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/mtpskopmdltnkntt/Manhunt_Unabomber_S01E07_Lincoln_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Manhunt: Unabomber S01 E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/stsfprrlblpkepob/Manhunt_Unabomber_S01E08_USA_vs_Theodore_J_Kaczynski_mkv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 1[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

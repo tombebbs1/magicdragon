@@ -112,6 +112,23 @@ sublink:LISTSOURCE:https://1fichier.com/?l71s734sue1q8k9eia9k::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]City of Lies (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lag7qddh3z1b/city_of_lies_trailer_1_2018__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1jsq3x9pm36d/city_of_lies_2018_720p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ppbbdcbmfbcsookn/City_Of_Lies_2018_720p_BluRay_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/bspfdeomolsnfpqp/City_Of_Lies_2018_720p_BluRay_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qtbpv63mtnlj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/VUHN6SWgZGz/City.Of.Lies.2018.720p.BluRay.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/24t5sS-_KRc/City.Of.Lies.2018.720p.BluRay.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/520837cb6a7d2756839463d29a4fd726/City.Of.Lies.2018.720p.BluRay.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6bz10mgz7jo44ujc912c::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDRmZTNkMDUtZGU0Ny00ODYxLThlN2EtM2I3Zjc0NWI1NjMzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,642,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blackbear (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/g33kji8c9u6h/blackbear_trailer_2019_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -95,6 +95,23 @@ sublink:LISTSOURCE:https://1fichier.com/?a9lxyx5el0jo2hgagu2u::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Night Sitter (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2dt1dpg25zja/the_night_sitter_2018_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3wrqvpc25zpa/the_night_sitter_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mobbflcrnaoaskfn/The_Night_Sitter_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/lnmbkrndbbqmdqmd/The_Night_Sitter_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/53m4hqt4etkq::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/jBi2gNpkeLp/The.Night.Sitter.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/tYI_dcgLSTE/The.Night.Sitter.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/da0453e51f5b451f7fa807026b487be8/The.Night.Sitter.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mi17ytcyvhmtckqymnju::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDVlZmQ5MzctMDFhZi00Y2E1LWEwZTEtZTZkNjUwYzk3ZDJjXkEyXkFqcGdeQXVyMjI5NzQ4NzA@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Clinton Road (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ph6dcka2gs7o/clinton_road_official_trailer_2019_ice-t%2C_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

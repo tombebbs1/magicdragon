@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]YOU ARE IN TV BOX SETS[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -121,7 +121,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dmpcsnsnfbkbebfb/Bosch_S04E10_Book_o
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/butterflies.txt</externallink>
 <thumbnail>http://i.dailymail.co.uk/i/pix/2009/06/23/article-0-05740F8F000005DC-22_468x286.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -130,7 +130,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dmpcsnsnfbkbebfb/Bosch_S04E10_Book_o
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/chubbybrown.txt</externallink>
 <thumbnail>https://www.chortle.co.uk/images/photos/small/rcb_roy_chubby_brown.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -284,7 +284,7 @@ sublink:LISTSOURCE:https://streamango.com/f/odcopcdlslspelee/Homecoming_S01E10_X
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/landofgiants.txt</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NjM3NDk0NF5BMl5BanBnXkFtZTgwMzU0MTkwMzE@._V1._CR0,1,293,373_UY268_CR14,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -329,7 +329,7 @@ sublink:LISTSOURCE:https://streamango.com/f/adrfldrstndbflkc/making_a_murderer_s
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/manhunt.txt</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item> 
@@ -438,7 +438,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fclkclebreqttqtm/Marvels_The_Punishe
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/mindhunter.txt</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzNkZmNmZjMtZWI5OC00MzdiLTgxMjAtZWY2ZTIwMWM2Yzc2XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -455,7 +455,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fclkclebreqttqtm/Marvels_The_Punishe
 <link>ignorme</link>
 <externallink>https://github.com/tombebbs1/magicdragon/blob/master/main.txt</externallink>
 <thumbnail>https://st.onlinefree.me/images/2017-04/only-fools-and-horses-season-8-cover.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -504,7 +504,7 @@ sublink:LISTSOURCE:https://vidoza.net/tnus1bf7x093.html::LISTNAME:[COLORwhite]10
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/planetearthii.txt</externallink>
 <thumbnail>http://i.dailymail.co.uk/i/pix/2016/11/16/06/3A5CA99900000578-3940762-Planet_Earth_II_may_be_the_most_watched_TV_programme_on_British_-a-33_1479277295953.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 
@@ -563,7 +563,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tkkarqlmoaespoef/save_me_s01e06_720p
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/startrektng.txt</externallink>
 <thumbnail>http://jonvilma.com/images/star-trek-the-next-generation-11.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -572,7 +572,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tkkarqlmoaespoef/save_me_s01e06_720p
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/strangerthings.txt</externallink>
 <thumbnail>http://seryjni.blog.polityka.pl/wp-content/uploads/2016/07/strangerthingsposter-1.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -617,7 +617,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tmpobecnkaqeaeqa/10_Taken_-_Miniseri
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tarzanandjane.txt</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjFkY2RmZWItNDc3OS00MjM4LWJiNzYtYzM0ODEyMDZjZGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzEwOTk4NzQ@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -842,7 +842,7 @@ sublink:LISTSOURCE:http://watchvideo.us/7m9f07qdvcal.html::LISTNAME:[COLORwhite]
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/themist.txt</externallink>
 <thumbnail>http://images6.fanpop.com/image/photos/39800000/The-Mist-the-mist-tv-series-39830866-656-372.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -885,7 +885,7 @@ sublink:LISTSOURCE:https://vidoza.net/cfid9und8ufz/turn_up_charlie_s01e08_720p_w
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/vtvseries.txt</externallink>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTYxNTQ5NTg2Ml5BMl5BanBnXkFtZTcwODUyNTY5Mg@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -894,6 +894,6 @@ sublink:LISTSOURCE:https://vidoza.net/cfid9und8ufz/turn_up_charlie_s01e08_720p_w
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/westworld.txt</externallink>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNThjM2Y3MDUtYTIyNC00ZDliLWJlMmItNWY1N2E5NjhmMGM4XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 

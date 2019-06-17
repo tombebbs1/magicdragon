@@ -255,18 +255,6 @@ sublink:LISTSOURCE:https://openload.co/f/VAUsMp2XZrE/Unplanned_2019_720p_HDCAM-1
 
 
 <item>
-<title>[COLORwhite]The Professor and the Madman (2019) HDCAM UPDATED 30/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/03q0pzh66x6g/the_professor_and_the_madman_2019_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/gau99rixonjo/the_professor_and_the_madman_2019_720p_hdcam_900mb_1xbet_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/cldncepbblkdkffq/The_Professor_and_the_Madman_2019_720p_HDCAM_900MB_1xbet_x264-BONSAI_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/amkcael2zwrg::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRjNWIxMWMtNzcxYi00NDYyLWFmMzAtZTRiZWZhZDMwZmVkXkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]The Balkan Line (2019) HDCAM UPDATED 26/03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0a2znnpelfn4/%D0%91%D0%90%D0%9B%D0%9A%D0%90%D0%9D%D0%A1%D0%9A%D0%98%D0%99_%D0%A0%D0%A3%D0%91%D0%95%D0%96_%E2%9C%A9_%D0%A2%D1%80%D0%B5%D0%B9%D0%BB%D0%B5%D1%80_1_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%94%D1%80%D0%B0%D0%BC%D0%B0%2C_2019_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%92%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -278,17 +266,7 @@ sublink:LISTSOURCE:https://uptobox.com/7fc42yz27z55::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Five Feet Apart (2019) HDCAM UPDATED 26/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/fgh6x8e0e7f3/five_feet_apart_trailer_2_hd_haley_lu_richardson%2C_cole_sprouse_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/h8phkexhtfts/www_seehd_pl_five_feet_apart_2019_720p_hdcam-1xbet::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/h8phkexhtfts/www_seehd_pl_five_feet_apart_2019_720p_hdcam-1xbet::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/xmeainaau7fg::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzVmMjJlN2MtNWQ4Ny00Zjc2LWJjYTgtYjJiNGM5MTM1ZTlkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Run the Race (2018) HDCAM UPDATED 24/02[/COLOR]</title>

@@ -3940,6 +3940,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:c4e5f57beaee70b865ad07a6fbaa4f119f632c68&
 </item>
 
 <item>
+<title>[COLORwhite]Us (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:18c25ab9a4b495bb754fd2bc5b41b4ba332356ab&dn=Us.2019.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ&xl=16895193262&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2780/announce&tr=udp%3A%2F%2F9.rarbg.to:2750/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Valerian and the City of a Thousand Planets (2017)[COLORred]Debrid Only[/COLOR] 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?69k00b1krz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

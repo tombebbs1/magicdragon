@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]YOU ARE SPORTS[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -30,7 +30,7 @@
 <title>[B][COLORwhite]MOTOR RACING REPLAYS[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/motorreplays.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/motorreplays.txt</externallink>
 <thumbnail>http://www.f1fanatic.co.uk/wp-content/uploads/2013/05/forc-suti-barc-2013-21.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -39,7 +39,7 @@
 <title>[B][COLORwhite]LATEST WRESTLING/UFC/BOXING HIGHLIGHTS[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/wrestling.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/wrestling.txt</externallink>
 <thumbnail>http://www.telegraph.co.uk/content/dam/boxing/2018/01/23/Rico-Verhoeven-medium_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -48,7 +48,7 @@
 <title>[B][COLORwhite]MY CLUB ZONE HERE[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/footballteams.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/footballteams.txt</externallink>
 <thumbnail>http://simpleicon.com/wp-content/uploads/football.png</thumbnail>
 <fanart></fanart>
 </item>

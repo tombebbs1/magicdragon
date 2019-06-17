@@ -5,7 +5,7 @@
 <name>[B][I][COLORred]REAL DEBRID AUTHORIZE HERE[/B][/I][/COLOR]</name>
 <thumbnail>https://troypoint.com/wp-content/uploads/2017/10/install-real-debrid-kodi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/rdlogin.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -15,7 +15,7 @@
 <name>[B][I][COLORred]PAIR WITH SERVICES HERE - OPENLOAD ETC[/B][/I][/COLOR]</name>
 <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2017/05/How-to-Install-Openload-Movies-Add-on-Kodi-17.1-Krypton-22.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/openloadpair.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -23,7 +23,7 @@
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -32,7 +32,7 @@
 <name>[B][I][COLORwhite]People Watching[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -40,7 +40,7 @@
 <name>[B][I][COLORblue]New Cams/HDTS Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -48,7 +48,7 @@
 <name>[B][I][COLORwhite]Blu-Ray Movies RD Only (TORRENTS)[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -58,7 +58,7 @@
 <name>[B][I][COLORlime]New Movie Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -67,7 +67,7 @@
 <name>[B][I][COLORred]Real Debrid Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/realdebrid.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -75,7 +75,7 @@
 <name>[B][I][COLORorange]4K Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhd.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -84,7 +84,7 @@
 <name>[B][I][COLORgold]Catch Up TV[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -92,7 +92,7 @@
 <name>[B][I][COLORwhite]Episodes Of The Day[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oldepisodes.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -100,7 +100,7 @@
 <name>[B][I][COLORgreenyellow]Documentary[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -108,7 +108,7 @@
 <name>[B][I][COLORmagenta]Kids[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kidszone.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -116,7 +116,7 @@
 <name>[B][I][COLORorange]Kodi Channels[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kodichannels.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -124,7 +124,7 @@
 <name>[B][I][COLORpink]Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/moviezone.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>
 </channel>
 
@@ -132,7 +132,7 @@
 <name>[B][I][COLORroyalblue]Music[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/music.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -140,7 +140,7 @@
 <name>[B][I][COLORyellow]Radio[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/radio.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -150,7 +150,7 @@
 <name>[B][I][COLORyellowgreen]Sport[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/sport.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -158,7 +158,7 @@
 <name>[B][I][COLORwhite]TV/Entertainment[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tventertainment.txt</externallink>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 

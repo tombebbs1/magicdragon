@@ -5,7 +5,7 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>ignoreme.xml</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -13,7 +13,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -29,7 +29,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -37,36 +37,36 @@
 <title>[B][COLORwhite]24/7 Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/247movies.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/247movies.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]3D Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/3d.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/3d.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORgold]4K Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/uhd.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhd.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORgreenyellow]Boxsets[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/boxsets.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/boxsets.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 
@@ -74,81 +74,81 @@
 <title>[B][COLORpink]Chickflicks[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/chickflicks.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/chickflicks.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Christmas Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/xmasmovies.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/xmasmovies.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORmagenta]Classic Movies Pre 1970[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/goldenoldies.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/goldenoldies.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORorange]Halloween Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/adulthalloween.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/adulthalloween.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Blue-Ray Movies RD Only (TORRENTS)[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/TorrentsHD.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORyellow]Horror Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/horror.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/horror.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Kids Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/kidsmovies.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kidsmovies.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORyellowgreen]Movies A-Z[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/moviesa-z.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/moviesa-z.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORgold]Musicals[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/musicals.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/musicals.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 
@@ -156,54 +156,54 @@
 <title>[B][COLORwhite]New Cams/HDTS Releases[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/cams.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORlime]New Releases[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/newreleases.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Oscar Winners RD Only[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/oscarwinners.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oscarwinners.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORblue]People Watching[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/popular.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORred]Real Debrid BluRay Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/realdebrid.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/realdebrid.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORgreenyellow]Remastered/Extended/Directors Cut[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/specials.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/specials.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 
@@ -212,9 +212,9 @@
 <title>[B][COLORmagenta]Top 10s Movie Section[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10section.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10section.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>

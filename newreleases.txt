@@ -94,7 +94,22 @@ sublink:LISTSOURCE:https://1fichier.com/?a9lxyx5el0jo2hgagu2u::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]A Haunting at Silver Falls: The Return (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/h0qgecc1aveo/a_haunting_at_silver_falls_the_return_2019_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zv9e1l9mh2o4/a_haunting_at_silver_falls_the_return_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kkaredkmmkensspl/A_Haunting_At_Silver_Falls_The_Return_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kkaredkmmkensspl/A_Haunting_At_Silver_Falls_The_Return_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/nnxdsxfoot1c::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/eyqU37B4S14/A.Haunting.At.Silver.Falls.The.Return.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/Xu-lUGxyJz8/A.Haunting.At.Silver.Falls.The.Return.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/274ad67275933a46e2155a6583686c62/A.Haunting.At.Silver.Falls.The.Return.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?w1gp9dcg6yc49nt8qmzx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYThkZThhNTktYTBjZC00ZTI1LTg5OGUtMDJkNzg3MDdlMjU2XkEyXkFqcGdeQXVyMDg2ODAyMQ@@._V1_SY1000_CR0,0,704,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]American Exit (2019)[/COLOR]</title>

@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR blue]Hangover Part I[/COLOR]</title>
+<link>https://streamango.com/f/mdollfkfqmmnbnqs/The_Hangover_2009_720p_The_Hangover_2009_UNRATED_720p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/192248/p192248_p_v8_an.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Hangover Part II[/COLOR]</title>
+<link>https://streamango.com/f/nnqnsaenoedkmsqd/The_Hangover_Part_II_2011_720p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/8418274/p8418274_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Hangover Part III[/COLOR]</title>
+<link>https://streamango.com/f/dbptrqadlacpmnaf/The_Hangover_III_2013_720p_BluRay_x264-x0r_mkv_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/9573144/p9573144_p_v8_ac.jpg</thumbnail>
+<fanart></fanart>
+</item>

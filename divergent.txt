@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR blue]Divergent 2014[/COLOR]</title>
+<link>https://streamango.com/f/ndsnmkckfqqqeako/Divergent_2014_1080p_BluRay_x264_YIFY_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Insurgent 2015[/COLOR]</title>
+<link>https://streamango.com/f/pmbrntsqbmlmdtsp/Insurgent_2015_720p_BRRip_x264_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxOTYxMTg3OF5BMl5BanBnXkFtZTgwMDgyMzA2NDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Allegiant 2016[/COLOR]</title>
+<link>https://streamango.com/f/eqaalksscnenlbsq/Allegiant_2016_1080p_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

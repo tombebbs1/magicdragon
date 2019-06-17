@@ -1,0 +1,26 @@
+<item>
+<title>[COLOR blue]Purge 2013[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/aznro62t4w5h::LISTNAME:[COLORwhite]1080 PYRAMID STREAM[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/belccu8itw32::LISTNAME:[COLORwhite]720 PYRAMID STREAM[/COLOR]::#
+</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Purge Anarchy 2015[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/dfs8m3li6u2n::LISTNAME:[COLORwhite]1080 PYRAMID STREAM[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/hqrjkipavxus::LISTNAME:[COLORwhite]720 PYRAMID STREAM[/COLOR]::#
+</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE2ODMxMTk1Nl5BMl5BanBnXkFtZTgwMDEzNjEzMTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Purge Election Year 2016[/COLOR]</title>
+<link>https://streamango.com/f/ellqqarqpdsnpdnr/The_Purge_Election_Year_2016_720p_WEB-DL_mkv_mp4</link>
+<thumbnail>http://www.mydownloadtube.com/poster_image/detail_page_poster/movies_poster_1468571259.jpg</thumbnail>
+<fanart></fanart>
+</item>

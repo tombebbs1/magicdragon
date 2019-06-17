@@ -1,0 +1,27 @@
+<item>
+<title>[COLOR blue]Raider Of The Lost Ark[/COLOR]</title>
+<link>http://uptobox.com/071w96lwof9t</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SY1000_CR0,0,664,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Temple Of Doom[/COLOR]</title>
+<link>http://uptobox.com/0n8ki38agohv</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/9614/p9614_p_v8_ae.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Last Crusade[/COLOR]</title>
+<link>http://uptobox.com/8prk0u5sk1rj</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTvapMUYGkuF5IrOsugBN3-kAIMHEhGu2exzQErGjVMiXCHtCmA</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Kingdom Of The Crystal Skull[/COLOR]</title>
+<link>https://uptobox.com/kmgfaza2hkrl</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/173388/p173388_p_v8_ae.jpg</thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,21 @@
+<item>
+<title>[COLOR blue]Jeepers Creepers[/COLOR]</title>
+<link>https://streamango.com/f/rqaoqrkmtlmtbrqt/Jeepers_Creepers_2001_1080p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>ignoreme</thumbnail>
+<fanart>https://images5.alphacoders.com/805/805016.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jeepers Creepers II[/COLOR]</title>
+<link>https://streamango.com/f/karqmltcessdbalk/Jeepers_Creepers_II_2003_1080p_BluRay_x264-_YTS_PE_mp4</link>
+<thumbnail>ignoreme</thumbnail>
+<fanart>https://images5.alphacoders.com/805/805016.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jeepers Creepers III[/COLOR]</title>
+<link>https://streamango.com/f/kbcrposreqnascsp/Jeepers_Creepers_3_2017_720p_HDRip_X264_AC3-EVO_mkv_mp4</link>
+<thumbnail>ignoreme</thumbnail>
+<fanart>https://images5.alphacoders.com/805/805016.jpg</fanart>
+</item>
+

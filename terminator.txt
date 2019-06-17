@@ -1,0 +1,35 @@
+<item>
+<title>[COLOR blue]Terminator[/COLOR]</title>
+<link>http://uptobox.com/sm1osli9zzku</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRHzSaUCOKu1RwS-bfbaUeeo_I1JcBkiuJRjBElvJi7qsHXkUkJ</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Judgement Day[/COLOR]</title>
+<link>http://uptobox.com/f78m14ydjevj</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcS5J6Ay6y1UT7WAI4U7Zm2KDYITrvfOI3vmaCNdGhx_0jmWiI1d</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Rise Of The Machines[/COLOR]</title>
+<link>http://uptobox.com/zinekr557h7a</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/32090/p32090_p_v8_aj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Salvation[/COLOR]</title>
+<link>https://streamango.com/f/ofommltenlfotpdm/Terminator_Salvation_2009_1080p</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/182955/p182955_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Genisys[/COLOR]</title>
+<link>https://streamango.com/f/oklslbkfpleqlnet/Terminator_Genisys_2015_720p_BluRay_x264_YIFY_mp4</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcToT_BFrHTP-ivud58j1X8mNRxpwSdJpDM6rGUMjySDpzQr7_pg</thumbnail>
+<fanart></fanart>
+</item>
+

@@ -1,0 +1,56 @@
+<item>
+<title>[COLOR blue]Batman 1989[/COLOR]</title>
+<link>https://streamango.com/f/rqnqbatmaaeprsqq/Batman_1989_720p_BRrip_x264_YIFY_mp4</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcSir4rHzj1hMHlEK4mCOlsMOZIUEY7dSKbXUaL1KGQzeG31P2z_</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman Returns 1992[/COLOR]</title>
+<link>https://streamango.com/f/nqlrrsdrdkolrpcd/Batman_Returns_1992_720p_BRrip_x264_YIFY_mp4_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/12631/p12631_p_v8_ai.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman Forever 1995[/COLOR]</title>
+<link>https://streamango.com/f/apemosrntmkknllo/Batman_Forever_1995_720p_BRrip_x264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/16857/p16857_p_v8_ad.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman & Robin 1997[/COLOR]</title>
+<link>https://streamango.com/f/neekmmeocabfdqdp/Batman_And_Robin_1997_720p_BRrip_x264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/19491/p19491_p_v8_ah.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman Begins[/COLOR]</title>
+<link>https://streamango.com/f/adnpeototlmootmf/Batman_Begins_2005_1080p_BluRay_x264_YIFY_mp4</link>
+<thumbnail>http://goo.gl/zivDAH</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman The Dark Knight[/COLOR]</title>
+<link>https://streamango.com/f/orksskrfmcdkcpls/The_Dark_Knight_2008_720p_BluRay_x264_YIFY_mp4</link>
+<thumbnail>http://goo.gl/zivDAH</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman The Dark Knight Rises[/COLOR]</title>
+<link>https://streamango.com/f/nocsfsqbremfcfkm/The_Dark_Knight_Rises_2012_720p_BluRay_x264_DTS-WiKi_mp4</link>
+<thumbnail>http://goo.gl/zivDAH</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Batman v Superman Extended 2016[/COLOR]</title>
+<link>https://streamango.com/f/lctmettmtlnokkmq/Batman_V_Superman_Dawn_Of_Justice_2016_720p_BluRay_x264-_YTS_AG_mp4</link>
+<thumbnail>http://screencrush.com/files/2016/03/Batman-v-Superman-collectors-edition-2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+

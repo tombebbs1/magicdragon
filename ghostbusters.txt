@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR blue]Ghostbusters 1984[/COLOR]</title>
+<link>https://streamango.com/f/mflorbptslpqpbnb/Ghostbusters_1984_Remastered_1080p_BRRip_x264-guTTer_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ghostbusters II 1989[/COLOR]</title>
+<link>https://streamango.com/f/fksdtdbbpblfccdt/Ghostbusters_II_1989_720p_BluRay_x264_YIFY_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTk4MjE5Ml5BMl5BanBnXkFtZTgwODIwNjYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Ghostbusters Extended 2016[/COLOR]</title>
+<link>https://streamango.com/f/kmdctfnqrofkdote/Ghostbusters_2016_720p_WEB-DL_XviD_MP3-FGT_mp4</link>
+<thumbnail>http://img.sceper.ws/images/gWZ0a.jpg</thumbnail>
+<fanart></fanart>
+</item>

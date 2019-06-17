@@ -1,0 +1,13 @@
+<item>
+<title>[COLOR blue]Hellboy 2004[/COLOR]</title>
+<link>http://uptobox.com/jmxp5q7vbmha</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MDM0ODA3M15BMl5BanBnXkFtZTYwNDQyMzc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR blue]Hellboy II The Golden Army 2008[/COLOR]</title>
+<link>http://uptobox.com/oi3wzzb19yij</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NzgyMjc2Nl5BMl5BanBnXkFtZTcwOTU3MDI3MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

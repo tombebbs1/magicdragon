@@ -1,0 +1,29 @@
+<item>
+<title>[COLOR blue]Jurassic Park 1993[/COLOR]</title>
+<link>https://streamango.com/f/bmaskpecamknlrtl/Jurassic_Park_1993_720p_BrRip_264_YIFY_mp4</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRZh-cd7xlz0T8SiJRaQbpy49FtVDBjQXfcJUAlWCXT0L1YkVbj</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]The Lost World Jurassic Park 1997[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/kt955921rd4c.html::LISTNAME:[COLORwhite]LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/19410/p19410_p_v8_af.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jurassic Park III 2011[/COLOR]</title>
+<link>https://streamango.com/f/msaqdaemoceqenke/Jurassic_Park_III_2001_720p_BrRip_264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/28034/p28034_d_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Jurassic World 2015[/COLOR]</title>
+<link>https://uptobox.com/nnvx79p1fdja</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ5MTE0MTk3Nl5BMl5BanBnXkFtZTgwMjczMzk2NTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

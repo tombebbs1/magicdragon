@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR blue]Pitch Black 2000[/COLOR]</title>
+<link>http://uptobox.com/3pzedtv7y30c</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/24739/p24739_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Chronicles Of Riddick 2004[/COLOR]</title>
+<link>https://streamango.com/f/derplaqmkokfmton/The_Chronicles_of_Riddick_40_2004_41_720p_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/33591/p33591_p_v8_af.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Riddick Extended 2013[/COLOR]</title>
+<link>https://streamango.com/f/pomqlrqeobompbsd/Riddick_2013_1080p_BRRip_mp4</link>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQHvB7clrK60_mJ1tWeBqLP7so3KAIxroqwzQi-ChJNOooyHpvU</thumbnail>
+<fanart></fanart>
+</item>

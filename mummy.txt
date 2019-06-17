@@ -1,0 +1,43 @@
+<item>
+<title>[COLOR blue]The Mummy 1999[/COLOR]</title>
+<link>https://streamango.com/f/qcfaeasklkmrdksq/The_Mummy_1999_720p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/23111/p23111_p_v8_at.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Mummy Returns 2001[/COLOR]</title>
+<link>https://streamcherry.com/f/kpdarocasdclqpbs/The_Mummy_Returns_2001_720p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/27207/p27207_d_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Mummy Returns 2001[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamcherry.com/f/kpdarocasdclqpbs/The_Mummy_Returns_2001_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://www.go123moviesfree.online/images/movies/new/f587d5_the_mummy.jpg</thumbnail>
+<fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]The Mummy Tomb Of The Dragon Emporer 2008[/COLOR]</title>
+<link>http://uptobox.com/2l5hfqi1bdem</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/176346/p176346_p_v8_ah.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Mummy (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=GzorZUuZqEI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/tk1zdkbukzfi.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0a55swp4wd17::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hr2uci1kbf::LISTNAME:[COLORwhite]SD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?keu4dhbux6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2myva729srlf::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>http://www.go123moviesfree.online/images/movies/new/f587d5_the_mummy.jpg</thumbnail>
+<fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>

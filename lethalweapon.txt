@@ -1,0 +1,29 @@
+<item>
+<title>[COLOR blue]Lethal Weapon[/COLOR]</title>
+<link>https://uptobox.com/ssn2kzxxtzmc</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRwM3e97KvqcKOgwnH8MOOWfRWSWcvnmPyuxq7399Jp8obXbMOl</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lethal Weapon II[/COLOR]</title>
+<link>https://uptobox.com/m3xkugg3g99x</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/11738/p11738_p_v8_ai.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lethal Weapon III[/COLOR]</title>
+<link>https://uptobox.com/rcor35rz1jea</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/13995/p13995_p_v8_ai.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Lethal Weapon IV[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/pdftntnnctpncmcc/Lethal_Weapon_4_1998_720p_BrRip_mp4::LISTNAME:[COLORwhite]LINK 1[/COLOR]::#
+</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/21430/p21430_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>

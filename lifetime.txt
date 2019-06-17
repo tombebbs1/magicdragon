@@ -1,0 +1,7 @@
+<item>
+<title>[COLOR blue]LifeTime Colection Here[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLKLyNt670pENW70Io1rHsWWyBtetmnDxo/?page=0</jsonrpc>
+<thumbnail>http://assets.huluim.com/shows/key_art_lifetime_movies.jpg</thumbnail>
+<fanart></fanart>
+</item>

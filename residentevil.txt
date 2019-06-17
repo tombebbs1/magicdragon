@@ -1,0 +1,44 @@
+<item>
+<title>[COLOR blue]Resident Evil 2002[/COLOR]</title>
+<link>https://streamango.com/f/kbketpftobcopser/Resident_Evil_2002_720p_BrRip_x264_YIFY_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5NzQ3OTI1NF5BMl5BanBnXkFtZTYwMDgyNTk5._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Resident Evil Apocalypse 2004[/COLOR]</title>
+<link>http://uptobox.com/nk3124e2rni8</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Resident Evil Extinction 2007[/COLOR]</title>
+<link>http://uptobox.com/vf15uhqck7ci</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Resident Evil Afterlife 2010[/COLOR]</title>
+<link>http://uptobox.com/12ajnweyr9th</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNzM3OTg5OF5BMl5BanBnXkFtZTcwMDA5MDA2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Resident Evil Retribution 2012[/COLOR]</title>
+<link>http://uptobox.com/pkzlwhqcxuxz</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2NTkwNjUxNTZeQTJeQWpwZ15BbWU3MDE2OTMxMTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORblue]Resident Evil The Final Chapter 2017[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://uptobox.com/d53fnjhtjxxv::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/6z294p4qvnbv::LISTNAME:[COLORgold]HD PYRAMID STREAM LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

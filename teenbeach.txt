@@ -1,0 +1,23 @@
+
+
+<item>
+<title>[COLORwhite]Teen Beach Movie (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/eckvcxjvj49j.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/efsmqrsbparolkmb/Disney-Teen_Beach_Movie_2013_avi_mp4::LISTNAME:[COLORgold]HD LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/89o5cclr1g7r::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMjc1OTU5NF5BMl5BanBnXkFtZTgwODIwMTEwMDE@._V1_.jpg</thumbnail>
+<fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Teen Beach 2 (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://vidto.me/t6j1tc4n60be.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ecrmfsqsfbfqannf/Teen_Beach_2_2015_Disney_DCOM_720p_Web_X264_Solar_mp4::LISTNAME:[COLORgold]HD LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/cpmsx5v94kba::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5MjA0NDAzNF5BMl5BanBnXkFtZTgwNTY4NDkxNjE@._V1_.jpg</thumbnail>
+<fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>

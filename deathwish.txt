@@ -1,0 +1,52 @@
+<item>
+<title>[COLOR blue]Death Wish 1974[/COLOR]</title>
+<link>http://uptobox.com/bzzyzoyixqyo</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNWNiYTI4ODYtMmIyMi00NTkwLThhZTEtNTg0NTI1ZWYwMzljXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Death Wish 2 1982[/COLOR]</title>
+<link>https://streamango.com/f/srrdeltnbqqfrqfo/Death_Wish_2_Action_1982_Charles_Bronson_Jill_Ireland_Vincent_Gardenia_BR_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxODc3MTg2M15BMl5BanBnXkFtZTcwNjg3NTQyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Death Wish 3 1985[/COLOR]</title>
+<link>https://streamango.com/f/pabkcsoamdlqraff/Death_Wish_3_1985_WS_DVDRip_XviD-FiCO_avi_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0MDk3MDEyMV5BMl5BanBnXkFtZTcwOTA3OTQyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Death Wish 4 1987[/COLOR]</title>
+<link>https://streamango.com/f/pnblolteaelsqapp/Death_Wish_5_The_Face_of_Death_1994_mp4_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyMzkyMDYxNF5BMl5BanBnXkFtZTcwMTM4NTQyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Death Wish 5 1994[/COLOR]</title>
+<link>https://streamango.com/f/pnblolteaelsqapp/Death_Wish_5_The_Face_of_Death_1994_mp4_mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTYxOTU5Ml5BMl5BanBnXkFtZTcwNDk3NDkxMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Death Wish (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=DwpcBDPscdk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:http://vidto.me/8akevbgioav9.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mskqkeaokqptepbr/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD_mkv_mp4::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/ppccbnscnqfmmslp/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD_mkv_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/a969z9d84vfp::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gpdtz6ldx0::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/mnnmqsaponmlmteb/Death_Wish_2018_1080p_WEB-DL_DD5_1_H264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/coefpkfatakcsmld/Death_Wish_2018_1080p_WEB-DL_DD5_1_H264-FGT_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:http://uptobox.com/ppkgfog1cl6o::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?llnek3p511::LISTNAME:[COLORgold]HD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_.jpg</thumbnail>
+<fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
+</item>

@@ -1,0 +1,13 @@
+<item>
+<title>[COLOR blue]Percy Jackson The Lightning Thief 2010[/COLOR]</title>
+<link>http://uptobox.com/mur6p1sfbpd0</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0MzY5OTQ2N15BMl5BanBnXkFtZTcwNzI1MTU5Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Percy Jackson Sea of Monsters 2013[/COLOR]</title>
+<link>https://uptobox.com/xuwwr1iy3aqr</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODUyODI0Nl5BMl5BanBnXkFtZTcwNzAxODY2OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>

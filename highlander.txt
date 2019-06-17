@@ -1,0 +1,34 @@
+<item>
+<title>[COLOR blue]Highlander Directors Cut[/COLOR]</title>
+<link>http://uptobox.com/q6jtdkq1zz8n</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/9117/p9117_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Highlander The Quickening[/COLOR]</title>
+<link>http://uptobox.com/dwppfa336kgd</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/13051/p13051_d_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Highlander The Sorcerer[/COLOR]</title>
+<link>http://vidzi.tv/g3ijsg55ac9m.html</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/17049/p17049_d_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Highlander Endgame[/COLOR]</title>
+<link>http://vidzi.tv/n9kqa7pum4h4.html</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/27403/p27403_d_v8_ac.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Highlander The Source[/COLOR]</title>
+<link>http://vidzi.tv/nfchsnbqyzid.html</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/172569/p172569_d_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,13 @@
+<item>
+<title>[COLOR blue]Lara Croft-Tomb Raider 2001[/COLOR]</title>
+<link>https://streamango.com/f/fbendkabdnnlskno/Lara_Croft-Tomb_Raider_2001_720p_BrRip_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/27735/p27735_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Lara Croft-The Cradle Of Life[/COLOR]</title>
+<link>https://streamango.com/f/rdsmsefceaoskpan/Lara_Croft_Tomb_Raider_The_Cradle_Of_Life_2003_720p_BrRip_264_YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/32097/p32097_d_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>

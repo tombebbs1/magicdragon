@@ -1,0 +1,34 @@
+<item>
+<title>[COLOR blue]Die Hard[/COLOR]</title>
+<link>https://streamango.com/f/anstpobfcqaqbbcp/Die_Hard_1988_1080p_BluRay_H264_AAC-RARBG_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/10255/p10255_p_v8_aa.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Die Hard 2[/COLOR]</title>
+<link>https://streamango.com/f/ssctbclqebqtcend/Die_Hard_2_1990_1080p_BluRay_H264_AAC-RARBG_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/12600/p12600_p_v8_aj.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Die Hard With A Vengance[/COLOR]</title>
+<link>http://uptobox.com/e098oxw4dahl</link>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRBIN4u6Xjw6kgxvh1NNHGhp_IPLrXBTEfFWRsCfXzJj4MXR5hV</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Live Free Or Die Hard[/COLOR]</title>
+<link>https://streamango.com/f/tsqskpfbqbpfdskr/Live_Free_or_Die_Hard_2007_BRRip_720p_x264-YIFY_mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/166035/p166035_d_v8_ad.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]A Good Day To Die Hard[/COLOR]</title>
+<link>http://uptobox.com/q9peb5kai20p</link>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQoXsSpDNJkLin199dZYV_2QKDhiHoOFNlZMOV6bm7x-oG224AS</thumbnail>
+<fanart></fanart>
+</item>

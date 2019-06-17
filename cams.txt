@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Avengers: Endgame (2019) HDTC UPDATED 17/06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gk7nrnpm59ab/avengers_endgame_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/auggtbk0gpuz/avengers_endgame_2019_english_hdtc_avc_x264_ac3_1_6gb_5bmb_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/s2o6ptv5x4tf::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/j8D3g1hpfkM/Avengers_Endgame_2019_English_HDTC_AVC_x264.AC3_1.6GB%5BMB%5D.mkv::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shaft (2019) CAM UPDATED 16/06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/yxpjrv1sxops/shaft_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -169,18 +181,6 @@ sublink:LISTSOURCE:https://openload.co/f/W5mQHqxAR7g/WwW.SeeHD.WS__Little_2019_H
 </item>
 
 <item>
-<title>[COLORwhite]Avengers: Endgame (2019) HDTC UPDATED 28/04[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gk7nrnpm59ab/avengers_endgame_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ll70iem9gk2g/avengers_endgame_2019_720p_hdtc_x264_5bmb_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/7zafcawykffe::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/e2QHRVigJXo/Avengers.Endgame.2019.720p.HDTC.X264%5BMB%5D.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Red Joan (2018) CAM UPDATED 26/04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://streamango.com/f/ncalssadstdabmkm/F9CF5FE2_mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -191,10 +191,6 @@ sublink:LISTSOURCE:https://uptobox.com/fmc3gpck4u7n::LISTNAME:[COLORwhite]OPENLO
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTBhMDZjZmQtNmJjYS00OWI0LTkxM2ItN2ExZTc3NzkxZmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]Hellboy (2019) HDCAM UPDATED 15/04[/COLOR]</title>
@@ -252,8 +248,6 @@ sublink:LISTSOURCE:https://openload.co/f/VAUsMp2XZrE/Unplanned_2019_720p_HDCAM-1
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]The Balkan Line (2019) HDCAM UPDATED 26/03[/COLOR]</title>
 <link>
@@ -265,8 +259,6 @@ sublink:LISTSOURCE:https://uptobox.com/7fc42yz27z55::LISTNAME:[COLORwhite]OPENLO
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTdhMzViZDktYTdmMy00MGJmLTg5ODItMTIxOTI3YTc3YzJlXkEyXkFqcGdeQXVyMjcyMjU1NDk@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Run the Race (2018) HDCAM UPDATED 24/02[/COLOR]</title>

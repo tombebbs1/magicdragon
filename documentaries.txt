@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Brink (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/m45mk2xgny0t/the_brink_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/j1yiaft10siw::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/4yzo94qpljI/The.Brink.2019.1080p.WEB-DL.DD5.1.H264-FGT.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOThjZTlkYmUtMmVmMC00ZTNlLWExNjUtZjZkZTc4YjE0ODQ3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]You Can't Watch This (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://streamango.com/f/folfqqsrbddadmdc/Y-C-s_2019_1080p_WEB_x264-AR_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

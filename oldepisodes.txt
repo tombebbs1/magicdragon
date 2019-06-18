@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite][COLORred]EPISODE OF THE DAY[/COLOR] - MTV Movie & TV Awards 2019[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2xe0w7x0163p/mtvie_and_tv_awards_2019_720p_web_x264-tbs::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cdconnbamkoodkam/mtv_movie_and_tv_awards_2019_720p_web_x264-tbs_mkv::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/uh81gfzzokw6::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/1yb3ujuLK58/mtv.movie.and.tv.awards.2019.720p.web.x264-tbs.mkv::LISTNAME:[COLORwhite]HD  LINK 4 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/QdFpO.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Black Mirror Season 5[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9myoh42vz1f5/black_mirror_s05e01_striking_vipers_720p_10bit_webrip_2ch_x265_hevc-psa::LISTNAME:[COLORwhite]01- Striking Vipers[/COLOR]::#

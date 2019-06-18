@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Love, Take Two (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/t57b6d4myoh3/preview_love%2C_take_two_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vcbyram97ewu/love_take_two_2019_720p_hdtv_x264-w4f::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/prmdadppmensroaf/love_take_two_2019_720p_hdtv_x264-w4f_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/floscmnlnklksmnk/love_take_two_2019_720p_hdtv_x264-w4f_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/drr09x7hhdws::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/P6zAyKHF72k/love.take.two.2019.720p.hdtv.x264-w4f.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/5YXHKBRSVvY/love.take.two.2019.720p.hdtv.x264-w4f.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4d1d2fa081ca71e6560e4112b22cec6a/love.take.two.2019.720p.hdtv.x264-w4f.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4q1zbsqywk65ie5bz6sm::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2U1YzNkNDEtMTQzYy00YzY3LWI5ZWUtOTRlNzBlMDUxNTQ3XkEyXkFqcGdeQXVyNTU2MDQyOTk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fast Color (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ktet9iwcxrfs/fast_color_official_trailer_2019_gugu_mbatha-raw%2C_sci-fiie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

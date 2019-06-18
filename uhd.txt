@@ -3406,6 +3406,15 @@ sublink:LISTSOURCE:https://1fichier.com/?49b4gdgnn2::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]The Man Who Killed Hitler and Then The Bigfoot (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5b725acc6e4ad9ffba834fee4fd1b0a27743b3d3&dn=The.Man.Who.Killed.Hitler.and.Then.The.Bigfoot.2018.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT&xl=39677864341&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2780/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg2NzI4NjY1Nl5BMl5BanBnXkFtZTgwNjUxOTc3NTM@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Martian 4K [/COLOR]</title>
 <link>http://uptobox.com/e4tu46vyu348</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>

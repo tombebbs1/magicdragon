@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wig (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kg0q2qloj2xz/wig_2019_720p_amzn_web-dl_ddp5_1_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gt9bu2zjg1ln::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/azrFBeEwHHk/Wig.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTFhMjM1YmQtM2FhNy00NDI3LTg5YTAtNDg0YzU4MDk0Y2VmXkEyXkFqcGdeQXVyODI3NjMwOQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Life in the Doghouse (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/indw8z6cqkns/life_in_the_doghouse_2018_1080p_nf_web-dl_ddp5_1_x264-monkee::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

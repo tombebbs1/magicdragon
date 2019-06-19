@@ -88,6 +88,24 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Chase (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6cpdpaynod71/chase_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sbbqpn92ppxx/chase_2019_1080p_amzn_web-dl_aac_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/asdpbnqelqsnbock/Chase_2019_1080p_AMZN_WEB-DL_AAC_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/bmmkdcomnamacnbo/Chase_2019_1080p_AMZN_WEB-DL_AAC_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dj22u67bo2to::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/P89Z5ZxNo6x/Chase.2019.1080p.AMZN.WEB-DL.AAC.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/Jy0prhvTOTY/Chase.2019.1080p.AMZN.WEB-DL.AAC.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/23dcb9863d3898ed176493a8cd5befef/Chase.2019.1080p.AMZN.WEB-DL.AAC.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?63wm43ufye5atlfouve1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjkwYjBmYmUtNTUxZS00YjRjLTk4MDctYjY4OTUzZmIxMjVjXkEyXkFqcGdeQXVyNDAzNjgzNw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Run for the High Country (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1irst80eynh4/run_for_the_high_country::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

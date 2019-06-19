@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Winterskin (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2qnyl37dojm8/winterskin_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0hgc7c296vuu/winterskin_2018_1080p_amzn_web-dl_aac_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/prfrrsfakaeekqts/Winterskin_2018_1080p_AMZN_WEB-DL_AAC_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/kempnpepdteleqla/Winterskin_2018_1080p_AMZN_WEB-DL_AAC_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/k9v99vpem9lb::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/6Nvw7yaon5U/Winterskin.2018.1080p.AMZN.WEB-DL.AAC.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/SAbte_URkmc/Winterskin.2018.1080p.AMZN.WEB-DL.AAC.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7f05ed26de4a274c20fbb1909f62e85e/Winterskin.2018.1080p.AMZN.WEB-DL.AAC.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6jy4b0qdj29efcw31yps::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWNhY2Y4ZmMtMWM3ZS00OGVjLTkzM2UtNDVkMzUxMjViMWExXkEyXkFqcGdeQXVyMTEyNDk0MjM@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strange Events 2 (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vj3l6cvgkadm/strange_events_2_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

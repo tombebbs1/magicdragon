@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Edge of Democracy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/h9xjq16lkbqr/the_edge_of_democracy_2019_720p_nf_web-dl_ddp5_1_x264-tepes::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xr0eeecpxe3u::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/xucFwKGSCDg/The.Edge.of.Democracy.2019.720p.NF.WEB-DL.DDP5.1.x264-TEPES.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDE2NGVmOWItYWI2NC00ZDcxLTk1NmQtYTE5M2U0MmIyYWM1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wig (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kg0q2qloj2xz/wig_2019_720p_amzn_web-dl_ddp5_1_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Strange Events 2 (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vj3l6cvgkadm/strange_events_2_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yqadld2sxu5n/strange_events_2_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rfleseplscmppqbc/Strange_Events_2_2019_1080p_AMZN_WEB-DL_DDP2_0_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/srbtkqsctlecprkf/Strange_Events_2_2019_1080p_AMZN_WEB-DL_DDP2_0_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pc5ln19eeo0g::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/TNUTDRTPavF/Strange.Events.2.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/rLJvLAE2u_8/Strange.Events.2.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ae363620e123f6b77c7450838426bf71/Strange.Events.2.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z395s0jebagycemqn3x7::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTQ1MTZjNDYtYWM0Yi00ODJiLWJmNWMtZGFlY2FlOWFjOWQxXkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]False Flag (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ijxocsr0860o/false_flag_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

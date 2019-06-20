@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Back of the Net (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xzzv6kbdctlv/back_of_the_net_2019_official_trailer_sofia_wylie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1fkrjycax6t6/back_of_the_net_2019_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kqclansmqarfeqnr/Back_Of_The_Net_2019_720P_Web_X264_Solar_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/koqmaepqbpnsndpf/Back_Of_The_Net_2019_720P_Web_X264_Solar_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yr03nmojuiyz::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/41wRAhBDSUY/Back_Of_The_Net_%282019%29_720P_Web_X264_Solar.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/rzgPIJ96LLk/Miss.Dali.2018.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/456aa59fbaa05095989d9d37822e813b/Back_Of_The_Net_(2019)_720P_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/456aa59fbaa05095989d9d37822e813b/Back_Of_The_Net_(2019)_720P_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDgwNTZiZDQtZjUxYi00NDBjLWEzZjgtMTQ2ZThmZDY4YmE1XkEyXkFqcGdeQXVyNDY1NTI0OA@@._V1_SY1000_CR0,0,690,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Miss Dalí (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zmh56h3zmdhy/miss_dali%CC%81%C2%8D_trailer_eng::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

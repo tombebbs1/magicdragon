@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Toy Story 4 (2019) HDCAM UPDATED 20/06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xrbcsnnn6llm/toy_story_4__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/lsrmntlrbperfmao/Toy_Story_4_2019_720p_HDCAM-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/fromsfrsfkbkfqfb/Toy_Story_4_2019_720p_HDCAM-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/FWqcrFvGNeM/Toy_Story_4_2019_720p_HDCAM-1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Godzilla: King of the Monsters (2019) HDTS UPDATED 19/06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jbi9a0uf1d6z/godzilla_king_of_the_monsters_final_trailer_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

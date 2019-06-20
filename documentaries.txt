@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hale County This Morning, This Evening (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8t4aw4ka6b5q/hale_county_this_morning_this_evening_2018_bdrip_x264-lpd_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/12o3tox0l1t3::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/vvTDJmfsvjs/hale.county.this.morning.this.evening.2018.bdrip.x264-lpd%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjY4ZWM5YTMtYTE3MC00MDVjLWI4ODUtZTc3NjYyZDVjNGJjXkEyXkFqcGdeQXVyMTg5MDEyNw@@._V1_SY1000_CR0,0,683,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Edge of Democracy (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h9xjq16lkbqr/the_edge_of_democracy_2019_720p_nf_web-dl_ddp5_1_x264-tepes::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

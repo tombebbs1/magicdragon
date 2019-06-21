@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Nightmare Cinema (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fel7lm7ut5b8/nightmare_cinema_official_trailer_2019_mickey_rourke%2C_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m7705le3aykp/nightmare_cinema_2018_1080p_web-dl_dd5_1_h264-cmrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pctpebqrdrpaqmcb/Nightmare_Cinema_2018_1080p_WEB-DL_DD5_1_H264-CMRG_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/fkpelbadrbabqqdc/Nightmare_Cinema_2018_1080p_WEB-DL_DD5_1_H264-CMRG_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/euh86cxt39ce::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/MUwS1d9mgeC/Nightmare.Cinema.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/MUwS1d9mgeC/Nightmare.Cinema.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ca8a30a36826bd616cd9c5e061e907c9/Nightmare.Cinema.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ca8a30a36826bd616cd9c5e061e907c9/Nightmare.Cinema.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTk2NGE1YjItZWYyNS00YmJiLWJlNjgtYTJlMTQyNTg1MzZjXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wretch (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gcbhpiz5k1no/wretch_official_trailer_2018_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

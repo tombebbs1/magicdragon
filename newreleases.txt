@@ -88,6 +88,24 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Brightburn (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/q4wa4k78z23u/brightburn_official_trailer_2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/slmfqcpbaltpqopk/Brightburn_2019_1080p_KORSUB_HDRip_x264_AAC2_0-STUTTERSHIT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/slmfqcpbaltpqopk/Brightburn_2019_1080p_KORSUB_HDRip_x264_AAC2_0-STUTTERSHIT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/aqnqammarsmnersc/Brightburn_2019_1080p_KORSUB_HDRip_x264_AAC2_0-STUTTERSHIT_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0mosxiwj8bjc::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/LUrG4PEGXw7/Brightburn.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/wRLlPwQFh3U/Brightburn.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0d5282b1686f6e2f5f372e34ff15c21e/Brightburn.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/71acc201e9a31bddf87a93c3958966ee/Brightburn.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjc0YzM2ZjItNzE3OS00NTRhLTkyNTUtMjY5Y2Y5NTU3OWI0XkEyXkFqcGdeQXVyNjU2NTI4MjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Wolf's Call (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0r5ojt5idv16/the_wolf%27s_call__le_chant_du_loup_2019_trailer_english_subs_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -2,140 +2,140 @@
 <title>[B][COLORwhite]YOU ARE IN THE TOP 10 MOVIES[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORgold]***************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Action Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10action.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10action.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Alien Invasion Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10alieninvasion.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10alieninvasion.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Animation Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10animation.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10animation.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 ChickFlix Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10chickflix.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10chickflix.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Comedy Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10comedies.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10comedies.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Fighting Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10fight.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10fight.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Gangster Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10gangster.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10gangster.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Ghost Horror Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10ghosthorror.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10ghosthorror.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Harrison Ford Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10harrisonford.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10harrisonford.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Horror Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10horror.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10horror.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Musical Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10musicals.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10musicals.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Natural Disaster Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10disaster.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10disaster.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Oscar Winners[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10oscarwinners.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10oscarwinners.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Romance Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10romance.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10romance.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 
@@ -143,52 +143,52 @@
 <title>[B][COLORwhite]Top 10 Stanley Kubrick Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10kubrick.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10kubrick.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Stephen King Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10stephenking.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10stephenking.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Stephen Spielberg Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10spielberg.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10spielberg.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Vampire Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10vampire.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10vampire.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 War Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10war.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10war.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]Top 10 Western Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/top10westerns.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10westerns.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>

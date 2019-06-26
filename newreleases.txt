@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Daisy Winters (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/z847ugoeufy2/daisy_winters_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4ysqprvthcxt/daisy_winters_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aerlqlbksetccnss/Daisy_Winters_2017_1080p_WEBRip_x264-RARBG_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/aerlqlbksetccnss/Daisy_Winters_2017_1080p_WEBRip_x264-RARBG_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gnq8owcd7dxj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/G2qhMiwRKBv/Daisy.Winters.2017.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/dPdaKFwRmKY/D.W.2017.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/776024ca3f8b4ce73064c7ef91ec8bf0/Daisy.Winters.2017.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/776024ca3f8b4ce73064c7ef91ec8bf0/Daisy.Winters.2017.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTllZmI1MmEtMzNkZi00MzViLThkZDUtNGFkNzQ0OTI2NTE4XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Feedback (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dq9xm1dddg0y/feedback_trailer_oficial_espa%C3%B1ol_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -87,6 +87,22 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Feedback (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dq9xm1dddg0y/feedback_trailer_oficial_espa%C3%B1ol_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/37i51606ovby/feedback_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ncmnfbkpfasmpkem/Feedback_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/tkdfanfqoftsktdf/Feedback_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/noywd7y1cxwb::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/noywd7y1cxwb::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/15KFPM4xg2Q/Shazam_2019_English_720p_BluRay_x264_900MB%5BMB%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/e231640d1d4b230085a95c897f5522de/Feedback.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/e231640d1d4b230085a95c897f5522de/Feedback.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWY5NDdmZDItYmY2OC00NjJmLWI4NzktNjI3OWQwYTY5YzRkXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Shazam! (2019)[/COLOR]</title>

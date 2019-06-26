@@ -98,7 +98,7 @@ sublink:LISTSOURCE:https://uptobox.com/gnq8owcd7dxj::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://verystream.com/stream/G2qhMiwRKBv/Daisy.Winters.2017.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://openload.co/f/dPdaKFwRmKY/D.W.2017.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/776024ca3f8b4ce73064c7ef91ec8bf0/Daisy.Winters.2017.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/776024ca3f8b4ce73064c7ef91ec8bf0/Daisy.Winters.2017.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?a0b289m5g2bp0bzpfu0t::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTllZmI1MmEtMzNkZi00MzViLThkZDUtNGFkNzQ0OTI2NTE4XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>

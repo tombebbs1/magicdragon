@@ -95,17 +95,7 @@ sublink:LISTSOURCE:https://openload.co/f/j8D3g1hpfkM/Avengers_Endgame_2019_Engli
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Shaft (2019) CAM UPDATED 16/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/yxpjrv1sxops/shaft_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bqabfkfsrclsdmql/Shaft_2019_720p_HD-TC_H264_AC3_ADDS_CUT_OUT_Will1869_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/cskapmnqoddpoffe/Shaft_2019_720p_HD-TC_H264_AC3_ADDS_CUT_OUT_Will1869_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/0cPigaxLfiU/WwW.SeeHD.WS__Shaft_2019_720p_HD-TC_-_1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNmExNGZmYzItZTMzMi00YWJjLWJkYmQtMDg5MjgzYjYyZDk1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 
 

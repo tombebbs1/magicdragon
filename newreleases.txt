@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Play or Die (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9indc8lznatz/play_or_die_official_trailer_2019_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/80x0c717qy7n/play_or_die_2019_1080p_hc_hdrip_1400mb_dd2_0_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/qdrkpslbqotafrke/Play_or_Die_2019_1080p_HC_HDRip_1400MB_DD2_0_x264-GalaxyRG_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/nacttoqelqcspbrp/Play_or_Die_2019_1080p_HC_HDRip_1400MB_DD2_0_x264-GalaxyRG_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z31vqrrxf1xk::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/9CRitgqUvb1/Play.or.Die.2019.1080p.HC.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z31vqrrxf1xk::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a2652203f1f1ea426c211f19b1d08d2c/Play.or.Die.2019.1080p.HC.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ig2xfjkfnvhr5v6fsnoj::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTRmNDQwNjctMWM4ZC00NzZlLTg1YTItOTFmNjFiNjgwZmU5XkEyXkFqcGdeQXVyMzk3MzY5MTM@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Killers Anonymous (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vjcj85kbji83/killers_anonymous_official_trailer_2019_gary_oldman%2C_jessica_albaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

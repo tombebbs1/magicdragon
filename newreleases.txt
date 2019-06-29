@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Alita: Battle Angel (2019) 1Bet Copy[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/r2tnoyjga9yg/alita_battle_angel__official_hd_trailer_3__2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/60rtoxeojf51/alita_battle_angel_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/60rtoxeojf51/alita_battle_angel_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/60rtoxeojf51/alita_battle_angel_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hqfqd3swxbtz::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/iFCtqxByMxd/Alita.Battle.Angel.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hqfqd3swxbtz::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/cff59ccef21325c3969f7c17e76e2109/Alita.Battle.Angel.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rep3x2jqjg15h9hhzjje::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shaft (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/yxpjrv1sxops/shaft_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -96,7 +113,7 @@ sublink:LISTSOURCE:https://streamango.com/f/krkqemaaqprcaeaf/Shaft_2019_NF_1080p
 sublink:LISTSOURCE:https://streamcherry.com/f/blprdcqodkrspreb/Shaft_2019_NF_1080p_WEB-DL_H264_DDP5_1-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/du65hi6fuabq::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/ALKnrhzGGP1/Shaft.2019.NF.1080p.WEB-DL.H264.DDP5.1-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/du65hi6fuabq::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/KPRSGxu62LQ/Shaft.2019.NF.1080p.WEB-DL.H264.DDP5.1-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/0dc8d3b8eaf52150a0e064a2404c5df2/Shaft.2019.NF.1080p.WEB-DL.H264.DDP5.1-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?wzsrinb2ji5wagiaczpb::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -961,17 +978,7 @@ sublink:LISTSOURCE:https://1fichier.com/?fdn4jb3qvw565tdgrf5m::LISTNAME:[COLORgo
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
  
-<item>
-<title>[COLORwhite]Alita: Battle Angel (2019) 1Bet Copy[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/r2tnoyjga9yg/alita_battle_angel__official_hd_trailer_3__2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lbtmcsomretaekrf/WwW_SeeHD_WS_Alita_Battle_Angel_2019_720p_WEB-DL-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/onbckpbftpnnsmkd/WwW_SeeHD_WS_Alita_Battle_Angel_2019_720p_WEB-DL-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/5tG39P-ibZ8/WwW.SeeHD.WS__Alita_Battle_Angel_2019_720p_WEB-DL-1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Dumbo (2019)[/COLOR]</title>

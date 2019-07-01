@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Donovan Reid (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/u4yc8asbrgzp/donovan_reid_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/k4njx5x0q7xa/donovan_reid_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/k4njx5x0q7xa/donovan_reid_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/k4njx5x0q7xa/donovan_reid_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pc6vs3kyo488::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/CjgdnJstcZG/Donovan.Reid.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/CjgdnJstcZG/Donovan.Reid.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5a1650a2090a17191efab5e93444a776/Donovan.Reid.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rujjpthmim9odn1gd52q::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmRhMzcwMjItY2UwMC00OTYzLWJhMjQtNDA2NGRkZWE2MjZkXkEyXkFqcGdeQXVyNDU2ODg0NTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Final Destination (2000)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gc4208ua4vuv/final_destination_trailer_2000_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

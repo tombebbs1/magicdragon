@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2giv7aqc97ybux0sx5fb::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Through the Ashes (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/clnb49bvcsmd/through_the_ashes_2019_post-apocalyptic_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bek6c4u9dpls/through_the_ashes_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bek6c4u9dpls/through_the_ashes_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bek6c4u9dpls/through_the_ashes_2019_1080p_amzn_web-dl_ddp2_0_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hszp0trgixk9::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/Tk1fB6k1mmZ/Through.the.Ashes.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/Tk1fB6k1mmZ/Through.the.Ashes.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a396ee22cdc2f3d9c0a510716dd15185/Through.the.Ashes.2019.1080p.AMZN.WEB-DL.DDP2.0.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?44bjkq5a04jtz10twdbr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzZlOTE2NDItNDE3Yy00MmNlLTg1NGEtY2JkMzY4ODM0ZjIwXkEyXkFqcGdeQXVyMDY0NjA1MA@@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I Love My Mum (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5n1wrpqvtksa/i_love_my_mum_official_trailer_2019_comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

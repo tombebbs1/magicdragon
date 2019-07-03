@@ -87,6 +87,40 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+item>
+<title>[COLORwhite]Dolls (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/x3f2kfq7g02g/dolls_official_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2oprs2k4en86/ophelia_2018_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/cbrpppasqpdnckck/Ophelia_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/latrsnadansaleck/Ophelia_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2x9lojq5vdn7::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/RZff78nPJe8/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/RZff78nPJe8/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0969d904b78753cb6b03dbd8a8037264/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?b9m4k0zcq5b81z02r2aw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTgwZDE0NjYtMDUwNy00NDZhLTk0Y2MtMjI5YTJhNzgyZDQ4XkEyXkFqcGdeQXVyNjg0MzUyNTg@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A.M.I. (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/iw672gjoci0o/a_m_i__2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6zzziri5lay1/a_m_i_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/deltksdeafkdedne/A_M_I_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/lbtrfcmebqqfmpnt/A_M_I_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qm1wi0rlk039::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fKEjUMN5wr/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fKEjUMN5wr/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6b09a64272e7d5393e5ae4dbe4a9fc37/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nzkhdozjpi9d2v16lih0::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWIyOTk0ZTYtN2ZhNi00OGEzLTkyNjgtMTNmZjBiNzgxZDZlXkEyXkFqcGdeQXVyNzE4MjE0MA@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Ophelia (2018)[/COLOR]</title>
 <link>
@@ -96,7 +130,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cbrpppasqpdnckck/Ophelia_2018_1080p_
 sublink:LISTSOURCE:https://streamcherry.com/f/latrsnadansaleck/Ophelia_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/2x9lojq5vdn7::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/RZff78nPJe8/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/RZff78nPJe8/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/Eqn3cNVv-0g/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/0969d904b78753cb6b03dbd8a8037264/Ophelia.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?b9m4k0zcq5b81z02r2aw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -113,7 +147,7 @@ sublink:LISTSOURCE:https://streamango.com/f/sblakaeobanasnqo/Teen_Spirit_2018_10
 sublink:LISTSOURCE:https://streamcherry.com/f/bdcdqtdeonoqosrs/Teen_Spirit_2018_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/9naza7dy0zo4::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/CLnqkTzDLrZ/Teen.Spirit.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/CLnqkTzDLrZ/Teen.Spirit.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/-S1f0TKGzEs/Teen.Spirit.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/8e7e5652f8a2eb50e8f3398e53e6279a/Teen.Spirit.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?hns4998iwhpbe418u4ur::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -147,7 +181,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bpemodcektsltflr/Hellboy_2019_1080p_
 sublink:LISTSOURCE:https://streamcherry.com/f/frprnqtoaomlaaep/Hellboy_2019_1080p_HC_HDRip_X264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/y37d6x4rx01l::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/KA1NNoVQRT6/Hellboy.2019.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/KA1NNoVQRT6/Hellboy.2019.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/tmyh-n1WQ4E/Hellboy.2019.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/e79d5ea74af4867eb854886b6cb68ee6/Hellboy.2019.1080p.HC.HDRip.X264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?a9ll8bxvo3thrfr74zai::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

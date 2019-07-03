@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Public (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jxw59kf076kl/the_public_trailer_2018_emilio_estevez_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4yrpn0no9u6n/the_public_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/asealaempnafpekp/The_Public_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/rkosrlcekpffsaal/The_Public_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pnacmm77sgeo::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/Bbjy1xESrT1/The.Public.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/nRjGrTeY-s4/The.Public.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/11e647ec90752e8800b599f979fcdfca/The.Public.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s88lpvyh5vif5x2svu7b::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTE3YzQ3YjMtNjJlNy00M2U2LWFmZTItYzUzOGJiMmMyNTlhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hellboy (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/z3j29y1q0ukq/hellboy_2019ie_new_trailer_%E2%80%9Cred_band%E2%80%9D_d_harbour%2C_milla_jovovich%2C_ian_mcshane::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

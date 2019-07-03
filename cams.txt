@@ -221,33 +221,6 @@ sublink:LISTSOURCE:https://streamcherry.com/f/bcfmsrolknkkcebq/Tolkien_2019_720p
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Breakthrough (2019) CAM UPDATED 03/05[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ngqx4wf8lvbw/breakthrough_official_trailer_2019_dramaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/lq3iq9c1rxjo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/lq3iq9c1rxjo::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/lq3iq9c1rxjo::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2ODk2ODEzMV5BMl5BanBnXkFtZTgwMzk1OTk4NjM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]Hellboy (2019) HDCAM UPDATED 15/04[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/z3j29y1q0ukq/hellboy_2019ie_new_trailer_%E2%80%9Cred_band%E2%80%9D_d_harbour%2C_milla_jovovich%2C_ian_mcshane::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/u6dlblxzchu9/www_seehd_ws_hellboy_2019_720p_hdcam-1xbet::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/u6dlblxzchu9/www_seehd_ws_hellboy_2019_720p_hdcam-1xbet::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9bfkqxdhmvvm::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
 
 <item>
 <title>[COLORwhite]Missing Link (2019) HDCAM UPDATED 14/04[/COLOR]</title>
@@ -260,14 +233,6 @@ sublink:LISTSOURCE:https://openload.co/f/d_HvNchSLUs/Missing_Link_2019_720p_HDCA
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWFmNWZmZWYtMWM3OC00YTYyLWIxNDMtOTRjNzhiYWQ0MDIwXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_SY999_CR0,0,672,999_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]Unplanned (2019) HDCAM UPDATED 30/03[/COLOR]</title>

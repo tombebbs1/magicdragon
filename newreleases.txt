@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Breakthrough (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ngqx4wf8lvbw/breakthrough_official_trailer_2019_dramaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jgiabvxbuv59/breakthrough_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/laddkeocomlenerd/Breakthrough_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/lctnlbealrlcbcsb/Breakthrough_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/nj3xi4pbp3xz::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/ianwLUzmyU3/Breakthrough.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/ianwLUzmyU3/Breakthrough.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c77dea3729e4ae35927db2bd73cbcfcf/Breakthrough.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?u159dbrq7h4agrjzxzz8::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2ODk2ODEzMV5BMl5BanBnXkFtZTgwMzk1OTk4NjM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dolls (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/x3f2kfq7g02g/dolls_official_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -97,7 +114,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/fsbptodbaotttale/Dolls_2019_1080p_
 sublink:LISTSOURCE:https://uptobox.com/8rvvj4q51ejz::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/aNqCxTRmMah/Dolls.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/aNqCxTRmMah/Dolls.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/1876344dfe7862153a38d0c761cd0046/Dolls.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/-BI60p6qiXE/Dolls.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?hh6rlfiy94gs8d1ql36i::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTgwZDE0NjYtMDUwNy00NDZhLTk0Y2MtMjI5YTJhNzgyZDQ4XkEyXkFqcGdeQXVyNjg0MzUyNTg@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
@@ -113,7 +130,7 @@ sublink:LISTSOURCE:https://streamango.com/f/deltksdeafkdedne/A_M_I_2019_1080p_WE
 sublink:LISTSOURCE:https://streamcherry.com/f/lbtrfcmebqqfmpnt/A_M_I_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/qm1wi0rlk039::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/fKEjUMN5wr/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/fKEjUMN5wr/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/aTROcVvzNT4/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/6b09a64272e7d5393e5ae4dbe4a9fc37/A.M.I.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?nzkhdozjpi9d2v16lih0::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

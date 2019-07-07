@@ -88,15 +88,32 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Breaker (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ycsjs5a0u8am/breaker_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cc5b1so3rrpa/breaker_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tsspoaaekobdklsk/Breaker_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/kndedmmqraforkop/Breaker_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sefr3s33nnw1::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/T8N6d7QYLjL/Breaker.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/T8N6d7QYLjL/Breaker.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5fc45d6abecd96a5a9e495388cdd34f1/Breaker.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?al4xllb6hs5clfciffak::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDFmMDkyMDYtMGU3MS00NzRjLWJlMjktZjZlNGRlNjk0NTE2XkEyXkFqcGdeQXVyMTAyMDE1NzE1._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blood Paradise (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6h9mkuxkev1m/blood_paradise_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/6k398p5is1yj/blood_paradise_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6k398p5is1yj/blood_paradise_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6k398p5is1yj/blood_paradise_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/pclrdfrrcsspaeft/Blood_Paradise_2018_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/ammmrblotcetrqat/Blood_Paradise_2018_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/za3ypox93sj9::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/MnYF6jbLdtV/Blood.Paradise.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/MnYF6jbLdtV/Blood.Paradise.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/zh7SBEZBwXs/Blood.Paradise.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/d771af954a7239f9b528d5aab25949a9/Blood.Paradise.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?vxj38p9ko166g2kfnksr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -109,11 +126,11 @@ sublink:LISTSOURCE:https://1fichier.com/?vxj38p9ko166g2kfnksr::LISTNAME:[COLORgo
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ms53tqzo5uzi/robocallie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/h9ndk9lewall/robocall_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/h9ndk9lewall/robocall_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/h9ndk9lewall/robocall_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/flmcapeqnenopkme/Robocall_2019_720p_WEBRip_800MB_x264-GalaxyRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/dfbaoerelkqsnqlf/Robocall_2019_720p_WEBRip_800MB_x264-GalaxyRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/pnil3tjkei5h::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/QkVh79ZA1X9/Robocall.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/QkVh79ZA1X9/Robocall.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/WdMP_J53x1g/Robocall.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/3c1a18f4192127c30f47772ad959570b/Robocall.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?his3u03wwd4bmk2e8d8z::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -126,8 +143,8 @@ sublink:LISTSOURCE:https://1fichier.com/?his3u03wwd4bmk2e8d8z::LISTNAME:[COLORgo
 <link>
 sublink:LISTSOURCE:https://vidoza.net/q1nji5tdyo9s/beneath_us_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/uv9cy1s1lfd6/beneath_us_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/uv9cy1s1lfd6/beneath_us_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/uv9cy1s1lfd6/beneath_us_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/tfmcbrdnkkssndae/Beneath_Us_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/lfbafapkqflallob/Beneath_Us_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/eesrtc46yfli::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/FxJ5XYCZhWP/Beneath.Us.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://openload.co/f/46FG4Sq22p4/Beneath.Us.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#

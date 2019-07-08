@@ -118,7 +118,7 @@ item>
 <title>[B][COLORwhite]Chubby Brown Collection[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tvseries/chubbybrown.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/chubbybrown.txt</externallink>
 <thumbnail>https://www.chortle.co.uk/images/photos/small/rcb_roy_chubby_brown.jpg</thumbnail>
 <fanart>http://pyramid.zerotolerance.gq/pyramid/Backgrounds/TombRaiderMoviesBackground.jpg</fanart>
 </item>

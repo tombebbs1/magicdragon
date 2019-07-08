@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Danica (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ka9q15t8lgsa/danica_2017_1080p_amzn_web-dl_ddp2_0_h_264-monkee::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cm2rgzjk6tfv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/gzJwKbE8H4X/Danica.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-monkee.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzM4ZTQ0NWItMmNkNS00ODk0LTljZGUtMDY0MmI1OGU2OTdiXkEyXkFqcGdeQXVyNzA4MTM1MzY@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Team Khan (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hkie8w3ia01z/team_khan_2018_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6jtjiowwo553::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/eg3Y3EtcjdQ/Team.Khan.2018.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWFjZjFiYjYtY2EzNC00YjNhLWJjNmEtZmE4ZTE3ZTAxZWQ1XkEyXkFqcGdeQXVyNjI2MTA0Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hale County This Morning, This Evening (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8t4aw4ka6b5q/hale_county_this_morning_this_evening_2018_bdrip_x264-lpd_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

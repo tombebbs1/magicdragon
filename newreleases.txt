@@ -87,6 +87,24 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]13 Graves (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/k2k1sqp34p8k/13_graves_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tb2dyoih6u0x/13_graves_2019_1080p_web-dl_dd5_1_h264-cmrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/spftkekqdfopabfc/13_Graves_2019_1080p_WEB-DL_DD5_1_H264-CMRG_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/pltrmkllkmmkordm/13_Graves_2019_1080p_WEB-DL_DD5_1_H264-CMRG_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/k0fjlq2yrh1b::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/2RbSNPMK8pE/13.Graves.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/2RbSNPMK8pE/13.Graves.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/72711131df8e30d112204e3fde63aea0/13.Graves.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mkhmv8c0r8f82l5ml77e::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA0OTM4NjAtYjBlMi00MmVmLWIwZTEtODQ3YWViNzY0OTc3XkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Shadow Wolves (2019)[/COLOR]</title>
 <link>
@@ -95,7 +113,7 @@ sublink:LISTSOURCE:https://vidoza.net/k5b1fzoqy6t5/shadow_wolves_2019_dvdrip_xvi
 sublink:LISTSOURCE:https://streamango.com/f/bkmaqflakfppmdnn/Shadow_Wolves_2019_DVDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://streamcherry.com/f/arkntllcplakmnbk/Shadow_Wolves_2019_DVDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/4ikwbdjm07i7::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/DrefzxwHRCD/Shadow.Wolves.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/UfVLHwAmUac/Shadow.Wolves.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/74db0c72c870053ac28b890296fb7d01/Shadow.Wolves.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?u65rslyrxd1nuuhxy4w4::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

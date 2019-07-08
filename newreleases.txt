@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Wedding Guest (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ynq6tjta73p0/the_wedding_guest_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ltu5adc98cs7/the_wedding_guest_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/kpntfqrdbnaslcln/The_Wedding_Guest_2018_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/psooppclqtomaksn/The_Wedding_Guest_2018_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pmn0kfzs01dc::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/28e5pwR9JWg/The.Wedding.Guest.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/28e5pwR9JWg/The.Wedding.Guest.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/09ae4f43e9f25d3a7b61720eab9a26ed/The.Wedding.Guest.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nh9gt6it92puu2zvfmsb::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmM4MmQzYzMtMmEyMy00ODg1LWI2MWQtM2YyZGE5ZTAzMzg4XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fisherman's Friends (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/y5yppctpjj6q/fisherman%27s_friends_official_trailer_i_available_on_blu-ray%2C_dvd_and_digital_download_8th_july::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

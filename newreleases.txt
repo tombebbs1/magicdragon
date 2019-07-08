@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Mine 9 (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/is6xfge5ceq8/mine_9_official_trailer_2019_dramaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1p7372lmyfhk/mine_9_2019_1080p_hc_hdrip_1400mb_dd2_0_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/ebooteokmntpbbeb/Mine_9_2019_1080p_HC_HDRip_1400MB_DD2_0_x264-GalaxyRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/tsqacppneeqaqate/Mine_9_2019_1080p_HC_HDRip_1400MB_DD2_0_x264-GalaxyRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n3zaurc5ym2z::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/V1swEePxMYy/Mine.9.2019.1080p.HC.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/V1swEePxMYy/Mine.9.2019.1080p.HC.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/30f8a95ac68b603a73305e706afb83b4/Mine.9.2019.1080p.HC.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5kkgr1on5ag9rb85gd08::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzU0YmQ0OWEtMDk0NC00YzM1LTllNjUtYzY1MzRiY2Q5NTZkXkEyXkFqcGdeQXVyMTUyMjQ0OA@@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wedding Guest (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ynq6tjta73p0/the_wedding_guest_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -96,7 +113,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kpntfqrdbnaslcln/The_Wedding_Guest_2
 sublink:LISTSOURCE:https://streamcherry.com/f/psooppclqtomaksn/The_Wedding_Guest_2018_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/pmn0kfzs01dc::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/28e5pwR9JWg/The.Wedding.Guest.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/28e5pwR9JWg/The.Wedding.Guest.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/k1-ReaRNQlc/The.Wedding.Guest.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/09ae4f43e9f25d3a7b61720eab9a26ed/The.Wedding.Guest.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?nh9gt6it92puu2zvfmsb::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

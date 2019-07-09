@@ -87,6 +87,24 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Ashes (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bhbsuqcvchfu/ashes_2019__official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7awhdq2jfvov/ashes_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/oqspdqkmmdramlqq/Ashes_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/oaaolspperrkfanr/Ashes_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7865n5a14dvx::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/9tmRsNkzduD/Ashes.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/9tmRsNkzduD/Ashes.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a2442215b31488bc41024dcf647a16dc/Ashes.2018.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?uwwzgl6nhxlilj7rz5n1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWVjMDNjZmMtZjk3ZS00ZjFkLTkzODQtNTNlMmU3YzViNmZhXkEyXkFqcGdeQXVyNDczMzc3NDg@._V1_SY1000_CR0,0,749,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]You Might Be the Killer (2018)[/COLOR]</title>
 <link>
@@ -96,7 +114,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bsddtckkaksndspo/You_Might_Be_The_Ki
 sublink:LISTSOURCE:https://streamcherry.com/f/toebdfoecamqatno/You_Might_Be_The_Killer_2018_1080p_BluRay_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/r0jofj0vo8ea::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/jiHUoRhVFDM/You.Might.Be.The.Killer.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/jiHUoRhVFDM/You.Might.Be.The.Killer.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/SjKBuN2JnqM/You.Might.Be.The.Killer.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/5558305b57841d6b4914c9f25e1f4421/You.Might.Be.The.Killer.2018.1080p.BluRay.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?g2nto190428rftq4j2hj::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -147,7 +165,7 @@ sublink:LISTSOURCE:https://streamango.com/f/odsaqnfbcfmddock/Missing_Link_2019_1
 sublink:LISTSOURCE:https://streamcherry.com/f/pmnlfkcstnbkfnbk/Missing_Link_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/s37mgg1f3gzs::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/4VpZYuf9PNa/Missing.Link.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/4VpZYuf9PNa/Missing.Link.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/JYf9n_lZ7zg/Missing.Link.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/ef8d0ef491fa4f19239b49b2c74e7077/Missing.Link.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?fd0726ymffu1dma3bhpj::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

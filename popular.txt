@@ -14,6 +14,8 @@
 <fanart></fanart>
 </item>
 
+
+
 <item>
 <title>[COLORwhite]Rocketman (2019)[/COLOR]</title>
 <link>
@@ -155,6 +157,23 @@ sublink:LISTSOURCE:https://rapidgator.net/file/efc4ce53f88575a0778d1e98385b3bfd/
 sublink:LISTSOURCE:https://1fichier.com/?avpghpte64o6cjhs1kkh::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hellboy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/z3j29y1q0ukq/hellboy_2019ie_new_trailer_%E2%80%9Cred_band%E2%80%9D_d_harbour%2C_milla_jovovich%2C_ian_mcshane::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5cj0gkk9nyfl/hellboy_2019_1080p_web-dl_dd5_1_h264-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/srqnafflcoplflfq/Hellboy_2019_1080p_WEB-DL_DD5_1_H264-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/rddarrksnmdfaaea/Hellboy_2019_1080p_WEB-DL_DD5_1_H264-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9j2oi29atnci::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/c5KZDbxBzei/Hellboy.2019.1080p.WEB-DL.DD5.1.H264-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/c5KZDbxBzei/Hellboy.2019.1080p.WEB-DL.DD5.1.H264-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/eae0111def94928e380a59acb9157b1b/Hellboy.2019.1080p.WEB-DL.DD5.1.H264-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?48qpethmega0d2uf6elz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 

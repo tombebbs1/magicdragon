@@ -89,6 +89,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Point Blank (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/21zqduqyw2lj/point_blank__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/c0jjq41xcv2i/point_blank_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/nbearbfabfaordao/Point_Blank_2019_1080p_NF_WEB-DL_DDP5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/tfcnenooortdeofk/Point_Blank_2019_1080p_NF_WEB-DL_DDP5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g3c0w74muu52::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/cX9Ehnc88JR/Point.Blank.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/cX9Ehnc88JR/Point.Blank.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/8b729e4a5b319d4159588b21ebfacf7d/Point.Blank.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lwkh3cmmf9yl30qqtate::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYThkZjRmNWYtMWQ5Mi00Y2E4LWEyZjgtYWYxMDhiNTJmNTQzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Critters Attack! (2019)[/COLOR]</title>
@@ -98,7 +115,7 @@ sublink:LISTSOURCE:https://vidoza.net/gaye10kauxb5/critters_attack_2019_dvdrip_x
 sublink:LISTSOURCE:https://streamango.com/f/oldbsrlsqdlasddl/Critters_Attack_2019_DVDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://streamcherry.com/f/pcstlkmcpkettcmf/Critters_Attack_2019_DVDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/jpsu8ltkz9hz::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/CNSTMoYKYpt/Critters.Attack.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/2gDen-CFVNA/Critters.Attack.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/6ffb1e2bd5acc2538ea65583f92a59f1/Critters.Attack.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?qvjp7wkgrkait2o00tyx::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

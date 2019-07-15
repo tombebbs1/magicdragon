@@ -202,7 +202,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:a9c183f01238aabb22773ab1c562d2cd794d7fa5&
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Alita: Battle Angel (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:8ac12b6691e0b0e0a8c6326ce208e10034061438&dn=Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265-TERMiNAL&xl=14402275530&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2730/announce&tr=udp%3A%2F%2F9.rarbg.to:2750/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]All the Money in the World (2017)4K[/COLOR]</title>

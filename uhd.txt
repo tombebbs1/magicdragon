@@ -2342,6 +2342,16 @@ sublink:LISTSOURCE:https://1fichier.com/?bzmvx5h7b2::LISTNAME:[COLORgold]HD  LIN
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Pet Sematary (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BZTgxMGQwM2UtZTAxNi00M2JhLTk4ZTgtZmFlODI0NmI3ZDViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAyNTE0MTQzNF5BMl5BanBnXkFtZTgwMjc2MzUwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Peter Rabbit (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>https://1fichier.com/?av4adu6awr</link>

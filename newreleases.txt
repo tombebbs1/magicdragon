@@ -90,12 +90,28 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Curse of La Llorona (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/r89lrmucsn5w/the_curse_of_la_llorona_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n4xcig8ouu5l/the_curse_of_la_llorona_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n4xcig8ouu5l/the_curse_of_la_llorona_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n4xcig8ouu5l/the_curse_of_la_llorona_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hqap4490qqvf::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/FUYjTTBrgTp/The_Curse_of_La_Llorona.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a7971cd46803962a84d0790f4c4ad3eb/The_Curse_of_La_Llorona.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1gmazterxhh3zboh7co8::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Cleansing (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/klvxmof1r25s/a_violent_separation_trailer_2019_claire_holt%2C_alycia_debnam-carey::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/cu4oo3gyk64z/the_cleansing_2019_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/cu4oo3gyk64z/the_cleansing_2019_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/cu4oo3gyk64z/the_cleansing_2019_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rlrktrbcarsmtcbt/The_Cleansing_2019_HDRip_AC3_x264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/atdlnefebntknste/The_Cleansing_2019_HDRip_AC3_x264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/kt3gtk2nvdc8::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/VJunFXjRvuD/The.Cleansing.2019.HDRip.AC3.x264-CMRG%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/76bb3eb915e573f83a03deef9825eceb/The.Cleansing.2019.HDRip.AC3.x264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -110,8 +126,8 @@ sublink:LISTSOURCE:https://1fichier.com/?9tvbkfu9qzby9aizd46g::LISTNAME:[COLORwh
 <link>
 sublink:LISTSOURCE:https://vidoza.net/klvxmof1r25s/a_violent_separation_trailer_2019_claire_holt%2C_alycia_debnam-carey::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/tuz8f2kg1yts/a_violent_separation_2019_dvdrip_x264-wide::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/tuz8f2kg1yts/a_violent_separation_2019_dvdrip_x264-wide::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/tuz8f2kg1yts/a_violent_separation_2019_dvdrip_x264-wide::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/reamakqbtbmbpkml/a_violent_separation_2019_dvdrip_x264-wide_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/mrfkdrfnedsskrtq/a_violent_separation_2019_dvdrip_x264-wide_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/r1ewcusmjsme::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://openload.co/f/DazEgRi4sEc/a.violent.separation.2019.dvdrip.x264-wide.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/0122f67b83c833600eb878bb50da6bc5/a.violent.separation.2019.dvdrip.x264-wide.mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -126,8 +142,8 @@ sublink:LISTSOURCE:https://1fichier.com/?ufwvidimpontpikfgd5a::LISTNAME:[COLORwh
 <link>
 sublink:LISTSOURCE:https://vidoza.net/p7jmbjajt3ln/poms__official_trailer_%5Bhd%5D__now_in_theaters::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/er2x7qx0wgf9/poms_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/er2x7qx0wgf9/poms_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/er2x7qx0wgf9/poms_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/bnlmpkflpsaqoplb/Poms_2019_1080p_NF_WEB-DL_DDP5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/nnprtfbbpcqabsrn/Poms_2019_1080p_NF_WEB-DL_DDP5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/2xqbejkcll5g::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/bMpnarUs2mm/Poms.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://openload.co/f/qohxWL0gdKA/Poms.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
@@ -143,8 +159,8 @@ sublink:LISTSOURCE:https://1fichier.com/?cxsz7gmdibzlhd38csng::LISTNAME:[COLORgo
 <link>
 sublink:LISTSOURCE:https://vidoza.net/wmu938ayau0y/the_intruder_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/31n6atb4iuf2/the_intruder_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/31n6atb4iuf2/the_intruder_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/31n6atb4iuf2/the_intruder_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/anrorqbeprmpddlk/The_Intruder_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/mqsnrdmmpqtqntas/The_Intruder_2019_1080p_WEBRip_x264-_YTS_LT_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/eqhnbn3c9vci::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/31La4Ca6mhb/The.Intruder.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://openload.co/f/k95zbhqxlTE/The.Intruder.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
@@ -2174,40 +2190,6 @@ sublink:LISTSOURCE:https://1fichier.com/?hb69tbhsce634pcq2jc0::LISTNAME:[COLORgo
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2MwMTIzYmUtZmE2Yy00MDNjLTllYmEtNmE4YTIyZTljOWI3XkEyXkFqcGdeQXVyMjM0MTIzNDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
-
-<item>
-<title>[COLORwhite]The Curse of La Llorona (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/r89lrmucsn5w/the_curse_of_la_llorona_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/z0dbsf6us43d/the_curse_of_la_llorona_2019_hc_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bmaodffeectfldrb/The_Curse_of_La_Llorona_2019_HC_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/acsctfomdoccltta/The_Curse_of_La_Llorona_2019_HC_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/0r5r587pqr8t::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/wtv3WnP3hzA/The_Curse_of_La_Llorona.2019.HC.HDRip.XviD.AC3-EVO.avi::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/b344e83d909b54c1edfa02a8dd996b24/The_Curse_of_La_Llorona.2019.HC.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?cg735bjlpai39d48unu0::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/0ibq4vdow6hp/the_curse_of_la_llorona_2019_1080p_hc_hdrip_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/erlaakrkspnnddtf/The_Curse_of_La_Llorona_2019_1080p_HC_HDRip_X264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/cbsldcqdltfbdfsn/The_Curse_of_La_Llorona_2019_1080p_HC_HDRip_X264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/q5hx5mfegen4::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/CRmRMuMX4EQ/The_Curse_of_La_Llorona.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/c5fc11a3e8de74d82ec2f6e6b40c24ab/The_Curse_of_La_Llorona.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?cne8fgpo1gqbjmetnegg::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
 
 <item>
 <title>[B][I][COLORred]PAGE 2[/B][/I][/COLOR]</title>

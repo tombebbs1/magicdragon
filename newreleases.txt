@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Quanta (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4y6v6b2pyjxq/quanta_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2hs3h6o1h4p6/quanta_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2hs3h6o1h4p6/quanta_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2hs3h6o1h4p6/quanta_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/both69bixk1h::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/4tA1ffajqoM/Quanta.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/4tA1ffajqoM/Quanta.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/03d5b00b76a2ce3a56a9dd83d8b704b3/Quanta.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zulzyeqz7pqj291hespi::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDA2NzVjYmUtYjUxZC00ZGE1LWE4MTctZjM5NWVhMDFjZWFlXkEyXkFqcGdeQXVyNjE5NDkyOQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Captain Black (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/680izx8vkrly/captain_black_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

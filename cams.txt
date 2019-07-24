@@ -34,6 +34,17 @@ sublink:LISTSOURCE:https://uptobox.com/brzqyzicnv2w::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Spider-Man: Far from Home (2019) HDCAM UPDATED 01/07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4gg7esxsmn8n/spider-man_far_from_home_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vl4t65428k9p::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/raydgenproty::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/37v4juzxgffg::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Yesterday (2019) HDCAM UPDATED 30/06[/COLOR]</title>
@@ -218,4 +229,14 @@ sublink:LISTSOURCE:https://uptobox.com/7fc42yz27z55::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Run the Race (2018) HDCAM UPDATED 24/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pg0me9yrkqyp/run_the_race_trailer_1_2019__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9bkinkn91n0r/run_the_race_2019_720p_hdcam-1xbet::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/61u0ga1vk8ke::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/dQ0LxwAmsdo/Run_the_Race_2019_720p_HDCAM-1XBET.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODY5ZmIwYzItY2M0NS00NDBkLTk3OWQtNjgzN2MwNzc3ZmQzXkEyXkFqcGdeQXVyODUwNjMwOQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>

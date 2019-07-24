@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Spider-Man: Far from Home (2019) HDCAM UPDATED 24/07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7rrclt5erlhw/spider-man_far_from_home_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h27adwhnwkm4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lv1gq9i7om2o::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/m2nvhzr34iii::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stuber (2019) HDCAM UPDATED 15/07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/30ac3j2qaavs/stuber__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -191,10 +203,6 @@ sublink:LISTSOURCE:https://openload.co/f/ykIvOsIAXj4/WwW.SeeHD.WS__The_Hustle_20
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc3MDcyNzE5N15BMl5BanBnXkFtZTgwNzE2MDE0NzM@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
-
-
-
-
 
 
 <item>

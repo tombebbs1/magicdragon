@@ -192,17 +192,7 @@ sublink:LISTSOURCE:https://openload.co/f/ykIvOsIAXj4/WwW.SeeHD.WS__The_Hustle_20
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Tolkien (2019) CAM UPDATED 06/05[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ngqx4wf8lvbw/breakthrough_official_trailer_2019_dramaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bppcdkalebkfdkbt/Tolkien_2019_720p_HDCAM-H264_AAC_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bppcdkalebkfdkbt/Tolkien_2019_720p_HDCAM-H264_AAC_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bcfmsrolknkkcebq/Tolkien_2019_720p_HDCAM-H264_AAC_mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjUzNzA1MDczOF5BMl5BanBnXkFtZTgwODY5OTI2NzM@._V1_SY1000_CR0,0,655,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 
 

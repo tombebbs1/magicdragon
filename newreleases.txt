@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Run the Race (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pg0me9yrkqyp/run_the_race_trailer_1_2019__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1i0nyuu904ic/run_the_race_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1i0nyuu904ic/run_the_race_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1i0nyuu904ic/run_the_race_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3gtocuufzj9c::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/JQXSXRNY7n6/Run.The.Race.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/JQXSXRNY7n6/Run.The.Race.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c6de7a3d03eea3e5dd1ab67ad45ea6fd/Run.The.Race.2018.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1tezk9wjz693yc92g2qi::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODY5ZmIwYzItY2M0NS00NDBkLTk3OWQtNjgzN2MwNzc3ZmQzXkEyXkFqcGdeQXVyODUwNjMwOQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Batman: Hush (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hpbqbpfwz3xh/batman_hush_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

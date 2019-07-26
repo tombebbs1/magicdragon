@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Edge (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/nveafi8cbvqu/the_edge_2019_bdrip_x264-ghouls_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hjw77nxw2iis::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/WYpRjrCudD6/the.edge.2019.bdrip.x264-ghouls%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGMxYmM3NDgtZDMyZi00ZDYzLWI4OTctZGE3MzllZTc3YjU3XkEyXkFqcGdeQXVyOTkwNDQ1MDk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Danica (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ka9q15t8lgsa/danica_2017_1080p_amzn_web-dl_ddp2_0_h_264-monkee::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

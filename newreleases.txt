@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Avengers: Endgame (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gk7nrnpm59ab/avengers_endgame_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rrd1xdgnrw4h/www_tamilrockers_ws_avengers_endgame_2019_english_proper_720p_hdrip_x264_1gb::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rrd1xdgnrw4h/www_tamilrockers_ws_avengers_endgame_2019_english_proper_720p_hdrip_x264_1gb::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rrd1xdgnrw4h/www_tamilrockers_ws_avengers_endgame_2019_english_proper_720p_hdrip_x264_1gb::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7ulff4vs1ozd::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7U2LK4hvrgj/www.TamilRockers.ws_-_Avengers_Endgame_%282019%29_English_Proper_720p_HDRip_x264_1GB.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7U2LK4hvrgj/www.TamilRockers.ws_-_Avengers_Endgame_%282019%29_English_Proper_720p_HDRip_x264_1GB.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4df17a311ea989c22bcf67c954dc76a3/www.TamilRockers.ws_-_Avengers_Endgame_(2019)_English_Proper_720p_HDRip_x264_1GB.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yt6ha7wszp12fuvbs3zt::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Souvenir (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMTk2NjY3NDYzN15BMl5BanBnXkFtZTgwOTUxNzg0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -122,17 +139,7 @@ sublink:LISTSOURCE:https://1fichier.com/?mz1o4nvmvhsk38rng0j4::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Avengers: Endgame (2019) HD WITH ADS[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gk7nrnpm59ab/avengers_endgame_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ng0d02tcqu5x::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/39ld3846bvvg::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/cyb49ifurzqf::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Godzilla: King of the Monsters (2019)[/COLOR]</title>

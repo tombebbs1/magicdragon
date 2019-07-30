@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Trial by Fire (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wwldigdogtcv/_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/07e4yf5johcz/trial_by_fire_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/07e4yf5johcz/trial_by_fire_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/07e4yf5johcz/trial_by_fire_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5by7d7pp1jue::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7FmxL1uzjTk/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7FmxL1uzjTk/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/875fc870d5490942f41beb81ac580b9f/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6dtr2q7vwlyhkbqermv5::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTJkYTIwOTAtYjc4Yy00OTZkLThhM2EtZDFlNTJmMmY2NzgyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Avengers: Endgame (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gk7nrnpm59ab/avengers_endgame_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

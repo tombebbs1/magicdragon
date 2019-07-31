@@ -388,6 +388,15 @@ sublink:LISTSOURCE:https://1fichier.com/?yptqyct6g6::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]Avengers: Endgame (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:aacc0354ffaa5b6b4fc12e40711120e53adc9925&dn=Avengers.Endgame.2019.INTERNAL.2160p.WEB.H265-DEFLATE&xl=34513379734&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2780/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Avengers: Infinity War (2018)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/ejjk1mrwm6b6::LISTNAME:[COLORgold]4K  LINK 1[/COLOR]::#

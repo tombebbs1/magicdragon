@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Fast & Furious Presents: Hobbs & Shaw (2019) HDCAM UPDATED 31/07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sf0759yj4qz8/fast_%26_furious_presents_hobbs_%26_shaw_official_trailer_2_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/e2ag1h2uye8w::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vp1inhq3y2t2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/u6wmca5hzi97::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Once Upon a Time ... in Hollywood (2019) HDCAM UPDATED 27/07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ghwe203gib50/once_upon_a_time_in_hollywood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

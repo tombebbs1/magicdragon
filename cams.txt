@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Angry Birds Movie 2 (2019) HDTS UPDATED 03/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/axe7o5p9nrts/_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6a4sof5ylup0::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/j1111ezwm1pa::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9ae3clssd84r::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzdkNGJhNzQtMjY1OC00MDI3LTk0ZDUtNzU0MGZiY2YwZGUxXkEyXkFqcGdeQXVyNzMxNjQxMTk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Luce (2019) HDCAM UPDATED 03/08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ei65kttqy67z/_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

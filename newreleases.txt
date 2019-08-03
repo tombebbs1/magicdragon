@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]A Score to Settle (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/11921ma9tzes/a_score_to_settle_official_trailer_2019_nicolas_cage%2C_thrillerie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rqa8vdjckn7r/a_score_to_settle_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rqa8vdjckn7r/a_score_to_settle_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rqa8vdjckn7r/a_score_to_settle_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2lkbyu9yq9uh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7fSk1tqgww7/A.Score.to.Settle.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2lkbyu9yq9uh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2ac580008cf47cad2c96e1cb9d822e62/A.Score.to.Settle.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z94x8fj1kg3viz8wb3qu::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODlkYjkzM2EtZTc2Ny00NWJlLWEyYzEtYjMxYmZiNDU5YzkwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Red Sea Diving Resort (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mqzpdr8s6bid/the_red_sea_diving_resort__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

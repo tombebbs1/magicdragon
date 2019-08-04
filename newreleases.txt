@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Swan Princess: Kingdom of Music (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oqtn33gpm5e6/the_swan_princess_kingdom_of_music_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/djbsojv6ow0j/the_swan_princess_kingdom_of_music_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/djbsojv6ow0j/the_swan_princess_kingdom_of_music_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/djbsojv6ow0j/the_swan_princess_kingdom_of_music_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vpvcro5uwqvs::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/YxjKxH1R3ge/The_Swan_Princess_Kingdom_of_Music.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vpvcro5uwqvs::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/8185408b1bd6cd79064d57d0ff8cdbd1/The_Swan_Princess_Kingdom_of_Music.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z4jvkso8hm3w5t5ratak::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjk1YjZjYzQtODI2Mi00NTViLTkyZTktMjdkMzQ0ZTgyYjdhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Threads (1984)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8aq71ya9nivn/threads_1984_original_trailer_%5Bhd_1080p%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

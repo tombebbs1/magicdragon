@@ -64,7 +64,33 @@
 
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Threads (1984)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Speed (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ohmgaue88w96/speed_1994_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kvv77vj4k40v/speed_1994_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kvv77vj4k40v/speed_1994_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kvv77vj4k40v/speed_1994_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/87gtj5wakn6c::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/87gtj5wakn6c::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f5a9780525a6542ccb22e6dd16bb0f20/Speed.1994.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjc0MjYyN2EtZGRhMy00NzJiLWI2Y2QtYzhiYTU3NzAxNzg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+
+
+<item> 
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Threads (1984)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8aq71ya9nivn/threads_1984_original_trailer_%5Bhd_1080p%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/aopz6uenjrcg/threads_1984_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -77,16 +103,6 @@ sublink:LISTSOURCE:https://1fichier.com/?2bwm0grc3pfht3y7moqc::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODI3OTlmYmUtZWQyNi00ZjBkLThjZDMtODRhMjNkYTdmYzZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
-
-
-
-<item> 
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -133,7 +149,7 @@ sublink:LISTSOURCE:https://vidoza.net/db5c0ly56ltc/unplanned_2019_1080p_bluray_x
 sublink:LISTSOURCE:https://vidoza.net/db5c0ly56ltc/unplanned_2019_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/mfjdi614e5g1::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/K36CUBvVsVM/Unplanned.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/mfjdi614e5g1::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/15_6NuGQ7QY/Unplanned.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/85b6ccc3d662a34064e934260b678b03/Unplanned.2019.1080p.BluRay.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?e1v4etnm7c2zdjmge31f::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -150,7 +166,7 @@ sublink:LISTSOURCE:https://vidoza.net/sh9tbk1pksed/the_mountain_2018_1080p_web-d
 sublink:LISTSOURCE:https://vidoza.net/sh9tbk1pksed/the_mountain_2018_1080p_web-dl_aac2_0_h264-cmyk_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/3yt9biqtc3kx::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/PQ612mRfz2y/The.Mountain.2018.1080p.WEB-DL.AAC2.0.H264-CMYK%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3yt9biqtc3kx::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/1_L1JKJf-kQ/The.Mountain.2018.1080p.WEB-DL.AAC2.0.H264-CMYK%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/7e4f877f5d2851c6f24dbe42d404bf87/The.Mountain.2018.1080p.WEB-DL.AAC2.0.H264-CMYK[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?pe6ftd3zkqj1yc9sui1t::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -165,7 +181,7 @@ sublink:LISTSOURCE:https://vidoza.net/11921ma9tzes/a_score_to_settle_official_tr
 sublink:LISTSOURCE:https://vidoza.net/rqa8vdjckn7r/a_score_to_settle_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/rqa8vdjckn7r/a_score_to_settle_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/rqa8vdjckn7r/a_score_to_settle_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/2lkbyu9yq9uh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/KndC5SqycRE/A.Score.to.Settle.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/7fSk1tqgww7/A.Score.to.Settle.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/2lkbyu9yq9uh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/2ac580008cf47cad2c96e1cb9d822e62/A.Score.to.Settle.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -184,7 +200,7 @@ sublink:LISTSOURCE:https://vidoza.net/6i0kvu357fgj/the_red_sea_diving_resort_201
 sublink:LISTSOURCE:https://vidoza.net/6i0kvu357fgj/the_red_sea_diving_resort_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/9qg5meb9ev7e::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/Ux3285r6T8H/The.Red.Sea.Diving.Resort.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9qg5meb9ev7e::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/yVBiAihC3ws/The.Red.Sea.Diving.Resort.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/9b8e5efc9de0dc78010f6c768f6d1f37/The.Red.Sea.Diving.Resort.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?lxnffjyyosp3aw9wb71v::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -201,7 +217,7 @@ sublink:LISTSOURCE:https://vidoza.net/mjqlef8dd4s4/awake_2019_1080p_bluray_1400m
 sublink:LISTSOURCE:https://vidoza.net/mjqlef8dd4s4/awake_2019_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/1gup22tbc4k9::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/QD2xNYPZGf8/Awake.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/QD2xNYPZGf8/Awake.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/Vfqq63nBRYQ/Awake.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/ab734969e30ddfc6e91a0f38fde7e9a8/Awake.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?36xl4sx4gro0p0fr6eqy::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -218,7 +234,7 @@ sublink:LISTSOURCE:https://vidoza.net/30xd7616ux1v/assassinaut_2019_1080p_web-dl
 sublink:LISTSOURCE:https://vidoza.net/30xd7616ux1v/assassinaut_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/wtdcav2haxm8::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/EmBtEXWR7fA/Assassinaut.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/EmBtEXWR7fA/Assassinaut.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/TJ3a3WnyRLY/Assassinaut.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/1878ae3ca4b69d12c81bbfb544106ad9/Assassinaut.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?bpcnwig11d5wc4vv7sco::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -235,7 +251,7 @@ sublink:LISTSOURCE:https://vidoza.net/07e4yf5johcz/trial_by_fire_2019_1080p_webr
 sublink:LISTSOURCE:https://vidoza.net/07e4yf5johcz/trial_by_fire_2019_1080p_webrip_1600mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/5by7d7pp1jue::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/7FmxL1uzjTk/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/7FmxL1uzjTk/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/txIHkwtSWKI/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/875fc870d5490942f41beb81ac580b9f/Trial.by.Fire.2019.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?6dtr2q7vwlyhkbqermv5::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -252,7 +268,7 @@ sublink:LISTSOURCE:https://vidoza.net/j2xbzywyx1j8/avengers_endgame_2019_1080p_a
 sublink:LISTSOURCE:https://vidoza.net/j2xbzywyx1j8/avengers_endgame_2019_1080p_amzn_web-rip_dd5_1_x264-_5bbonsaihd_com_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/gisbp0utg1xz::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/Kho2AQjrFBJ/Avengers.Endgame.2019.1080p.AMZN.WEB-Rip.DD5.1.x264-%5BBonsaiHD.Com%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/Kho2AQjrFBJ/Avengers.Endgame.2019.1080p.AMZN.WEB-Rip.DD5.1.x264-%5BBonsaiHD.Com%5D.mkv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/DvhF2KuiH1g/Avengers.Endgame.2019.1080p.AMZN.WEB-Rip.DD5.1.x264-%5BBonsaiHD.Com%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/ad4e62a73803a863a466c7e682b706eb/Avengers.Endgame.2019.1080p.AMZN.WEB-Rip.DD5.1.x264-[BonsaiHD.Com].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?lgdmgj8dvejvcm6olnaf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -269,7 +285,7 @@ sublink:LISTSOURCE:https://vidoza.net/f5pedpwc75yb/astronaut_2019_1080p_web-dl_h
 sublink:LISTSOURCE:https://vidoza.net/f5pedpwc75yb/astronaut_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/pyqfffotx9ug::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/iZz1bQnC1aM/Astronaut.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/iZz1bQnC1aM/Astronaut.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/IID-l6VA7WI/Astronaut.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/b62f7ac175dbe00553ec5a82d624a1ae/Astronaut.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?tx47ddnq631328tntdgs::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -288,7 +304,7 @@ sublink:LISTSOURCE:https://vidoza.net/a6ih7b4bkmo8/the_souvenir_2019_dvdrip_xvid
 sublink:LISTSOURCE:https://vidoza.net/a6ih7b4bkmo8/the_souvenir_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/a6ih7b4bkmo8/the_souvenir_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/fktmm1rvf72m::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/MgC9GhfEdpP/The.Souvenir.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/qb-GBoGPLcs/The.Souvenir.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/62a0ce735a730be69fd41aa8e0384104/The.Souvenir.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?5fszofqay0w5djvjruyc::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
@@ -305,7 +321,7 @@ sublink:LISTSOURCE:https://vidoza.net/bf3k0eflegkm/skin_2018_1080p_webrip_x264-_
 sublink:LISTSOURCE:https://vidoza.net/bf3k0eflegkm/skin_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/uu3p19umeq7k::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/YiL5Fmxevcr/Skin.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/YiL5Fmxevcr/Skin.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/rdBGTGFG0Ac/Skin.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/48bff15ddb239b45b9c735fd37985c6d/Skin.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?mz1o4nvmvhsk38rng0j4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

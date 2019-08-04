@@ -3089,6 +3089,15 @@ sublink:LISTSOURCE:https://1fichier.com/?24ig0gf32wduiouw88da::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Curse of La Llorona (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:6e429629cd66cfb6e17e7202b47cec6c43f15104&dn=The+Curse+of+La+Llorona.2019.4K.HDR.2160p.WEBDL+Ita+Eng+x265-NAHOM&xl=14897362726&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Fifth Element[COLORred] Real Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>https://1fichier.com/?vexcr634m0</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWFjYmZmZGQtYzg4YS00ZGE5LTgwYzAtZmQwZjQ2NDliMGVmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SY1000_CR0,0,696,1000_AL_.jpg</thumbnail>

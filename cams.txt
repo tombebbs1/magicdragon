@@ -1,5 +1,17 @@
 <item>
-<title>[COLORwhite]Them That Follow (2019)(2019) HDCAM UPDATED 04/08[/COLOR]</title>
+<title>[COLORwhite]Playmobil: The Movie (2019) HDCAM UPDATED 05/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5rjt8ufic9j9/playmobil_theie_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/w0868ix6dgnc::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7yxjqntrg679::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/myqwh4eoofmc::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGNlMjY2Y2MtNWVjZS00NDY5LTkwNzYtOTAxODg3Y2ZiY2Q3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Them That Follow (2019) HDCAM UPDATED 04/08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/g780c99j3e3d/them_that_follow_2019__official_us_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/zb2oraafmnv1::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#

@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Avengers : The Infinity Saga (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/16aaos01s9ec/d_railed_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gpj2hjmqq6ee/avengers_the_infinity_saga_2019_1080p_x264_by_aznblusuazn::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0psrozljap4i::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/JUjrKCYcZZg/Avengers.The.Infinity.Saga.2019.1080p.x264.by.AznBlusuazn.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0psrozljap4i::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/136db3a8a4721294d14948c254308a63/Avengers.The.Infinity.Saga.2019.1080p.x264.by.AznBlusuazn.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ha9sjmh9shco8tk99qp4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjBsfK2r-7jAhXLDuwKHaVSDzQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F741405157386544733%2F&psig=AOvVaw333J_oBjLRleWue7OthRB1&ust=1565180199399862</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]D-Railed (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/16aaos01s9ec/d_railed_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]A Dog's Journey (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/75y4dcbygjyb/a_dog%27s_journey_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3tv1hga7m0af/a_dogs_journey_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3tv1hga7m0af/a_dogs_journey_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3tv1hga7m0af/a_dogs_journey_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/izybi0hyjynd::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/VvonnXs6hb/A_Dogs_Journey.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/izybi0hyjynd::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1f1634741ccb41802a4d3ac5113eba85/A_Dogs_Journey.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ns6gg766htjzpkqharag::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjRhMWY0ODMtMmM3OC00ZGRmLWIyZjktZGQ0ZGE4MzcyZWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Hustle (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gyoy1alqwfzd/the_hustle_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

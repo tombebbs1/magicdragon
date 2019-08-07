@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Genesis 2.0 (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0pewxde6ikey/genesis_2_0_2018_dvdrip_x264-bipolar_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/k6tkook6icej::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/k6tkook6icej::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzllNTU5MjQtNTI2ZS00NWVlLTg3OGEtNGQwMmI3ODY3Yzc1XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Woodstock (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fra0bpkwyngg/woodstock_three_days_that_defined_a_generation_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

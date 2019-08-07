@@ -255,7 +255,7 @@ sublink:LISTSOURCE:https://uptobox.com/pjkvqmgibrzv::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://rapidgator.net/file/ecdfc5114996ea7e81ab62a7c17eb664/Doe.2018.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?wva0knzmmp35eusav984::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzE4NjRjOWYtMWMyYy00ZjEwLTljYTctM2I0MDdhYThiOWM2XkEyXkFqcGdeQXVyMjI4NzUwNzg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWQ3Y2VjMTQtMThkMi00NTFkLThkNDItNjliZDgzZmQwY2M4XkEyXkFqcGdeQXVyMjAwNzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 

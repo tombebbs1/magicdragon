@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Blinded by the Light (2019) HDCAM UPDATED 09/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7pdekg5335m5/blinded_by_the_light_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/uadah4wvu6gq::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2wi2r6uv2est::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vdyh2zxynxrw::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWRhOGY0YjgtNzdiZi00ZDJhLWI3MzgtMThlNjU0ZDM2NjZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fast & Furious Presents: Hobbs & Shaw (2019) HDTC UPDATED 05/08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sf0759yj4qz8/fast_%26_furious_presents_hobbs_%26_shaw_official_trailer_2_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

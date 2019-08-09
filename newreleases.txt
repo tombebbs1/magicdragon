@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Light of My Life (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e0hipof9ggeu/light_of_my_life_official_trailer_2019_casey_affleck%2C_elisabeth_mossie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/86lc7hs17t1m/light_of_my_life_2019_1080p_web-dl_dd5_1_h264-cmrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/86lc7hs17t1m/light_of_my_life_2019_1080p_web-dl_dd5_1_h264-cmrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/86lc7hs17t1m/light_of_my_life_2019_1080p_web-dl_dd5_1_h264-cmrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i68jchzeb59w::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/DcKyUdtPaL6/Light.of.My.Life.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i68jchzeb59w::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7fee76119a8a6ea647d059c59c305914/Light.of.My.Life.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?c66jpalfcoidnmr6j527::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2FmMGNiODgtNTAyMy00N2VlLWEyODEtNDViMmRkZDA5Nzc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Defiant (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/cva78s5wwh88/defiant_2019_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

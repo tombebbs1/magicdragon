@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]David Bowie: Finding Fame (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gpr26xxhhrad/d_bowie_finding_fame_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/b3j06h7axmc2::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ti2fx5buu5y3::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDI5N2RjMDAtMzAyOS00NjliLThlODctODYxNDQzYjYwNjBiXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Genesis 2.0 (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0pewxde6ikey/genesis_2_0_2018_dvdrip_x264-bipolar_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

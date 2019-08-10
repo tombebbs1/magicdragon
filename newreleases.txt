@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Night Hunter (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rlof2hr75tla/night_hunter_official_trailer_2019_alexandra_daddario%2C_henry_lie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/f6y0fxfwenvq/night_hunter_2019_1080p_hdrip_1400mb_dd2_0_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/f6y0fxfwenvq/night_hunter_2019_1080p_hdrip_1400mb_dd2_0_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/f6y0fxfwenvq/night_hunter_2019_1080p_hdrip_1400mb_dd2_0_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jwrejohp1zqg::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/K7s9viAa5bR/Night.Hunter.2019.1080p.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jwrejohp1zqg::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/84e40306e3bff34860e8121631a34a4a/Night.Hunter.2019.1080p.HDRip.1400MB.DD2.0.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sifose21i2qew0ooyj0k::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzNzM1NTQ0N15BMl5BanBnXkFtZTgwOTYwNDU0NjM@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Light of My Life (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e0hipof9ggeu/light_of_my_life_official_trailer_2019_casey_affleck%2C_elisabeth_mossie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

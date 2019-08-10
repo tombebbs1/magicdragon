@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Art of Racing in the Rain (2019) HDCAM UPDATED 10/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4sgywwdjpmx4/the_art_of_racing_in_the_rain__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/x1za6lwwa5u6::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qh9n38hkx0xi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p2iih9e5msp9::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU5ZTYzM2MtNDNhYi00YjU1LWE4MzEtODc0NmNlODZlMjlhXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Kitchen (2019) HDCAM UPDATED 10/08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i4i77b1en0ya/the_kitchen_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

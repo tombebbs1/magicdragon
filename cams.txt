@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Peanut Butter Falcon (2019) HDCAM UPDATED 10/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zw4oav3ssm2t/the_peanut_butter_falcon__official_trailer__roadside_attractions::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xf53rm1xpjx4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/877x9jpbfceh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7aenb5c3ojnh::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDg1ZmFlMjQtZGU0Ni00NGVhLWJjMDEtMjg4YTBmOTI5NTEzXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blinded by the Light (2019) HDCAM UPDATED 09/08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7pdekg5335m5/blinded_by_the_light_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

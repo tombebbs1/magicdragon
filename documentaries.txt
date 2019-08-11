@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Rebound (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/r3zv9rsojcn7/the_rebound_2016_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rvly4ws6swyd::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rvly4ws6swyd::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODNlOGM0NDgtZjJjYi00YTU5LTg3YWYtZTQ2MmI4Y2E3YTUwXkEyXkFqcGdeQXVyNjIxNDMyNjk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Andy Irons: Kissed by God (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xhr9vox5ipmn/andy_irons_kissed_by_god_2018_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1xhfgyqwd3qj::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1xhfgyqwd3qj::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTk0NDQ5ZjYtYWQ3Mi00OWMxLWExYjMtMjY5ZjE2NmQ2MzZlXkEyXkFqcGdeQXVyMjczMTg1Ng@@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]David Bowie: Finding Fame (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gpr26xxhhrad/d_bowie_finding_fame_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]I Am Richard Pryor (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6ng4l2xusa2c/i_am_richard_pryor_2019_720p_hdtv_x264-aaf::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/intj0uzp15t1::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hmvye49zlyz0::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0OGM3YTctZmJiYS00NWIzLTlkZDUtZWU3MGVkZjNkMDAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Rebound (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/r3zv9rsojcn7/the_rebound_2016_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

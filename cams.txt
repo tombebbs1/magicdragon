@@ -271,17 +271,7 @@ sublink:LISTSOURCE:https://openload.co/f/sA3jr0vcLKk/Ma_2019_720p_HDCAM-1XBET.mk
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Secret Life of Pets 2 (2019) CAM UPDATED 30/05[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/y3uhe1sjroio/the_secret_life_of_pets_2_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3k6dlsc4pgj6::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/inogc3rliifo::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/lm1jlv3o3pgt::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTA2NzM0MjA0MTJeQTJeQWpwZ15BbWU4MDk1MzYwNzYz._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Dead Don't Die (2019) CAM UPDATED 28/05[/COLOR]</title>

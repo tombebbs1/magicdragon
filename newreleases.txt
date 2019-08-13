@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Banana Splits Movie (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/k3yuw6aqqtnz/the_banana_splitsie_official_trailer__syfy_wire::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/28ur2a1phh9n/the_banana_splitsie_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/28ur2a1phh9n/the_banana_splitsie_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/28ur2a1phh9n/the_banana_splitsie_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zo1rokwgrlxm::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/NEPgvs2NwDq/The.Banana.Splits.Movie.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zo1rokwgrlxm::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/499a13de25607a5b34edad938f409011/The.Banana.Splits.Movie.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?k19823jqppfxjtcr4x0b::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2Q5ODFjZjctNjNlOS00NWI2LWI1NDEtODcwYWNiOTg5MGFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Head Full of Honey (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/x5a1nevbmid9/head_full_of_honey_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

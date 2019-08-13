@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?g4edaz272exhaf7pmcxo::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Annabelle Comes Home (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mlmdjy4o9m66/annabelle_comes_home_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wbiju3k80glt/annabelle_comes_home_2019_1080p_hc_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wbiju3k80glt/annabelle_comes_home_2019_1080p_hc_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wbiju3k80glt/annabelle_comes_home_2019_1080p_hc_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ryj96qm6mwfh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/UmCtAnV3HLW/Annabelle_Comes_Home.2019.1080p.HC.HDRip.X264-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ryj96qm6mwfh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d30662db6703fb319d46aff24f07768e/Annabelle_Comes_Home.2019.1080p.HC.HDRip.X264-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qvllddcf6du5nc488wdq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mummy Rebirth (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tjsu4ujt4gx4/the_mummy_rebirth_official_trailer_2019_sci-fi%2C_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

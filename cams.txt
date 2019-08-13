@@ -196,17 +196,7 @@ sublink:LISTSOURCE:https://uptobox.com/qfaem195v5zb::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Annabelle Comes Home (2019) HDCAM UPDATED 28/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/mlmdjy4o9m66/annabelle_comes_home_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/seeapqdflpnsfqmo/WwW_SeeHD_WS_Annabelle_Comes_Home_2019_720p_HDCAM_1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/eskskmlospbklltp/WwW_SeeHD_WS_Annabelle_Comes_Home_2019_720p_HDCAM_1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/oj_nOI-C41U/WwW.SeeHD.WS__Annabelle.Comes.Home.2019.720p.HDCAM.1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Child's Play (2019) HDCAM UPDATED 24/06[/COLOR]</title>

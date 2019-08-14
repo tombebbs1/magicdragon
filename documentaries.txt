@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]When I Grow Up (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kjavr5rz0m7e/when_i_grow_up_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/s6d8v9xkjjpy::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0yftigb1rj8x::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTZiYTc0NDYtZjk0OS00ZWFiLWFjOTEtOWRmYTg3MDNkNzhhXkEyXkFqcGdeQXVyMzQ1Mjg0OTc@._V1_SX731_CR0,0,731,999_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Feared Irish Gangsters 2019[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2x9agghkxz82/the_feared_irish_gangsters_2019_dvdrip_x264-ghouls::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rmnp7a7w4xx7::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kt81pk5ql9bc::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/xCY4IF.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I Am Richard Pryor (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6ng4l2xusa2c/i_am_richard_pryor_2019_720p_hdtv_x264-aaf::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

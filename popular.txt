@@ -150,6 +150,30 @@ sublink:LISTSOURCE:https://1fichier.com/?3nm0pahy6gm4lvv3u0il::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]John Wick: Chapter 3 - Parabellum (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/emghijod4fzf/john_wick_chapter_3_parabellum_2019ie_new_trailer_keanu_reeves%2C_halle_berry::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8uvpd1vzxr1o/john_wick_3_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://streamango.com/f/rqdrblmbkfaqkotn/John_Wick_3_2019_HDRip_XviD_AC3-EVO_EtMovies_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://streamcherry.com/f/tqbdnlcnqltofbqt/John_Wick_3_2019_HDRip_XviD_AC3-EVO_EtMovies_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mqgizw2jaamc::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/KlNCgzf4l1s/John.Wick.3.2019.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3350494c4b505e5cf3ecc90e2a3930e5/John.Wick.3.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?r4jbh7a56r7eu51e7t9s::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1aq5dgydkydd/john_wick_3_2019_1080p_bluray_x264-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1aq5dgydkydd/john_wick_3_2019_1080p_bluray_x264-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1aq5dgydkydd/john_wick_3_2019_1080p_bluray_x264-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9nng6go32xe5::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/RX2K81yCtmi/John.Wick.3.2019.1080p.Bluray.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9nng6go32xe5::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3730b92d3831199343c7ea8473a57802/John.Wick.3.2019.1080p.Bluray.1600MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xqgvapenveya1qkz7xkb::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Rocketman (2019)[/COLOR]</title>
@@ -386,23 +410,6 @@ sublink:LISTSOURCE:https://1fichier.com/?mebf6b265ys2kbqp8qf8::LISTNAME:[COLORgo
 </item>
 
 
-
-<item>
-<title>[COLORwhite]Gloria Bell (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/s8yxgbw74zh4/gloria_bell_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/zx693is7f831/gloria_bell_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/anmkksobacqembpn/Gloria_Bell_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/lnekmftnosqfqfls/Gloria_Bell_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hcldc1xsp6ep::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/Mph2hlcMK04/Gloria.Bell.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/c80a23fbade1cd745ac7b2540d15c880/Gloria.Bell.2018.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?cibublz4kkmvllqb6war::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5Nzc1OTk3OV5BMl5BanBnXkFtZTgwNDM1NTQ3NjM@._V1_SY1000_CR0,0,641,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]Us (2019)[/COLOR]</title>
 <link>
@@ -451,21 +458,7 @@ sublink:LISTSOURCE:https://1fichier.com/?528riop0f28es8hx7lr4::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Polaroid (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/082l3mb4mjkp/polaroid_trailer_2017_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/paaicawvyqqs/polaroid_2019_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bndkpbookklpesll/Polaroid_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/nnpmlosptepmfmrk/Polaroid_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/eojmeszqkyli::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/sbJVVWWJfTo/Polaroid.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/1452139b36139db77a90f020800b120b/Polaroid.2019.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?0tpr0v3hnjmb6javgqom::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2MDI0NDYxNl5BMl5BanBnXkFtZTgwMDAxOTQxMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Pet Sematary (2019)[/COLOR]</title>
@@ -765,29 +758,6 @@ sublink:LISTSOURCE:https://1fichier.com/?f5ysulbjanx579qr67za::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]If Beale Street Could Talk (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/p2uc39qmhabl/if_beale_street_could_talk_trailer_1_2018__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/btyfocsh5ixk/if_beale_street_could_talk_2018_hdrip_ac3_x264-cmrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/rbkapocblesbscbl/If_Beale_Street_Could_Talk_2018_HDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/dklnrscredcsfmcd/If_Beale_Street_Could_Talk_2018_HDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/7nytzvgagmwg::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/VsZRekzhGn4/If.Beale.Street.Could.Talk.2018.HDRip.AC3.X264-CMRG.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/0352a9bf0afa3b0f3ec815912b7c6543/If.Beale.Street.Could.Talk.2018.HDRip.AC3.X264-CMRG.mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?h4e028v1vzsdeixrfrgm::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/yso1cnwvvsxd/if_beale_street_could_talk_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/drcsprfborcoqptb/If_Beale_Street_Could_Talk_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/llsrnfoeklpbkfbr/If_Beale_Street_Could_Talk_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/aawgu27tjojp::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/BfAYOuqzCuo/If.Beale.Street.Could.Talk.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/94d6a3091446504562ec9c4155647870/If.Beale.Street.Could.Talk.2018.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?72dxecmvti1ooi4r94sa::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZWVkMzY5NzgtMTdlNS00NjY5LThjOTktZWFkNDU3NmQzMDIwXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLORwhite]The Grinch (2018)[/COLOR]</title>
@@ -881,28 +851,6 @@ sublink:LISTSOURCE:https://1fichier.com/?d7bu439eaghgskxia90x::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Highwaymen (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gbqyjdg2qjvf/the_highwaymen__official_trailer_%5Bhd%5D__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/pk4kax6zl2sb/the_highwaymen_2019_720p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/cecfsmcqdraocldk/The_Highwaymen_2019_720p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/mkstcldbrbpcpoqn/The_Highwaymen_2019_720p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/w2jrj6cqjilw::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/3D6p_dzxA1o/The.Highwaymen.2019.720p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/b61d09be6f615060719d620a27f1d49e/The.Highwaymen.2019.720p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?pz19y6gfa3kn7x4gac16::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/rry3cb0mel37/the_highwaymen_2019_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/rappbbsccdobbdle/The_Highwaymen_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/qotokfcfrfnckpfs/The_Highwaymen_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/xikb90jliwpl::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/iWcd8cBdpWM/The.Highwaymen.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/9db19b62749080073f7229da915ee948/The.Highwaymen.2019.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?gkar9igjmk9tmmxf9ey2::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU1MzY1NDAxOV5BMl5BanBnXkFtZTgwMzI3OTk2NzM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Justice League vs the Fatal Five (2019)[/COLOR]</title>
@@ -950,28 +898,7 @@ sublink:LISTSOURCE:https://1fichier.com/?s5z2xepjnq2h4v527363::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Ben Is Back (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gltqhg42d6bb/ben_is_back_trailer_1_2018__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/0c8l13xg80fs/ben_is_back_2018_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/mqrqcnqcnpknkbbq/Ben_Is_Back_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/teeocqtmotepkdtn/Ben_Is_Back_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/n060rxtaw4go::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/KJKuXRfNwI4/Ben.Is.Back.2018.HDRip.AC3.X264-CMRG%5BEtMovies%5D.mkv::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/be1bafa8d5f3c625be8cd1df6d25c97c/Ben.Is.Back.2018.HDRip.AC3.X264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?4610zwybaiynrjth22dq::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/88wm2ik0zqj4/ben_is_back_2019_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/pbfcnbbpomtanrsf/Ben_is_Back_2019_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/acbqbposoaftfoad/Ben_is_Back_2019_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ef03l3qsae2g::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/9lkoEB__jqY/Ben.is.Back.2019.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/726851e299f3ced6c804cff4454ae588/Ben.is.Back.2019.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?j5tilzvdpnsbbt2tykce::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZGY3ZWMyYjEtMDMzYi00NDQyLWE1MWEtMDNmMjRlOGVkNDc3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 
 
@@ -997,28 +924,6 @@ sublink:LISTSOURCE:https://1fichier.com/?327veg76atp0vc3r2gpx::LISTNAME:[COLORgo
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTcxMjUwNjQ5N15BMl5BanBnXkFtZTgwNjk4MzI4NjM@._V1_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
-<item>
-<title>[COLORwhite]The Favourite (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/38pvv4vvsvip/the_favourite__official_trailer__fox_searchlight::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/xdatbnhnos9z/the_favourite_2019_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bdqpdobbmeedlbat/The_Favourite_2019_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bpoopsrbbetkqdcb/The_Favourite_2019_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5j86yz4gaaex::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/l0498zvOwas/The_Favourite.2019.HDRip.XviD.AC3-EVO.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/7580b31e8fcb1bc1dbae674415a07e31/The_Favourite.2019.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?sp7yl54xrp3olbya6ule::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/iihd5b11yoom/the_favourite_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/tkkcsokktqtknbet/The_Favourite_2019_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/lrnqobmasemmkrdc/The_Favourite_2019_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/k4gjba9v92o3::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/VNGba8Wg9ok/The_Favourite.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/84f4dbd884b3f709d1400715435d2244/The_Favourite.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?mvgylnrj08wtwmt0mrlh::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 
 <item>
@@ -1041,98 +946,6 @@ sublink:LISTSOURCE:https://rapidgator.net/file/5fc0f41bbdcbc889518e034501d64a53/
 sublink:LISTSOURCE:https://1fichier.com/?lzjby2e7k7wl9yavovke::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Serenity (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/cvxggsp2ze6g/serenity_official_trailer_2018_matthew_mcconaughey%2C_anne_hathawayie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/mlx6ncndcmy6/serenity_2019_bdrip_ac3_x264-cmrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/krdfpllcbsmkbbbn/Serenity_2019_BDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/ceqfqrlltbdmfpoo/Serenity_2019_BDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/wlfleuekjzb4::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/ChxWzp3Ij3I/Serenity.2019.BDRip.AC3.X264-CMRG.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/16140909acc0776e02aa050cb99e6346/Serenity.2019.BDRip.AC3.X264-CMRG.mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?lwa460e2dt4a7yepc0dc::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/srcbz68zsdz7/serenity_2019_720p_bdrip_ac3_x264-cmrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/dcbppcqddtbnsrtb/Serenity_2019_720p_BDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/sflkkmnbtsdakdrl/Serenity_2019_720p_BDRip_AC3_X264-CMRG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/kyc977r76cm5::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/zkwhmkoC8lc/Serenity.2019.720p.BDRip.AC3.X264-CMRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/69c96d91076eac5f95be217924362405/Serenity.2019.720p.BDRip.AC3.X264-CMRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?gsxbpablgi1yk6a3t4uo::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BY2VjNGFkZmUtMTI1MS00YmRiLTg1MmUtYzI0ODM1OWRkMjIyXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Mary Queen of Scots (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/g2e8ztazj78q/mary_queen_of_scots_trailer_1_2018__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/l69y9yhxawr3/mary_queen_of_scots_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/scossperopdkpreb/Mary_Queen_Of_Scots_2019_DVDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/eabrfqnqkoqterkk/Mary_Queen_Of_Scots_2019_DVDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/t62l3q6qn5tb::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/KhA23n2Nsos/Mary.Queen.Of.Scots.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/fa839e330a4300a100cb40adba46c1e7/Mary.Queen.Of.Scots.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?7qbdi1nqh3ce102vzl5d::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8rvrs0t1b3fk/mary_queen_of_scots_2018_1080p_bluray_x264-geckos_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/tanmmoopttqfserd/Mary_Queen_of_Scots_2018_1080p_BluRay_x264-GECKOS_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/otafcmqaqeddqblc/Mary_Queen_of_Scots_2018_1080p_BluRay_x264-GECKOS_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/471fkv8t6ipt::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/PrUUGVy0G-k/Mary.Queen.of.Scots.2018.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/186f1dc09fe3e82194e9abd0014a4ae2/Mary.Queen.of.Scots.2018.1080p.BluRay.x264-GECKOS[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?u1y2rgdkytxo0nve162h::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDVmOGI4MTMtYmNmNC00MTliLTlkYjQtYmU2N2EyNDk2YTAwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Possession of Hannah Grace (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/uagv3qicw1p8/the_possession_of_hannah_grace_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/wxdkzu6e72j4/the_possession_of_hannah_grace_2019_dvdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lapalrlsnntffekn/The_Possession_of_Hannah_Grace_2019_DVDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/faocreabnstflspc/The_Possession_of_Hannah_Grace_2019_DVDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/i47s0pqtq1ia::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/DuLgtMDuo78/The_Possession_of_Hannah_Grace.2019.DVDRip.XviD.AC3-EVO.avi::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/2f3924ea07f8aaa8ef0f162ab2b97d1e/The_Possession_of_Hannah_Grace.2019.DVDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?teim3bi4kzect0m4s6s8::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/jnr9vbmdh2tb/the_possession_of_hannah_grace_2018_1080p_bluray_x264-drones_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/nrffbcdndppedqob/the_possession_of_hannah_grace_2018_1080p_bluray_x264-drones_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/ecdocpdlesdeqnnt/the_possession_of_hannah_grace_2018_1080p_bluray_x264-drones_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/gih3ptstzk4s::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/M5zd9cFOG-U/the.possession.of.hannah.grace.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/3d56463db95bb3db339918af738e6ebf/the.possession.of.hannah.grace.2018.1080p.bluray.x264-drones[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?p2c649fixwoubiz503ra::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA1MTIwODY4Nl5BMl5BanBnXkFtZTgwNzkxNDc2NjM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]London Fields (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/lrn037604j09/london_fields_official_trailer_2018_amber_heard%2C_cara_delevingne::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5jgtxoz84kyi/london_fields_2019_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/akkkdffdrtodrlfd/London_Fields_2019_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/akkkdffdrtodrlfd/London_Fields_2019_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5bxm9jqkkruy::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/ZWF7iQDAfl0/London.Fields.2019.HDRip.XviD.AC3-EVO.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/b2105f4cb6a31967036f30370490b700/London.Fields.2019.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?1azj9wfmo8865i0sulsg::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/oecouwggplll/www_seehd_pl_london_fields_2018_1080p_web-dl_x264_ac3-seehd::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/mttlssflbdlpstkq/WwW_SeeHD_PL_London_Fields_2018_1080p_WEB-DL_X264_AC3-SeeHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/frtadbnedmcbonpd/WwW_SeeHD_PL_London_Fields_2018_1080p_WEB-DL_X264_AC3-SeeHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/57kvh666qnr0::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/M-89IjsWV2U/WwW.SeeHD.PL__London_Fields_2018_1080p_WEB-DL_X264_AC3-SeeHD.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/c1ef70992094576d88257d5dec1a1279/WwW.SeeHD.PL__London_Fields_2018_1080p_WEB-DL_X264_AC3-SeeHD.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:71FD00BB6FE117A497FECFADAB13DD3B9053E86D&dn=London+Fields+%282018%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYjMwYWNiN2EtMWNkMS00MDU5LThiMGMtOTk5NTQzMjQ4OTkwXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
@@ -1183,28 +996,6 @@ sublink:LISTSOURCE:https://1fichier.com/?nwh0mn9pc1uje2qejerr::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Slaughterhouse Rulez (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/8hjxk1v6kc7l/slaughterhouse_rulez_trailer_2018_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/w9fthzjh9koj/slaughterhouse_rulez_2019_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/aknnnaaelostdcsc/Slaughterhouse_Rulez_2019_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bqfcdmbmqsbrpeam/Slaughterhouse_Rulez_2019_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/m529w045lalq::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/ZaCbLz-NfBI/Slaughterhouse.Rulez.2019.HDRip.AC3.X264-CMRG%5BEtMovies%5D.mkv::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/286478de682116239186abeb8a47545e/Slaughterhouse.Rulez.2019.HDRip.AC3.X264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?ksais9yga9q0tzpe1axf::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5jepz1nxray6/slaughterhouse_rulez_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/rnnmsqorcekaeaaa/Slaughterhouse_Rulez_2019_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/mtontleqpbktqpqr/Slaughterhouse_Rulez_2019_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/dknprwlau1y2::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/HtT1tKE8QyI/Slaughterhouse_Rulez.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/d0b1eb467eae229f0848a2d4847caf20/Slaughterhouse_Rulez.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?wbquyj3bugb5q2tl69tr::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjExMjU1NjUwN15BMl5BanBnXkFtZTgwOTAzOTgwNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Mortal Engines (2018)[/COLOR]</title>
@@ -1413,310 +1204,7 @@ sublink:LISTSOURCE:https://1fichier.com/?nzy3k3p4svk1vcff8uxv::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Hunter Killer (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=mnP_z3qXDCQ&t=4s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/blxktgjklxk6/hunter_killer_2018_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/srpmseddboosctct/Hunter_Killer_2018_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/scrcqqktclmlbtts/Hunter_Killer_2018_HDRip_XviD_AC3-EVO_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/04qn3av4px9k::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/Hb0PKpky9Ts/Hunter_Killer.2018.HDRip.XviD.AC3-EVO.avi::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/dbb3dae61359850250ea85c29773498c/Hunter_Killer.2018.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?4qny0mhrqdsjxgp2n55y::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/e8o4wgdcmn2s/hunter_killer_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/abatsnnppsmbcsfp/Hunter_Killer_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/dcpefnteeedksppe/Hunter_Killer_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/shp4ryzr0kzo::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/mdw-uRRiZPM/Hunter_Killer.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/54cf990f3aae2c7090e9b5fcba721a5b/Hunter_Killer.2018.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?amifb0sob146thma3pic::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmMwYzI2MmEtNjY5OS00ODAwLWE3NGQtY2VhZjgyNzQzMjkxXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Overlord (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/v30r3bq0wvi8/overlord_2018_-_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/t2oos1aslmn6/overlord_2019_hdrip_xvid_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/kqlmdkkokrflnpmd/Overlord_2019_HDRip_XViD_AC3-ETRG_avi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/elpndfrlcdtneolp/Overlord_2019_HDRip_XViD_AC3-ETRG_avi::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5xxaqlwoq9ph::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5xxaqlwoq9ph::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/17142b4cbc299393b631d4d927520a93/Overlord.2019.HDRip.XViD.AC3-ETRG.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?9w6f275ck5j793faejhv::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1jfnwjdi8tan/overlord_2018_1080p_web-dl_x264cage_ws::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lfbdeadlpbmtcnrc/Overlord_2018_1080p_WEB-DL_x264_MkvCage_ws_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/qatapsabsepfflda/Overlord_2018_1080p_WEB-DL_x264_MkvCage_ws_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/g3pmmvmbyuip::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/g3pmmvmbyuip::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/28b8d46bcf117f9337abb09291bfa283/Overlord.2018.1080p.WEB-DL.x264.MkvCage.ws.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?4sfnghqfttrse4fxcbeo::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTUzYmJlNDgtMzM2ZS00N2ZkLWJjY2ItNzM0ZmVjMWU5OTA3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Kursk (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/2a5r639iwd8s/kursk_official_trailer_2018_colin_firth%2C_l%C3%A9a_seydoux%2C_submarineie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/2zjzvu768dnw/kursk_2018_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/padstqflnecoslls/Kursk_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/ppaeoeslfbtmqqss/Kursk_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/b91ry8zz79pg::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/7C5a61_457k/Kursk.2018.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/8282dea2fa8dea963d2b55626d771678/Kursk.2018.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?n80xajvyckmpv0bbyl4d::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/oe8tg9gwoigf/kursk_2018_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/nbctftmcrkkokkrf/Kursk_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/qeecqeknstnqldsk/Kursk_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/zpr581oovm3n::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/1ozshmcNZAQ/Kursk.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/39dfd545f832707c32d003245bf1d46f/Kursk.2018.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?kcb2mevfoyznp5wyotn3::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDMyNGM5MjQtMDY1Ni00YWM0LWIzMDQtODY1ODI2ZDA5ZjdiXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]The Kid Who Would Be King (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/s9dn70pj8jz6/the_kid_who_would_be_king_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/a9dv5np8qa4g/the_kid_who_would_be_king_2019_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/qssqpntprfclcldl/The_Kid_Who_Would_Be_King_2019_HDRip_AC3_x264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/tcefbrctlbdcflka/The_Kid_Who_Would_Be_King_2019_HDRip_AC3_x264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/7jeikc1rhjxn::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/AxwwdODs7fw/The.Kid.Who.Would.Be.King.2019.HDRip.AC3.x264-CMRG%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/2d34c61d8dc6a03a8789e8431276b8ef/The.Kid.Who.Would.Be.King.2019.HDRip.AC3.x264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?46amjp3o9syzqwungcbs::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/yim6xocctczu/the_kid_who_would_be_king_2019_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/qfmorcsernreenrd/The_Kid_Who_Would_Be_King_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bblclsolkopnlcla/The_Kid_Who_Would_Be_King_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/4wn7a89mi5p1::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/lkdHd-dbk_w/The.Kid.Who.Would.Be.King.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/1bbf3177cec890660fa751b39393d4b2/The.Kid.Who.Would.Be.King.2019.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?gefdl9gqbo4n2plt1g0i::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMzOTUwNzgyOV5BMl5BanBnXkFtZTgwNjk3MTQwNzM@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Vice (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/cp5zv9ea8bo7/vice_trailer_1_2018__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/bpogs5br9ls4/vice_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/enbloabknffdknkt/Vice_2019_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/sneekkelbmenmlap/Vice_2019_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5ubkf8fe8q51::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/ZEo7uLSY6to/Vice.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/7f09ebca98b099d461ab306f92b615ff/Vice.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?1fuqrpe4suetb85mbr2o::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Triple Frontier (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zhmmkalxq9mv/triple_frontier__official_trailer_%5Bhd%5D__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/zrfjup4jjijp/triple_frontier_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/kcknkknoebtrqldt/Triple_Frontier_2019_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bmtcsprmcbmlcfep/Triple_Frontier_2019_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/zxe29ptsz238::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/7D41oaTUk7M/Triple.Frontier.2019.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/926bf8e5b5ff5cba26148da9e6c1f3c9/Triple.Frontier.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?0ikaaeql9c3bhdylb146::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1lxkphphrby5/triple_frontier_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/dsmclpodlqaqpots/Triple_Frontier_2019_1080p_NF_WEB-DL_DDP5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/bqkenflpttqfofqm/Triple_Frontier_2019_1080p_NF_WEB-DL_DDP5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ns1f6ft2w6x8::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/PJwop5hJrHw/Triple.Frontier.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/7ff6099633e62ad8856b734368b94f5a/Triple.Frontier.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?nn53n76y4j58lzfnlht6::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLORwhite]Boy Erased (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=-B71eyB_Onw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ckdmf6ruqkff/boy_erased_2018_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lelraptcerorbfms/Boy_Erased_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/nkescoraknecppqo/Boy_Erased_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qoedeagc9103::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/Or1Cqjf_sqY/Boy.Erased.2018.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/1fe356956e12f53beaf8e1356f21b62b/Boy.Erased.2018.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?jjybpmlu4sa8g6btawn3::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8rwj547y4p71/boy_erased_2019_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/amclnrdpnnsneead/Boy_Erased_2019_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/orqkdafcfrmrqodl/Boy_Erased_2019_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/0lxmchsm84jp::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/NQ1ovEfxXDQ/Boy.Erased.2019.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/d987190a24b16f378174f5de60b7d5fb/Boy.Erased.2019.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?jjybpmlu4sa8g6btawn3::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzM2MzU1NTM4NF5BMl5BanBnXkFtZTgwNTMwMzI1NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLORwhite]Beautiful Boy (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=XEw2uHUYUPk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/vca9mvfx8wfl/beautiful_boy_2018_bdrip_x264-amiable::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lcsfdebotcsokenf/Beautiful_Boy_2018_BDRip_X264-AMIABLE_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/mntdaemmocqmoflc/Beautiful_Boy_2018_BDRip_X264-AMIABLE_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/atbz84mj0zbx::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/Ahf4QFYJl_E/Beautiful.Boy.2018.BDRip.X264-AMIABLE.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/badad0bbea903a922aa0f215c484e7d9/Beautiful.Boy.2018.BDRip.X264-AMIABLE.mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?bvvhg6h5ik3mohgwalla::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/h3j9cm92u6t0/beautiful_boy_2018_1080p_amzn_web-dl_ddp5_1_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/tnnbfeffrtfsmfad/Beautiful_Boy_2018_1080p_AMZN_WEB-DL_DDP5_1_H_264-NTG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/krmomatbeaoetqqn/Beautiful_Boy_2018_1080p_AMZN_WEB-DL_DDP5_1_H_264-NTG_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/8rk6e79w1syo::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/MKLXfcUfHnE/Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/80330e9418ab7af070ae32b482c67d95/Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?zygwddilpsfqt7ymt7wa::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:65F9798CE7389F0C057B60A1413CB53AEDEBCDFE&dn=Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fbt.xxx-tracker.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftw.opentracker.ga%3A36920%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjNhNjVjZDQtMzRhMS00YmI2LTkxZmEtMDdkMWU3OWQ2NjNmXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Vanishing (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=CmPdxSqx33s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/r32oox1zc416/the_vanishing_2018_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/sqnsrscmnqoctnem/The_Vanishing_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/mkqnmqaqtkmoftkm/The_Vanishing_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c0un6xp8g73m::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/6xoWVTsPhcI/The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/933922a43971f782697e91c95a989d51/The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?8hnmk10tyvd4u22ymze3::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:88591D1D600309D81AEBDFB341C3EE111D8EEF21&dn=The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg4MTEyNjE1N15BMl5BanBnXkFtZTgwNzUxMDM4NjM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]American Hangman (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=WrpFKTvS1-I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/c39mz20z8hs4/american_hangman_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bkmqksssqsrnlpop/American_Hangman_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/tqsfpqdptkedrrms/American_Hangman_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/1tk91c1reaft::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/vhDIMlJf5Wk/American.Hangman.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/75637468049e8087c1498e33b5b1260a/American.Hangman.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?3mj3lxekc1qxfjugnhcd::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:05A5CCE1A6D26F631B5093C3EC6D7A397D740808&dn=American.Hangman.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0ODY5OTU1MTReQTJeQWpwZ15BbWU4MDcyNDE1ODYz._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The House That Jack Built (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=BYF2tfdD1fA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/0yj54g3znvd3.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/aokctocccqfcfrds/The_House_That_Jack_Built_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/slrkmbknnrfbmamn/The_House_That_Jack_Built_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ic72r6e2q6m2::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/naXnT9A5bWU/The.House.That.Jack.Built.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/af69b3a71f9101ec8e27fd55d6c68376/The.House.That.Jack.Built.2018.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?khtntpsxumm2gqaa4nbi::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDQ4Y2E5ODktODI5ZS00ZGVkLTgyZTEtNWY1ZjNiZTFjOTE3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]What They Had (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=1kBGxsyp__o::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/4z2p3x78kty2/what_they_had_2018_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/beflmmdlanrqrpmd/What_They_Had_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/efqeeoqncpotcnrr/What_They_Had_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/tdq8qqr1lma5::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/TZ9M7dPl9UY/What.They.Had.2018.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/f3c2c487eb1e9b615e760903b2b7d200/What.They.Had.2018.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?77fox9o5rev8zvwrf6kw::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5l1bgzfsan9g/what_they_had_2018_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/pcskntmeatfamodp/What_They_Had_2018_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/qeqpqnnksknnatrb/What_They_Had_2018_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ozq9omxp4l46::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/HCJLEdt9O54/What.They.Had.2018.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/5b365d2568d6ed9131160037335d54b8/What.They.Had.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?ehic41q93fqkscsglrmy::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc4NzIyODE3Nl5BMl5BanBnXkFtZTgwNjg2NTc5NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Hate U Give (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=3MM8OkVT0hw&t=3s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/v1rr17lpjcei/the_hate_u_give_2018_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/cmonlkkrorbkrapm/The_Hate_U_Give_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/lsqsqprtqempdodt/The_Hate_U_Give_2018_HDRip_XviD_AC3-EVO_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/jrie3jnujf2w::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/lHA9d18lGuU/The_Hate_U_Give.2018.HDRip.XviD.AC3-EVO.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ddd9047413ded974c6358a7fe8acd53e/The_Hate_U_Give.2018.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?2an1nd8rbj6vpdjdthhd::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/e5x7e5h3azvc/the_hate_u_give_2018_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/nlknbtlkktsbbfkn/The_Hate_U_Give_2018_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/cklcoldsbarpcbad/The_Hate_U_Give_2018_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/leitu0xizlqt::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/qrnJlRlP9lw/The_Hate_U_Give.2018.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/2463d59744d4ad71aeeaa3ec3dde3df6/The_Hate_U_Give.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?pt4c7zrv5x1rp6xc9u6g::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZDVkMWJiMzUtNjQyOS00MGVmLWJhYmMtN2IxYzU4MjY3MDRmXkEyXkFqcGdeQXVyNzA5NjIzODk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Summer '03 (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=0-g1xodlkN4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/uts717hj0kz9/summer_03_2018_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/saktcbetneofadpf/Summer_03_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/pbdndlmclqpsqboo/Summer_03_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/po94i57t965g::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/BdnWnJfNKbI/Summer.03.2018.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/beb3eacb13298e90b37f76ecc4772c87/Summer.03.2018.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?digvlbfnxhd2ua5f4c68::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/g0699hlh3c3e/summer_03_2018_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/raentllpftlbcrnf/Summer_03_2018_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/spoomkrfpqoqbfkc/Summer_03_2018_1080p_WEB-DL_H264_AC3-EVO_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/8gbuggrghw63::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/4yLv-jj3tyA/Summer.03.2018.1080p.WEB-DL.H264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/6f99f29daf36868f362dd6fb9bd6a72f/Summer.03.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?kxrqxvrcig9pta2dtfvf::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjhjYjVmZmYtMzBiNi00OWYxLWEwNjUtNjQ1NWEzOTgxODc4XkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]White Boy Rick (2018)[/COLOR]</title>
@@ -1734,21 +1222,6 @@ sublink:LISTSOURCE:https://1fichier.com/?rjhwuv3c6a0ftykpd592::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Backtrace (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=INDleu1aHyE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/rjhrtop5jt6k.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/kkkrbtqcdqfopkfr/Backtrace_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/ffrfdpcnmbnsasrs/Backtrace_2018_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/89tluc02mdyw::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/WOnjnkboN14/Backtrace.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/6d630e1f45a0763ca971f2b80ee13ec2/Backtrace.2018.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?z7c7yuxzynhvtqspq5ex::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU1NDI1NzA2OV5BMl5BanBnXkFtZTgwNzI3NjQ3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Fantastic Beasts: The Crimes of Grindelwald (2018)[/COLOR]</title>
@@ -1773,30 +1246,7 @@ sublink:LISTSOURCE:https://1fichier.com/?frty6ktw0ujw6jekjzbw::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Hell Fest (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=j9TH2xV4wCU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/3ovvcsfnrrvr.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/qbbeorklassoddpt/Hell_Fest_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/qpfbbrbbqkarpldp/Hell_Fest_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hzey5eq7mp9z::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/D2iJ5uu_RXw/Hell.Fest.2018.HDRip.AC3.X264-CMRG%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/a868c5beb61b47d5f7ff9a708dc8edd7/Hell.Fest.2018.HDRip.AC3.X264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?yxc6ag74xpp3wtx8e2wf::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:CBD35307907BD883040515511AA50ED1C860E4ED&dn=Hell.Fest.2018.HDRip.XviD.AC3-EVO&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/jsxfsyjj4nqs.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/rlrokslonerdmefo/Hell_Fest_2018_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/cnsttktsssktbena/Hell_Fest_2018_1080p_WEB-DL_H264_AC3-EVO_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5g2z34zv627e::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/j-V3hqTpXYg/Hell.Fest.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/f7bb4079ee81678d523427478ea9db66/Hell.Fest.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?9fs9ptr3gspo4lhr22a6::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:9E5F176ABAA95E1278516463A498CBBD9AB43CEB&dn=Hell.Fest.2018.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fbittracker.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.uw0.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftw.opentracker.ga%3A36920%2Fannounce&tr=udp%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzg2MTNjOGUtZDk3OS00OGJkLWIyZWYtZGQxMmI5MTRkNzcxXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Night School (2018)[/COLOR]</title>
@@ -1814,21 +1264,7 @@ sublink:LISTSOURCE:https://1fichier.com/?7m01ei1lepdrcqvnuzlo::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Bad Times at the El Royale (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=y7wzBVARwaU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/dqu9lzeaofe6.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/afbdamtoppntotlm/Bad_Times_at_the_El_Royale_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/mlkpllcodbnfafqo/Bad_Times_at_the_El_Royale_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/u97m0j3cm1tj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/b3uGdM3JS6Y/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/44bc101be1a13298cf4e8d2161759adc/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?oyalvwp3pe7va5ahl9ez::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Mowgli: Legend of the Jungle (2018)[/COLOR]</title>
@@ -1869,30 +1305,7 @@ sublink:LISTSOURCE:https://1fichier.com/?12bv44rhpdghkhdyri8f::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Old Man & the Gun (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=d7rlUe-Thvk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/43uk89f026ba/the_old_man_and_the_gun_2018_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/cdtmrlbkptrrrkro/The_Old_Man_and_the_Gun_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/nsappoddlotdkopc/The_Old_Man_and_the_Gun_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ysldsjxwhfp8::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/FRTeabHtPrI/The.Old.Man.and.the.Gun.2018.HDRip.AC3.X264-CMRG%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ac68c8a08849f6e2da7b8bce57c71bd2/The.Old.Man.and.the.Gun.2018.HDRip.AC3.X264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?17ne9victkip4amcuvns::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:879187B331D089542EA497F4B55D9B5390341374&dn=The.Old.Man.and.the.Gun.2018.HDRip.AC3.X264-CMRG%5BEtMovies%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/umfaho3nvlm3/the_old_man_and_the_gun_2018_1080p_webrip_x264_aac2_0-shitbox::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bqpasbckpsrkqtoa/The_Old_Man_and_the_Gun_2018_1080p_WEBRip_x264_AAC2_0-SHITBOX_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/ffcckqrmlpdbolro/The_Old_Man_and_the_Gun_2018_1080p_WEBRip_x264_AAC2_0-SHITBOX_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/styrkay85p62::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/Xeognskpgu4/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/475b29540ce93499fa8a4aa92797472e/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?qu5q2pu7vuv7sktlbicc::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:259BE6628346DDAAEC0957FBE32113E7856019AD&dn=The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Torrent Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTk3NjU5MjIxM15BMl5BanBnXkFtZTgwNjU0OTU2NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Halloween (2018)[/COLOR]</title>
@@ -1917,28 +1330,7 @@ sublink:LISTSOURCE:https://1fichier.com/?9jmi8vu6508e3dizk0rr::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Girl in the Spider's Web: A New Dragon Tattoo Story (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=XKMSP9OKspQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/qk4mkezy4xge/the_girl_in_the_spiders_web_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/spedsrlokqnkrtfm/The_Girl_in_the_Spiders_Web_2019_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/lpsclbefsrlskctf/The_Girl_in_the_Spiders_Web_2019_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/empf0yvvdaoa::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/empf0yvvdaoa::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ea51a9974b1cbb4f206edc77a29c6cb2/The.Girl.in.the.Spiders.Web.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?esp791vxieck403bz0b2::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/zguht6o2npap/the_girl_in_the_spiders_web_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/bbkfonsoeqfrqooa/The_Girl_in_the_Spiders_Web_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/debctknbqmllefse/The_Girl_in_the_Spiders_Web_2019_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/w8453wmuzf3a::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/w8453wmuzf3a::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/31e599caa9ffca25b508126a7df383cb/The.Girl.in.the.Spiders.Web.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?2l7hq0s2zbyke3td5tbv::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZWU4ZDI5OGEtOTdmZS00MmNiLWIzNjQtZGM1MGE0M2UzYTczXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 
 <item>
@@ -2052,51 +1444,9 @@ sublink:LISTSOURCE:https://1fichier.com/?rltbsu59zokafla75mr6::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Peppermint (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=eeBMQpzoEXQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/siiwx757ks09.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/dfbnlrddbclklbtl/Peppermint_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/tqsndtrprkmcooqr/Peppermint_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/w8ittiwyel9o::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/3xjbpG5bIlo/Peppermint.2018.HDRip.AC3.X264-CMRG%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/a3ac54a539624e1a6e9d193c7b61ac0e/Peppermint.2018.HDRip.AC3.X264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?rxg20299lkiz1ed2kfqa::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/u8q5qp58cxz6.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/oroedrsmcaknbqst/Peppermint_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/abbkromrqqanqkmo/Peppermint_2018_1080p_WEB-DL_DD5_1_H264-CMRG_EtHD_mkv::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/wp6rp5sllifr::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/oCV-zUsgJp0/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/b1365da7be59f2dfbef428ea96cd1da3/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?mkqd3c1qpndwhy4f95gi::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNWVlMjQ3MjItOWE3YS00YTYwLWE0ZDMtZWMyZWY1NzkxNWIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]The Predator (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=12-wsx1fjcg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ye0os028u7wm.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/tslbqeqbrqtlrlmc/The_Predator_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/epppbsscfmotbrpq/The_Predator_2018_HDRip_AC3_X264-CMRG_EtMovies_mkv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/2l662k1oh8al::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/RmTnGIThHBo/The.Predator.2018.HDRip.AC3.X264-CMRG%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/dc05458aea280cbe23e35a712e5f6a7a/The.Predator.2018.HDRip.AC3.X264-CMRG[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?l4b561ugdd045156mhn8::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/sypbartuv10o.html::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/llsfcptepdemrobq/The_Predator_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/badnmqprpfncopol/The_Predator_2018_1080p_WEB-DL_H264_AC3-EVO_EtHD_mkv_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/o5e098kht4dg::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/RWNzJSlUgGE/The.Predator.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/e42e6817a7af34e7515436deb2712a3c/The.Predator.2018.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?eai28vzumz51yej4ucso::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
+
 
 <item>
 <title>[COLORwhite]The Equalizer 2 (2018)[/COLOR]</title>

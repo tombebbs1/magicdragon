@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]I Am Patrick Swayze (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ekosodm5qeyx/i_am_patrick_swayze_2019_web_x264-cookiemonster::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/nx5fyxnu6e6k::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0jmbetemecyc::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODNjNWI1MzItZjVhMy00MWQwLTgzMDgtZmZjODY0MzEwYTlmXkEyXkFqcGdeQXVyMTgxMzAwMDM@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]When I Grow Up (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kjavr5rz0m7e/when_i_grow_up_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

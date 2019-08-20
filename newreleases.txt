@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0rsqdrmlqu6z3v9sgax2::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Tomorrow Man (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rfu9iw4xeilb/the_tomorrow_man__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q2887qjbms07/the_tomorrow_man_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q2887qjbms07/the_tomorrow_man_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q2887qjbms07/the_tomorrow_man_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p4oo58faadoi::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/aEi52Zgh5t6/The.Tomorrow.Man.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p4oo58faadoi::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3427d0ef75fe4b78bcdcc5a426888e4f/The.Tomorrow.Man.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?408xrpsx41wepyou1nxs::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWQwOGRmZDEtNjRmNC00ZWY2LTg0MmItZGQ2YjU0MmYyODQzXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Low Low (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sipqgutimc5t/low_low__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

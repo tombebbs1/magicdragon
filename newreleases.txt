@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0rsqdrmlqu6z3v9sgax2::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Canal Street (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/j6wybmfnn4i5/%27canal_street%27_official_trailer_in_theaters_1_18_19::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ye1dknagkm12/canal_street_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ye1dknagkm12/canal_street_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ye1dknagkm12/canal_street_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/48bg9pkspu29::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/3rerwcieBLp/Canal.Street.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/48bg9pkspu29::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9b3acc29b14c2cf8c15a913a9eec5917/Canal.Street.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pydow63ftlig2dl8n45x::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIxYjgzOTAtY2Y0Ni00YTJjLTk2ZDYtZGIzMWUwYzA2ZThhXkEyXkFqcGdeQXVyODc3Mjk2OTE@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Camp Wedding (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5eqw7lzf56w7/camp_wedding_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

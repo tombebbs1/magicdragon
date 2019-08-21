@@ -106,6 +106,16 @@ sublink:LISTSOURCE:https://1fichier.com/?0hcyngxnd7::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]Avengers: Endgame (2019) 3D[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/edcqoay1bl8x::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?28nv4a0rrfvpd9frcjn2::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Avengers Infinity War 2018 3D[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptostream.com/q7gympak4ghx::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -1,3 +1,14 @@
+<item>
+<title>[COLORwhite]The Lion King (2019) HDTS UPDATED 23/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5ixzr4yi3lon/the_lion_king_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/c5myzcpluvgf::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zxxo16cyu5bc::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/y4xbcqvjg5kh::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Angel Has Fallen (2019) HDCAM UPDATED 23/08[/COLOR]</title>

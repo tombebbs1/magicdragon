@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0rsqdrmlqu6z3v9sgax2::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Burn (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jtluoinmpvoz/burn_official_trailer_2019_suki_waterhouse%2C_josh_hutcherson_thrillerie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w2nvhmqgks40/burn_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w2nvhmqgks40/burn_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w2nvhmqgks40/burn_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mzcr00ki8vws::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fe9CFvqH67R/Burn.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mzcr00ki8vws::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5221eda92f6e9666fe670ecc21ec9388/Burn.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ph2z7qlitxkzx87fkvzx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzk5OTQyZTMtZWZhYS00MjRjLTljNDUtYjM4MDQxN2QwNmM3XkEyXkFqcGdeQXVyNjU2NDIxOTM@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]One Last Night (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sdcp43igm752/one_last_night_2018_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

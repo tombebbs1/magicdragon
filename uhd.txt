@@ -486,6 +486,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:0797B7E3C6BD9A809EC2240CCA1B429547A4505A&
 </item>
 
 <item>
+<title>[COLORwhite]Beautiful Boy (2018) 4K[COLORred] Real Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:ca9a2608883713be27b8a9eee706e19f9fe44195&dn=Beautiful.Boy.2018.2160p.WEB-DL.HDR.DDP5.1.H265-CMRG%5BEtHD%5D&xl=13384632649&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjNhNjVjZDQtMzRhMS00YmI2LTkxZmEtMDdkMWU3OWQ2NjNmXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Billy Lynns Long Halftime Walk 4K [/COLOR]</title>
 <link>http://uptobox.com/t7s2mbgrhrri</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NDI1Nzg4OF5BMl5BanBnXkFtZTgwNjYxOTg4ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -2045,6 +2055,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:a7cd6aeea7443a075197034fdda8ce8a26287f88&
 </item>
 
 <item>
+<title>[COLORwhite]Ma (2019) 4K[COLORred] Real Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:87f6ca1f684b18ec5c23115cbc21bbf3926a81ae&dn=Ma.2019.UHD.2160p.WEB-Rip.HDR.DDP5.1.HEVC-DDR%5BEtHD%5D&xl=7553788365&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmU5NzI1MGQtMWRjYi00ZGM2LTkwZDEtNzRlY2YwNjllMWIwXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Mad Max (1979)[COLORred] Real Debrid Only 4K [/COLOR] [/COLOR]</title>
 <link>https://1fichier.com/?pbrnjrfu2y</link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
@@ -2626,12 +2646,21 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:c33768c6b0f585d0cb0879fb4da9aa8d9e6e848a&
 </item>
 
 <item>
-<title>[COLORwhite]Rocky (1976) 4K[COLORred] Real Debrid Only[/COLOR][/COLOR]</title>
+<title>[COLORwhite]Rocketman (2019) 4K[COLORred] Real Debrid Only[/COLOR][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://1fichier.com/?gjzkwsoymif62q4m2z9u::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:136dfc9d641e5b094fbd58cdc4544b6a7911294b&dn=Rocketman+%282019%29.2160p.+4K.UHD.ita.eng.multisub-MIRCrew&xl=8043499427&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.eddie4.nl:6969/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Fshadowshq.eddie4.nl:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2F9.rarbg.me:2780/announce&tr=udp%3A%2F%2F62.138.0.158:6969/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTJmMzc0YTctYmQzOS00YWJjLTgzMmEtYjE1NzA1N2QyYzE3XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Terminator 2: Judgment Day (1991)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:e32c513d0ec01294b9cd2e28a0ef64a69138b270&dn=Terminator.2.Judgement.Day.1991.Multi.UHD.2160p.Theatrical.Cut.Blu-ray.x265.DTS-HD.MA.5.1-DTOne&xl=19478930098&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY999_CR0,0,672,999_AL_.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

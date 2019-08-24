@@ -932,6 +932,16 @@ sublink:LISTSOURCE:https://1fichier.com/?4k45b1be7dq0587wesma::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Pokémon Detective Pikachu (2019) 3D[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/29j3ygveoe8a/pokemon_detective_pikachu_2019_3d_1080p_bluray_x264-spectacle::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?k87ctnm8vwzcsd1pyioe::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Polar Express (2004)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://streamango.com/f/dcbtfkonacakkclb/The_Polar_Express_mkv::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

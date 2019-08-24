@@ -812,21 +812,7 @@ sublink:LISTSOURCE:https://1fichier.com/?4gacqqw2qgqqxjbqgtor::LISTNAME:[COLORgo
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Booksmart (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/w4jz56m06xrz/booksmart_trailer_2019_lisa_kudrow%2C_olivia_wild%2C_teenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/skxswrvi8ds2/booksmart_2019_1080p_webrip_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/frobapklsmllnsbd/Booksmart_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/krncatekmbecqdss/Booksmart_2019_1080p_WEBRip_x264-_YTS_AM_mp4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/47r88lssnvgh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/mMaUfgfzgmA/Booksmart.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/1649284dc0180d261d0882b68d95a5ef/Booksmart.2019.1080p.WEBRip.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?29g3dmtbpcycz6j6lasv::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Perfection (2018)[/COLOR]</title>

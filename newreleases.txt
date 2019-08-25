@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0rsqdrmlqu6z3v9sgax2::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Woodstock or Bust (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/63qnjgmyxemd/woodstock_or_bust_official_trailer_2019_willow_shields::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h7k6g1rv7ih3/woodstock_or_bust_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h7k6g1rv7ih3/woodstock_or_bust_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h7k6g1rv7ih3/woodstock_or_bust_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yrd105olp98b::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/jkauuin6fdm/Woodstock.Or.Bust.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yrd105olp98b::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0f54de5feffcfe52bd24f86d42bd6865/Woodstock.Or.Bust.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0qsix74qwf1zil4uddjp::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTZkMTY0YWMtNDMyZi00ZDdjLTkxMmMtYWEwODRlOWU4MmYxXkEyXkFqcGdeQXVyNzI3NDQ1MDY@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Booksmart (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/w4jz56m06xrz/booksmart_trailer_2019_lisa_kudrow%2C_olivia_wild%2C_teenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

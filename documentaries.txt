@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sharkwater Extinction (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/clgadqkqfqqp/sharkwater_extinction_2018_limited_dvdrip_x264-cadaver_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zlngy0k03q1l::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/iEVZ1EiYojU/sharkwater.extinction.2018.limited.dvdrip.x264-cadaver%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGJkZTA3YzMtNjU0YS00NGYzLWE2OGQtYzcxYTBkOTMzMjU1XkEyXkFqcGdeQXVyNTMyMDExNTc@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]AJ The Untold Truth (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zw1m8rt093ll/aj_the_untold_truth_2019_hdtv_x264-linkle::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -3876,6 +3876,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:fb3956aa8037047435844e153760ba1e267c8ef6&
 </item>
 
 <item>
+<title>[COLORwhite]The Secret Life of Pets 2 (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:27e0503c21a80b4b80f2c29aa614e44e5c09a8db&dn=The+Secret+Life+of+Pets+2+%282019%29+%282160p+BluRay+x265+HEVC+10bit+HDR+AAC+7.1+Tigole%29&xl=4913460407&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzdlMWQzZmItMDA5Ny00MGFjLTk0MDAtYjgzMmMyNTEwMzdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Shallows 4K [/COLOR]</title>
 <link>http://uptobox.com/p48fcxeqaft9</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_SY1000_SX675_AL_.jpg</thumbnail>

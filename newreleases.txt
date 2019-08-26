@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0rsqdrmlqu6z3v9sgax2::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]In Fabric (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vsrnsme6sh5t/in_fabric__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9nxxxoxngzkh/in_fabric_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9nxxxoxngzkh/in_fabric_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9nxxxoxngzkh/in_fabric_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l65m33wcghcg::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/9W2uBEoDTVd/In.Fabric.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l65m33wcghcg::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3630e62e1a6458a21e80e7d9f4b75734/In.Fabric.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2giqz1msrybq3xf40qm3::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmY5YzZjMjQtMjc2NS00ZDU2LTk4MTgtZDgwZmRmM2VlZTVmXkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Doll Cemetery (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k49tdtnciztq/doll_cemetery_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

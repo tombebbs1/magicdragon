@@ -90,7 +90,7 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Fight Club (1999) Remastered[/COLOR]</title>
+<title>[COLORwhite]Fight Club (1999) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/82fahf5itmjt/fight_club_1999_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/woqnr2dtja2e/fight_club_1999_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -133,7 +133,7 @@ sublink:LISTSOURCE:https://uptobox.com/013pro8n5uwu::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://verystream.com/stream/Fa8WQm29p2Y/Doll.Cemetery.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/013pro8n5uwu::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/b23d599036b5d1920a0054bdaa89c7c3/Doll.Cemetery.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?3pkh5eqipipi4p8ool7u::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jrhbn8sr7qvqk10n5fpf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDYxZjc2NWEtNThhOS00MDExLWIyZDMtMjhiOTBhNDRiNWM1XkEyXkFqcGdeQXVyNzY2MzU0OA@@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>

@@ -89,18 +89,7 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Test[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://flix555.com/e5mpttwwli29::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://powvideo.net/5fxfj8puyyhw::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamplay.to/tzgp8o8q52un::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uploadbyte.com/b6n4v1244giy::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://vshare.eu/zcggxifqik7x.htm::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNWU0MTRlN2MtZTdhZS00NTA0LWJkNjAtYmRmODZjMjA0MGNjXkEyXkFqcGdeQXVyMjM1NzQ0NjE@._V1_SY1000_CR0,0,680,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Witches in the Woods (2019)[/COLOR]</title>

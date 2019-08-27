@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Shadowplay (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/snegare2xsoh/%27shadowplay%27_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/korwzgus0qig/shadowplay_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/korwzgus0qig/shadowplay_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/korwzgus0qig/shadowplay_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5vikcrcv8nln::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/d5vJjNmNHut/Shadowplay.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5vikcrcv8nln::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a4c1716417bdc3d1590b831ab9fe208d/Shadowplay.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p8m1ljnicmh4ckpd8cr4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU5NDIwOGUtN2MzNS00NmU2LTliOGMtZjZjZTQwZjljZGUwXkEyXkFqcGdeQXVyMTM1MjA5MjY@._V1_SY1000_CR0,0,663,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fight Club (1999) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/82fahf5itmjt/fight_club_1999_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

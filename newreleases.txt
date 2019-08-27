@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Becoming Burlesque (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/j2v082holpwt/becoming_burlesque_trailer_1_2019__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/csveubmmxibr/becoming_burlesque_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/csveubmmxibr/becoming_burlesque_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/csveubmmxibr/becoming_burlesque_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6kfg1mh1exaw::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/EDDCkVE1YgW/Becoming.Burlesque.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6kfg1mh1exaw::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c455c23e68c5049864f168cab4fee2de/Becoming.Burlesque.2018.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?d4z2kh0ihepo2ifu5ubv::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzcxOTAyMjItNWY5NS00ZDIyLWJlNzAtZTU3ZDkwZWQ1YThmXkEyXkFqcGdeQXVyNzM1Mzg1MDk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shadowplay (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/snegare2xsoh/%27shadowplay%27_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

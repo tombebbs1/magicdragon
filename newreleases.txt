@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Witches in the Woods (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dgfowfct1bt7/witches_in_the_woods_official_trailer_2019_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bvjlha6oxvk6/witches_in_the_woods_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bvjlha6oxvk6/witches_in_the_woods_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bvjlha6oxvk6/witches_in_the_woods_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qwfh3izkmgx7::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/PqgtmmGaKPV/Witches.In.The.Woods.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qwfh3izkmgx7::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/fe9df3be76d784a1eb55f10bbf451972/Witches.In.The.Woods.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p3rm9ap59gxpkh8dxpi7::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWU0MTRlN2MtZTdhZS00NTA0LWJkNjAtYmRmODZjMjA0MGNjXkEyXkFqcGdeQXVyMjM1NzQ0NjE@._V1_SY1000_CR0,0,680,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Big Top Evil (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/arnlylnvrggy/big_top_evil_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

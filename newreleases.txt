@@ -89,7 +89,22 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Stalked by My Doctor: A Sleepwalker's Nightmare (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dgfowfct1bt7/witches_in_the_woods_official_trailer_2019_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/bxbbfpnqyaq4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9ojth1owaetg/stalked_by_my_doctor_a_sleepwalker%27s_nightmare::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9ojth1owaetg/stalked_by_my_doctor_a_sleepwalker%27s_nightmare::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1acj96eqqyln::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/fsczrFdPipz/stalked.by.my.doctor.a.sleepwalkers.nightmare.2019.720p.hdtv.x264-w4f.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1acj96eqqyln::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/be7b57a46e1beda80cdd7cf124856e3e/stalked.by.my.doctor.a.sleepwalkers.nightmare.2019.720p.hdtv.x264-w4f.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ej08rhd4l32c6oe88ciy::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGI5NWYyM2YtZTI2Zi00ZGYxLWE4NjAtN2U0MTkyN2ExMzNjXkEyXkFqcGdeQXVyNzYxMjI1Mzg@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Witches in the Woods (2019)[/COLOR]</title>

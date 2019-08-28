@@ -90,12 +90,29 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]To The Beat! (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7c2oarxu86j7/to_the_beat%21_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/v8a31vgwvfau::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1dyn1znn6g4b/to_the_beat_2018_720p_web-dl_x264-bone::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1dyn1znn6g4b/to_the_beat_2018_720p_web-dl_x264-bone::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cqyje319ae5q::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/66TktZmQ2H8/To.the.Beat.2018.720p.WEB-DL.x264-BONE.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cqyje319ae5q::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ef17046551648db761db116db88f1163/To.the.Beat.2018.720p.WEB-DL.x264-BONE.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6ahekzca566ddz47su2n::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTcyZDY0ODMtZmQ5Yy00ZmEzLThmNGItYjhkMWNiZjk0NjQ0XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stalked by My Doctor: A Sleepwalker's Nightmare (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/dgfowfct1bt7/witches_in_the_woods_official_trailer_2019_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9ojth1owaetg/stalked_by_my_doctor_a_sleepwalker%27s_nightmare::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://flix555.com/bxbbfpnqyaq4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/9ojth1owaetg/stalked_by_my_doctor_a_sleepwalker%27s_nightmare::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/9ojth1owaetg/stalked_by_my_doctor_a_sleepwalker%27s_nightmare::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jmaebjmk8dfe/stalked_by_my_doctor_a_sleepwalkers_nightmare_2019_720p_hdtv_x264-w4f::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jmaebjmk8dfe/stalked_by_my_doctor_a_sleepwalkers_nightmare_2019_720p_hdtv_x264-w4f::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/1acj96eqqyln::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/fsczrFdPipz/stalked.by.my.doctor.a.sleepwalkers.nightmare.2019.720p.hdtv.x264-w4f.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/1acj96eqqyln::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#

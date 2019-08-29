@@ -90,21 +90,37 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite]To The Beat! (2018)[/COLOR]</title>
+<title>[COLORwhite]The Dead Don't Die (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/7c2oarxu86j7/to_the_beat%21_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1dyn1znn6g4b/to_the_beat_2018_720p_web-dl_x264-bone::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1dyn1znn6g4b/to_the_beat_2018_720p_web-dl_x264-bone::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1dyn1znn6g4b/to_the_beat_2018_720p_web-dl_x264-bone::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/cqyje319ae5q::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/66TktZmQ2H8/To.the.Beat.2018.720p.WEB-DL.x264-BONE.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/cqyje319ae5q::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ef17046551648db761db116db88f1163/To.the.Beat.2018.720p.WEB-DL.x264-BONE.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?6ahekzca566ddz47su2n::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p7uqkmzj82gg/the_dead_don%27t_die_official_trailer_%5Bhd%5D_in_theaters_june_14::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/muyu2xyf7poj/the_dead_dont_die_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/muyu2xyf7poj/the_dead_dont_die_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/muyu2xyf7poj/the_dead_dont_die_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ro3ueahaobbo::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ro3ueahaobbo::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/74e0c810a595beef272fcd058f493906/The_Dead_Dont_Die.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9vcw2fe7qg3yb2hc9ba5::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTcyZDY0ODMtZmQ5Yy00ZmEzLThmNGItYjhkMWNiZjk0NjQ0XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk4NTM1OTY3Ml5BMl5BanBnXkFtZTgwNzc2NDg3NzM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Souvenir (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMTk2NjY3NDYzN15BMl5BanBnXkFtZTgwOTUxNzg0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/a6ih7b4bkmo8/the_souvenir_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/a6ih7b4bkmo8/the_souvenir_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/a6ih7b4bkmo8/the_souvenir_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fktmm1rvf72m::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/qb-GBoGPLcs/The.Souvenir.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/62a0ce735a730be69fd41aa8e0384104/The.Souvenir.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5fszofqay0w5djvjruyc::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk2NjY3NDYzN15BMl5BanBnXkFtZTgwOTUxNzg0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORwhite]Stalked by My Doctor: A Sleepwalker's Nightmare (2019)[/COLOR]</title>

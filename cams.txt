@@ -303,17 +303,7 @@ sublink:LISTSOURCE:https://openload.co/f/FWqcrFvGNeM/Toy_Story_4_2019_720p_HDCAM
 
 
 
-<item>
-<title>[COLORwhite]The Dead Don't Die (2019) CAM UPDATED 28/05[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/p7uqkmzj82gg/the_dead_don%27t_die_official_trailer_%5Bhd%5D_in_theaters_june_14::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/tdlbtdlpeokbnspo/The_Dead_Dont_Die_2019_720p_HDCAM_1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/nabtdlormmbemsbm/The_Dead_Dont_Die_2019_720p_HDCAM_1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/wHik5wbBPd0/The.Dead.Dont.Die.2019.720p.HDCAM.1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk4NTM1OTY3Ml5BMl5BanBnXkFtZTgwNzc2NDg3NzM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 
 

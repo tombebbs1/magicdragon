@@ -274,17 +274,6 @@ sublink:LISTSOURCE:https://uptobox.com/ijqeowla2vrk::LISTNAME:[COLORwhite]OPENLO
 
 
 
-<item>
-<title>[COLORwhite]Dark Phoenix (2019) HDCAM UPDATED 22/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/i9p4fskxfeny/dark_phoenix__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/cmrbalnqkepaqnle/WwW_SeeHD_WS_X-Men_Dark_Phoenix_2019_NEW_HDCAM-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/pekenldebntoenrf/WwW_SeeHD_WS_X-Men_Dark_Phoenix_2019_NEW_HDCAM-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/ZjQFkeo7k3M/060C231D::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAwNDgxNTI0M15BMl5BanBnXkFtZTgwNTY4MDI1NzM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Toy Story 4 (2019) HDCAM UPDATED 20/06[/COLOR]</title>

@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Memory: The Origins of Alien (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0hp5xdh511ta/memory_the_origins_of_alien_2019_720p_amzn_web-dl_ddp5_1_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/51uyn3aahmjn::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/BF5GBQXjkuM/Memory.The.Origins.of.Alien.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWIyMzdjNzgtOTFmNS00MWFiLTk5ODEtODc1YWQxNmNlN2E3XkEyXkFqcGdeQXVyMjE3MTA1Mw@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Sharkwater Extinction (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/clgadqkqfqqp/sharkwater_extinction_2018_limited_dvdrip_x264-cadaver_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

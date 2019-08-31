@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Itsy Bitsy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gknoky82c3yy/itsy_bitsy_official_trailer_2019_giant_spider%2C_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sjxs6x6cflb0/itsy_bitsy_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sjxs6x6cflb0/itsy_bitsy_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sjxs6x6cflb0/itsy_bitsy_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qvt22fx05l1r::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/QJpQ3ADw6tz/Itsy.Bitsy.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qvt22fx05l1r::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/8fbf5abcc7221298eb67711ecf15a843/Itsy.Bitsy.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?u79syqrp90b911dmxeem::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzk4N2ZhNmUtMDg5Ny00NDdhLWEyNDgtYmQyOWM2MWI2OTU4XkEyXkFqcGdeQXVyNjc3MjE2MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Killers Anonymous (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vjcj85kbji83/killers_anonymous_official_trailer_2019_gary_oldman%2C_jessica_albaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

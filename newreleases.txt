@@ -64,7 +64,33 @@
 
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Apocalypse Now (1979) Final Cut[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Flight of the Navigator (1986) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/b8pknema9wmy/flight_of_the_gator_1986_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/udac6ighu9z0/flight_of_the_gator_1986_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/udac6ighu9z0/flight_of_the_gator_1986_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/udac6ighu9z0/flight_of_the_gator_1986_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2eifkouqd2pp::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2eifkouqd2pp::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/59426403994b9aba8691f5e840edaef6/Flight.of.the.Navigator.1986.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjUwNmY4ZmYtMzM2OS00N2UxLWFkMWEtZmI0ODRlNWRmM2MwXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+
+
+<item> 
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>https://vidoza.net/aopz6uenjrcg/threads_1984_1080p_bluray_h264_aac-rarbg
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Apocalypse Now (1979) Final Cut[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i9kpbtn4sa47/apocalypse_now_final_cut_official_trailer_dir__by_francis_ford_coppola::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/dpxv6wkdjpv2/apocalypse_now_1979_final_cut_720p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -77,16 +103,6 @@ sublink:LISTSOURCE:https://1fichier.com/?cer2ip7nuro9twrzcui5::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTNkZmU0ZWQtZjQzMy00YTNmLWFmN2MtZGNkMmU1OThmMGYwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
-
-
-
-<item> 
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>https://vidoza.net/aopz6uenjrcg/threads_1984_1080p_bluray_h264_aac-rarbg
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>

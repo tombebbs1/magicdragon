@@ -1797,9 +1797,18 @@ sublink:LISTSOURCE:https://1fichier.com/?33mrlvfkfp::LISTNAME:[COLORgold]4K  LIN
 </item>
 
 <item>
-<title>[COLORwhite]John Wick: Chapter 2 (2017) 4K[/COLOR]</title>
-<link>http://uptobox.com/m7x82vcuwrgo</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<title>[COLORwhite]John Wick: Chapter 3 - Parabellum (2019) 4K[/COLOR]</title>
+<link>magnet:?xt=urn:btih:58d1ca3c20b78d69e4863b910b77abaee7160a70&dn=John.Wick.Chapter.3.Parabellum.2019..4K.HDR.2160p.BDRip+Ita+Eng+x265-NAHOM&xl=14069724971&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dredd (2012)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:107de8a1b907128eed694ac880f5b88dfb37077c&dn=Dredd.2012.4K.HDR.2160p.BDRip+Sub+Ita+x265-NAHOM&xl=10236247336&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Fglotorrents.pw:6969/announce&tr=udp%3A%2F%2Ftracker.openbittorrent.com:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

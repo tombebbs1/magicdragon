@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Strike (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cmq2wt5jkhw0/strike_2019_international_trailer_long_version::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n6kv5st9voqd/strike_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n6kv5st9voqd/strike_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n6kv5st9voqd/strike_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z2rjeklowhcr::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/94mASRMs4T4/Strike.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z2rjeklowhcr::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/84266febc400c25a7c8360da1c80d0f3/Strike.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sb2xbfjbvy5rtdf40whu::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDQyMDQwYjUtMzliZS00OGVjLWIwOTgtYTgwMzE1MzE2MmNhXkEyXkFqcGdeQXVyMjc3Nzk1OA@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Apocalypse Now (1979) Final Cut[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i9kpbtn4sa47/apocalypse_now_final_cut_official_trailer_dir__by_francis_ford_coppola::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

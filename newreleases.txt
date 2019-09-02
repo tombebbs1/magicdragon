@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Boat (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wzma2n03xfqp/the_boat_official_trailer_2018_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8vb7a8ulxjnb/the_boat_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8vb7a8ulxjnb/the_boat_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/pcyoihzhn4y9::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3t4h2owwr6ur::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/ZgeNWdw36Ue/The.Boat.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3t4h2owwr6ur::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1ae79a60afee8c6f3fcff383d8f5b013/The.Boat.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?chknuafsz1e54tb5as8s::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5MDQ1MTc5Ml5BMl5BanBnXkFtZTgwNTk5MjAzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strike (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/cmq2wt5jkhw0/strike_2019_international_trailer_long_version::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

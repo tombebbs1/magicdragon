@@ -34,6 +34,16 @@
 <thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Scotch: The Golden Dram (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/r9b46t0zw93q/scotch_a_golden_dream_2018_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/0ecobs815zrf::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/t18va0jatd5k::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTk0NjczNDktMzgwYi00NjdkLWJlOTEtOGMzZTBlOWRlNTMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Tyson (2008)[/COLOR]</title>

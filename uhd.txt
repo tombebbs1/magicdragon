@@ -203,6 +203,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:952912878568d19316fb1d22118993400953f304&
 </item>
 
 <item>
+<title>[COLORwhite]Aladdin (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:7c77e2cbe5ea66015c5e6e0f364d3f9d1adc4137&dn=Aladdin.2019.UHD.BluRay.2160p.HDR.TrueHD.Atmos.7.1.HEVC-DDR%5BEtHD%5D&xl=20693306199&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alien: Covenant (2017) 4K [COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:a9c183f01238aabb22773ab1c562d2cd794d7fa5&dn=Alien.Covenant.2017.4K.HDR.2160p.BDRip+Ita+Eng+x265-NAHOM&xl=20677921736&tr=http%3A%2F%2Ftracker.tntvillage.scambioetico.org:2710/announce&tr=udp%3A%2F%2Ftracker.tntvillage.scambioetico.org:2710/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2FIPv6.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.mg64.net:2710/announce&tr=udp%3A%2F%2Ftracker.openbittorrent.com:80/announce:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

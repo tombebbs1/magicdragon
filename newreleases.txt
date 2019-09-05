@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Low Tide (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/y4oj9q08f3t1/low_tide__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/80vhz003u62m/low_tide_2019_1080p_hdrip_x264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/80vhz003u62m/low_tide_2019_1080p_hdrip_x264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/uvexckqlp59i::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ifgitrr2gzs7::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/f5ohz5HZUkz/Low.Tide.2019.1080p.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ifgitrr2gzs7::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/797bcfe7156984f694f8f3b43e535d02/Low.Tide.2019.1080p.HDRip.X264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?58so6bx84q66u1ljnjlm::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGM0M2Y5MGItNzhiMC00OWJjLTlkMGQtMTVjOGQ4YzliODBhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Utah Cabin Murders (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/oqrh3ffkypa4/the_utah_cabin_murders_official_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

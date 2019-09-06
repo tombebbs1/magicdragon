@@ -90,6 +90,41 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Boy Genius (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8mpxvti72wiq/boy_genius_official_trailer_2019_teenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jabrnwr0ns08/boy_genius_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jabrnwr0ns08/boy_genius_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/x2k3lkjrhukz::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/c5omxr3qtk5s::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/aiGbY7sz3sP/Boy.Genius.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/c5omxr3qtk5s::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ed68a9e1573f07ea6b400dde0e435ba7/Boy.Genius.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?07bigwo1qqu1wiy0lass::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGRiYzliMTQtOWQyMS00Y2Q3LWI5YjEtZWY4NTZiNjllOTUyXkEyXkFqcGdeQXVyMzE4NTc2MjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eternal Code (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cjke8oet5x01/eternal_code_theatrical_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bq5bhsmla8rq/eternal_code_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bq5bhsmla8rq/eternal_code_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/vggzdbwoms4j::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rf2fgx766vcu::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/cTtBP3xrMLf/Eternal.Code.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rf2fgx766vcu::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/69323669a798747f101ae8c14a2746db/Eternal.Code.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pjswla1zj39mz3ghcit9::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmQxOWEzZGQtOWNhNi00ZTRjLTllOWQtOTA1OWIyODk4NmRmXkEyXkFqcGdeQXVyNDg3NzEyMzY@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Satanic Panic (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pitiw5mszfuj/satanic_panic_official_trailer_2019_comedy_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

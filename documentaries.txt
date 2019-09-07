@@ -35,6 +35,22 @@
 </item>
 
 <item>
+<title>[COLORwhite]Amazing Grace (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ihdfjmk1y1w1/amazing_grace_2018_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ihdfjmk1y1w1/amazing_grace_2018_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/be4pef4wvzgo::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/idwbdx7inrgj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/jkxpRiPb2hh/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/idwbdx7inrgj::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ce7cfba7ebdea108ef17037ce9ad7832/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tcr4s93mefdb9hdvnpxf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQzNTMyNTY2NF5BMl5BanBnXkFtZTgwNDM5MTg1NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Scotch: The Golden Dram (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/r9b46t0zw93q/scotch_a_golden_dream_2018_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

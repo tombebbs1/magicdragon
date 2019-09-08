@@ -90,6 +90,22 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]San Andreas Mega Quake (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/c2h83v6cenwl/san_andreas_mega_quake_trailer_2019_disaster_actionie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/831ii35bmerf/san_andreas_mega_quake_2019_brrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/831ii35bmerf/san_andreas_mega_quake_2019_brrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/isqa3ln8tfis::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/isqa3ln8tfis::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/iovvrRkei2c/San.Andreas.Mega.Quake.2019.BRRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f0aac1c720e6be7235e1e8239327172b/San.Andreas.Mega.Quake.2019.BRRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bvghhwdnfei1n8somp1i::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmVlMmRkZjgtNTY1Ny00YWNlLWE2MGEtMjg3MzgyNzg2NzFkXkEyXkFqcGdeQXVyMDM1NjY0NA@@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strange But True (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fsguo8fewcxu/strange_but_true_trailer_2019_margaret_qualley%2C_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

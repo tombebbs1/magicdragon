@@ -107,6 +107,22 @@ sublink:LISTSOURCE:https://1fichier.com/?z0gwklbpcjhw3krgebh6::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]General Commander (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bzqxrcd6109y/general_commander_trailer_2019__steven_seagal::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vublzqru527v/general_commander_2019_bdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vublzqru527v/general_commander_2019_bdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/dz4wbnb5923p::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zig6c9qipb5o::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/bwiDL2njbda/General.Commander.2019.BDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/39996b2084acaf0804a638656eeb802f/General.Commander.2019.BDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ibmrhzccblzuz8nkkkso::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmZiNmQ5YjYtYWY0ZS00M2ZmLWIzYTAtMTk3ZmFlMjdhMDM5XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Corrupted (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/g7zfjfpwpw0d/the_corrupted_official_trailer_l_in_cinemas_now::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

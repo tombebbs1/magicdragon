@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Death and Life of John F. Donovan (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/61ro233arifd/the_death_and_life_of_john_f__donovan_international_trailer_1_ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hwf5n08njdim/the_death_and_life_of_john_f_donovan_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hwf5n08njdim/the_death_and_life_of_john_f_donovan_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/heby2dpkz27e::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3ho6t1eaupqd::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SKLRGB5W9Ng/The.Death.And.Life.of.John.F.Donovan.2019.HC.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6dc29e0574d9932dc7c4fff70ed1835d/The.Death.And.Life.of.John.F.Donovan.2019.HC.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?htcmdvud8rfx3t21khvq::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODNlZjIyYmUtZmIwMy00MDM3LThlNmYtNDViYTQ5ZWJkNjljXkEyXkFqcGdeQXVyNTE1NTQ4Mjc@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Parting Glass (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5hx56ayur522/the_parting_glass_eiff_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

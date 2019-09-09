@@ -90,6 +90,23 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Corrupted (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/g7zfjfpwpw0d/the_corrupted_official_trailer_l_in_cinemas_now::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jp7nj90avm4s/the_corrupted_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jp7nj90avm4s/the_corrupted_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jp7nj90avm4s/the_corrupted_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hn1y1eacitxm::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hV7bk1xMyR2/The.Corrupted.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hn1y1eacitxm::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/00401cceac9b1e00dafd854e8b26d1a5/The.Corrupted.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ebenl5bsuznw2spf7ovn::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmI1ZTA1OGMtZTI4OC00ZjM5LWE0NDQtN2IzNjYxYzc3ZGQ2XkEyXkFqcGdeQXVyMjkyNzYwMw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Beats (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2txljre0dems/exclusive_clip_beats__resident_advisor::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

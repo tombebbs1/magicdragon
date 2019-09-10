@@ -295,31 +295,6 @@ sublink:LISTSOURCE:https://streamango.com/f/ofkodnklqnoskqft/WwW_SeeHD_WS_Stuber
 
 
 
-<item>
-<title>[COLORwhite]Yesterday (2019) HDCAM UPDATED 30/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/q1qq29aoybxw/yesterday_2019_-ie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/6qmqx9t5smic::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/0kje3h815v7d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qfaem195v5zb::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]Child's Play (2019) HDCAM UPDATED 24/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/4d0hyybjyfhm/child%27s_play_official_trailer_2_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/31widp53hkk9::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/x016oxmhi905::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ijqeowla2vrk::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTNlNjIxNjktOWUyMS00YWY5LWEwZGItMjZmODJlZWNiZGM2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
 
 
 

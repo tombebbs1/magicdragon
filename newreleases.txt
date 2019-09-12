@@ -79,6 +79,14 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 
 <item>

@@ -87,7 +87,22 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Gags The Clown (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mnya9zcegkja/gags_the_clown_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wc45dfb40hp8/gags_the_clown_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wc45dfb40hp8/gags_the_clown_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/32d32onz5lhb::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kx0w9ds8guxh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hR2ZRJVsTcS/Gags.The.Clown.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kx0w9ds8guxh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1bbf5f5e17102fd6743486c6990465d6/Gags.The.Clown.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?c2vkx9hlfo1m1pntb22j::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzMwZDVlYWItOTA5Ni00NmNhLTk1ZWUtNGNlMzUwMDE4NWZjXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Current War (2019)[/COLOR]</title>

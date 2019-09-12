@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]In the Shadow of the Towers: Stuyvesant High on 9/11 (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/d3hxtn3hl1s1/in_the_shadow_of_the_towers_stuyvesant_high_on_9-11_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/jpjh4hirxonf::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hnditovg4mo7::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjE0MDYyODAtNTViMi00OWEwLWExMWUtMDg1MTlhOTA5ZDhhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Amazing Grace (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ihdfjmk1y1w1/amazing_grace_2018_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

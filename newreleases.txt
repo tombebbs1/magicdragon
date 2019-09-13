@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?vpuabvyp3jioj4b4dn6o::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Sound of Silence (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/r8l4ms871is8/the_sound_of_silence_official_trailer_i_hd_i_ifc_films::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hg0luze7q4r5/the_sound_of_silence_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hg0luze7q4r5/the_sound_of_silence_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/1qw1vf8cu2iy::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9zi2zwtt459w::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/9sPUA9gb2J9/The.Sound.Of.Silence.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9zi2zwtt459w::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c24f95d1b1393bc6b7944529fa8b50cb/The.Sound.Of.Silence.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xbfpc9qsfmwrbta8zetc::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDgxYjUyOGEtYTIxMi00NzIyLTllNjgtN2YxNzgzNzVhNzQyXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Scarborough (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/g29gn8jr5jb2/scarborough_official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

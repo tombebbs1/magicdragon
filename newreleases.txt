@@ -90,8 +90,8 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 <item>
 <title>[COLORwhite]TESTING[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://dash.fembed.com/video?id=7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://dash.fembed.com/video?id=7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://dash.fembed.com/video?id=7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://dash.fembed.com/video?id=7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://dash.fembed.com/video?id=7dreyhgyr3j06mp::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

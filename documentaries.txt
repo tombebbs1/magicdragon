@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Diana: 7 Days That Shook the Windsors (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qkv79lgajtez/diana_7_days_that_shook_the_world_2017_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/3b1p3cago2mw::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/k1m1mxbxrav9::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjJmZjkyMGQtYTkxZS00ZjBjLTliZjgtOWQxNjUwZThjOTQxXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]In the Shadow of the Towers: Stuyvesant High on 9/11 (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/d3hxtn3hl1s1/in_the_shadow_of_the_towers_stuyvesant_high_on_9-11_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

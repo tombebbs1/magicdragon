@@ -104,6 +104,23 @@ sublink:LISTSOURCE:https://dash.fembed.com/video?id=7dreyhgyr3j06mp::LISTNAME:[C
 </item>
 
 <item>
+<title>[COLORwhite]Get Married or Die (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/eq84lp51f3z8/get_married_or_die_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhj6pmkmm76::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/se70ju0q7ovk/get_married_or_die_2018_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/kn64mnnetyvs::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/d59c78k3ojtv::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/83mgvSDx5PC/Get_Married_or_Die_%282018%29_720p_Web_X264_Solar.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/d59c78k3ojtv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ef100b0e07b17b8baefbc187f5605e75/Get_Married_or_Die_(2018)_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xuj9v4ye010ew4lzovj2::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDc0NGVmZjEtOTNkNS00ODJiLWJkYTgtNzM1NzRkZjFhOGM4XkEyXkFqcGdeQXVyMjExMzU4MTk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Flight of the Navigator (1986) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/b8pknema9wmy/flight_of_the_gator_1986_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

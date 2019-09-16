@@ -88,6 +88,22 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Blood 13 (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pslu1gy1g5jy/blood_13_2018__official_trailer__hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hmw909xmkwke/blood_13_2018_eng_sub_web_x264_-shadow::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/o00v5hp99mjv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadj7x5rkkr::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1mghjr8i4ply::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/LGfb4SkbHGS/Blood_13_%282018%29_ENG_SUB_WEB_x264_-SHADOW.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/71c059e9a0e1b5d2a424a53301cdf8c6/Blood_13_(2018)_ENG_SUB_WEB_x264_-SHADOW.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?g647c1x7g11vage35yr7::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJkNjEyZGItYTQ1OC00OGVlLWFlOGMtODA4OTRmZDAwM2FjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mister Academy (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/es2jqtc4ib1s/mister_academy_romantic_comedy_trailer_2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,28 @@
 <item>
+<title>[COLORwhite]Monos (2019) HDCAM UPDATED 16/09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gfdv7dq16m9z/monos_%5Bofficial_trailer%5D_in_theaters_september_13%2C_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gfdv7dq16m9z/monos_%5Bofficial_trailer%5D_in_theaters_september_13%2C_2019::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/KS9DK8XszwV/Monos_2019_720p_HDCAM_ENG_SUB-GETB8.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xhtx0fhi2dci::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTA0ZDllNTYtY2ExYS00NGJlLWEzNGEtMjhkMzdhYjViMjZiXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hustlers (2019) HDCAM UPDATED 14/09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dmhaaykq1cjm/hustlers_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y0b2smawmqrr/www_seehd_pl_hustlers_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fltpd1uu131y::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/CociQoKktsL/WwW.SeeHD.PL__Hustlers_2019_720p_HDCAM-GETB8.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Downton Abbey (2019) HDCAM UPDATED 14/09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2ilhx65pcbx5/downton_abbey_2019_official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -292,17 +316,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ofkodnklqnoskqft/WwW_SeeHD_WS_Stuber
 
 
 
-<item>
-<title>[COLORwhite]Toy Story 4 (2019) HDCAM UPDATED 20/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/xrbcsnnn6llm/toy_story_4__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://streamango.com/f/lsrmntlrbperfmao/Toy_Story_4_2019_720p_HDCAM-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://streamcherry.com/f/fromsfrsfkbkfqfb/Toy_Story_4_2019_720p_HDCAM-1XBET_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://openload.co/f/FWqcrFvGNeM/Toy_Story_4_2019_720p_HDCAM-1XBET.mkv.mp4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 
 

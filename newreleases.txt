@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Fight (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/15wudquv1i7s/the_fight_pinpoint_films_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4m7t0as8u8wp/the_fight_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8zg-6y4yn::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/5ebkgkad2bw6::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8ixghwef9d59::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/i3E2We4xQqJ/The.Fight.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8ixghwef9d59::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d332310f48eadcd6edadd9c7de0dd1e3/The.Fight.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?464dbpyeg5dh7uv7900k::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjI0YjUwMDQtZDljZS00OGZiLWE3ZWYtNWRhNzlhYmFjYmQ3XkEyXkFqcGdeQXVyMjY2NDU0NTU@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Toy Story 4 (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xrbcsnnn6llm/toy_story_4__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

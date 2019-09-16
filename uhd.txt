@@ -2015,6 +2015,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:762874A3CB77829250175BBD8A11D13B868DAF18&
 </item>
 
 <item>
+<title>[COLORwhite]Late Night (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:b561f8790b8612e87ccef8f519e60a182a2dbddb&dn=Late.Night.2019.2160p.SDR.AMZN.WEBRip.DDP5.1.HEVC-DDR%5BEtHD%5D&xl=8092743487&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjZmOTEwMGEtOWVmMy00Njg4LWI1OGEtMGYwN2VmYzJiYzAzXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Law Abiding Citizen (2009) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/f7yqbzhiwc3j::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -4377,6 +4386,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:95967c1d7a571753ece2a73b6704a14be122db0b&
 <title>[COLORwhite]xXx: Return of Xander Cage (2017) 4K [/COLOR]</title>
 <link>https://uptobox.com/wy1dmzg6d8mi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Yesterday (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:c646c9d82b8351597768540f3e20e9d0cdbb9ed5&dn=Yesterday+2019.2019.MULTi.UHD.BluRay.2160p.HDR.Atmos.7.1.HEVC-DDR&xl=18419432774&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

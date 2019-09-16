@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Rookies (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/blew8qzh5q1j/the_rookies_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9i9biaki1doq/the_rookies_2019_720p_web-dl_h264_aacking::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9i9biaki1doq/the_rookies_2019_720p_web-dl_h264_aacking::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/qj2adt61wwa3::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sgjjuk825esk::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/WktRUAVmxLc/The.Rookies.2019.720p.WEB-DL.H264.AAC-Mkvking.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sgjjuk825esk::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/672575cd056b55d827a2b814a22c4736/The.Rookies.2019.720p.WEB-DL.H264.AAC-Mkvking.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?204g6q3gw5xmh2wqe0p2::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDgxNGMwNDYtM2YwNy00Zjg0LWEwNDktZGQ4MGM4YTgyMWRlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Big Trip (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xeh6jls96nef/the_big_trip__trailer__in_cinemas_june_27::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

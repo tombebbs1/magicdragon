@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Reborn (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sgknej6he66r/reborn_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cx3oauqj47mf/reborn_2018_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/dyu0ww3fxar2::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjq03gp0-g::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2h3t7zgo7g27::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/2kpaPXzY8gw/Reborn.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2h3t7zgo7g27::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/404d7111693a50aeddb5648437f03dec/Reborn.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?srlm18bimvu7z5x1svv6::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTkzYThjY2UtMjllOC00OTk3LTg1MDAtNzg5ZjUxNTAwMGQ4XkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_SY1000_CR0,0,709,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tyson (1995)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sv5u2ozznep8/tyson_-ie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

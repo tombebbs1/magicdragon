@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Annabelle Comes Home (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mlmdjy4o9m66/annabelle_comes_home_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/i0ch19qmlic6/annabelle_comes_home_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/qobr240rzhsu::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/56deyudqrwmllnj::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qux1dvsnj4hv::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/bYgQ2zQuqWv/Annabelle.Comes.Home.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qux1dvsnj4hv::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9aa738faceb38f55354845e4e755c943/Annabelle.Comes.Home.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nwxzx86yuoqybhscajiv::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Six Hot Chicks in a Warehouse (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kv504lxth6la/six_hot_chicks_in_a_warehouse_official_full_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -2033,22 +2050,7 @@ sublink:LISTSOURCE:https://1fichier.com/?p93f3m5w3308qza5du3f::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Annabelle Comes Home (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/mlmdjy4o9m66/annabelle_comes_home_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/wbiju3k80glt/annabelle_comes_home_2019_1080p_hc_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/wbiju3k80glt/annabelle_comes_home_2019_1080p_hc_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/wbiju3k80glt/annabelle_comes_home_2019_1080p_hc_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ryj96qm6mwfh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/UmCtAnV3HLW/Annabelle_Comes_Home.2019.1080p.HC.HDRip.X264-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ryj96qm6mwfh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/d30662db6703fb319d46aff24f07768e/Annabelle_Comes_Home.2019.1080p.HC.HDRip.X264-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?qvllddcf6du5nc488wdq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Mummy Rebirth (2019)[/COLOR]</title>

@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Tyson (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sv5u2ozznep8/tyson_-ie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yfnyy8buh6gb/tyson_1995_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yfnyy8buh6gb/tyson_1995_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/1xowpugvym4s::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r1ksy9wqcibh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/Nn62BoMPxiS/Tyson.1995.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r1ksy9wqcibh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/40dbfcf6bffb3f0aa2aefbcfe8c17a2e/Tyson.1995.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dmqmhf0xep7522tbepoo::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTlmYzM5ZmEtODdhMC00MmRjLTk4NDEtNDQwMTA3OGQwMDgwXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]We Are Gathered Here (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/edg01lmed1dc/we_are_gathered_here_full_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

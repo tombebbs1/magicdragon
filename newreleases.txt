@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Inside Man: Most Wanted (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qooko2w4voxo/inside_man_most_wanted_trailer_2019_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3t4uxdrxtuen/inside_man_most_wanted_2019_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/ne4kjzaiu3uy::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlx437-pq2::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cf3ke33ecwg7::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/Fx2Z4LAs66D/Inside.Man.Most.Wanted.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cf3ke33ecwg7::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7dfe6b78b9f6e6ce448ba9e5166d2b43/Inside.Man.Most.Wanted.2019.1080p.BluRay.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ecwpxsty4y262kaonnpg::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWQ1ODU3NjgtNmE0Ni00YWU5LWE0N2YtMTA1MjZjNjdkMmVhXkEyXkFqcGdeQXVyMTA2Mjc5NjA1._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rogue Cell (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/x8zisry6w888/newie_alert%21_%27rogue_cell%27_coming_soon%21::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

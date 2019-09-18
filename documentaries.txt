@@ -37,9 +37,9 @@
 <item>
 <title>[COLORwhite]Cristiano Ronaldo Meets Piers Morgan (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/fh5i13e9ocsf/cristiano_ronaldo_meets_piers_morgan_2019_1080p_hdtv_h264-plutonium::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/fh5i13e9ocsf/cristiano_ronaldo_meets_piers_morgan_2019_1080p_hdtv_h264-plutonium::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/fh5i13e9ocsf/cristiano_ronaldo_meets_piers_morgan_2019_1080p_hdtv_h264-plutonium::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y4pvt65q2bhx/cristiano_ronaldo_meets_piers_morgan_2019_720p_hdtv_hevc_x265_rmteam::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaew70dm70l::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/55bube321adl::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://www.itv.com/presscentre/sites/default/files/styles/pi_large/public/image1.jpg?itok=HRVQ-Ar3</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>

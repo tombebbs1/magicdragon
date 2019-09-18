@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cristiano Ronaldo Meets Piers Morgan (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fh5i13e9ocsf/cristiano_ronaldo_meets_piers_morgan_2019_1080p_hdtv_h264-plutonium::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/t74w8hykcp1r::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/t74w8hykcp1r::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://www.itv.com/presscentre/sites/default/files/styles/pi_large/public/image1.jpg?itok=HRVQ-Ar3</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Racing Through the Forest (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1qi4766bs8du/racing_through_the_forest_2016_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae65dzepgd::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7c6r5hr1kj5h::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGViYzg3ZDgtM2RmMi00M2ViLWFmMGQtN2YwNzRjYmQzZTA5XkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Oklahoma City (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vm2cpbbo3ryk/oklahoma_city_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

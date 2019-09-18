@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Penalty (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tnc2739kim0a/the_penalty_2018_1080p_amzn_web-dl_ddp2_0_h_264-kamikaze::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipmze1lxmr::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7csy4dxcoq9y::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODU3NmM5ZDUtZDM2NS00MGI4LWE0NDYtNWQyY2ZkYzMxMWY1XkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cristiano Ronaldo Meets Piers Morgan (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/y4pvt65q2bhx/cristiano_ronaldo_meets_piers_morgan_2019_720p_hdtv_hevc_x265_rmteam::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -2939,6 +2939,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2bfabcc39606e4eb05c63cb2fe59dadacf5fb23e&
 </item>
 
 <item>
+<title>[COLORwhite]Spider-Man: Far from Home (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:66145306c26eede132a32f3299a5a73774b7c83c&dn=Spider-Man.Far.From.Home.2019.INTERNAL.2160p.WEB.H265-DEFLATE&xl=24434628071&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2730/announce&tr=udp%3A%2F%2F9.rarbg.to:2770/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spider-Man: Into the Spider-Verse (2018)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:e4d8773df9dc31486e685c4b6516674d8f414869&dn=Spider-Man.Into.the.Spider-Verse.2018.2160p.HDR.UHDRip.x265.DD5.1-DTOne&xl=10361930290&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

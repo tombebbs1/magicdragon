@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tupac: Aftermath (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8lm3yc2e58md/tupac_aftermath_2013_1080p_webrip_x264-intentso::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4n7j248w::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7vt6oceecfp9::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGZiOWIwNWEtYTNmNS00ODk3LTg4NTYtNDA2Y2Y4N2EwNjlhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Penalty (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tnc2739kim0a/the_penalty_2018_1080p_amzn_web-dl_ddp2_0_h_264-kamikaze::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

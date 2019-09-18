@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hello, Privilege. It's Me, Chelsea (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mrf7lco4jxwq/hello_privilege_its_me_chelsea_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipmz32my34::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/epmx8p5xkd34::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWVlY2RiNzEtYzE0Mi00YWQyLWJlNWQtMTdiZGQ4NjM4ZTg1XkEyXkFqcGdeQXVyNTE4NTE0NjU@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tupac: Aftermath (2009)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8lm3yc2e58md/tupac_aftermath_2013_1080p_webrip_x264-intentso::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

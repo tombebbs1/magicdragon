@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Oklahoma City (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vm2cpbbo3ryk/oklahoma_city_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/3086y4dmjyzn::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dky8y4ruyrd2::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDgzZjhmZWEtY2E1ZC00ZjMxLWIyM2UtOWViZDg0MTlhMmI0XkEyXkFqcGdeQXVyMjYzNTk1NTE@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Clive Davis: The Soundtrack of Our Lives (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ojln5zx27rd0/clive_s_the_soundtrack_of_our_lives_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

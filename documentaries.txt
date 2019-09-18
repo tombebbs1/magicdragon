@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Clive Davis: The Soundtrack of Our Lives (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ojln5zx27rd0/clive_s_the_soundtrack_of_our_lives_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/4i84tg3w8439::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/85fb48hzzczz::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY1MzczMDk2Nl5BMl5BanBnXkFtZTgwMzI0Njg2MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Prison Kids: A Crime Against America's Children (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3u4s1ng4l00d/prison_kids_crime_against_americas_children_2015_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/tfdae1zkqok4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/51ogta5k5xup::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2JhMmI4NmMtYWJjZC00MDNkLWFiMWYtNTM5OTA5NDgzYmZmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Diana: 7 Days That Shook the Windsors (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qkv79lgajtez/diana_7_days_that_shook_the_world_2017_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

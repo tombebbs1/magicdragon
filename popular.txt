@@ -51,6 +51,23 @@ sublink:LISTSOURCE:https://1fichier.com/?gfgxe8fixnlvf4pxxuiw::LISTNAME:[COLORgo
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Fast & Furious Presents: Hobbs & Shaw (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sf0759yj4qz8/fast_%26_furious_presents_hobbs_%26_shaw_official_trailer_2_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/lwkcqum485wz/fast_and_furious_presents_hobbs_and_shaw_2019_1080p_hc_hdrip_1600mb_dd2_0_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/le56vt3194l0::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae6krelzx5::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/spoi3yw9qd1k::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/geLpL5QNEjX/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.1600MB.DD2.0.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/spoi3yw9qd1k::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0072c24cf01553c590e49421a4105610/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.HC.HDRip.1600MB.DD2.0.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ekqe158f6y8bub3ilsu7::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Dark Phoenix (2019)[/COLOR]</title>

@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Hell House LLC III: Lake of Fire (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zsxy2bu8ivfj/hell_house%2C_llc_3_lake_of_fire_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cc3i7zxohodj/hell_house_llc_iii_lake_of_fire_2019_720p_amzn_web-dl_ddp2_0_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cc3i7zxohodj/hell_house_llc_iii_lake_of_fire_2019_720p_amzn_web-dl_ddp2_0_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a26dk21ep5::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jxtuc0ecofoc::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/NTHYsgVXtRY/Hell.House.LLC.III.Lake.of.Fire.2019.720p.AMZN.WEB-DL.DDP2.0.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jxtuc0ecofoc::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1zcjn2i30pbig4uyrua9::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1zcjn2i30pbig4uyrua9::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTIzNTBiOGQtNDI1OC00YTcyLThhOTQtNTk4OTQwZWUxMGUyXkEyXkFqcGdeQXVyMTE4NTYyNjM@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deadtectives (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2dxc8tozsx3i/deadtectives_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

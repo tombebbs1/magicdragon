@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Brave Enough (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/h5w7i97bckik/brave_enough_2017_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/56deyudq257755w::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/a4c88hzrcsj1::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDBhOGZkNTMtNjBmYy00NDNkLWJlMjgtN2IyNzIxYzMwZGIzXkEyXkFqcGdeQXVyNzY0NzE2OTI@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]How to Prepare For Prison (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/asf6dc5ygogh/how_to_prepare_for_prison_2016_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

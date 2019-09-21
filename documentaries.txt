@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ice on Fire (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tvh0ct9tycfa/ice_on_fire_2019_1080p_web_h264_dual_yg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/3360qumldy45z2j::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/36jcoji8aa1e::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWIwYzQ0NjMtMjA2Ni00MDNkLWFkYWMtNDQ3OTg1ZDg5ZDE0XkEyXkFqcGdeQXVyMTQ5ODIxNTc@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Brave Enough (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h5w7i97bckik/brave_enough_2017_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

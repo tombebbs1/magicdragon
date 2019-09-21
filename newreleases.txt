@@ -88,6 +88,22 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]After School Lunch Special (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/873rmwcw4p9n/after_school_lunch_special_trailer_3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/70pd3jb079ez/after_school_lunch_special_2019_hdrip_x264_shadow::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a26d8kp-gr::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a26d8kp-gr::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l667z97bqu6w::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/DK977GmcaGb/After_School_Lunch_Special_%282019%29_HDRip_x264_-_SHADOW.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/70d18cc8e4d0a58df1d8a2f795d55285/After_School_Lunch_Special_(2019)_HDRip_x264_-_SHADOW.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ni16od1u0bmk7qs5anhj::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVhNDk4NjEtMDQ5My00ZWFmLTg0MDgtZDZjOGRkYzBmODUxXkEyXkFqcGdeQXVyOTMzODY0MDU@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Running with the Devil (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qd300pogserv/running_with_the_devil_official_trailer_2019_nicolas_cage%2C_laurence_fishburneie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -64,7 +64,32 @@
 
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Forever Young (1992)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Quadrophenia (1979)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/y2mdbbclfafv/quadrophenia_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wteyb7626hk0/quadrophenia_1979_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wteyb7626hk0/quadrophenia_1979_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5mx0pp0z4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/RAa1TmHoCL4/Quadrophenia.1979.1080p.BluRay.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n9sxkz42v41o::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/48c8873a706fd40bf1121a2c2d48618c/Quadrophenia.1979.1080p.BluRay.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2NkYjllZGMtOGUxMy00N2VlLTg5NTUtNzY3N2QzNjVkNjhkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Forever Young (1992)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ip64zn06h480/forever_young_theatrical_trailer_1992_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/8x22rey1dfgz/forever_young_1992_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -77,14 +102,6 @@ sublink:LISTSOURCE:https://1fichier.com/?0w09r3zhd5ozn7z5aed9::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTI5MDk2MTIxNF5BMl5BanBnXkFtZTcwMjMwODAwMQ@@._V1_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>

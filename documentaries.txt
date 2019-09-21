@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Be Here Now (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6dlo1mlj8hz4/be_here_now_2015_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/670emu0xqy77g6e::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/f6neyfhdxkek::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzQyODM5MTU2NF5BMl5BanBnXkFtZTgwMDgyMTUxODE@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Savage X Fenty Show (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8a7ayxbl05y1/savage_x_fenty_show_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

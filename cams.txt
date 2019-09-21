@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Test[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://onlystream.tv/pxt6l40vumfa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/59yzrvps8rno::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/d10cz0zfti7a::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/s9xavopwmyhd::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ad Astra (2019) HDCAM UPDATED 21/09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/cd0dkf5hk0e0/ad_astra_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

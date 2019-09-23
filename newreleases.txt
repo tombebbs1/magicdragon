@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Midsommar (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oexzqzuitg26/midsommar__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/oupj8jsum1jc/midsommar_2019_1080p_hc_hdrip_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/oupj8jsum1jc/midsommar_2019_1080p_hc_hdrip_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5n1m6j2em::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p4wyv8rxxdt9::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/4B1vJXvfs6e/Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p4wyv8rxxdt9::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ab4cd4151e7aee22ab5ebc3e13beec2e/Midsommar.2019.1080p.HC.HDRip.X264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pk7c4b01x8ey9q41fzwf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wolf Hour (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e5qx73tkylzf/the_wolf_hour_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

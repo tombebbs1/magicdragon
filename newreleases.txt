@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Wolf Hour (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e5qx73tkylzf/the_wolf_hour_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zx3kd45nvnwi/the_wolf_hour_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zx3kd45nvnwi/the_wolf_hour_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipmxgpm5j8::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rk68vjlr8fze::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/VZpov3iP4K8/The_Wolf_Hour.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rk68vjlr8fze::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/991b8265de79bccdd493f29807bc423e/The_Wolf_Hour.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1qpob3j9fk7ztcxy2xi7::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjA2YTY0OGEtOTM5Zi00NWJmLThmNjAtNWMyODYzOWJmYTMxXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bare Knuckle Brawler (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hlep7vaufpbo/bare_knuckle_brawler_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

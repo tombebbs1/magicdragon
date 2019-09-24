@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Doom: Annihilation (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/nuk8lm5w4xqs/doom_annihilation_trailer_2_new_2019_action_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yfsunhmsgs0m/doom_annihilation_2019_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yfsunhmsgs0m/doom_annihilation_2019_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-erp43zkd::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gq67d2pu6wdj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/b1444mDnvxK/Midsommar.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gq67d2pu6wdj::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nuldkk28gf9ibjgccgol::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nuldkk28gf9ibjgccgol::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/mrUw0uR.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Midsommar (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/oexzqzuitg26/midsommar__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

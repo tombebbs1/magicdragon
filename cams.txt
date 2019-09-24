@@ -156,17 +156,7 @@ sublink:LISTSOURCE:https://uptobox.com/hoi4m6m1q1t4::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Crawl (2019) HDCAM UPDATED 18/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/pul04jq3desz/crawl_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/8ka4275fu28a::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5nudpnuwal38::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qbxkwuka53s1::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjQxMzYyMDItZmUyNy00MGE0LWIwYmItMTMxYmZlOGZlMTlhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]47 Meters Down: Uncaged (2019) HDCAM UPDATED 18/08[/COLOR]</title>

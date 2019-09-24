@@ -87,6 +87,24 @@ sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]The Field (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6yvylx036zll/the_field__official_hd_trailer_2019__sci-fi__film_threat_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/b2czp18p1chi/the_field_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/b2czp18p1chi/the_field_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlxkrp-g5z::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7yoiuw0stuff::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/FKh1wpZEipR/The.Field.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7yoiuw0stuff::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?58h99vxpdpz4uyp8rfsw::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?58h99vxpdpz4uyp8rfsw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QwODdlYTctZGEyNi00ZDY4LWJjOGMtN2NiNzJhMTJmYzdjXkEyXkFqcGdeQXVyNDgwMDE3MDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Lie Low (2019)[/COLOR]</title>
 <link>

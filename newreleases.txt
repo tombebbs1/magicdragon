@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Empathy, Inc. (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wby3srxv7lu4/empathy%2C_inc__2018_exclusive_official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ldb2svr1a7r2/empathy_inc_2018_1080p_amzn_web-dl_ddp2_0_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ldb2svr1a7r2/empathy_inc_2018_1080p_amzn_web-dl_ddp2_0_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/d5kpqfxqyppkry4::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r17hkjik2b64::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/av8k96NGgE/Empathy.Inc.2018.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r17hkjik2b64::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jpmbc5sqsompsknj2i7o::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jpmbc5sqsompsknj2i7o::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWMyNGUwMGItNDQwMy00MDk4LTk0YWEtYTRkNDVjMGQ0YTdiXkEyXkFqcGdeQXVyNzAxNzgwNzQ@._V1_SY1000_CR0,0,694,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]An Audience of Chairs (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4m4qt59mhqkc/an_audience_of_chairs_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

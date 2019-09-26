@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pavarotti (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zwvx65rqjvjf/pavarotti_2019_720p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae60xpz30p::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0ww69hup6hk0::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTgyMjk3MzE1MV5BMl5BanBnXkFtZTgwMzk2OTQ4NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ice on Fire (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tvh0ct9tycfa/ice_on_fire_2019_1080p_web_h264_dual_yg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

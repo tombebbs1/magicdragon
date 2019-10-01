@@ -337,6 +337,17 @@ sublink:LISTSOURCE:https://1fichier.com/?zqi5vmicrx::LISTNAME:[COLORgold]HD  LIN
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Ant-Man (2015)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:af919cf68871f9b3efed2f8b34b2a3bb316de59a&dn=Ant-Man+2015.MULTi.UHD.BluRay.2160p.Atmos.7.1.HEVC-DDR&xl=21213551993&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
 <item>
 <title>[COLORwhite]Ant-Man and the Wasp (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
@@ -1411,6 +1422,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e7a3685a248f1b97edcbcc6243a838fd032ebedf&
 </item>
 
 <item>
+<title>[COLORwhite]Guardians of the Galaxy (2014)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:9fca746af5ebcd4a5a03b21a2f34d0b10875335b&dn=Guardians+of+the+Galaxy+2014.UHD.BluRay.2160p.HDR.TrueHD.Atmos.7.1.HEVC--DDR&xl=22555371989&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Guardians of the Galaxy VOL-2 (2017)4K[COLORred] Real Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?9me9mlpu8t::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -2053,6 +2073,15 @@ sublink:LISTSOURCE:https://rapidgator.net/file/86a4284a9d2ddaa123153d93c892e764/
 </item>
 
 <item>
+<title>[COLORwhite]Lean on Pete (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:0a7bd615cacf2b443926f9900b89129021e0076a&dn=Lean+on+Pete+2018.2160p.SDR.WEB-Rip.DTS-HD.MA.5.1.HEVC-DDR&xl=15763411506&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWRiYzYxNTEtYmU5My00M2Q5LTk5Y2ItZjhkMTZmNjVhYmFhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Let's Be Cops (2014)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>https://1fichier.com/?d2q16gxohc</link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMjI3MDY2ODQwNF5BMl5BanBnXkFtZTgwNjUzNjE4MTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
@@ -2548,6 +2577,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:de92d0bf041b8760fc126121efd04e1313f31712&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTYxMzM4NDY5N15BMl5BanBnXkFtZTgwNzg1NTI3MzE@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Prince of Darkness (1987)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:d7246150861815e1c51a67a0bbc32106f4828bd4&dn=Prince.of.Darkness.1987.4K.HDR.2160p.BDRip+Ita+Eng+x265-NAHOM&xl=13777744575&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmI1ODg4MjYtY2U4NS00NTRlLWJlMDEtYjY2YzJkNWVhMDdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,641,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Pokémon Detective Pikachu (2019) 4K[COLORred] Real Debrid Only[/COLOR][/COLOR]</title>
@@ -4153,7 +4192,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:a938015e8f6d0839379be17673d396e963a332da&
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Toy Story 4 (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:10a4e51e11d393f783b4ba2fba13944be7b1a92b&dn=Toy+Story+4+2019.MULTi.UHD.BluRay.2160p.HDR.Atmos.7.1-DDR&xl=18630782653&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>

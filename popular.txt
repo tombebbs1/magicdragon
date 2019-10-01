@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]YOU ARE IN PEOPLE WATCHING[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2018/03/the-magic-dragon-kodi.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2018/03/the-magic-dragon-kodi.png</thumbnail>
 <fanart></fanart>
 </item>
 

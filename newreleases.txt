@@ -88,7 +88,24 @@ sublink:LISTSOURCE:https://1fichier.com/?w51k84lbmfnwc3693th9::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite]Encounter (2018)[/COLOR]</title>
+<title>[COLORwhite]Jarhead: Law of Return (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kir9o7pu4df7/jarhead_law_of_return__trailer__own_it_10_1_on_blu-ray%2C_dvd_and_digital::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2u26lm6gpwzj/jarhead_law_of_return_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2u26lm6gpwzj/jarhead_law_of_return_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-46-x7w5x::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/a8dkq71ysdw9::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/AS9UAzapsPj/Jarhead.Law.Of.Return.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/a8dkq71ysdw9::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/600a61abde10fd4854b81254f3af429b/Jarhead.Law.Of.Return.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gjnkz2ivud145rhx19yw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDFlYTBhNTctMjJkMC00MWE3LWI4MGYtYzViMGQ0ZDc5ZTljXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_SY1000_CR0,0,777,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Encounter (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jxjdua8hhjme/encounter_trailer_1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/cgcmz8wt23xc/encounter_2018_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

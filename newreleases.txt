@@ -88,6 +88,22 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Murder Box (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0miyb9zgl7ha/murder_box_2019_found_footageie_red_band_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/owknlb628a78/murder_box_2017_hdrip_x264_shadow::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/owknlb628a78/murder_box_2017_hdrip_x264_shadow::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4672n4z8::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mfwj990v7ljb::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SPD5cRPKjtZ/Murder_Box_%282017%29_HDRip_x264_-_SHADOW.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/65a6a749e9c840123a0c851ea56e96e2/Murder_Box_(2017)_HDRip_x264_-_SHADOW.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gzjfhmu6oax36ruwazk6::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTg0ZGRmNDktNTYyZC00ZjY0LWFjY2MtNTRmYTAwMmI3ODQ5XkEyXkFqcGdeQXVyODk3NDcwMjI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Prince of Atlantis (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/t6fvczkuhlso/the_last_prince_of_atlantis_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

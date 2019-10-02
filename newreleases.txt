@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Last Prince of Atlantis (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/t6fvczkuhlso/the_last_prince_of_atlantis_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xy7xobmmt2do/last_prince_of_atlantis_2018_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xy7xobmmt2do/last_prince_of_atlantis_2018_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgd8-lnj4n::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l6bav98l9sch::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/D1tDuqGtqVV/Last.Prince.of.Atlantis.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l6bav98l9sch::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/05c1746a7ca5a31be843455867e3f322/Last.Prince.of.Atlantis.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fv0hcj7yyiwke7yrp05m::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzRkYmI3ZDUtMDNhMi00ZmQ0LWJiZmUtY2M2YjU0MTU0MWRjXkEyXkFqcGdeQXVyMjQzMTEyOTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]51 Nevada (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/m97ui0k2olkw/51_nevada_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

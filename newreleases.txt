@@ -88,6 +88,22 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]3 from Hell (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ik5bb6fok4xm/3_from_hell_official_trailer_2019_rob_zombies%2C_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/csez79c20vzk/three_from_hell_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/csez79c20vzk/three_from_hell_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5n25q7j1n::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z1po3dnwt9ba::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SbnjwbaD7oK/Three.From.Hell.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9f726c3cc14273efcef95f6614b191e6/Three.From.Hell.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?uquuu3kl2b2x0uhaog94::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGZlNmYwZWYtOWU1My00Mzg3LThhNDMtMDQ0ZjAzNWNiNDZiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Murder Box (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0miyb9zgl7ha/murder_box_2019_found_footageie_red_band_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

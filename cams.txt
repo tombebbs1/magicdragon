@@ -11,6 +11,18 @@ sublink:LISTSOURCE:https://onlystream.tv/s9xavopwmyhd::LISTNAME:[COLORwhite]SD  
 </item>
 
 <item>
+<title>[COLORwhite]Gemini Man (2019) HDCAM UPDATED 04/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rxtjj2f50xhx/gemini_man_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sc48nvhfwxp8/gemini_man_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraeky4dwwq2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gl9rgpw8dmfs::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWVmZmQ1YzEtOTI0OS00MjUyLWI5OWQtMTcyNjlhN2E1OWViXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Judy (2019) HDCAM UPDATED 29/09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7544s7bwmt2t/judy_trailer_2_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

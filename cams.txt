@@ -1,4 +1,4 @@
-<item>
+item>
 <title>[COLORwhite]Test[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://clipwatching.com/9w86sv1b9nwp/WwW.SeeHD.PL__Ad_Astra_2019_720p_HDCAM-GETB8.mkv.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -7,6 +7,18 @@ sublink:LISTSOURCE:https://onlystream.tv/d10cz0zfti7a::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://onlystream.tv/s9xavopwmyhd::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Informer (2019) HDCAM UPDATED 05/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/f224ta33ovqj/the_informer_official_trailer_2019_joel_kinnaman%2C_rosamund_pikeie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yy88z1dccnlq/www_seehd_pl_the_informer_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaewjrz3d5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7kvlrip62ngl::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2YyYTgxYmYtNjg3My00YzI4LWJlZWItYmZhZGEyYTYxNWY3XkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
@@ -106,17 +118,7 @@ sublink:LISTSOURCE:https://verystream.com/stream/cBjt33KCabb/WwW.SeeHD.WS__Downt
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]It Chapter Two (2019) HDCAM UPDATED 09/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gkh95eq9xvuu/it_chapter_two_final_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/we8sz205cj5z::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/zcrfynts0a98::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3rv23yi7ug8b::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Don't Let Go (2019) HDCAM UPDATED 02/09[/COLOR]</title>

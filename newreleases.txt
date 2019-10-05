@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Rogue Warfare (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p6pmu2bw0161/rogue_warfare_official_trailer_2019_action%2C_warie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9qqu76awbfsl/rogue_warfare_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9qqu76awbfsl/rogue_warfare_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadj1zlr5-l::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/w92lermqnk75::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/LhxAfdbQoYn/Rogue.Warfare.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/w92lermqnk75::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2e1d1065628916a410932f568ad22b8d/Rogue.Warfare.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nmyhh7gws9tqzf69vy8i::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzIyYzk1ZjAtMzJiYS00YTYyLTg0MDItMWYzMjM3ZGYyYmQ1XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Semper Fi (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qsc77p74fzp9/semper_fi_official_trailer_2019_nat_wolff%2C_jai_courtneyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

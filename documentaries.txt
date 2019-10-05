@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Diego Maradona (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hhqphqycdzy7/diego_maradona_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjq64r34-4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h8fchupbyv6b::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzMDVhYjktZjE4My00YjVhLWFjZWEtODk0ZjU4M2Q1ZjYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pavarotti (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zwvx65rqjvjf/pavarotti_2019_720p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -11,6 +11,18 @@ sublink:LISTSOURCE:https://onlystream.tv/s9xavopwmyhd::LISTNAME:[COLORwhite]SD  
 </item>
 
 <item>
+<title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019) HDCAM UPDATED 06/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/657fvqzfhbyc/shaun_the_sheepie_farmageddon_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p0abnms0vtta/www_seehd_ws_a_shaun_the_sheepie_farmageddon_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraekk28xgw3::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1nrcm3jem91b::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTdjZjBkMDMtODBlNi00N2E0LWE1OGItOTgxODNmMDkzNGJmXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Informer (2019) HDCAM UPDATED 05/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/f224ta33ovqj/the_informer_official_trailer_2019_joel_kinnaman%2C_rosamund_pikeie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -3080,12 +3080,6 @@ sublink:LISTSOURCE:http://uptobox.com/4v6hwrvfy3ji::LISTNAME:[COLORgold]4K  [COL
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Stuber (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
-<link>https://rapidgator.net/file/f9e32be79490851ec7702d78f0156a99/Stuber.2019.2160p.UHD.BluRay.x265-AViATOR.mkv</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE1ZjFhYzAtYWM4ZC00NGI1LWFmYzMtZWRhZDhjMjE4YzBjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Stuber (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>

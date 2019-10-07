@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Public Figure (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p6ptu42i6add/public_figure_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32danqqz2jl4z::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wvw81ahnd26q::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTI3MWYzYjQtMjE0NS00NzE4LThiMzgtMmIzMTU5NzY0YzdiXkEyXkFqcGdeQXVyOTA0MjIzNzQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Diego Maradona (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hhqphqycdzy7/diego_maradona_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

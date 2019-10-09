@@ -87,6 +87,22 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Harpoon (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/evt1usws01cg/harpoon_2019_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hyl44xti20f7/harpoon_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hyl44xti20f7/harpoon_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2yq7q786g::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yy1qubla7j3o::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7bSC42rHQz6/Harpoon.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yy1qubla7j3o::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/37006c6ff5a2450ae7dcdb7dc5c7d5d3/Harpoon.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yxht5c8nu6jyebki81zx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE5ZDI2NmUtZTU5Yi00NDVhLTk4OTItYzUyYWE5MzQ4OWYwXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Matchmaker Mysteries: A Killer Engagement (2019)[/COLOR]</title>

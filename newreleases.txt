@@ -86,6 +86,22 @@ sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgo
 <thumbnail>https://troypoint.com/wp-content/uploads/2018/03/the-magic-dragon-kodi.png</thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>[COLORwhite]The Death of Dick Long (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/22w5xnb56tjs/the_death_of_dick_long__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tp4ptsuh66lg/the_death_of_dick_long_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tp4ptsuh66lg/the_death_of_dick_long_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2yq7185zd::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ymyftqpvp3ky::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/6MVxzhD4maX/The.Death.Of.Dick.Long.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ymyftqpvp3ky::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f897b795a6e108537978a8164d8a6839/The.Death.Of.Dick.Long.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?n4kfglkcnjye3vtokmec::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQ3ZjZhZjAtNWRkNy00NWQ3LWJlMDgtMTExYmY5NTc0MWY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
 
 
 <item>

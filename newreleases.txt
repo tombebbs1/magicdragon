@@ -149,7 +149,7 @@ sublink:LISTSOURCE:https://uptobox.com/0d59ysf17cbs::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://rapidgator.net/file/91589fb562994859d95de59d7467b63e/Sk8.Dawg.2018.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?ehqjyay34npfmtjryyui::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BM2RiN2IyY2QtYjU4ZC00MjM0LTkwMjUtZjVlOTBlNjgzYmJlXkEyXkFqcGdeQXVyNjE2ODIzMTA@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2VlYjRlYWUtY2Y5NC00NGI3LWJkOWYtZTUxYmUwODQyZTNlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_SX699_CR0,0,699,999_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 

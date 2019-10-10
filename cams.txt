@@ -184,17 +184,7 @@ sublink:LISTSOURCE:https://uptobox.com/yyd3apmebre5::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Lion King (2019) HDTS UPDATED 23/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/5ixzr4yi3lon/the_lion_king_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c5myzcpluvgf::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/zxxo16cyu5bc::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/y4xbcqvjg5kh::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Angel Has Fallen (2019) HDCAM UPDATED 23/08[/COLOR]</title>
@@ -246,17 +236,7 @@ sublink:LISTSOURCE:https://uptobox.com/1zwn6pijk2tg::LISTNAME:[COLORwhite]OPENLO
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Scary Stories to Tell in the Dark (2019) HDCAM UPDATED 11/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/vsrba4yx3d6g/scary_stories_to_tell_in_the_dark_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/scwvqi4f8cia::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/vk7lwxtpa7dt::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/v4z1o1xg74oy::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMmRhMmI3ZWItMDRlNC00NWIwLWI1MzItMGYzNjMyMGFiOTA3XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,712,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]After the Wedding (2019) HDCAM UPDATED 10/08[/COLOR]</title>

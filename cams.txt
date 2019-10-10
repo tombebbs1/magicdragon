@@ -1,4 +1,4 @@
-<item>
+item>
 <title>[COLORwhite]Test[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://clipwatching.com/9w86sv1b9nwp/WwW.SeeHD.PL__Ad_Astra_2019_720p_HDCAM-GETB8.mkv.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -16,9 +16,9 @@ sublink:LISTSOURCE:https://streamz.cc/fYnh6OGNxdWd5M3k5ZXgw::LISTNAME:[COLORwhit
 <title>[COLORwhite]Joker (2019) HDCAM UPDATED 07/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zp86uy5udit8/joker_official_trailer_2019_joaquin_phoenix%2C_dcie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/psiqk6dw70fs/www_seehd_ws_joker_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae66pe3e66::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/kknk19tg9mg0::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7n1c8ttrv4c0/joker_2019_hdcam_x264-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqn2y8m6y::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qzayihrgl5eo::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>

@@ -98,6 +98,14 @@ sublink:LISTSOURCE:https://uptobox.com/0uzomxryy9co::LISTNAME:[COLORwhite]SD  LI
 sublink:LISTSOURCE:https://verystream.com/stream/BkRR97nEnVc/Along_Came_the_Devil_2.2019.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/8ff17cf3031a8c857bf0342b51df801e/Along_Came_the_Devil_2.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?2m7m3l5rvrkn6ppn0gz3::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nccy468y1hkq/along_came_the_devil_2_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nccy468y1hkq/along_came_the_devil_2_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nccy468y1hkq/along_came_the_devil_2_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nccy468y1hkq/along_came_the_devil_2_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/HXCjNajV86N/Along.Came.the.Devil.2.2019.1080p.WEB-DL.DD5.1.H264-FGT.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nccy468y1hkq/along_came_the_devil_2_2019_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/eb01bd58907f936bf5dd2446df91c39b/Along.Came.the.Devil.2.2019.1080p.WEB-DL.DD5.1.H264-FGT.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z4rua6vzhyxbsky0m8em::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzUwYzBlYmEtN2M4ZC00MWIzLWJiM2UtMmUzM2FlNjY4NTFjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>

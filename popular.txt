@@ -113,6 +113,22 @@ sublink:LISTSOURCE:https://1fichier.com/?ybvt6n85k2mxgva7dhgr::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Angry Birds Movie 2 (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/axe7o5p9nrts/_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ogx3qqr5cgzo/the_angry_birdsie_2_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ogx3qqr5cgzo/the_angry_birdsie_2_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram50d1jmxp::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z1bwd6udz80x::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/N16ws1JzqcB/The_Angry_Birds_Movie_2.2019.HC.HDRip.XviD.AC3-EVO%5BEtMovies%5D.avi::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/dbfa6570bdfe6343f2953ab7796557b4/The_Angry_Birds_Movie_2.2019.HC.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?n9jin1hihtgretiqxkym::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzdkNGJhNzQtMjY1OC00MDI3LTk0ZDUtNzU0MGZiY2YwZGUxXkEyXkFqcGdeQXVyNzMxNjQxMTk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spider-Man: Far from Home (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7rrclt5erlhw/spider-man_far_from_home_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

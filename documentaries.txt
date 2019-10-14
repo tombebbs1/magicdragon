@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Show Must Go On: The Queen + Adam Lambert Story (2019)COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/eyeev7zj2n0j/queen_and_adam_lambert_the_show_must_go_on_2019_hdtv_x264-linkle::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/3360qumlmzzr36l::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/89ae7cjmammy::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjQyZDJiNzEtY2RlYi00Y2Y1LThlN2YtMDViM2M0NjQxYzU4XkEyXkFqcGdeQXVyMDAwMDAwMw@@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Self Discovery for Social Survival (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/lc67ovfhhv2l/self_discovery_for_social_survival_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

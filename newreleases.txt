@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The 11th Patient (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e0olaaytwlmp/the_11th_patient_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cdb76oi7h9uf/the_11th_patient_2018_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cdb76oi7h9uf/the_11th_patient_2018_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cdb76oi7h9uf/the_11th_patient_2018_1080p_web-dl_dd5_1_h264-fgt::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3ytvn4hdjy1w::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/7Vg16Vofxup/The.11th.Patient.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3ytvn4hdjy1w::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/32b126b79d7dfacf7da3cbd03a22b5fd/The.11th.Patient.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vhol91csqrn1vfnrcznd::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGRhOGZhMDAtYTAwZS00NmMwLTg3MGEtNjM4MjY1NzZmYjZiXkEyXkFqcGdeQXVyMTQ3OTM2Njk@._V1_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sweetheart (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/a393xpgctos5/sweetheart_official_trailer_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

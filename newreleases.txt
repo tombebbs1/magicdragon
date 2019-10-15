@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Sweetheart (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/a393xpgctos5/sweetheart_official_trailer_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pj9gponzrpnz/sweetheart_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pj9gponzrpnz/sweetheart_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4an2ndqz7z8::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i7ml02r0b1su::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/SWTXkqkRv9q/Sweetheart.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/i7ml02r0b1su::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/abc54e0e544ec9c190d8e9659d86b6ff/Sweetheart.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jngvfdzp6d9qshlbrlfo::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTBhZTIxZGYtNzhjZi00MTA3LWE4OGUtMGIwYWMxYzFhMGRmXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Among Thieves (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0h84ce4nw1gf/among_thieves_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

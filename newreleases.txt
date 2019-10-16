@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Emulator (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zdo77fcjqxsp/%27emulator%27_officialie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6qgcfnfrslzo/emulator_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6qgcfnfrslzo/emulator_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6qgcfnfrslzo/emulator_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9d8ayfjxfhyj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/UJfdzwokaVN/Emulator.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9d8ayfjxfhyj::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/e38c2c19fb23e0a6f79b559290b2330c/Emulator.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lmsusn3f9xvq2kkdtpvw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGEzYWE1YmItOTg5MS00ZmJiLThlYmYtMWE2OWFmYzM0YTU5XkEyXkFqcGdeQXVyMzg3Mjg3OTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Whyte Album (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/l7kvtixfzhl2/100_acres_of_hell_official_trailer_2019_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

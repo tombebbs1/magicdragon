@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Whyte Album (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l7kvtixfzhl2/100_acres_of_hell_official_trailer_2019_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/72eiq6d3abp7/the_whyte_album_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/72eiq6d3abp7/the_whyte_album_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlxl3m24lk::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7mfu0n7gzruh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hs3ff9pdKWR/The.Whyte.Album.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7mfu0n7gzruh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2792b4a95e1a2a8ce8b563dd4a79bb99/The.Whyte.Album.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?aty1iyrtm97okkhwvjoe::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWYyN2JkMGItZDMyOS00ODY1LWI0OWQtOTlmMTMwYjRhODBjXkEyXkFqcGdeQXVyMTUzMzU2NQ@@._V1_SY1000_CR0,0,833,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]100 Acres of Hell (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/l7kvtixfzhl2/100_acres_of_hell_official_trailer_2019_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

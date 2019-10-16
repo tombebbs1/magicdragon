@@ -87,6 +87,22 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]100 Acres of Hell (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/l7kvtixfzhl2/100_acres_of_hell_official_trailer_2019_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hmgl8s23e15d/100_acres_of_hell_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hmgl8s23e15d/100_acres_of_hell_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlxlqdq2pd::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mb4xi2hryswm::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/aV4zjB5AC4T/100.Acres.Of.Hell.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mb4xi2hryswm::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/20516a4413c3cf209438043f40ba219f/100.Acres.Of.Hell.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?d4scol4oq7k1l984zihk::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTUzNDRkY2UtY2NkMS00OWZkLTliN2UtNjQ1NmFjYmMwNzFkXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Portal (2019)[/COLOR]</title>

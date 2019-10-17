@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hitsville: The Making of Motown (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/unsqy0mb4yz2/hitsville_the_making_of_motown_2019_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-e8r5lgx4::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xyat9ql9u03q::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzUxYWE4Y2EtMzIxYS00NWI3LWE1M2ItNWFiMjFlMWUwYWMxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]John & Yoko: Above Us Only Sky (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/02wupauerq31/john_and_yoko_above_us_only_sky_2018_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

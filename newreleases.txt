@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Eli (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/awghvoqsw9fd/eli__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y58p5klzxwbm/eli_2019_1080p_nf_web-dl_ddp5_1_x264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y58p5klzxwbm/eli_2019_1080p_nf_web-dl_ddp5_1_x264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5ne5-73ww::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/23xg47evx375::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/eRHmSweay8B/Eli.2019.1080p.NF.WEB-DL.DDP5.1.x264-NTG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/23xg47evx375::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z2fs1hbr5xrzqt1rmkyq::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z2fs1hbr5xrzqt1rmkyq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjVjNzAxYzEtOTNiNy00ZGM3LWI0NDktMTUzMzU5MzY5Y2FmXkEyXkFqcGdeQXVyNjIyMDI2MDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Laundromat (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mj3cpdkqpjuz/the_laundromat__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

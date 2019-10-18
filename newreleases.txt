@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Kill Chain (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8lsw9px4ibqa/kill_chain_trailer_2019__nicolas_cage%2C_anabelle_acosta%2C_ryan_kwanten::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/g92etix891kz/kill_chain_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/g92etix891kz/kill_chain_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/d5kpqfxq8j0ynzl::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2frghw9agipu::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/JZYk8JUHFhR/Kill.Chain.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2frghw9agipu::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5i4r29o8phr03k4fs44z::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5i4r29o8phr03k4fs44z::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDk0YWRhOWEtMjRlZi00M2RjLWJmOTAtZTVkNWY5Yzg5NGE5XkEyXkFqcGdeQXVyMTA4MzI0NDQz._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Furnace (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/nor35bqqs78h/the_furnace_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

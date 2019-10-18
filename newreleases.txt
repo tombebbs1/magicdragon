@@ -64,7 +64,31 @@
 
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Dirty Harry (1971)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Child's Play (1988) - Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3ihpnld5ujaw/child%27s_play_1988_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3ntb30t0n734/childs_play_1988_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3ntb30t0n734/childs_play_1988_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgdng-n6p5::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/mkwSULWBHY/Childs.Play.1988.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ramfmrqer7ou::LISTNAME:[COLORgold]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://troypoint.com/wp-content/uploads/2018/03/the-magic-dragon-kodi.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dirty Harry (1971)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/w3lvuc1vqg8z/dirty_harry_trailer_1971_hq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/usko27d4fl9s/dirty_harry_1971_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -77,14 +101,6 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzdhMTM2YTItOWU2YS00MTM0LTgyNDYtMDM1OWM3NzkzNTM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://troypoint.com/wp-content/uploads/2018/03/the-magic-dragon-kodi.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>

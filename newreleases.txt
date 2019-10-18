@@ -88,6 +88,40 @@ sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Wounds (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p8377lj9aw6x/wounds_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/lc27cilp1d8b/wounds_2019_1080p_hulu_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/lc27cilp1d8b/wounds_2019_1080p_hulu_web-dl_ddp5_1_h_264-ntg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a2672l0x56::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wyzvmv7n24zr::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/Ej55aYzBXMX/Wounds.2019.1080p.HULU.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wyzvmv7n24zr::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gsngwvvkgh1ay8wyuf8i::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gsngwvvkgh1ay8wyuf8i::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOThiMzJkOTctMzhiZi00MjFlLWFiODMtOGFlNzgwNWI1ZGI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Miss Virginia (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dymm5u1lrw2h/miss_virginia_official_trailer_2019_uzo_aduba%2C_vanessa_williams_dramaie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ghjxv5vy1lgj/miss_virginia_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ghjxv5vy1lgj/miss_virginia_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/kgyzna3zm3nrgx6::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/j6r9byqu01ru::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/JkuNGUvJgMG/Miss.Virginia.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/j6r9byqu01ru::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f41if173589c4k6d97qt::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f41if173589c4k6d97qt::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzgxMzk0MDctYTk4Zi00MDkzLTkyOGQtODc3YTMzNDJiMGY3XkEyXkFqcGdeQXVyMTA2MDQ4Nzc5._V1_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Kill Chain (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8lsw9px4ibqa/kill_chain_trailer_2019__nicolas_cage%2C_anabelle_acosta%2C_ryan_kwanten::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

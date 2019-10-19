@@ -13,6 +13,19 @@ sublink:LISTSOURCE:https://streamz.cc/fYnh6OGNxdWd5M3k5ZXgw::LISTNAME:[COLORwhit
 </item>
 
 <item>
+<title>[COLORwhite]The Lighthouse (2019) CAM UPDATED 19/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3nf5kwi0xueg/the_lighthouse__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ax46qltfke55::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/py19sdewdv4n::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9m8qrua9ccbm::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Maleficent: Mistress of Evil (2019) CAM UPDATED 19/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ezycynqjik0u/maleficent_mistress_of_evil_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

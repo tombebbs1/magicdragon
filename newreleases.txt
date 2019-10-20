@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Strange But True (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vrbpmvsz9oze/strange_but_true_trailer_2019_margaret_qualley%2C_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vm1a0qc8wp3f/strange_but_true_2019_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vm1a0qc8wp3f/strange_but_true_2019_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraeknd8e8yy::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jftyf5gg4bvp::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/hkr4K12mnDW/Strange.But.True.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jftyf5gg4bvp::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9b39eaf2b6452c079237d21fa91c2dd0/Strange.But.True.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lwz15bl1tcsht3uxt5cy::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDAxNzhlNDUtNWI3Mi00ZWVlLTg4MzgtOWFmMDE5Zjg5NTNhXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dirty Harry (1971)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/w3lvuc1vqg8z/dirty_harry_trailer_1971_hq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

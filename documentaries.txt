@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Halston (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/84jm1s49y33y/halston_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4w1z-y4e::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/iuvl4gc6wybm::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTRlMjUyODgtMmRiOC00YTk0LWE5ZjgtNmVkM2RmNGE1OGE1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hitsville: The Making of Motown (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/unsqy0mb4yz2/hitsville_the_making_of_motown_2019_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -322,7 +333,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/ce7cfba7ebdea108ef17037ce9ad7832/
 sublink:LISTSOURCE:https://1fichier.com/?tcr4s93mefdb9hdvnpxf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODQzNTMyNTY2NF5BMl5BanBnXkFtZTgwNDM5MTg1NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
 <item>

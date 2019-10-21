@@ -87,6 +87,22 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Patsy & Loretta (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/q6ig95t5iknj/patsy_%26_loretta_trailer__lifetime::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/952uoo93m7cr/patsy_%26_loretta_2019_720p_hdtv_x264_lifetime-dbaum::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/952uoo93m7cr/patsy_%26_loretta_2019_720p_hdtv_x264_lifetime-dbaum::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqrrly47g::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eelve8k3ks5j::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/gbREWeQGkkw/Patsy.%26.Loretta.2019.720p.HDTV.x264.LifeTime-Dbaum.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eelve8k3ks5j::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/67d6df11c1bd10ba6fd14e060da54aad/Patsy.&.Loretta.2019.720p.HDTV.x264.LifeTime-Dbaum.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xcugrpqqf67xlclwffaq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzMzYTZiZDktOWUzMC00N2FlLTk4ZWMtNGI4NGVmYTliMDAxXkEyXkFqcGdeQXVyOTM4OTg0MDQ@._V1_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Extracurricular (2020)[/COLOR]</title>

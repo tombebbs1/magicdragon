@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cum on Feel the Noize (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/v8aby8t4ebci/cum_on_feel_the_noize_2017_internal_bdrip_x264-dev0::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/3360qumlr3enqe6::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5r0rgibbb4qj::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmVlNWIzZDktYzZmMy00NmRlLWFiMjUtOWFiZTY3MTJjYWIxXkEyXkFqcGdeQXVyNzM5OTc3OTY@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Halston (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/84jm1s49y33y/halston_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

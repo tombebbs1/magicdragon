@@ -88,6 +88,24 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Happy Endings Sleepover (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hfk8l3qp1ga4/happy_endings_sleepover_trailer_%27this_is_my_life%27::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4ws5hly937jh/happy_endings_sleepover_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4ws5hly937jh/happy_endings_sleepover_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqrzm3678::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/v2o1fmpnsurl::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/9XgyaHan58b/Happy.Endings.Sleepover.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/v2o1fmpnsurl::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/6bb0e3fd52a100bd17bc17408de5ec50/Happy.Endings.Sleepover.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dr39jg793tqsuq1g8fr1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<info>imdb</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDBmN2FhZjYtNTUyYS00ODhmLWEyNWEtNTBhOTViOGEyNWVmXkEyXkFqcGdeQXVyMTA1Mzg1NzE0._V1_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Patsy & Loretta (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/q6ig95t5iknj/patsy_%26_loretta_trailer__lifetime::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

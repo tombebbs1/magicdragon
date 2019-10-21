@@ -100,6 +100,7 @@ sublink:LISTSOURCE:https://uptobox.com/eelve8k3ks5j::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://rapidgator.net/file/67d6df11c1bd10ba6fd14e060da54aad/Patsy.&.Loretta.2019.720p.HDTV.x264.LifeTime-Dbaum.mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?xcugrpqqf67xlclwffaq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
+<info>imdb</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzMzYTZiZDktOWUzMC00N2FlLTk4ZWMtNGI4NGVmYTliMDAxXkEyXkFqcGdeQXVyOTM4OTg0MDQ@._V1_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>

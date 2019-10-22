@@ -88,12 +88,29 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Blue (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1nl39cy1yda3/blue_2018ie_trailer_hd_judith_scott%2C_jordan_trovillion%2C_chelsea_lopez%2C_shaw_jones::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6ou73bf538hw/blue_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6ou73bf538hw/blue_2018_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5nxdd0431::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pld6nlfcje11::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/5TrCha5PSew/Blue.2018.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pld6nlfcje11::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/88654808641165fb360180c01ec1f472/Blue.2018.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?essifksxqr2udhgpmx2n::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWQ2MmNhOWUtMWU5Ny00NmY3LTk1YjEtNDllNDc3OTE1MzQwXkEyXkFqcGdeQXVyNTcxNjA3NTQ@._V1_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Kill Team (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0ma2deo749ld/the_kill_team__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/f59we0hkc5pw/the_kill_team_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/f59we0hkc5pw/the_kill_team_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/f59we0hkc5pw/the_kill_team_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5nxdgd17-::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/scrzexx2g68b::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://verystream.com/stream/2GqPMKzyFFV/The.Kill.Team.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/scrzexx2g68b::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#

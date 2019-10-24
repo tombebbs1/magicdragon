@@ -116,13 +116,13 @@ sublink:LISTSOURCE:https://1fichier.com/?ybvt6n85k2mxgva7dhgr::LISTNAME:[COLORgo
 <title>[COLORwhite]The Angry Birds Movie 2 (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/axe7o5p9nrts/_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/afxzv9g06eo0/the_angry_birdsie_2_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/afxzv9g06eo0/the_angry_birdsie_2_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqmrmmg7p::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/afxzv9g06eo0/the_angry_birdsie_2_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/afxzv9g06eo0/the_angry_birdsie_2_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqmrmmg7p::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/6s0ifxc7e8q3::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/QoAMDSGNCx7/The.Angry.Birds.Movie.2.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORwhite]SD  LINK 5 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/55b259ebb455fbc1067356696efc54e5/The.Angry.Birds.Movie.2.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?ejy6epk4azfl1ujwdi30::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/QoAMDSGNCx7/The.Angry.Birds.Movie.2.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORwhite]HD  LINK 5 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/55b259ebb455fbc1067356696efc54e5/The.Angry.Birds.Movie.2.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORwhite]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ejy6epk4azfl1ujwdi30::LISTNAME:[COLORwhite]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzdkNGJhNzQtMjY1OC00MDI3LTk0ZDUtNzU0MGZiY2YwZGUxXkEyXkFqcGdeQXVyNzMxNjQxMTk@._V1_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>

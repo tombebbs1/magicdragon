@@ -325,17 +325,7 @@ sublink:LISTSOURCE:https://uptobox.com/51xyecwgo6jy::LISTNAME:[COLORwhite]OPENLO
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Art of Racing in the Rain (2019) HDCAM UPDATED 10/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/4sgywwdjpmx4/the_art_of_racing_in_the_rain__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/x1za6lwwa5u6::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qh9n38hkx0xi::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/p2iih9e5msp9::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU5ZTYzM2MtNDNhYi00YjU1LWE4MzEtODc0NmNlODZlMjlhXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 
 <item>
@@ -383,17 +373,7 @@ sublink:LISTSOURCE:https://uptobox.com/myqwh4eoofmc::LISTNAME:[COLORwhite]OPENLO
 
 
 
-<item>
-<title>[COLORwhite]Luce (2019) HDCAM UPDATED 03/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ei65kttqy67z/_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/w98lmhk9e7r3::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/f3fiwhkze41p::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/bdecwi8crqd7::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjkwMDMwOTQtM2MwMS00NjVmLThlODgtZmYyZjBhMjgzYTM3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 
 

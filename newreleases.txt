@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Rattlesnake (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gnz7tl28yn5t/rattlesnake__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gxajm5a7m8u4/rattlesnake_2019_720p_nf_web-dl_ddp5_1_x264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gxajm5a7m8u4/rattlesnake_2019_720p_nf_web-dl_ddp5_1_x264-ntg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqmey0z5p::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ct588ws8ohrq::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/RFELjPYyegu/Rattlesnake.2019.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ct588ws8ohrq::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/77b80fe6dd3ca1f3fff7f299d9817972/Rattlesnake.2019.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?u2zy1s8azxlg2bxrkqn1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjlhZTVmMzktMmQzMy00MzQ2LWJkNzQtYTdjMjZjZmY0NjQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Cat and the Moon (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gsl7w9y6md9x/the_cat_and_the_moon_trailer_2019_teen_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

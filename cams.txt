@@ -13,6 +13,18 @@ sublink:LISTSOURCE:https://streamz.cc/fYnh6OGNxdWd5M3k5ZXgw::LISTNAME:[COLORwhit
 </item>
 
 <item>
+<title>[COLORwhite]Black and Blue (2019) CAM UPDATED 26/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://verystream.com/stream/Y8Ztscnb8Hu/BLACK_AND_BLUE_-_Official_Trailer_%28HD%29.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjqkjg1qzd::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/b23rL4LZySt/%5Bwww.Movcr.to%5D_-Black_and_Blue_%282019%29_English_HDCAMRip_-_720p_-_x264_-_MP3_-_800MB_%5BMOVCR%5D.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/s18nbhptocaw::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmZhZmQ1YjYtMmZkZC00ZTIxLTg5YTctMDczZGJmZTllYjBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Terminator: Dark Fate (2019) CAM UPDATED 24/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/aq50pctqwu1x/terminator_dark_fate_official_trailer_2019_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

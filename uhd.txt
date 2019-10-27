@@ -1091,6 +1091,15 @@ sublink:LISTSOURCE:https://1fichier.com/?tsjah5p92wzgsmoe6ows::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]El Camino: A Breaking Bad Movie (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:8e59e8114d72c64e46a85da9a430d4535c1b1b45&dn=El.Camino-A.Breaking.Bad.Movie.2019.2160p.HDR.Netflix.WEBRip.DD%2B.Atmos.5.1.x265-TrollUHD&xl=18088559114&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2740/announce&tr=udp%3A%2F%2F9.rarbg.to:2750/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SY1000_SX800_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Equalizer (2014) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/i14l75wqww0n::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -3797,6 +3806,15 @@ sublink:LISTSOURCE:https://1fichier.com/?zeuq97hf53763smup60j::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Lion King (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f9f95c8ca2c4fbcc739f2979d62760a138b3031d&dn=The.Lion.King.2019.2160p.UHD.BluRay.x265-TERMiNAL&xl=17119869615&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2780/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

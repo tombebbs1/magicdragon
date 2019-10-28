@@ -4,7 +4,7 @@
 <title>[B][COLORwhite]REAL DEBRID ONLY[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <fanart>https://kodiapps.com/how-to-install-tomb-raider-build-on-kodi</fanart>
 </item>
 
@@ -23,7 +23,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 

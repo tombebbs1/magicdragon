@@ -2783,6 +2783,15 @@ sublink:LISTSOURCE:https://1fichier.com/?oj7u2072y9kgd28aln4l::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Red Heat (1988)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:deeefe1d62c72f23e0bcfd03cb2f4008342ab5fa&dn=Red.Heat.1988.2160p.BluRay.x264.8bit.SDR.DTS-HD.MA.5.1-SWTYBLZ&xl=48846830827&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2Fbt.xxx-tracker.com:2710/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Fretracker.lanta-net.ru:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2770/announce&tr=udp%3A%2F%2F9.rarbg.me:2730/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce&tr=udp%3A%2F%2Ftracker.mg64.net:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.zer0day.to:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fipv6.tracker.harry.lu:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2770/announce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me:6969/announce&tr=udp%3A%2F%2Ftracker.port443.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.to:2720/announce&tr=udp%3A%2F%2Ftracker.justseed.it:1337/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2Ftorrentclub.tech:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=http%3A%2F%2Ftracker.tfile.co:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDkwMTJlMGMtMGJmMy00Mjg2LWEwOWEtZTAxNzQxMmVjYzVkXkEyXkFqcGdeQXVyNjc2NDI1ODA@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Red Sparrow (2018)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/1h80xv6qs4gu::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

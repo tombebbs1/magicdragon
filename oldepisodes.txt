@@ -1,9 +1,9 @@
 <item>
 <title>[B][COLORwhite]The War of the Worlds SE01 E02[/COLOR][/B]</title>
 <link>
-sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlx715ewkg::LISTNAME:[COLORwhite][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/dhkPwhf2i6K/The.War.Of.The.Worlds.2019.S01E02.720p.HDTV.x264-FiHTV%5Beztv%5D.mkv.mp4::LISTNAME:[COLORwhite][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/6l4m2r73ofm6::LISTNAME:[COLORwhite][/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlx715ewkg::LISTNAME:[COLORwhite]1[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/dhkPwhf2i6K/The.War.Of.The.Worlds.2019.S01E02.720p.HDTV.x264-FiHTV%5Beztv%5D.mkv.mp4::LISTNAME:[COLORwhite]2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6l4m2r73ofm6::LISTNAME:[COLORwhite]3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODU4ZWMwNWQtNGViNy00ZWU0LWJjMDQtNGQ4ZTcxN2ZjZDk5XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -12,9 +12,9 @@ sublink:LISTSOURCE:https://uptobox.com/6l4m2r73ofm6::LISTNAME:[COLORwhite][/COLO
 <item>
 <title>[B][COLORwhite]The War of the Worlds SE01 E01[/COLOR][/B]</title>
 <link>
-sublink:LISTSOURCE:https://www.fembed.com/v/3360quml3y2wp06::LISTNAME:[COLORwhite][/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/PEArcsWyArt/The.War.Of.The.Worlds.2019.S01E01.720p.HDTV.x265-MiNX.mkv.mp4::LISTNAME:[COLORwhite][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ifrd1r24rmrt::LISTNAME:[COLORwhite][/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/3360quml3y2wp06::LISTNAME:[COLORwhite]1[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/PEArcsWyArt/The.War.Of.The.Worlds.2019.S01E01.720p.HDTV.x265-MiNX.mkv.mp4::LISTNAME:[COLORwhite]2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ifrd1r24rmrt::LISTNAME:[COLORwhite]3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODU4ZWMwNWQtNGViNy00ZWU0LWJjMDQtNGQ4ZTcxN2ZjZDk5XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart></fanart>

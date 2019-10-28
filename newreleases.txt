@@ -87,6 +87,24 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Billboard (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mbd1icu627vu/billboard_%E2%80%A2_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hry3zat4smd4/billboard_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hry3zat4smd4/billboard_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a26p8--x4z::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5u4vv1ldw681::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/6VR8qASjQUb/Billboard.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5u4vv1ldw681::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/b3bca169fad9c5865c0f769929b36e16/Billboard.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cqqxmzbsd2j2zbrswodr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzExMjFiZWQtZjE5ZC00YjJkLWFjNDItYWJlYjViYTU0MmRkXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The Nightingale (2018)[/COLOR]</title>
 <link>
@@ -121,22 +139,7 @@ sublink:LISTSOURCE:https://1fichier.com/?a8fli811pkqnls96tztc::LISTNAME:[COLORgo
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Good Woman Is Hard to Find (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/jim6ujgg0g5j/a_good_woman_is_hard_to_find_official_trailer_2019_crime%2C_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6ashtjswq02h/a_good_woman_is_hard_to_find_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6ashtjswq02h/a_good_woman_is_hard_to_find_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaew88nrkyj::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/v1cs48k9hb3t::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/VUZze8u1nuj/A.Good.Woman.Is.Hard.To.Find.2019.1080p.WEBRip.x264-%5BYTS.LT%5D.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/v1cs48k9hb3t::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/356e4f89e8b6d5e8760806b5c6aadbf0/A.Good.Woman.Is.Hard.To.Find.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?a8fli811pkqnls96tztc::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzE0ODNmOTktNzdlMy00MjUyLWEyMzYtMGU3N2U0YTdkMGJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Christmas Wishes & Mistletoe Kisses (2019)[/COLOR]</title>

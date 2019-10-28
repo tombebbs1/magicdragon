@@ -9,16 +9,6 @@
 <info></info>
 </channel>
 
-
-
-<channel>
-<name>[B][I][COLORred]PAIR WITH SERVICES HERE - OPENLOAD ETC[/B][/I][/COLOR]</name>
-<thumbnail>https://i0.wp.com/kodiamerica.com/wp-content/uploads/2019/01/openload-02.png?resize=563%2C353&ssl=1</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/openloadpair.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
-<info></info>
-</channel>
-
 <channel>
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>

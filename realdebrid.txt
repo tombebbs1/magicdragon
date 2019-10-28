@@ -2,17 +2,8 @@
 <title>[B][COLORwhite]REAL DEBRID ONLY[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>https://kodiapps.com/how-to-install-tomb-raider-build-on-kodi</fanart>
-</item>
-
-<item>
-<title>[B][I][COLORred]REAL DEBRID AUTHORIZE HERE[/B][/I][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>http://supremacy.org.uk/tombraider/dogsbollocks/rdlogin.txt</externallink>
 <thumbnail>https://troypoint.com/wp-content/uploads/2017/10/install-real-debrid-kodi.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://kodiapps.com/how-to-install-tomb-raider-build-on-kodi</fanart>
 </item>
 
 
@@ -21,7 +12,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://troypoint.com/wp-content/uploads/2017/10/install-real-debrid-kodi.jpg</thumbnail>
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 

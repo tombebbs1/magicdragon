@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Seeing Evil (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/erna5khrjckw/seeing_evil_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/eglnve4w0oj0/seeing_evil_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/eglnve4w0oj0/seeing_evil_2019_1080p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae61k2de5m::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/12uaxby0lgcs::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/3LmwGSFvbUc/Seeing.Evil.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/12uaxby0lgcs::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/bcbb9fee694561f16986d7fc6ab57f45/Seeing.Evil.2019.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0yduvmvfgosuuf21syik::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmU3NTc3MjUtZTdhNS00YjA0LWJmMTctY2FkODZkMDgyNjk2XkEyXkFqcGdeQXVyMjI1NjgwMzk@._V1_SY1000_CR0,0,620,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]No Time Like Christmas (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/d297s1rf3tq8/the_rebels_trailer_emmet_cummins::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

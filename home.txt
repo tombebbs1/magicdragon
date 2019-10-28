@@ -13,7 +13,7 @@
 
 <channel>
 <name>[B][I][COLORred]PAIR WITH SERVICES HERE - OPENLOAD ETC[/B][/I][/COLOR]</name>
-<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2017/05/How-to-Install-Openload-Movies-Add-on-Kodi-17.1-Krypton-22.jpg</thumbnail>
+<thumbnail>https://i0.wp.com/kodiamerica.com/wp-content/uploads/2019/01/openload-02.png?resize=563%2C353&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/openloadpair.txt</externallink>
 <fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
 <info></info>

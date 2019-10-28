@@ -26,14 +26,6 @@ item>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
-<item>
-<title>[B][I][COLORwhite]Catch Up TV[/B][/I][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
-</item>
 
 <item>
 <title>[B][I][COLORblue]Episodes Of The Day[/B][/I][/COLOR]</title>

@@ -2,14 +2,14 @@
 <title>[B][COLORwhite]YOU ARE IN THE TOP 10 MOVIES[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORgold]***************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 </item>
 
 <item>
@@ -17,8 +17,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10action.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -26,8 +26,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10alieninvasion.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -35,8 +35,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10animation.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -44,8 +44,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10chickflix.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -53,8 +53,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10comedies.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -62,8 +62,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10fight.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -71,8 +71,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10gangster.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -80,8 +80,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10ghosthorror.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -89,8 +89,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10harrisonford.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -98,8 +98,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10horror.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -107,8 +107,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10musicals.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -116,8 +116,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10disaster.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -125,8 +125,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10oscarwinners.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -134,8 +134,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10romance.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 
@@ -144,8 +144,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10kubrick.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -153,8 +153,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10stephenking.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -162,8 +162,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10spielberg.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -171,8 +171,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10vampire.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -180,8 +180,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10war.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>
 
 <item>
@@ -189,6 +189,6 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/top10westerns.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
 </item>

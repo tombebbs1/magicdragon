@@ -1,14 +1,14 @@
 <item>
 <title>[B][COLORwhite]YOU ARE IN MUSICALS[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-in_t3cU1Dyg/Td6Bs6ATD3I/AAAAAAAABUM/GgERGvUCdHc/s1600/musical+1.png</fanart>
 </item>
 
 <item>
 <title>[B][COLOR gold]**************************************[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <fanart>http://4.bp.blogspot.com/-in_t3cU1Dyg/Td6Bs6ATD3I/AAAAAAAABUM/GgERGvUCdHc/s1600/musical+1.png</fanart>
 </item>
 

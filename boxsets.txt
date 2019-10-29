@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>[B][COLORwhite]BOXSETS LISTED A-Z[/B][/COLOR]</name>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>ignoreme</externallink>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
 <info>Tomraider Movies/info>
@@ -13,7 +13,7 @@
 <channels>
 <channel>
 <name>[B][COLORgold]****************************************[/B][/COLOR]</name>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <externallink>ignoreme</externallink>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
 <info>Tomraider Movies/info>

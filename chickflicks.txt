@@ -1,14 +1,14 @@
 <item>
 <title>[B][COLORwhite]YOU ARE IN CHICK FLICKS[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[B][COLOR gold]**************************************[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

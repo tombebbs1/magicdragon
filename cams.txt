@@ -1,17 +1,3 @@
-item>
-<title>[COLORwhite]Test[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://clipwatching.com/9w86sv1b9nwp/WwW.SeeHD.PL__Ad_Astra_2019_720p_HDCAM-GETB8.mkv.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://gounlimited.to/au3cdra6wgah/Once.Upon.A.Time.2017.720p.BluRay.x264-[YTS.LT].mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/d10cz0zfti7a::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/s9xavopwmyhd::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://streamz.cc/fYnh6OGNxdWd5M3k5ZXgw::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://streamz.cc/fYnh6OGNxdWd5M3k5ZXgw::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]Zombieland: Double Tap (2019) HDTS UPDATED 28/10[/COLOR]</title>
 <link>
@@ -72,7 +58,6 @@ sublink:LISTSOURCE:https://uptobox.com/9m8qrua9ccbm::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-
 <item>
 <title>[COLORwhite]Maleficent: Mistress of Evil (2019) CAM UPDATED 19/10[/COLOR]</title>
 <link>
@@ -108,10 +93,6 @@ sublink:LISTSOURCE:https://verystream.com/stream/8jb51vn8eY1/The.Addams.Family.2
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODBjOTAzZmMtNGJkOC00M2M3LWI1MTctZjZlMzdiODBkMzc0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019) HDCAM UPDATED 06/10[/COLOR]</title>
@@ -233,8 +214,6 @@ sublink:LISTSOURCE:https://verystream.com/stream/cBjt33KCabb/WwW.SeeHD.WS__Downt
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Don't Let Go (2019) HDCAM UPDATED 02/09[/COLOR]</title>
 <link>
@@ -259,8 +238,6 @@ sublink:LISTSOURCE:https://uptobox.com/rwd68wdp6v7t::LISTNAME:[COLORwhite]OPENLO
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Bennett's War (2019) HDCAM UPDATED 01/09[/COLOR]</title>
 <link>
@@ -272,8 +249,6 @@ sublink:LISTSOURCE:https://uptobox.com/yyd3apmebre5::LISTNAME:[COLORwhite]OPENLO
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjM2NzIzMmMtNjcwYS00ZmU3LWE2NTctYWU5NGFmNDkxMDM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Angel Has Fallen (2019) HDCAM UPDATED 23/08[/COLOR]</title>
@@ -288,22 +263,6 @@ sublink:LISTSOURCE:https://vidlox.me/5kdk2o1yby8i::LISTNAME:[COLORwhite]OPENLOAD
 </item>
 
 <item>
-<title>[COLORwhite]Good Boys (2019) HDCAM UPDATED 18/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/herj0qtyojea/good_boys_2019_official_red_band_trailer_universal_pictures_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/2o0wroakruxn::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ftlya5b688w2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hoi4m6m1q1t4::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc1NjIzODAxMF5BMl5BanBnXkFtZTgwMTgzNzk1NzM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
 <title>[COLORwhite]Horrible Histories: The Movie - Rotten Romans (2019) HDCAM UPDATED 15/08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/39fy7o3jasd3/horrible_histories_theie_rotten_romans_official_trailer_in_cinemas_now::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -314,8 +273,6 @@ sublink:LISTSOURCE:https://uptobox.com/1zwn6pijk2tg::LISTNAME:[COLORwhite]OPENLO
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTg2NzJiZTQtOTI5Mi00MjA4LWJmNWQtMjc5ZjZhYjRkMGRhXkEyXkFqcGdeQXVyNjM1MDIzMTc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]After the Wedding (2019) HDCAM UPDATED 10/08[/COLOR]</title>
@@ -329,9 +286,6 @@ sublink:LISTSOURCE:https://uptobox.com/51xyecwgo6jy::LISTNAME:[COLORwhite]OPENLO
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-
-
-
 <item>
 <title>[COLORwhite]Once Upon a Time ... in Hollywood (2019) HDTS UPDATED 10/08[/COLOR]</title>
 <link>
@@ -343,7 +297,6 @@ sublink:LISTSOURCE:https://uptobox.com/z77z50x3c3ad::LISTNAME:[COLORwhite]OPENLO
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLORwhite]The Peanut Butter Falcon (2019) HDCAM UPDATED 10/08[/COLOR]</title>
@@ -357,10 +310,6 @@ sublink:LISTSOURCE:https://uptobox.com/7aenb5c3ojnh::LISTNAME:[COLORwhite]OPENLO
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[COLORwhite]Playmobil: The Movie (2019) HDCAM UPDATED 05/08[/COLOR]</title>
 <link>
@@ -372,36 +321,3 @@ sublink:LISTSOURCE:https://uptobox.com/myqwh4eoofmc::LISTNAME:[COLORwhite]OPENLO
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGNlMjY2Y2MtNWVjZS00NDY5LTkwNzYtOTAxODg3Y2ZiY2Q3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

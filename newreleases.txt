@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Jirga (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jdceu6sivh5f/jirga_trailer__tiff_2018::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bsr69a2l6vgz/jirga_2019_720p_web-dl_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bsr69a2l6vgz/jirga_2019_720p_web-dl_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5mpr3jjp3::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oikw8uvocft0::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/83PUMe9jqHY/Jirga.2019.720p.WEB-DL.X264.AC3-EVO.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oikw8uvocft0::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/56d85a3991a8d07697cb08c7685d2eb0/Jirga.2019.720p.WEB-DL.X264.AC3-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6aae53r3yta9fuc6dj6r::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODJmYzI0N2ItOTk3OS00ZDllLTk4ZjEtZWIzYzI4ZTg2NjIxXkEyXkFqcGdeQXVyMjA3MTU5Njc@._V1_SY1000_CR0,0,705,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Manifest Destiny Down: Spacetime (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3v15wgqskd64/manifest_destiny_down_space_time__official_hd_trailer_2019__comedy__film_threat_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

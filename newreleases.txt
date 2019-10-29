@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Brian Banks (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gdmug9xnmi8x/brian_banks__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5ezg6yg6aiim/brian_banks_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5ezg6yg6aiim/brian_banks_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlxnxdy6yy::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/b600dmp1x5vh::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/cRFU1a69pGS/Brian.Banks.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/b600dmp1x5vh::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9e24c1882e3ef11eb848d5c212d112c4/Brian.Banks.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?c3yg333fsailqyqav8qv::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGI4NGRlNjEtZDUwOC00ZmRkLWI1ZTgtOGZmMTk3MzQ0ODVhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Good Boys (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/herj0qtyojea/good_boys_2019_official_red_band_trailer_universal_pictures_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

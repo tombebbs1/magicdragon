@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Farewell (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1qjhz9pg5gwf/the_farewell__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zz72ixbpfgpz/the_farewell_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zz72ixbpfgpz/the_farewell_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/zg7w-aj-k-866n2::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6wqlig9crupw::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/5VAvF7zj3JK/The.Farewell.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6wqlig9crupw::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4013faa4ae71c0e56952c7468e3b58c3/The.Farewell.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8lsoc2y3gvchf58l5ycr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWE3MjViNWUtY2VjYS00ZDBjLTllMzYtN2FkY2QwYmRiMDhjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Diggers (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/uqbqn447xqaw/47_meters_down_2_uncaged_trailer_1_new_2019_shark_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

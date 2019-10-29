@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Soulless (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2f9tphi37a3m/soulless_2018ie_teaser_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/z15wfrtwftb8/soulless_2018_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/z15wfrtwftb8/soulless_2018_1080p_amzn_web-dl_dd_2b2_0_h_264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram5y5kq-zm::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n5xrkohovxph::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/42ZiH8Cs2AE/Soulless.2018.1080p.AMZN.WEB-DL.DD%2B2.0.H.264-iKA%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n5xrkohovxph::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1bf8c50070ead61bef2b90a22ffe1dbf/Soulless.2018.1080p.AMZN.WEB-DL.DD_2.0.H.264-iKA[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nats5ftlepmcgowp45vz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjRmNDE4MmMtMjc3ZS00YzZlLWJjNzgtM2IyNjIxZDFlM2Q5XkEyXkFqcGdeQXVyMjEzMTkwNDA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Door in the Woods (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vrz761kzgxp4/door_in_the_woods_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -246,6 +246,13 @@ sublink:LISTSOURCE:https://1fichier.com/?247fhebiue::LISTNAME:[COLORgold]HD  LIN
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Captain Marvel (2019)[/COLOR]</title>
+<link>https://uptobox.com/gpcp63mp2xxu</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Cars 2 3D 2011[/COLOR]</title>
@@ -1380,6 +1387,13 @@ sublink:LISTSOURCE:https://1fichier.com/?nc7z80l6zzmm1nv5ctqm::LISTNAME:[COLORgo
 <title>[COLORwhite]The Lego Movie 3D 2014[COLORred]Debrid Only[/COLOR][/COLOR]</title>
 <link>http://uptobox.com/so26b6ki2ep4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Lego Movie 2: The Second Part (2019)[/COLOR]</title>
+<link>https://uptobox.com/z52rhhlkx6rn</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

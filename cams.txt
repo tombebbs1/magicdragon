@@ -76,7 +76,7 @@ sublink:LISTSOURCE:https://uptobox.com/z9fhf4melul3::LISTNAME:[COLORwhite]SD  LI
 sublink:LISTSOURCE:https://vidoza.net/zp86uy5udit8/joker_official_trailer_2019_joaquin_phoenix%2C_dcie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/mbcauf5kdruw/www_seehd_ws_joker_2019_720p_new_hd-ts-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-e138z0mx::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/68lt6l8vk01c::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/c24uc18xp4eg::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>

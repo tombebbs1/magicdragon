@@ -29,3 +29,19 @@
 <info></info>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR white]BBC America[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=175</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Bravo TV[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=124</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>

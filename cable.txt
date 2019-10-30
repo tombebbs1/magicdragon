@@ -85,3 +85,75 @@
 <info></info>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR white]Discovery Channel[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=35</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Flight Network[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=219</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Fox[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=43</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Fox News[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=44</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Fox 43 WMPT[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=178</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Freeform[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=52</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]FX[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=49</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]FYI[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=218</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Game Show Network[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=217</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>

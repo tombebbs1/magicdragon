@@ -1,7 +1,7 @@
 <item>
 <title>[COLOR white]A & E[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=216</link>
-<thumbnail>https://icon-library.net/images/tv-antenna-icon/tv-antenna-icon-12.jpg</thumbnail>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>
@@ -9,7 +9,7 @@
 <item>
 <title>[COLOR white]ABC[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=2</link>
-<thumbnail>https://icon-library.net/images/tv-antenna-icon/tv-antenna-icon-12.jpg</thumbnail>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>
@@ -17,7 +17,7 @@
 <item>
 <title>[COLOR white]AMC[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=6</link>
-<thumbnail>https://icon-library.net/images/tv-antenna-icon/tv-antenna-icon-12.jpg</thumbnail>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>
@@ -25,7 +25,7 @@
 <item>
 <title>[COLOR white]Animal Planet[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=9</link>
-<thumbnail>https://icon-library.net/images/tv-antenna-icon/tv-antenna-icon-12.jpg</thumbnail>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>

@@ -333,6 +333,13 @@ sublink:LISTSOURCE:https://1fichier.com/?247fhebiue::LISTNAME:[COLORgold]HD  LIN
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Dumbo (2019)[/COLOR]</title>
+<link>https://uptobox.com/fsfp75xxql74</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Edge Of Tomorrow 3D 2014[/COLOR]</title>
@@ -478,6 +485,13 @@ sublink:LISTSOURCE:https://1fichier.com/?in93ib8nar::LISTNAME:[COLORgold]3D  LIN
 <title>[COLORwhite]Godzilla 3D 2016[/COLOR]</title>
 <link>http://uptobox.com/t4pl9yeuvjsp</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Godzilla: King of the Monsters (2019)[/COLOR]</title>
+<link>https://uptobox.com/usq3onuyph2u</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

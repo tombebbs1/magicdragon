@@ -47,11 +47,11 @@ item>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>
 
-item>
-<title>[B][I][COLORgreenyellow]US TV Channels[/B][/I][/COLOR]</title>
+<item>
+<title>[B][I][COLORgreenyellow]US  Cable TV Channels[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/ustv.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cable.txt</externallink>
 <thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>

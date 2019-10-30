@@ -1,0 +1,7 @@
+<item>
+<title>[COLOR white]A & E[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=216</link>
+<thumbnail>https://icon-library.net/images/tv-antenna-icon/tv-antenna-icon-12.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>

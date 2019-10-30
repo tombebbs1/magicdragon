@@ -50,6 +50,13 @@
 </item>
 
 <item>
+<title>[COLORwhite]Alita: Battle Angel (2019)[/COLOR]</title>
+<link>https://uptobox.com/amieaevw6mlh</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]All Girls Weekend 3D 2016[/COLOR]</title>
 <link>https://uptobox.com/oun9qjuheu3y</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NzIxOTc3Nl5BMl5BanBnXkFtZTgwNDE2NjI2OTE@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
@@ -1054,6 +1061,13 @@ sublink:LISTSOURCE:https://1fichier.com/?brob1or9y0q2w4q160wg::LISTNAME:[COLORgo
 <title>[COLORwhite]Sharknado 5: Global Swarming (2017)[/COLOR]</title>
 <link>http://uptobox.com/l9zq6azsiyra</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3Mzk5NzAwNV5BMl5BanBnXkFtZTgwNDkwOTc3MjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shazam! (2019)[/COLOR]</title>
+<link>https://uptobox.com/mq69v5fhnbvx</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

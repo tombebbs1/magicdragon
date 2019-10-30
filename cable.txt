@@ -157,3 +157,75 @@
 <info></info>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR white]Lifetime Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=220</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Mav TV[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=177</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]MSNBC[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=176</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]NASA HD[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=174</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]National Geographic[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=67</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]NBC[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=122</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]PBS[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=71</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Sundance TV[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=131</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]SYFY[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=121</link>
+<thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>

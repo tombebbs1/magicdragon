@@ -1396,6 +1396,13 @@ sublink:LISTSOURCE:https://1fichier.com/?jxflgi75r0jk9hc2yw5r::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Secret Life of Pets 2 (2019)[/COLOR]</title>
+<link>https://uptobox.com/4fjy4gv9gfve</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzdlMWQzZmItMDA5Ny00MGFjLTk0MDAtYjgzMmMyNTEwMzdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Smurfs 3D 2011[/COLOR]</title>
 <link>http://uptobox.com/42j1dldjhtu7</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTUzNTczYTMtMzdkOC00ODlkLTk1NDMtYWYxMzQyYzI1YmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
@@ -1502,6 +1509,14 @@ sublink:LISTSOURCE:https://1fichier.com/?cz3ff12w71::LISTNAME:[COLORgold]HD  LIN
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Toy Story 4 (2019)[/COLOR]</title>
+<link>https://uptobox.com/1rer4lqink7g</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Transformers: Age of Extinction (2014) 3D[/COLOR]</title>

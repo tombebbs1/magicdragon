@@ -79,13 +79,7 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR white]Romance Movies[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=77</link>
-<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
-<info></info>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLOR white]Kubrick Movies[/COLOR]</title>
@@ -104,13 +98,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white]Musicals[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=64</link>
-<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
-<info></info>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLOR white]Mafia Movies[/COLOR]</title>
@@ -137,8 +125,8 @@
 </item>
 
 <item>
-<title>[COLOR white]Musical Movies[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=63</link>
+<title>[COLOR white]Musicals[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=64</link>
 <thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -151,9 +139,21 @@
 <info></info>
 <fanart></fanart>
 </item>
+<item>
+<title>[COLOR white]Pixar Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=189</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
 
-
-
+<item>
+<title>[COLOR white]Romance Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=77</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
 
 
 <item>
@@ -165,8 +165,24 @@
 </item>
 
 <item>
-<title>[COLOR white]Star Wars and Star Trek Movies[/COLOR]</title>
+<title>[COLOR white]Star Trek Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=181</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Star Wars Movies[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=87</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Stephen King Movies[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=190</link>
 <thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
 <info></info>
 <fanart></fanart>

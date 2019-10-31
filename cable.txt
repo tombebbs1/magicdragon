@@ -215,8 +215,8 @@
 </item>
 
 <item>
-<title>[COLOR white]Test2[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://tvplayer.com/watch/bbcone</link>
+<title>[COLOR white]Test3[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.freeintertv.com/view/id-2328</link>
 <thumbnail>https://previews.123rf.com/images/faysalfarhan/faysalfarhan1309/faysalfarhan130900115/22231151-watch-live-tv-icon-glossy-blue-reflected-square-button.jpg</thumbnail>
 <info></info>
 <fanart></fanart>

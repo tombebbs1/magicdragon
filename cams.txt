@@ -298,17 +298,7 @@ sublink:LISTSOURCE:https://uptobox.com/z77z50x3c3ad::LISTNAME:[COLORwhite]OPENLO
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Peanut Butter Falcon (2019) HDCAM UPDATED 10/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zw4oav3ssm2t/the_peanut_butter_falcon__official_trailer__roadside_attractions::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/xf53rm1xpjx4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/877x9jpbfceh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/7aenb5c3ojnh::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDg1ZmFlMjQtZGU0Ni00NGVhLWJjMDEtMjg4YTBmOTI5NTEzXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Playmobil: The Movie (2019) HDCAM UPDATED 05/08[/COLOR]</title>

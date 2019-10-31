@@ -1,4 +1,12 @@
 <item>
+<title>[COLOR white]Adams Family[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=214</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR white]Adult Swim[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=4</link>
 <thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
@@ -721,6 +729,14 @@
 <item>
 <title>[COLOR white]X Files[/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=105</link>
+<thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]Z Nation[/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arconaitv.us/stream.php?id=170</link>
 <thumbnail>https://biblio.uottawa.ca/sites/biblio.uottawa.ca/files/24-7-2016.png</thumbnail>
 <info></info>
 <fanart></fanart>

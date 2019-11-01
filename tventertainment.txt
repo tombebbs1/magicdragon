@@ -17,11 +17,11 @@
 <fanart></fanart>
 </item>
 
-item>
+<item>
 <title>[B][I][COLORwhite]test[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
-<externallink>http://supremacy.org.uk/Elektra_Vault/LIVETV/Plex/plexmovies33.xml</externallink>
+<externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
 <thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</fanart>
 </item>

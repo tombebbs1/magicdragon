@@ -208,7 +208,7 @@
 
 
 
-<item>
+item>
 <title>[B][COLORmagenta]Top 10s Movie Section[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>

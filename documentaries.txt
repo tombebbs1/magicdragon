@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Fire in Paradise (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/g2q1kw9db3q7/fire_in_paradise_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae63eq4qp-::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zei1dmvyl95e::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWJiMGU2YTEtMjQ5Zi00MTdlLTkxODgtNmM0ODhiODQwNWUzXkEyXkFqcGdeQXVyMTc2MzUwMjQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Any One of Us (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/y1gma36a9jay/any_one_of_us_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

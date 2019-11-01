@@ -88,6 +88,21 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The King (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hicbe543ddom/the_king_timoth%C3%A9e_chalamet%2C_robert_pattinson__final_trailer__netflix_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/s53yz2zwb82l/the_king_2019_720p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4an2j518ddl::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4an2j518ddl::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/vtdsyp0kz3ox::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/52fd73a5551335981983827d0aacc97a/The.King.2019.720p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?89ce0fyu6zj7g64pnvss::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGZhMWFhMTAtNGM3Ni00MTdhLTg3NmMtMDViYTc5ODVkZWVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Son (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/cx04lj2faxjh/kerry_washington__american_son__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

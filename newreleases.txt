@@ -135,10 +135,11 @@ sublink:LISTSOURCE:https://1fichier.com/?3nvipy2y10cpwd3qu5yc::LISTNAME:[COLORgo
 <link>
 sublink:LISTSOURCE:https://vidoza.net/nw4mscfc79ch/adopt_a_highway_trailer_2019_ethan_hawke%2C_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/qaik0ap0pqkn/adopt_a_highway_2019_1080p_web-dl_dd5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/4kjhz9e0whix::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/lkl8tlt4xfpo::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/d8e4cf2f397c8f20ebbf54185bdb662e/Adopt.a.Highway.2019.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?8k5vzcyn1fhaa3daabau::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-en-w4z8-::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4kjhz9e0whix::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/lkl8tlt4xfpo::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d8e4cf2f397c8f20ebbf54185bdb662e/Adopt.a.Highway.2019.1080p.WEB-DL.DD5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8k5vzcyn1fhaa3daabau::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmY2YmFkNGEtYTJiNy00MjViLWJhZjYtYzljNGFiZDcyMGI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>

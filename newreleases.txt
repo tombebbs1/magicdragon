@@ -97,7 +97,7 @@ sublink:LISTSOURCE:https://cloudvideo.tv/20y349swubmj::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://rapidgator.net/file/9af501141a25b52a7f582d0e447b637a/American.Son.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?6byb3bf2s0n4qxbh4hzs::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZmY2YmFkNGEtYTJiNy00MjViLWJhZjYtYzljNGFiZDcyMGI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDZkYWQyMjQtM2RiMy00YWI4LTgxNTktMjg3M2UwMGI1NTdkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 

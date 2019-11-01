@@ -88,6 +88,21 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Holiday In The Wild (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jx34sgbe8sxp/holiday_in_the_wild_trailer_2019_netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/h2oed4glx401/holiday_in_the_wild_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae63jj3nzk::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p5ikos10yldb::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/5v4sjrqmzlss::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5ed644e6bdb781f90a42e01f9b717d80/Holiday.in.the.Wild.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pci07wgxd2lj1p946vkq::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzc1MWI3MWMtYmNlYi00NjllLWIyNjctNWU2NWRjNjE2ZjhkXkEyXkFqcGdeQXVyNTU5MzI1OTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The King (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hicbe543ddom/the_king_timoth%C3%A9e_chalamet%2C_robert_pattinson__final_trailer__netflix_film::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

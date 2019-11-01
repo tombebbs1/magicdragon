@@ -88,6 +88,20 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]American Son (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cx04lj2faxjh/kerry_washington__american_son__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jt975fcy96ni/american_son_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/z0ux27bjjosv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/20y349swubmj::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9af501141a25b52a7f582d0e447b637a/American.Son.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6byb3bf2s0n4qxbh4hzs::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmY2YmFkNGEtYTJiNy00MjViLWJhZjYtYzljNGFiZDcyMGI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Fighting Preacher (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/attvkr5mzkdp/the_fighting_preacherie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

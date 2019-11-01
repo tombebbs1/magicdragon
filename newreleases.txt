@@ -88,6 +88,21 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Fighting Preacher (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/attvkr5mzkdp/the_fighting_preacherie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/injppg1cm7lq/the_fighting_preacher_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/nce1pl0uhv2t::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/i7dgx6njjid5::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://vidia.tv/x981t0ee00u7.html::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c19c362f75323b5682e7a74e4171b8e5/The.Fighting.Preacher.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qfe0aebgvtb120yk7ks0::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2FjNjQzYmMtYmUxOC00YWI3LWJmMDUtNDA5NWYwNDMxNmNhXkEyXkFqcGdeQXVyMzg4MDMyNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Guide to Second Date Sex (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fj9usp417ktz/a_guide_to_second_date_sex__official_australian_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

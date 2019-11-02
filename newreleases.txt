@@ -88,6 +88,20 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Permeation (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hmfoghvricyu/permeation_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/k9md7bg90fuv/permeation_2018_hdrip_x264_shadow::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaewg-2yw0d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/l26hip739i9b::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/cfc833b219b693db1bd0346931a3c886/Permeation_(2018)_HDRip_x264_-_SHADOW.mp4.html::LISTNAME:[COLORwhite]SD  LINK 4[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?71js44qlsuffl0er1cn9::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODYzYTg4YWQtNmUyYS00NzgwLTk3NGQtMjgwMGQwYTNiM2QzXkEyXkFqcGdeQXVyNzYxNzM3NDU@._V1_SY1000_CR0,0,681,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Peanut Butter Falcon (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zw4oav3ssm2t/the_peanut_butter_falcon__official_trailer__roadside_attractions::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

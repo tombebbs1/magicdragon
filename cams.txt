@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Harriet (2019) HDCAM UPDATED 02/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bkh4rmg0y48s/harriet__official_trailer__now_playing::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pvdpaattcre7/www_seehd_pl_harriet_2019_720p_hdcam_getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraekggr8pr1::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ipcyoe873zit::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://www.imdb.com/title/tt4648786/mediaviewer/rm3494286337?ref_=tt_ov_i</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Doctor Sleep (2019) HDCAM UPDATED 01/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xck9dhgj60xk/doctor_sleep_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

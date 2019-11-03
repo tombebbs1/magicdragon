@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Arctic Dogs (2019) HDCAM UPDATED 03/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fg82bdxsj9dd/arctic_dogs_2019__official_trailer_imdb_exclusive::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q1xt1a3z6m4q/www_seehd_pl_arctic_dogs_2019_720p_hdcam_getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/umpf1gxigbbw::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/woqnzz2fvob6::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Harriet (2019) HDCAM UPDATED 02/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bkh4rmg0y48s/harriet__official_trailer__now_playing::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -6,7 +18,7 @@ sublink:LISTSOURCE:https://vidoza.net/pvdpaattcre7/www_seehd_pl_harriet_2019_720
 sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraekggr8pr1::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/ipcyoe873zit::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
-<thumbnail>https://www.imdb.com/title/tt4648786/mediaviewer/rm3494286337?ref_=tt_ov_i</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 

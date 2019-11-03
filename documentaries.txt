@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Bronx, USA (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dky5d7jinjzl/the_bronx_usa_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/o2w4rdxxa8ie::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/tvtmegnxye9v::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/GQSwyY.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Terror in the Skies (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hdbio0wmr5rh/terror_in_the_skies_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

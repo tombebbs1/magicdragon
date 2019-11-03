@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Muhammad Ali's Greatest Fight (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sq6ro7gs8v8c/muhammad_alis_greatest_fight_2013_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vxqanecib8az::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/hszdr097p3b6::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmU1MmQyODAtNjM3MC00NzE3LWFkMzMtZjRmOGZiMTE5MjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bronx, USA (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dky5d7jinjzl/the_bronx_usa_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

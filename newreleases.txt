@@ -88,6 +88,24 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Urban Fears (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ay1qm3y2b5y6/urban_fears_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uhlbmkecz43f/urban_fears_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uhlbmkecz43f/urban_fears_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zffjd9mwshft::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/jbyixktcr6y5::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2ae3601ee9c98224a9c8c7e6cbed2cc2/Urban.Fears.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sywpwm4nhfb2w1vtxjmu::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://www.oboom.com/AINSE19L::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:65cd4928d7ef233f2bceb46c14e2541255e898ad&dn=Urban.Fears.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 8[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:65cd4928d7ef233f2bceb46c14e2541255e898ad&dn=Urban.Fears.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTU3NDU4ZDMtNjEzMS00OWQ3LTk0NDAtN2U3MmYyZGUxYWQ4XkEyXkFqcGdeQXVyNDU5MTUwNTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dulcinea (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k38fvh8z9si0/dulcinea_official_trailer_2018_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

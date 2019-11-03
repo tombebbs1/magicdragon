@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Elephant Queen (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wglg4dm146hx/the_elephant_queen_2019_web-dl_x264-fgt::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/z868y47e4h8i::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ge8unf9ons4k::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE3YjdiMGUtMGViNS00YmNkLWI2ZWMtZjQ3MTAwZGEwZmMyXkEyXkFqcGdeQXVyMTA4NjM2NzY1._V1_SY1000_CR0,0,562,1000_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Oil in the Blood (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5rhmbx9tcd8q/oil_in_the_blood_2019_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

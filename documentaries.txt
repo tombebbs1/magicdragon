@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Oil in the Blood (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5rhmbx9tcd8q/oil_in_the_blood_2019_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/krcd50mt2cr7::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gb9l4ubqhwux::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU1MGVlNTEtNGVhYS00Y2E5LWJjMTgtNWUyZGJhMTUyZWNiXkEyXkFqcGdeQXVyMjY3NTUwMDg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fire in Paradise (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/g2q1kw9db3q7/fire_in_paradise_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

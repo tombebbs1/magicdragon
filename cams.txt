@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Motherless Brooklyn (2019) HDCAM UPDATED 04/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vp3f35oygchq/motherless_brooklyn_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dz8hur8lld2s/www_seehd_pl_motherless_brooklyn_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/dccfi5e601jn::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xjq51st47xoy::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzQ0Mjk1YjItNWI1Ny00NWE2LWFlYTAtYjViY2YzMTVlOGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Arctic Dogs (2019) HDCAM UPDATED 03/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fg82bdxsj9dd/arctic_dogs_2019__official_trailer_imdb_exclusive::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

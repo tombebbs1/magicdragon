@@ -77,7 +77,7 @@ sublink:LISTSOURCE:https://www.oboom.com/Q3LVZF5L::LISTNAME:[COLORgold]HD  LINK 
 sublink:LISTSOURCE:https://msb15349:tombebbs1971@msb15349.seedbox.io/files/Universal.Soldier.1992.NEW.REMASTERED.1080p.BluRay.H264.AAC-RARBG/Universal.Soldier.1992.NEW.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4::LISTNAME:[COLORgreen]HD  LINK 8[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&dn=Universal.Soldier.1992.INTERNAL.NEW.REMASTERED.1080p.BluRay.X264-AMIABLE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2750::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMmQyYmY5ZTMtM2JkNi00NmM2LWE3ZmEtYWYzZmRkZDM0ZTdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTFkNjBhOWItOGYzNy00ZTQ5LWE2MWUtMWQxNWE5ZTY0OWQ0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
 </item>
 

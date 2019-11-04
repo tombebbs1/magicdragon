@@ -90,6 +90,24 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 </item>
 
 <item>
+<title>[COLORwhite]Cats (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0x2o0ba7yy9i/cats_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/muxe0kssizrf/cats_and_peachtopia_2018_720p_brrip_xvid_ac3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/muxe0kssizrf/cats_and_peachtopia_2018_720p_brrip_xvid_ac3-xvid::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/a9ow4di2qutx::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/g0uubieqyeh3::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/8641c9d622a6aa10b26fadfcf41ffd78/Cats.and.Peachtopia.2018.720p.BRRip.XviD.AC3-XVID.avi.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?poaqtcynz45wu51yvnv7::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://www.oboom.com/7HPDZA0I::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:6d5dcdc46bc38cc49fba3b1a2746f6215067be50&dn=Cats.and.Peachtopia.2018.720p.BRRip.XviD.AC3-XVID&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2760::LISTNAME:[COLORgreen]HD  LINK 8[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:94fd0a6c582fa6e0956a9d525f39db7cd39d324e&dn=Cats.and.Peachtopia.2018.1080p.BluRay.x264-NTROPiC&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2730::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5YTFlNzYtZmU5Ni00Y2Y2LWFmMTktNGFlZjE0MWIwMDJmXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mouthpiece (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/y6bdu2xbb6mf/mouthpiece_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

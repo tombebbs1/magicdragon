@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Smart Drugs (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gt0h8pbmjbq3/smart_drugs_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yu2c83xopp9y::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4gtd4im8uhg5d9cpm08a::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGYzYTZlOGEtZGFkYy00OWIxLTg1OWQtNTBkNDQ0YmFhNTQ0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Food Fight: Inside the Battle for Market Basket (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fzonq5ta57aq/food_fight_inside_the_battle_for_market_basket_2016_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

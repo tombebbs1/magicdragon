@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mike Wallace Is Here (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/7sosj0772yqd::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/p7o3obzv368e::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/csip6kt47pli::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGEzMDYwZTItMzI1MS00ODc2LTlmYWQtZTk2NmFjYzlhODZjXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX675_CR0,0,675,999_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Smart Drugs (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gt0h8pbmjbq3/smart_drugs_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

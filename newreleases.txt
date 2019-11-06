@@ -103,7 +103,7 @@ sublink:LISTSOURCE:https://www.oboom.com/N4ORFLUH::LISTNAME:[COLORgold]HD  LINK 
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5ed837dfcae3b3bfbe6c8bab65011ad354cc245f&dn=Burning.Cane.2019.720p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 8[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:f87063ad59ba9974ea31e869f870a7ead9bedb5e&dn=Burning.Cane.2019.1080p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTI2NGVlMzAtMGQyYS00N2Q3LWE0ZDUtNzBmNGE1ZWE3NzQzXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGIxMWEyZmItZThjOS00ZWE5LTk0NGUtYzAwNGVhZmQzODBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 

@@ -17,6 +17,14 @@
 <info></info>
 </channel>
 
+<channel>
+<name>[B][I][COLORwhite]BROKEN CHAINS ADD ON[/B][/I][/COLOR]</name>
+<thumbnail>https://kodidroid.com/wp-content/uploads/2019/09/Chains-of-Absolution-Kodi-Addon.png</thumbnail>
+<externallink>http://myatom.one/chains%20of%20absolution/chains%20of%20absolution.txt</externallink>
+<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<info></info>
+</channel>
+
 
 <channel>
 <name>[B][I][COLORwhite]People Watching[/B][/I][/COLOR]</name>

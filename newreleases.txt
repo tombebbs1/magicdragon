@@ -89,16 +89,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORwhite]test[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://onlystream.tv/i2rj2d0nk2my::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/i2rj2d0nk2my::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/i2rj2d0nk2my::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOGIxMWEyZmItZThjOS00ZWE5LTk0NGUtYzAwNGVhZmQzODBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Burning Cane (2019)[/COLOR]</title>
@@ -107,12 +98,13 @@ sublink:LISTSOURCE:https://vidoza.net/akj2hwhh0ayn/burning_cane::LISTNAME:[COLOR
 sublink:LISTSOURCE:https://vidoza.net/j6n6ipgjbq5x/burning_cane_2019_720p_nf_web-dl_ddp5_1_x264-kamikaze::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/pq8bylt16gx0::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/eh3b97bxi7rd::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/71ljav8v1wgs::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/2b2e8d7b3daff3987bb8e52cbeaf7c69/Burning.Cane.2019.720p.NF.WEB-DL.DDP5.1.x264-KAMIKAZE.mkv.html::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?2vgx78wnpc9kmhpemso1::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/N4ORFLUH::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:5ed837dfcae3b3bfbe6c8bab65011ad354cc245f&dn=Burning.Cane.2019.720p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 8[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:f87063ad59ba9974ea31e869f870a7ead9bedb5e&dn=Burning.Cane.2019.1080p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgde8j8--3::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/71ljav8v1wgs::LISTNAME:[COLORgold]HD  LINK 5[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2b2e8d7b3daff3987bb8e52cbeaf7c69/Burning.Cane.2019.720p.NF.WEB-DL.DDP5.1.x264-KAMIKAZE.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2vgx78wnpc9kmhpemso1::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://www.oboom.com/N4ORFLUH::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5ed837dfcae3b3bfbe6c8bab65011ad354cc245f&dn=Burning.Cane.2019.720p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f87063ad59ba9974ea31e869f870a7ead9bedb5e&dn=Burning.Cane.2019.1080p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGIxMWEyZmItZThjOS00ZWE5LTk0NGUtYzAwNGVhZmQzODBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>

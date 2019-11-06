@@ -2,63 +2,63 @@
 <title>[B][COLORwhite]YOU ARE IN RADIO[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORgold]****************************************[/COLOR][/B]</title>
 <link>ignorme</link>
 <externallink>ignoreme</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE 00s[/COLOR]</title>
 <link>http://mp3-a0-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE 60s[/COLOR]</title>
 <link>http://mp3-a6-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE 70s[/COLOR]</title>
 <link>http://mp3-a7-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE 80s[/COLOR]</title>
 <link>http://mp3-a8-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE 90s[/COLOR]</title>
 <link>http://mp3-a9-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE CLASSIC ROCK[/COLOR]</title>
 <link>http://mp3-ac-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]ABSOLUTE RADIO[/COLOR]</title>
 <link>http://mp3-ar-32.timlradio.co.uk/</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -66,259 +66,259 @@
 <item>
 <title>[COLORwhite]Radio 1 [/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p?s=</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio 2 [/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio 3 [/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio 4 [/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio 5 Live [/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio 5 Live Sports Extra[/COLOR]</title>
 <link>http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live_sports_extra</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio 6 [/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]UKN Radio[/COLOR][COLORwhite] Must Listen 24/7 No Ads[/COLOR]</title>
 <link>http://176.31.14.27:9954</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]BBC Radio Newcastle[/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnewc_mf_p?s=1474361871&e=1474376271&h=c0358f2e07dbc8595e7ffe9a00cf2e41</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]BBC Radio Scotland[/COLOR]</title>
 <link>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p?s=1474357103&e=1474371503&h=cf5e7de11da5d513144eab8629efca06</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Kisstory Radio[/COLOR]</title>
 <link>http://tx.whatson.com/icecast.php?i=kisstory.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Absolute Classic Rock[/COLOR]</title>
 <link>http://mp3-ac-128.timlradio.co.uk/.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Capital FM London[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/CapitalMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Capital Extra[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/CapitalXTRANationalMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Classic FM[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/ClassicFMMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Chill FM[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/ChillMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Gold London[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/GoldMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heart FM London[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/HeartLondonMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Heat FM[/COLOR]</title>
 <link>http://icy-e-bl-02-gos.sharp-stream.com:8000/heat.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Jazz FM[/COLOR]</title>
 <link>http://adsi-e-02-boh.sharp-stream.com:8000/jazzfmmobile.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Karrang Radio[/COLOR]</title>
 <link>http://icy-e-bl-08-boh.sharp-stream.com:8000/kerrang.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Key 103[/COLOR]</title>
 <link>http://icy-e-bl-04-cr.sharp-stream.com:8000/key.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Kiss UK[/COLOR]</title>
 <link>http://icy-e-ba-08-boh.sharp-stream.com:8000/kissnational.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]LBC[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/LBCUKMP3Low</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Magic[/COLOR]</title>
 <link>http://icy-e-bz-06-cr.sharp-stream.com:8000/magicnational.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Magic Chilled[/COLOR]</title>
 <link>http://icy-e-bz-02-gos.sharp-stream.com:8000/magicchilled.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Metro Tyne & Wear[/COLOR]</title>
 <link>http://icy-e-bz-08-boh.sharp-stream.com:8000/magic1152n.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Planet Rock[/COLOR]</title>
 <link>http://icy-e-bz-07-boh.sharp-stream.com:8000/planetrock.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio Clyde[/COLOR]</title>
 <link>http://icy-e-bl-04-cr.sharp-stream.com:8000/clyde1.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio Clyde 2[/COLOR]</title>
 <link>http://icy-e-bl-09-boh.sharp-stream.com:8000/clyde2.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Radio Clyde 3[/COLOR]</title>
 <link>http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde3.mp3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Smooth Extra[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/SmoothExtraMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Smooth London[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/SmoothLondonMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Smooth North West[/COLOR]</title>
 <link>http://media-sov.musicradio.com:80/SmoothNorthWestMP3</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Talk Radio[/COLOR]</title>
 <link>http://radio.talkradio.co.uk/stream?ref=rf</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Talk Sport[/COLOR]</title>
 <link>http://radio.talksport.com/stream?aisGetOriginalStream=true</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORwhite]Talk Sport 2[/COLOR]</title>
 <link>http://radio.talksport.com/stream2?ref=rf</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 

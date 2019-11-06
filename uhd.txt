@@ -2,7 +2,7 @@
 <title>[B][COLORgold]ULTRA HD ZONE[/B] 4K [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://blogs-images.forbes.com/johnarcher/files/2014/08/4KUltraHDLogos.jpg</fanart>
 </item>
 
@@ -11,7 +11,7 @@
 <title>[B][COLORred]WARNING - FAST CONNECTION REQUIRED OR[/B] 4K [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://blogs-images.forbes.com/johnarcher/files/2014/08/4KUltraHDLogos.jpg</fanart>
 </item>
 
@@ -21,7 +21,7 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>http://supremacy.org.uk/tombraider/dogsbollocks/rdlogin.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
@@ -36,7 +36,7 @@
 <title>[B][COLOR gold]****************************************[/B] [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://blogs-images.forbes.com/johnarcher/files/2014/08/4KUltraHDLogos.jpg</fanart>
 </item>
 

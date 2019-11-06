@@ -1,20 +1,20 @@
 <item>
 <title>[COLORwhite]The Magic Dragon Uses Resolveurl[/COLOR]<title>
 <Link>plugin://script.module.urlresolver/?mode=auth_rd<link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2017/10/install-real-debrid-kodi.jpg<thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item>
 
 <item>
 <title>[COLORred]Authorize Real Debrid UrlResolver[/COLOR]<title>
 <Link>plugin://script.module.urlresolver/?mode=auth_rd<link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2017/10/install-real-debrid-kodi.jpg<thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item>
     
 <item>
 <title>[COLORred]Authorize Real Debrid Resolveurl[/COLOR]<title>
 <Link>plugin://script.module.resolveurl/?mode=auth_rd<link>
-<thumbnail>https://troypoint.com/wp-content/uploads/2017/10/install-real-debrid-kodi.jpg<thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item>  

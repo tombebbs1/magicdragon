@@ -1,15 +1,15 @@
 <item>
 <title>[B][COLORred]XMAS TV & MOVIES SCROLL DOWN FOR MOVIES[/COLOR][/B]</title>
 <link>ignorme</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
 <title>[B][COLORwhite]***************************************[/COLOR][/B]</title>
 <link>ignorme</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -253,14 +253,14 @@ sublink:LISTSOURCE:https://openload.co/f/ifcufx5Lygw/The_Yearly_With_Charlie_Pic
 <item>
 <title>[B][COLORwhite]***************************************[/COLOR][/B]</title>
 <link>ignorme</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://i1012.photobucket.com/albums/af246/BayonettaCroft/MerryChristmas.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR gold]All Time Best Xmas Movies Trailers[/COLOR]</title>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLVT27CeTc_RNyHUOlkq6_tRX5ZhkFTtrX/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://i1012.photobucket.com/albums/af246/BayonettaCroft/MerryChristmas.jpg</fanart>
 <link>ignorme</link>
 </item>

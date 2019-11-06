@@ -2,14 +2,14 @@
 <title>[B][COLORwhite]YOU ARE IN MUSIC[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORgold]****************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 
@@ -50,7 +50,7 @@
 <title>[B][COLORgold]****************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
@@ -65,7 +65,7 @@
 <title>[B][COLORgold]****************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 
@@ -81,7 +81,7 @@
 <title>[B][COLORgold]****************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
@@ -96,7 +96,7 @@
 <title>[B][COLORgold]****************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>

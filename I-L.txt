@@ -1,14 +1,14 @@
 <item>
 <title>[B][COLOR gold]YOU ARE IN MOVIES I-L[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>http://tombraiderbuilds.co.uk/Icons/TombRaiderIcon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[B][COLOR gold]**************************************[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>http://tombraiderbuilds.co.uk/Icons/TombRaiderIcon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 

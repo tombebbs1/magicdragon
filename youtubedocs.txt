@@ -2,21 +2,21 @@
 <title>[COLORwhite][B][COLORgold]YOU WILL NEED YOU TUBE TO VIEW THESE DOCUMENTARIES[/COLOR][/B][/COLOR]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
 <title>[COLORwhite][B][COLORgold]***************************************[/COLOR][/B][/COLOR]</title>
-<sportsdevil>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</sportsdevil>
+<sportsdevil>https://i.imgur.com/dm1Tk83.png</sportsdevil>
 <referer></referer>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
 <title>[COLORwhite]Biography Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLCBLlrBlEN1skMs2pGboan7_lfio_s8Z-/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -24,7 +24,7 @@
 <title>[COLORwhite]British Serial Killer Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLf9O6B-f_J_RZKm3Xqy4lqppEZ3j-peXd/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -32,7 +32,7 @@
 <title>[COLORwhite]BBC Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLDVZNJR18KqBfusnr5G4D6Ft6ge-lJhWK/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -40,7 +40,7 @@
 <title>[COLORwhite]Boxing Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLJhruL0cOrLUvWf4iIJ-nlYZRr0As-Wu6/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -49,7 +49,7 @@
 <title>[COLORwhite]British History Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLqNTJTYxk5doK8esoWXSOFTEZvzpimLKZ/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -57,7 +57,7 @@
 <title>[COLORwhite]Children Who Kill Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLfFy9AUfRGZ32aQ3oNHyc09122ja7OSUl/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -67,7 +67,7 @@
 <title>[COLORwhite]FBI Files Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL5q8VRGX_yLL_CruUIU-ZE3d0L7JJH-ee/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -75,7 +75,7 @@
 <title>[COLORwhite]Gangsters America's Most Evil Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLGQlciwXZwLkxJbZ-s78XOA3u4I8ZA5wK/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -85,7 +85,7 @@
 <title>[COLORwhite]Gangland Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLaX6Zf0s0csiwcXsi4NYCF2bA1G2vIlUc/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -93,7 +93,7 @@
 <title>[COLORwhite]Ghostly Encounters Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLecdSLVzv2CpHAflMWL7MrAWgEfWugLBJ/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -101,7 +101,7 @@
 <title>[COLORwhite]Horror Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLbGl458JxxbhQwI0dat6EpycborhT2CuG/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -109,7 +109,7 @@
 <title>[COLORwhite]ITV Real Crime Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLzVTO1PqBUxIrSzIy8yEgJ37jMeDA6-DS/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -118,7 +118,7 @@
 <title>[COLORwhite]Military & War Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLEE2489E06F15D873/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -126,7 +126,7 @@
 <title>[COLORwhite]Mobsters, Biography Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLqduaEP5i4pcH1S33OVxp0aBu4Wofd5GH/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -135,7 +135,7 @@
 <title>[COLORwhite]Nature Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL5o3ll3G4acxgDMSO7JXvDsosQ-UDPL6n/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -144,7 +144,7 @@
 <title>[COLORwhite]Serial Killer & Murder Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLEfZSmhbsA4NyEon3gwXu41PZGqa553J2/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -152,7 +152,7 @@
 <title>[COLORwhite]Soccer Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLz3eRlovaeccEsjBUoroEso8-_NRJsJkX/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -160,7 +160,7 @@
 <title>[COLORwhite]Spy Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLKh8r07IjZ4riZvDv0m_DfDKeeu5EuRfE/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -168,7 +168,7 @@
 <title>[COLORwhite]Sports Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLES1-z8dEMzVqLUHMOEkFAtxIaXbpp46M/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -176,7 +176,7 @@
 <title>[COLORwhite]Travel Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLchsaDnHCVnvOOakmuD0sl2lFDilWaHQt/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -184,7 +184,7 @@
 <title>[COLORwhite]True Crime Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLjYTdfYGUqXWJtE8YLBYaEeyTB_aze-ZN/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -192,6 +192,6 @@
 <title>[COLORwhite]Ufo Documentaries[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCkYb3ptiRK2wDE8UimYIafQ/?page=0</jsonrpc>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>

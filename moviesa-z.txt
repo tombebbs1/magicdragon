@@ -3,8 +3,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/0-1000000.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -12,8 +12,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/A-D.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -21,8 +21,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/E-H.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -30,8 +30,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/I-L.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -39,8 +39,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/M-P.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -48,8 +48,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Q-S.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -57,8 +57,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/T.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -66,6 +66,6 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/U-Z.txt</externallink>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
-<fanart>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>

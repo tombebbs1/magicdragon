@@ -1,14 +1,14 @@
 <item>
 <title>[B][COLOR white]3D MOVIES LISTED A-Z[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
 </item>
 
 <item>
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://iwf1.com/scrapekod/icons/plugin.video.themagicdragon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
 </item>
 

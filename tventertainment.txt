@@ -66,7 +66,7 @@ sublink:LISTSOURCE:https://streamango.com/f/amdofaklosolcsaf/Unlovable_2018_HDRi
 sublink:LISTSOURCE:https://streamcherry.com/f/tfqmkbpkklkebcro/Unlovable_2018_HDRip_XviD_AC3-EVO_EtMovies_avi_mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://i2-prod.walesonline.co.uk/lifestyle/article7030279.ece/ALTERNATES/s1200/18-classic-TV-adverts.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 item>
 <title>[B][I][COLORorange]Live TV[/B][/I][/COLOR]</title>

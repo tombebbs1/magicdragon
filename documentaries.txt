@@ -13,7 +13,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/youtubedocs.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item
@@ -22,7 +22,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries2.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -42,7 +42,7 @@ sublink:LISTSOURCE:https://vidlox.me/zfho0syc2qfj::LISTNAME:[COLORgold]HD  LINK 
 sublink:LISTSOURCE:https://uptobox.com/z296ep1egbtb::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDAyYjcyMGMtMDRjMS00YzU5LTk4MjctYzUwY2Y1NWJiZWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,690,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -53,7 +53,7 @@ sublink:LISTSOURCE:https://cloudvideo.tv/p7o3obzv368e::LISTNAME:[COLORgold]HD  L
 sublink:LISTSOURCE:https://uptobox.com/csip6kt47pli::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGEzMDYwZTItMzI1MS00ODc2LTlmYWQtZTk2NmFjYzlhODZjXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX675_CR0,0,675,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -64,7 +64,7 @@ sublink:LISTSOURCE:https://uptobox.com/yu2c83xopp9y::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?4gtd4im8uhg5d9cpm08a::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGYzYTZlOGEtZGFkYy00OWIxLTg1OWQtNTBkNDQ0YmFhNTQ0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -75,7 +75,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/3360qumle-mg8yd::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/b8bn1c55jtjr::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjhmYTE4ZWItNjgwNy00YTVlLTgyYjMtNDA0NjdhYzFlOWM3XkEyXkFqcGdeQXVyMTgxMTMyMjE@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -86,7 +86,7 @@ sublink:LISTSOURCE:https://uptobox.com/vxqanecib8az::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://cloudvideo.tv/hszdr097p3b6::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmU1MmQyODAtNjM3MC00NzE3LWFkMzMtZjRmOGZiMTE5MjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -97,7 +97,7 @@ sublink:LISTSOURCE:https://uptobox.com/o2w4rdxxa8ie::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://cloudvideo.tv/tvtmegnxye9v::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/GQSwyY.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -109,7 +109,7 @@ sublink:LISTSOURCE:https://uptobox.com/5p8087bls5fd::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uploadgig.com/file/download/9c9b46572edA228B/Terror.in.The.Skies.2019.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 4 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzRiOGFkMGUtMjYyZC00MjVhLWJhOTktNmQ4Y2I3YzM4MzFiXkEyXkFqcGdeQXVyNjA3NjM5Njc@._V1_SY999_CR0,0,670,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -120,7 +120,7 @@ sublink:LISTSOURCE:https://cloudvideo.tv/z868y47e4h8i::LISTNAME:[COLORgold]HD  L
 sublink:LISTSOURCE:https://uptobox.com/ge8unf9ons4k::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTE3YjdiMGUtMGViNS00YmNkLWI2ZWMtZjQ3MTAwZGEwZmMyXkEyXkFqcGdeQXVyMTA4NjM2NzY1._V1_SY1000_CR0,0,562,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -131,7 +131,7 @@ sublink:LISTSOURCE:https://cloudvideo.tv/krcd50mt2cr7::LISTNAME:[COLORgold]HD  L
 sublink:LISTSOURCE:https://uptobox.com/gb9l4ubqhwux::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjU1MGVlNTEtNGVhYS00Y2E5LWJjMTgtNWUyZGJhMTUyZWNiXkEyXkFqcGdeQXVyMjY3NTUwMDg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -142,7 +142,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae63eq4qp-::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/zei1dmvyl95e::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOWJiMGU2YTEtMjQ5Zi00MTdlLTkxODgtNmM0ODhiODQwNWUzXkEyXkFqcGdeQXVyMTc2MzUwMjQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -153,7 +153,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2yj5lkqrp::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/8tdw3l1180pi::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/NYaKv1MHAl.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -164,7 +164,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlxnd1le35::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/fa7etxgb6v0e::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjY3MmYzZjAtYjM0NC00MWQ5LWE2NzQtY2VlZWM0NGEyMjA0XkEyXkFqcGdeQXVyMTY1NjUwMjA@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -175,7 +175,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/3360qumlr3enqe6::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/5r0rgibbb4qj::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmVlNWIzZDktYzZmMy00NmRlLWFiMjUtOWFiZTY3MTJjYWIxXkEyXkFqcGdeQXVyNzM5OTc3OTY@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -186,7 +186,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4w1z-y4e::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/iuvl4gc6wybm::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTRlMjUyODgtMmRiOC00YTk0LWE5ZjgtNmVkM2RmNGE1OGE1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -197,7 +197,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-e8r5lgx4::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/xyat9ql9u03q::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzUxYWE4Y2EtMzIxYS00NWI3LWE1M2ItNWFiMjFlMWUwYWMxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -208,7 +208,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/wg32danq201353r::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/yqjzgc74cwk6::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDcxMDYzMzgtZTc0My00NDQwLThkNjktZTU4YTliZWFhNzEwXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -219,7 +219,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/3360qumlmzzr36l::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/89ae7cjmammy::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjQyZDJiNzEtY2RlYi00Y2Y1LThlN2YtMDViM2M0NjQxYzU4XkEyXkFqcGdeQXVyMDAwMDAwMw@@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -230,7 +230,7 @@ sublink:LISTSOURCE:https://vidoza.net/lc67ovfhhv2l/self_discovery_for_social_sur
 sublink:LISTSOURCE:https://uptobox.com/do1zf810uyhf::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2JlMWM4NWYtOTlkMy00Nzg4LTgyNTAtODgzNmYzMDc5OTk5XkEyXkFqcGdeQXVyNTY3MDkwOTg@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -241,7 +241,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraekwkyw46-::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/av9tnm5joz3e::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzg4ZjMzOWEtZjBhZi00MzgxLWEzNmItYjVlYjY0MGQ5ZmM5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -252,7 +252,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/wg32danqqz2jl4z::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/wvw81ahnd26q::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTI3MWYzYjQtMjE0NS00NzE4LThiMzgtMmIzMTU5NzY0YzdiXkEyXkFqcGdeQXVyOTA0MjIzNzQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -263,7 +263,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjq64r34-4::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/h8fchupbyv6b::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzMDVhYjktZjE4My00YjVhLWFjZWEtODk0ZjU4M2Q1ZjYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -274,7 +274,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae60xpz30p::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/0ww69hup6hk0::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgyMjk3MzE1MV5BMl5BanBnXkFtZTgwMzk2OTQ4NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -285,7 +285,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/3360qumldy45z2j::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/36jcoji8aa1e::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWIwYzQ0NjMtMjA2Ni00MDNkLWFkYWMtNDQ3OTg1ZDg5ZDE0XkEyXkFqcGdeQXVyMTQ5ODIxNTc@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -296,7 +296,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/56deyudq257755w::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/a4c88hzrcsj1::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDBhOGZkNTMtNjBmYy00NDNkLWJlMjgtN2IyNzIxYzMwZGIzXkEyXkFqcGdeQXVyNzY0NzE2OTI@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -307,7 +307,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5nykzrx5r::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/z7a20n5k005o::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjE0NzM4YmYtODEyNy00Zjg1LWE3MzItYzdmY2FiYjM2ZjhmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjIzMjkyMTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -318,7 +318,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/670emu0xqy77g6e::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/f6neyfhdxkek::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzQyODM5MTU2NF5BMl5BanBnXkFtZTgwMDgyMTUxODE@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -329,7 +329,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2y-13m643::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/53byom293o24::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjQwNDMyNjItYzIyYS00YzZmLWI0NWEtNzU0NDhmOGU3Y2Q0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -340,7 +340,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5mngjqge7::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/42qhft47q630::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWQ5MGZmYTgtZTFmNy00ZDZhLTgwOTAtYmRhOGZmNGIxMjEzXkEyXkFqcGdeQXVyMzUzMjc1NzI@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -351,7 +351,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5mngjqge7::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/42qhft47q630::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWQ5MGZmYTgtZTFmNy00ZDZhLTgwOTAtYmRhOGZmNGIxMjEzXkEyXkFqcGdeQXVyMzUzMjc1NzI@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -362,7 +362,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipmz32my34::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/epmx8p5xkd34::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWVlY2RiNzEtYzE0Mi00YWQyLWJlNWQtMTdiZGQ4NjM4ZTg1XkEyXkFqcGdeQXVyNTE4NTE0NjU@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -373,7 +373,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4n7j248w::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/7vt6oceecfp9::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGZiOWIwNWEtYTNmNS00ODk3LTg4NTYtNDA2Y2Y4N2EwNjlhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -384,7 +384,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ipmze1lxmr::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/7csy4dxcoq9y::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODU3NmM5ZDUtZDM2NS00MGI4LWE0NDYtNWQyY2ZkYzMxMWY1XkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -395,7 +395,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaew70dm70l::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/55bube321adl::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://www.itv.com/presscentre/sites/default/files/styles/pi_large/public/image1.jpg?itok=HRVQ-Ar3</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -406,7 +406,7 @@ sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae65dzepgd::LISTNAME:[COLORgold
 sublink:LISTSOURCE:https://uptobox.com/7c6r5hr1kj5h::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGViYzg3ZDgtM2RmMi00M2ViLWFmMGQtN2YwNzRjYmQzZTA5XkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -417,7 +417,7 @@ sublink:LISTSOURCE:https://flix555.com/3086y4dmjyzn::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/dky8y4ruyrd2::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDgzZjhmZWEtY2E1ZC00ZjMxLWIyM2UtOWViZDg0MTlhMmI0XkEyXkFqcGdeQXVyMjYzNTk1NTE@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -428,7 +428,7 @@ sublink:LISTSOURCE:https://flix555.com/4i84tg3w8439::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/85fb48hzzczz::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY1MzczMDk2Nl5BMl5BanBnXkFtZTgwMzI0Njg2MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -439,7 +439,7 @@ sublink:LISTSOURCE:https://flix555.com/tfdae1zkqok4::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/51ogta5k5xup::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2JhMmI4NmMtYWJjZC00MDNkLWFiMWYtNTM5OTA5NDgzYmZmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -450,7 +450,7 @@ sublink:LISTSOURCE:https://flix555.com/3b1p3cago2mw::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/k1m1mxbxrav9::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjJmZjkyMGQtYTkxZS00ZjBjLTliZjgtOWQxNjUwZThjOTQxXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -461,7 +461,7 @@ sublink:LISTSOURCE:https://flix555.com/jpjh4hirxonf::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/hnditovg4mo7::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjE0MDYyODAtNTViMi00OWEwLWExMWUtMDg1MTlhOTA5ZDhhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -488,7 +488,7 @@ sublink:LISTSOURCE:https://flix555.com/0ecobs815zrf::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/t18va0jatd5k::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTk0NjczNDktMzgwYi00NjdkLWJlOTEtOGMzZTBlOWRlNTMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -499,7 +499,7 @@ sublink:LISTSOURCE:https://flix555.com/abe9b75gyuzk::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/fip3wad2rjzr::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzU0NjM1MTQzN15BMl5BanBnXkFtZTcwMTE3MTA0Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -510,7 +510,7 @@ sublink:LISTSOURCE:https://uptobox.com/51uyn3aahmjn::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://verystream.com/stream/BF5GBQXjkuM/Memory.The.Origins.of.Alien.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWIyMzdjNzgtOTFmNS00MWFiLTk5ODEtODc1YWQxNmNlN2E3XkEyXkFqcGdeQXVyMjE3MTA1Mw@@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -522,7 +522,7 @@ sublink:LISTSOURCE:https://uptobox.com/zlngy0k03q1l::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://verystream.com/stream/iEVZ1EiYojU/sharkwater.extinction.2018.limited.dvdrip.x264-cadaver%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGJkZTA3YzMtNjU0YS00NGYzLWE2OGQtYzcxYTBkOTMzMjU1XkEyXkFqcGdeQXVyNTMyMDExNTc@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -533,7 +533,7 @@ sublink:LISTSOURCE:https://uptobox.com/jh85smfhbayd::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/g7p4do7oas14::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/QIpWovJ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -544,7 +544,7 @@ sublink:LISTSOURCE:https://uptobox.com/nx5fyxnu6e6k::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/0jmbetemecyc::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODNjNWI1MzItZjVhMy00MWQwLTgzMDgtZmZjODY0MzEwYTlmXkEyXkFqcGdeQXVyMTgxMzAwMDM@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -555,7 +555,7 @@ sublink:LISTSOURCE:https://uptobox.com/s6d8v9xkjjpy::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/0yftigb1rj8x::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTZiYTc0NDYtZjk0OS00ZWFiLWFjOTEtOWRmYTg3MDNkNzhhXkEyXkFqcGdeQXVyMzQ1Mjg0OTc@._V1_SX731_CR0,0,731,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -566,7 +566,7 @@ sublink:LISTSOURCE:https://uptobox.com/rmnp7a7w4xx7::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/kt81pk5ql9bc::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/xCY4IF.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -577,7 +577,7 @@ sublink:LISTSOURCE:https://uptobox.com/intj0uzp15t1::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/hmvye49zlyz0::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0OGM3YTctZmJiYS00NWIzLTlkZDUtZWU3MGVkZjNkMDAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -588,7 +588,7 @@ sublink:LISTSOURCE:https://uptobox.com/rvly4ws6swyd::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/rvly4ws6swyd::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODNlOGM0NDgtZjJjYi00YTU5LTg3YWYtZTQ2MmI4Y2E3YTUwXkEyXkFqcGdeQXVyNjIxNDMyNjk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -599,7 +599,7 @@ sublink:LISTSOURCE:https://uptobox.com/1xhfgyqwd3qj::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/1xhfgyqwd3qj::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTk0NDQ5ZjYtYWQ3Mi00OWMxLWExYjMtMjY5ZjE2NmQ2MzZlXkEyXkFqcGdeQXVyMjczMTg1Ng@@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -610,7 +610,7 @@ sublink:LISTSOURCE:https://uptobox.com/b3j06h7axmc2::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/ti2fx5buu5y3::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDI5N2RjMDAtMzAyOS00NjliLThlODctODYxNDQzYjYwNjBiXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -621,7 +621,7 @@ sublink:LISTSOURCE:https://uptobox.com/k6tkook6icej::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/k6tkook6icej::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzllNTU5MjQtNTI2ZS00NWVlLTg3OGEtNGQwMmI3ODY3Yzc1XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -632,7 +632,7 @@ sublink:LISTSOURCE:https://uptobox.com/0zjsre5yplzi::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://uptobox.com/0zjsre5yplzi::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYWNlMDY1MGUtYWMyZC00YmEwLWFmMjQtZjg4MDVhYTVhZDAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -643,7 +643,7 @@ sublink:LISTSOURCE:https://uptobox.com/ivoyvvbrqxu0::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://verystream.com/stream/8f1tEWmy5M9/Nova.Black.Hole.Apocalypse.2018.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/nopkY.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -654,7 +654,7 @@ sublink:LISTSOURCE:https://uptobox.com/hjw77nxw2iis::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://verystream.com/stream/WYpRjrCudD6/the.edge.2019.bdrip.x264-ghouls%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGMxYmM3NDgtZDMyZi00ZDYzLWI4OTctZGE3MzllZTc3YjU3XkEyXkFqcGdeQXVyOTkwNDQ1MDk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -665,7 +665,7 @@ sublink:LISTSOURCE:https://uptobox.com/cm2rgzjk6tfv::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/vMozWykOoNs/Danica.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-monkee.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzM4ZTQ0NWItMmNkNS00ODk0LTljZGUtMDY0MmI1OGU2OTdiXkEyXkFqcGdeQXVyNzA4MTM1MzY@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -676,7 +676,7 @@ sublink:LISTSOURCE:https://uptobox.com/6jtjiowwo553::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/66nu3-uTiX0/Team.Khan.2018.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWFjZjFiYjYtY2EzNC00YjNhLWJjNmEtZmE4ZTE3ZTAxZWQ1XkEyXkFqcGdeQXVyNjI2MTA0Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -687,7 +687,7 @@ sublink:LISTSOURCE:https://uptobox.com/12o3tox0l1t3::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/vvTDJmfsvjs/hale.county.this.morning.this.evening.2018.bdrip.x264-lpd%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjY4ZWM5YTMtYTE3MC00MDVjLWI4ODUtZTc3NjYyZDVjNGJjXkEyXkFqcGdeQXVyMTg5MDEyNw@@._V1_SY1000_CR0,0,683,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -698,7 +698,7 @@ sublink:LISTSOURCE:https://uptobox.com/xr0eeecpxe3u::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/xucFwKGSCDg/The.Edge.of.Democracy.2019.720p.NF.WEB-DL.DDP5.1.x264-TEPES.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDE2NGVmOWItYWI2NC00ZDcxLTk1NmQtYTE5M2U0MmIyYWM1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -709,7 +709,7 @@ sublink:LISTSOURCE:https://uptobox.com/gt9bu2zjg1ln::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/azrFBeEwHHk/Wig.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTFhMjM1YmQtM2FhNy00NDI3LTg5YTAtNDg0YzU4MDk0Y2VmXkEyXkFqcGdeQXVyODI3NjMwOQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -720,7 +720,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dmokpebanckkbpsq/Life_in_The_Doghous
 sublink:LISTSOURCE:https://uptobox.com/mz2m24sz7txn::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzkxZDRjMzAtYWE2NS00MmJjLWJiMjAtZDdiNjYyOWRiY2ZmXkEyXkFqcGdeQXVyMjM1MzIzNTY@._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -731,7 +731,7 @@ sublink:LISTSOURCE:https://streamango.com/f/krpmamffptoacdsd/Liam_As_It_Was_2019
 sublink:LISTSOURCE:https://uptobox.com/29mvnit1zvps::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2VjN2ZmOTktYzBkZC00MzMxLTlkNTktNmEzMGE2MWUzODY4XkEyXkFqcGdeQXVyOTEyNzA4MTE@._V1_SY1000_CR0,0,563,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -742,7 +742,7 @@ sublink:LISTSOURCE:https://uptobox.com/j1yiaft10siw::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/4yzo94qpljI/The.Brink.2019.1080p.WEB-DL.DD5.1.H264-FGT.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOThjZTlkYmUtMmVmMC00ZTNlLWExNjUtZjZkZTc4YjE0ODQ3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -755,7 +755,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/drslklsfmaeqolne/Y-C-s_2019_1080p_
 sublink:LISTSOURCE:https://openload.co/f/bzZLQtp-DJw/Y-C-s.2019.1080p.WEB.x264-AR.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjI5Y2Y0ODMtZTM2Zi00YWFhLTk1YWYtOGQ2MDQyNDY3ODUyXkEyXkFqcGdeQXVyOTkwMDM2MzU@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -766,7 +766,7 @@ sublink:LISTSOURCE:https://uptobox.com/4ccfare63pmh::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/v0GfnU8kYdE/Hatton.Garden.The.Inside.Story.2019.1080p.WEB.x264-worldmkv.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmY1NTQ3NDAtYjY2MS00OWMzLWI1NjItMTM4ZDQyY2E4ODcyXkEyXkFqcGdeQXVyODIxMjk4Ng@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -778,7 +778,7 @@ sublink:LISTSOURCE:https://uptobox.com/qz5r837d99ox::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/_cvP1Mld3ko/game.of.thrones.s08e00.the.last.watch.720p.web.h264-memento%5Bettv%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDdlMzQzNDQtNTAxMS00NTMyLTgxYTAtYzQ0OGI1YzZhY2Y3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -789,7 +789,7 @@ sublink:LISTSOURCE:https://uptobox.com/mhx8surrylij::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/WX-G-sVhXp0/Carl_Panzram_The_Spirit_of_Hatred_and_Vengeance_%282012%29_DOCUMENTARY_WEBRIP_X264-RAINDEER.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjAwOTAzMjQyNV5BMl5BanBnXkFtZTcwMDQ3MjU4Nw@@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -800,7 +800,7 @@ sublink:LISTSOURCE:https://uptobox.com/gvzig2o1lg32::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/-U5yMOjY6to/Life.After.Flash.2017.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjI0ZWU0OTEtZGQ1My00MTVlLThkN2QtMmEyYmFkYjg2ZDg4XkEyXkFqcGdeQXVyMzQ1OTk0NzU@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item> 
@@ -829,7 +829,7 @@ sublink:LISTSOURCE:https://uptobox.com/6gahgd8unufs::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/M9uu9AHAbVg/Being.Frank.The.Chris.Sievey.Story.2018.720p.BluRay.800MB.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgyMzY3Njg3Ml5BMl5BanBnXkFtZTgwMjc4MTg0NzM@._V1_SY1000_CR0,0,1343,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -841,7 +841,7 @@ sublink:LISTSOURCE:https://uptobox.com/pihvb5bmonfy::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/Gl6ifJu9Gx4/Last.Breath.2019.1080p.NF.WEBDL.DD.5.1.H264-ETRG%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2Q1YjViYmQtNzJkOC00OGZhLWFmM2EtMmY2MzYzMGU3NDBmXkEyXkFqcGdeQXVyMTUyODIxOA@@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -852,7 +852,7 @@ sublink:LISTSOURCE:https://uptobox.com/kggzxylhw7oh::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/Q0OptMWjHkQ/At.the.Heart.of.Gold.Inside.the.USA.Gymnastics.Scandal.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjc3NTFhM2EtYjkyZi00YzEyLWEzNGUtMGRjZmQyMWU2YjBiXkEyXkFqcGdeQXVyMjY0NDAwMDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -863,7 +863,7 @@ sublink:LISTSOURCE:https://uptobox.com/fnohab1pk2k9::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/C7_V_nLdcUU/Apollo.11.2019.1080p.BRRip.x264-MkvCage.ws.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -874,7 +874,7 @@ sublink:LISTSOURCE:https://uptobox.com/prav7t5d4xmt::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/oLLloa-tkEk/Homecoming.A.Film.by.Beyonce.2019.720p.WEBRip.1GB.x264-GalaxyRG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmYzNzNiNTQtNjhmNC00ZmIyLWI2YTYtNTg5NTUyN2Y1YjNlXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -885,7 +885,7 @@ sublink:LISTSOURCE:https://uptobox.com/9cir103qop8v::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/lmhd0JeBuO4/action.figures.2.2018.web.x264-tbs.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWViYjJhMjYtZDkxNS00MDk5LTkzMTEtYjRhMDM5MTY1MGMzXkEyXkFqcGdeQXVyNjQyMDIwODQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -896,7 +896,7 @@ sublink:LISTSOURCE:https://uptobox.com/gj71zxxaiqmk::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/PoHEcq1b8iQ/The_Beatles_-_Made_on_Merseyside_BigJ0554.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjMzMWMyNGItNGFkMy00ZDRiLTg1YzAtMzJjMzc1ZTEyZGM3XkEyXkFqcGdeQXVyMTg1MDEyMjk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -907,7 +907,7 @@ sublink:LISTSOURCE:https://uptobox.com/q6d5aft2kyzj::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/b22baVE-TnM/The.Legend.Of.Cocaine.Island.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOWI3ZGM1NWYtMmE5NC00MTIwLThjZTUtODZmMzA0MzMzNzRmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -919,7 +919,7 @@ sublink:LISTSOURCE:https://uptobox.com/nlyka57zeczr::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/OXPsapCtQrE/Divide.And.Conquer.The.Story.of.Roger.Ailes.2018.HDRip.XviD.AC3-EVO.avi.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY1NzczMjQwMF5BMl5BanBnXkFtZTgwNzAxNDE3NjM@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -930,7 +930,7 @@ sublink:LISTSOURCE:https://uptobox.com/beww7v61dene::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/R2UDPVKuO6c/Thud.Pilots.2018.1080p.AMZN.WEB-DL.DD2.0.H.264-AJP69.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDA4NmQzNWYtMTM4YS00YzQxLTgzZmItNzAzZWY3OTk5M2JmXkEyXkFqcGdeQXVyNDY5ODc2NA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -944,7 +944,7 @@ sublink:LISTSOURCE:https://uptobox.com/z52eslkpkxhz::LISTNAME:[COLORgold]PART 2 
 sublink:LISTSOURCE:https://openload.co/f/sw-uDPetFag/leaving.neverland.part.2.2019.720p.web.hevc.x265.mkv::LISTNAME:[COLORgold]PART 2 HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzZmNTBjOTctY2VjZi00MjA1LTgwYjktNmMwMzkwMjUwNmVhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -955,7 +955,7 @@ sublink:LISTSOURCE:https://uptobox.com/8gib6d9gjhwf::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/FqD6oVt_U1o/Madonna.and.the.Breakfast.Club.2019.1080p.WEB-DL.H264.AAC-EVO%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTdhMDk3ZDEtNGU2Mi00ZGNkLWE2NmYtNWI3N2M3N2QzZDkzXkEyXkFqcGdeQXVyMzI2NzEzMzk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -966,7 +966,7 @@ sublink:LISTSOURCE:https://uptobox.com/3ao1hosrshfo::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/VcJVoQy1Tfo/the.strange.life.of.dr.frankenstein.2018.hdtv.x264-w4f.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDY0Yzk1NzUtNDQyNC00MWUwLTk5NjAtMmI3ODQ4MzU2MzlmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -977,7 +977,7 @@ sublink:LISTSOURCE:https://uptobox.com/55eb5l1xcgj0::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/P4wSTOhJYkc/Its.a.Hard.Truth.Aint.It.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/YG7mgPoL.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -988,7 +988,7 @@ sublink:LISTSOURCE:https://uptobox.com/sdwsnnn5lwvl::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/0H69vvgf-qE/The.Panama.Papers.2018.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNThlZjhiNzAtYzJlNS00ZDIwLTg3NzYtODFlNzAzNzhlN2QzXkEyXkFqcGdeQXVyNTI4OTczMjQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1000,7 +1000,7 @@ sublink:LISTSOURCE:https://uptobox.com/7wd8aume1xj8::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/c10k9qXz1IE/the.rape.of.recy.taylor.2017.limited.dvdrip.x264-cadaver%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU3NzM1Njc0MV5BMl5BanBnXkFtZTgwMDY0ODA0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1011,7 +1011,7 @@ sublink:LISTSOURCE:https://streamango.com/f/sqmspqeptdfnpqsm/United_Skates_2019_
 sublink:LISTSOURCE:https://openload.co/f/q-W6u0Q0VdM/United.Skates.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOWY2M2ZkZDEtYzUwMC00ZDAyLTkyMTAtNDFmMDVjZDI1YjZmXkEyXkFqcGdeQXVyNzQyNDk0Mjc@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1022,7 +1022,7 @@ sublink:LISTSOURCE:https://uptobox.com/0nlupdqd5h6h::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/SelCBOBCNZA/ReMastered.The.Two.Killings.Of.Sam.Cooke.2019.720p.HDRip.900MB.x264-BONSAI.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWY5YzNjYzAtZGZiNC00NTk5LTljNGUtNzFiMmFhZmQ0M2Q1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1033,7 +1033,7 @@ sublink:LISTSOURCE:https://uptobox.com/4rnr2oxjqbdd::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/2ebuMiJ8iLY/All.This.Mayhem.2014.iNTERNAL.BDRip.x264-OBiTS.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA3MDU3MTU2Ml5BMl5BanBnXkFtZTgwODkzNDkzMjE@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1045,7 +1045,7 @@ sublink:LISTSOURCE:https://uptobox.com/aa1b6r3tlkam::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/colbRcZ2h7E/Stay.Awesome%2C.China%21.2019.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjIzMWI0OGUtYjJmNi00YTkyLTg3NjgtODBhOTkxZTk2M2QwXkEyXkFqcGdeQXVyNzA4ODYwMTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1056,7 +1056,7 @@ sublink:LISTSOURCE:https://uptobox.com/9gwrmq0bwemy::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/umC9acTns5A/Free.Solo.2018.720p.WEB-DL.MkvCage.ws.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjMwYjcwNWQtNTQ5YS00MzVlLTkxYzMtNDIwZWIxZTE4Zjg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1065,7 +1065,7 @@ sublink:LISTSOURCE:https://openload.co/f/umC9acTns5A/Free.Solo.2018.720p.WEB-DL.
 sublink:LISTSOURCE:magnet:?xt=urn:btih:18D0D225E4572ABDC2397FDD3281464B8D04FBDC&dn=Straight+Up%3A+Kentucky+Bourbon+%282018%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGE2Y2I3NzMtZGM2MS00MmI5LWIxNDgtN2U4YjcyMzE1OWY1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1074,7 +1074,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:18D0D225E4572ABDC2397FDD3281464B8D04FBDC&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:6F969DE624AF3775D8BF824718A133CED58A521C&dn=Daughters+of+the+Sexual+Revolution%3A+The+Untold+Story+of+the+Dallas+Cowboys+Cheerleaders+%282018%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjk3OWM4M2YtNzM0Yy00OTM0LTg3NzItM2QyNjQwZDVjMTMzXkEyXkFqcGdeQXVyNjAxNTA5NDE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1084,7 +1084,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:6F969DE624AF3775D8BF824718A133CED58A521C&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:8761796FD11F0BA9A9D0008995FF0A9C71B0D0BD&dn=The+Blood+Is+at+the+Doorstep+%282017%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTUwNTk5ZWItMDljYi00NzIwLWFjZmYtNWE3ZjQwNzU2ZWJmXkEyXkFqcGdeQXVyNjQzMTkwNDc@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1096,7 +1096,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tfmcaaqoqctdkcqc/fred_2018_limited_d
 sublink:LISTSOURCE:https://openload.co/f/ziCRaQd4dLY/fred.2018.limited.dvdrip.x264-cadaver%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzRkNDQ4YWEtZTE1OS00NTY5LTg0NGMtNGFjNTZmNzE5NGJlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1107,7 +1107,7 @@ sublink:LISTSOURCE:https://streamango.com/f/btktqmdomfefflmc/Unprotected_2018_WE
 sublink:LISTSOURCE:https://uptobox.com/4ryy9zssxjl1::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjFlNDhjMmQtZDlmNi00NGVmLTk1YmYtMTQ1OTczZWVkNzllXkEyXkFqcGdeQXVyNTk2OTg5OTk@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1118,7 +1118,7 @@ sublink:LISTSOURCE:https://uptobox.com/aoxa37eix7fd::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://vidlox.me/y65ig6tkoyu6::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjI5NmZmNzctMzdjOC00ZGU1LTk2MTYtNzM2MjZiZTkyMjkzXkEyXkFqcGdeQXVyNjQ0NjUzNTY@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1129,7 +1129,7 @@ sublink:LISTSOURCE:https://uptobox.com/upkkrzh1qxel::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/DVFwgP6MWwQ/The.Gentleman.Driver.2018.1080p.NF.WEB-DL.DDP2.0.x264-Tars%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDQ0NmM1M2YtMjY1MC00ZWM3LWI2YWMtOGUyZTY3YzAxMWEwXkEyXkFqcGdeQXVyOTQzMTA3NTc@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1141,7 +1141,7 @@ sublink:LISTSOURCE:https://uptobox.com/x8k00z3ym833::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/UBs7AR_z18I/The.Man.Who.Stole.Banksy.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjliNDgyZWQtZjQ0Yy00MDBkLTlkNGQtMGViNDg2ZWRkZTM0XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1152,7 +1152,7 @@ sublink:LISTSOURCE:https://uptobox.com/4xk9g8az79q9::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/SZX6s3l7Rnc/sharks.2018.docu.bdrip.x264-ehd%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/xtZOIwjhl7.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1163,7 +1163,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/spfmoceqcdmnspal/Let_It_Be_1970_IT
 sublink:LISTSOURCE:https://openload.co/f/fm72VkqjKsY/Let_It_Be_1970_ITA.avi.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ5ODY4MTg4Ml5BMl5BanBnXkFtZTcwODIzMzU1MQ@@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1174,7 +1174,7 @@ sublink:LISTSOURCE:https://uptobox.com/gf0bdnjmp4nk::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/KPF0OBCBVKo/Haunted.State.Theatre.of.Shadows.2017.720p.WEB.H264-AMRAP.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDVlZTliYTMtY2U0YS00OTZkLTgyOTItMDljZjg1NmViNTdmXkEyXkFqcGdeQXVyNzIyNTQ4MDI@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1186,7 +1186,7 @@ sublink:LISTSOURCE:https://uptobox.com/rcip33ou7k23::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/HjQJ54lq2Sc/Drugs.as.Weapons.Against.Us.The.CIA.War.on.Musicians.and.Activists.2018.HDRip.XviD-AVID.avi::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2VkZjcyYjYtMDU2Yy00ODU5LWIwMWEtZTU2NDgyMWYzNjA3XkEyXkFqcGdeQXVyNDc5ODkzMjg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1197,7 +1197,7 @@ sublink:LISTSOURCE:https://uptobox.com/81ctb4n1dej5::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/Xbmt_K-Veu0/The.Panama.Papers.2018.720p.WEB-DL.MkvCage.ws.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNThlZjhiNzAtYzJlNS00ZDIwLTg3NzYtODFlNzAzNzhlN2QzXkEyXkFqcGdeQXVyNTI4OTczMjQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1208,7 +1208,7 @@ sublink:LISTSOURCE:https://uptobox.com/0tddcd0lv26d::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/9qC8d4ObHRo/Take.The.Ball%2C.Pass.The.Ball.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjYxYmFjYzAtZDc4Mi00ODUzLTg1MGMtZTJlMjhmMTYwY2ZhXkEyXkFqcGdeQXVyOTQwMTQ0NDk@._V1_SY1000_SX700_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1219,7 +1219,7 @@ sublink:LISTSOURCE:https://uptobox.com/0ic39h8pqz69::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/G5vWVi_a5fM/John.McEnroe.In.The.Realm.Of.Perfection.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzQxYThhZjgtZTFmZS00ZjJlLWE0OTMtNDQyZjY0ZDBhOGRlXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1230,7 +1230,7 @@ sublink:LISTSOURCE:https://uptobox.com/4k6b1z4yhxxh::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/nuVpadNVDHw/Death.By.Metal.2018.720p.WEB.H264-AMRAP.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzBmNmYwZjktMTZhMi00M2E3LTlmODYtZDc2YzRkNzAxMGQ1XkEyXkFqcGdeQXVyNjgzNDMzMTQ@._V1_SY1000_CR0,0,776,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1242,7 +1242,7 @@ sublink:LISTSOURCE:https://streamango.com/f/pqtkndspdbmekoqa/fyre_fraud_2019_720
 sublink:LISTSOURCE:https://openload.co/f/7hJfj7I7J_Y/fyre.fraud.2019.720p.web.h264-tbs.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTA1NzQ5MjAxMDZeQTJeQWpwZ15BbWU4MDc4MjM4MTcz._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1253,7 +1253,7 @@ sublink:LISTSOURCE:https://uptobox.com/bbvpdrjdseol::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/ZhEqq5WOznA/Americas.Hate.Preachers.2016.1080p.HDTV.h264-PLUTONiUM.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzQwNDEyODMtNzNjNC00NGIwLThiYWUtNmQzNTdkODEzZWFiXkEyXkFqcGdeQXVyNDI3NzQxODA@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1264,7 +1264,7 @@ sublink:LISTSOURCE:https://uptobox.com/2bwmjkqfo4dj::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/O5UjzyUU1e4/my.country.no.more.2018.720p.hdtv.x264-w4f.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmFkY2E4YzItMzI3YS00NzNmLWE4YjUtOGVlNmZhMWY5Mjk0XkEyXkFqcGdeQXVyMjczMDY1MTY@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1275,7 +1275,7 @@ sublink:LISTSOURCE:https://uptobox.com/9nby9wvegcjd::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/9QO-2hVudY4/Black.Power.Americas.Armed.Resistance.2016.1080p.HDTV.h264-PLUTONiUM.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjUwNGUxMmItMDhmMS00NjdhLWIwZmItYzllZmI2YjEzZmE4XkEyXkFqcGdeQXVyNDI3NzQxODA@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1289,7 +1289,7 @@ sublink:LISTSOURCE:https://vidoza.net/v5rkw4gaknz9/living_in_the_futures_past_20
 sublink:LISTSOURCE:https://openload.co/f/Y5vjNuIxTog/Living.in.the.Futures.Past.2018.1080p.KNPY.WEB-DL.AAC2.0.H264-AKME.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTlhZTliMzEtYmM3ZC00ODY2LTk4NzItMDIxM2ZiNzVhODBmXkEyXkFqcGdeQXVyODQ1MjI4NDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1301,7 +1301,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/qrfnnopbaqlcfdmo/shot_the_psycho-s
 sublink:LISTSOURCE:https://openload.co/f/2gVFAsUqhus/shot.the.psycho-spiritual.mantra.of.rock.2016.limited.dvdrip.x264-cadaver.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDkzNzM5MzY0MV5BMl5BanBnXkFtZTgwMzMzNDI3MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1312,7 +1312,7 @@ sublink:LISTSOURCE:https://streamango.com/f/npllbefrptanneno/MARS_Inside_SpaceX_
 sublink:LISTSOURCE:https://openload.co/f/REazvpFXNE4/MARS.Inside.SpaceX.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mXoB5QDyL._RI_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1323,7 +1323,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mlfeanotbaktkalm/Robot_Planet_2018_1
 sublink:LISTSOURCE:https://openload.co/f/Qd4ITMaQwGw/Robot.Planet.2018.1080p.AMZN.WEB-DL.DDP2.0.H.264-QOQ.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWQwZDcyYjgtZWVhOC00NWU1LTljN2ItMWIxODU2MTdmNTk2XkEyXkFqcGdeQXVyMTc0ODg5NTQ@._V1_SY1000_CR0,0,777,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1334,7 +1334,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fmdselraltmsnsqq/Last_Call_For_Titan
 sublink:LISTSOURCE:https://openload.co/f/417mQ4sukDw/Last.Call.For.Titan.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-QOQ.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmEyMmVkMGUtODMzYi00NWM3LWIyYzctNjY1NDcyZTZjZTg1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1345,7 +1345,7 @@ sublink:LISTSOURCE:https://streamango.com/f/drbnpsqtnqqdcnoc/Stressed_2019_1080p
 sublink:LISTSOURCE:https://openload.co/f/PhcpmzMrVbM/Stressed.2019.1080p.AMZN.WEB-DL.DDP2.0.H.264-QOQ.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ1YzJjMDQtYWQ3Ny00NTk2LWFkNjYtYmJmYjJmNjQ0YjcxXkEyXkFqcGdeQXVyOTYzMTUyMTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1356,7 +1356,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/pospqelnolkbemad/Root_Cause_2019_1
 sublink:LISTSOURCE:https://openload.co/f/dbV2oSNpgHo/Root.Cause.2019.1080p.WEBRip.X264-INFLATE.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTM3YzBjOTYtMTQ3OS00ZjY1LWJmNDctMzQyNmI4MWYwZmM5XkEyXkFqcGdeQXVyMzY0NTIxMjE@._V1_SY1000_CR0,0,656,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1367,7 +1367,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/nppsqefmardsqlan/McKellen_Playing_
 sublink:LISTSOURCE:https://openload.co/f/oS6z4VkMR2M/McKellen.Playing.the.Part.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-QOQ.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDE2YWNlNDktYThkMy00ZTdmLTg5NjEtMjg1ZWJmMTUzNzI1XkEyXkFqcGdeQXVyMTk1MTUyMDA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1378,7 +1378,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/pmdqanqbccrqkood/Th_B_R_B_2018_720
 sublink:LISTSOURCE:https://openload.co/f/ERwxmcILc3g/Th.B.R.B.2018.720p.AMZN.WEB-DL.DD2.0.H.264-AJP69.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmIwMDkwNjctMjc0ZC00N2U1LTlhOTEtYTFiYjZhMGQ0MjhlXkEyXkFqcGdeQXVyNjA3NjM5Njc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1389,7 +1389,7 @@ sublink:LISTSOURCE:https://uptobox.com/ro11zwn0gfh9::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/u1sDc6Bcuc4/Call.Her.Ganda.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOWFiNWUwZjMtNWMzNy00NzMyLTlhZDItNjE5Nzk3NjVjOTg2XkEyXkFqcGdeQXVyMjcxNDE4MQ@@._V1_SX681_CR0,0,681,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1400,7 +1400,7 @@ sublink:LISTSOURCE:https://uptobox.com/os4meijbcw1c::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/bo6CHcr_GE0/After.Porn.Ends.3.2018.1080p.WEB-DL.x264-iKA%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/ueB6HoR8g.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1411,7 +1411,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/estnefblsskssobp/Tough_Guy_The_Bob
 sublink:LISTSOURCE:https://openload.co/f/V2-uICkZi_U/Tough.Guy.The.Bob.Probert.Story.2018.720p.HDTV.x264-aAF.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/xcNOJ8W2k.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1422,7 +1422,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ktrcfdaemnstlnmr/Double_Play_James_B
 sublink:LISTSOURCE:https://openload.co/f/8WaDKwTVVl4/Double.Play.James.Benning.and.Richard.Linklater.2013.BRRip.XviD.MP3-XVID.avi::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/uKpgP2FeB.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1433,7 +1433,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/dsfllfldpcpadnkp/D_Z_T_A_O_T_D_201
 sublink:LISTSOURCE:https://openload.co/f/z-5HvGXTtas/D.Z.T.A.O.T.D.2015.720p.HDTV.x264-CBFM.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/dhCj6xW.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1460,7 +1460,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kelltdnetllkqapt/pfa-jimmy_barnes_wo
 sublink:LISTSOURCE:https://openload.co/f/vgNwh9l7PmI/pfa-jimmy.barnes.working.class.boy.720p%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Xtomh.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1471,7 +1471,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/oldnoemrpnprcbse/daring_to_dream_e
 sublink:LISTSOURCE:https://openload.co/f/4gWjkGLZmiQ/daring.to.dream.englands.story.at.the.2018.fifa.world.cup.2018.bdrip.x264-ghouls.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/MtkGW0w.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1482,7 +1482,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/mnbnafamdbnrcsab/Springsteen_on_Br
 sublink:LISTSOURCE:https://openload.co/f/Q2V-pLIbrj4/Springsteen.on.Broadway.2018.720p.WEB-DL.x264-iKA.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTAyMjY3MjkyNzZeQTJeQWpwZ15BbWU4MDY4MjUzODYz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1493,7 +1493,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/slennndaeocqtaqp/27_gone_too_soon_
 sublink:LISTSOURCE:https://openload.co/f/R_PSCDa0Rew/27.gone.too.soon.2018.dvdrip.x264-ghouls.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDRiNmJmNDItOWVkMy00OTZiLWFmMDQtYzNmMDUwOTQ3NTBlXkEyXkFqcGdeQXVyMTQ0MzMwNQ@@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1504,7 +1504,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/lcadmrkednmksoml/Bleed_Out_2018_AM
 sublink:LISTSOURCE:https://openload.co/f/f00AAY4pIpo/Bleed.Out.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/ZWukEsMh.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1515,7 +1515,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/ofqobdqokstfqqbr/F_S_2017_1080p_WE
 sublink:LISTSOURCE:https://openload.co/f/R5JANCt9HjY/F.S.2017.1080p.WEB.H264-AMRAP.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWM1NDJkN2QtODk4Zi00NWU5LTlmMTAtOWUyZmMyYjllYjc2XkEyXkFqcGdeQXVyNDc4MzUwMzA@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1526,7 +1526,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/apktrrnorbrbqorp/L_K_L_2018_WEBRip
 sublink:LISTSOURCE:https://openload.co/f/USzo3ts_MHc/L.K.L.2018.WEBRip.H264-RBB.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjkwZmVkYTEtMjM1My00ZmYyLTkwZDctOGQ2NDg5MjE3YjdkXkEyXkFqcGdeQXVyNDYyMzY1OQ@@._V1_SY1000_CR0,0,750,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1537,7 +1537,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/oslemdaaomltkrnk/Fahrenheit_11-9_2
 sublink:LISTSOURCE:https://openload.co/f/Fw_f_QYrqvs/Fahrenheit.11-9.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjE4NDYxNTk4MV5BMl5BanBnXkFtZTgwNTE1MDMxNjM@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1548,7 +1548,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/plapseoncseosfrb/hitting_the_apex_
 sublink:LISTSOURCE:https://openload.co/f/2R14qZ5R_Ko/hitting.the.apex.2015.bdrip.x264-bipolar%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODQ3Nzc3NzYxNF5BMl5BanBnXkFtZTgwMTIyOTg2NjE@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1559,7 +1559,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ktofslkscntlsdno/Drug_2018_AMZN_WEB-
 sublink:LISTSOURCE:https://openload.co/f/QPxhMqLvlUc/Drug%24.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2I5ZDllZTgtY2JlOC00MDg5LWIxMGMtZmJjZWIxZTk1NGM2XkEyXkFqcGdeQXVyNjEyODY5MjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1570,7 +1570,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rmntoddkarmslsrm/the_american_meme_2
 sublink:LISTSOURCE:https://openload.co/f/WTb-4XrIyjE/the.american.meme.2018.720p.web.x264-strife%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjUyODkzNDYtZGU0OS00MjQ1LWFkYjQtNmYxNzBiOTZhNDY1XkEyXkFqcGdeQXVyMTY1NjUwMjA@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1581,7 +1581,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/sffnlpncdenrlako/The_Gilligan_Mani
 sublink:LISTSOURCE:https://openload.co/f/Zfr481qXCpk/The.Gilligan.Manifesto.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Mnic0OxtUk.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1592,7 +1592,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fratacbdptkfffse/Ronnie_Coleman_The_
 sublink:LISTSOURCE:https://openload.co/f/djUk1gePlCI/Ronnie.Coleman.The.King.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2M0YmFmM2MtNGIyZS00NjY4LTk1MjgtNGRmNjdjMjE1MDk5XkEyXkFqcGdeQXVyNDMxNTQ3MTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1603,7 +1603,7 @@ sublink:LISTSOURCE:https://streamango.com/f/osdamssolfbkqtel/The_Bill_Murray_Sto
 sublink:LISTSOURCE:https://openload.co/f/I1TkF8ilDwg/The.Bill.Murray.Stories.Life.Lessons.Learned.from.a.Mythical.Man.2018.HDRip.XviD-AVID.avi::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTU0NTU4ZDctMjljNy00Y2RlLTlmNmEtMTA1NTgyNGQwYTQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1614,7 +1614,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bqooodspaqnmsmnt/elvis_presley_the_s
 sublink:LISTSOURCE:https://openload.co/f/ritufjvN1Kg/elvis.presley.the.searcher.2018.dvdrip.x264-fragment%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/5T79G0eWZh.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1625,7 +1625,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/tqmforklfmrestpt/The_Truth_About_K
 sublink:LISTSOURCE:https://openload.co/f/gmlM2wjOxd8/The.Truth.About.Killer.Robots.2018.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/Ht5VA.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1636,7 +1636,7 @@ sublink:LISTSOURCE:https://uptobox.com/7zdhquvzwyn0::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://openload.co/f/azvsyuM5vyo/Make.Us.Dream.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/z6gioBJn.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1647,7 +1647,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ekalsbabmockerff/Trevor_Noah_Son_of_
 sublink:LISTSOURCE:https://openload.co/f/_EXuEnjY5-Q/Trevor.Noah.Son.of.Patricia.2018.WEB-DL.x264-iKA.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/q8jUB5fH.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1658,7 +1658,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/lfmcqdllnqbtfoto/lqd-theresidueliv
 sublink:LISTSOURCE:https://openload.co/f/F_wWogSdJu8/lqd-theresidueliveinlondon-720p-web.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/cVW0x85.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1669,7 +1669,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ookdmlnadsbnondb/lqd-afatwreek-720p-
 sublink:LISTSOURCE:https://openload.co/f/K_Bl164WE28/lqd-afatwreek-720p-web.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/CpP9R.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1680,7 +1680,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/smoopkqmdpnqkelo/A_W_O_R_2018_AMZN
 sublink:LISTSOURCE:https://openload.co/f/iqz7H48C_xc/A.W.O.R.2018.720p.AMZN.WEB-DL.DDP2.0.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/zHZti.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1691,7 +1691,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mkmcanosqldpkarf/creep-youreinvited7
 sublink:LISTSOURCE:https://openload.co/f/eWmBoqwwKD0/creep-youreinvited720.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/jzGecKr.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1702,7 +1702,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qrbtaretqmptpqlk/team_khan_2018_limi
 sublink:LISTSOURCE:https://openload.co/f/NA1KZXusVh8/team.khan.2018.limited.dvdrip.x264-cadaver.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/3IXyHRA.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1713,7 +1713,7 @@ sublink:LISTSOURCE:https://streamango.com/f/onptdrpelcbbtmba/a_skin_so_soft_2017
 sublink:LISTSOURCE:https://openload.co/f/tzxodEqWFnk/When.Fates.Collide-The.Mary.Decker.and.Zola.Budd.Story.WEB.x264-KOMPOST.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/KbiGlL.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1724,7 +1724,7 @@ sublink:LISTSOURCE:https://streamango.com/f/onptdrpelcbbtmba/a_skin_so_soft_2017
 sublink:LISTSOURCE:https://openload.co/f/jHSlhX19WVE/a.skin.so.soft.2017.dvdrip.x264-bipolar%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/N1qHaS4.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1736,7 +1736,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rnafsdkqfoorolsb/Coldplay_A_Head_Ful
 sublink:LISTSOURCE:https://openload.co/f/9KqYnC8Fn9o/Coldplay.A.Head.Full.of.Dreams.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzMzY2NTA3NzheQTJeQWpwZ15BbWU4MDQwMTc0NzYz._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1748,7 +1748,7 @@ sublink:LISTSOURCE:https://streamango.com/f/pbkdbnafcnrcsdee/Westwood_Punk_Icon_
 sublink:LISTSOURCE:https://openload.co/f/2h9vGR8f2FI/Westwood_Punk%2C_Icon%2C_Activist_%282018%29_720p_WEB-DL_x264_ESubs_-_MkvHub.Com.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/foq3Wk1wVb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1759,7 +1759,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bprqllmomkcftorm/the_cleaners_2018_w
 sublink:LISTSOURCE:https://openload.co/f/jrXhkHSaWKk/the.cleaners.2018.webrip.x264-cookiemonster.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/aYMquOnf.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1770,7 +1770,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cpnbkmfeeqdklsne/after_the_screaming
 sublink:LISTSOURCE:https://openload.co/f/3PQ5XXucIok/after.the.screaming.stops.2018.limited.720p.bluray.x264-cadaver%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/xhrLkc.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1782,7 +1782,7 @@ sublink:LISTSOURCE:https://streamango.com/f/aonpbdnkffdcsptk/The_Care_Theyve_Ear
 sublink:LISTSOURCE:https://openload.co/f/uhpUBwppEkE/The.Care.Theyve.Earned.2018.1080p.AMZN.WEB-DL.DDP2.0.H264-SiGMA%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/W8PXKr0Q7.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1793,7 +1793,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mcbccpcfoqdqafac/Mansfield_66_67_201
 sublink:LISTSOURCE:https://openload.co/f/mwtK5kcyw7A/Mansfield.66.67.2017.BDRip.x264-SPRiNTER%5BEtMovies%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/SVaP.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1804,7 +1804,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ooeamdcttodedkfs/BBC_They_Shall_Not_
 sublink:LISTSOURCE:https://openload.co/f/nUf50m4wh2U/BBC.They.Shall.Not.Grow.Old.720p.HDTV.x264.AAC.MVGroup.org.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmJhMDI5NGItYTA2YS00YzNjLWE5MjktMTkyNDNiZGI2NzAzXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1815,7 +1815,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/pobabtkqaqtfqmlc/We_Are_Not_Done_Y
 sublink:LISTSOURCE:https://openload.co/f/jmgXp4MQYnU/We.Are.Not.Done.Yet.2018.720p.HDTV.x264-aAF.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/7gukG.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1840,7 +1840,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cdftlpptqtqmsafe/pope_francis_a_man_
 sublink:LISTSOURCE:https://openload.co/f/mK_CGdQFPCo/pope.francis.a.man.of.his.word.2018.bdrip.x264-veto.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/4q8PnYsx.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1851,7 +1851,7 @@ sublink:LISTSOURCE:https://streamango.com/f/arcckmqrrnoaderm/Theyll_Love_Me_When
 sublink:LISTSOURCE:https://openload.co/f/ySE5mkLXq-Y/Theyll.Love.Me.When.Im.Dead.2018.720p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Tt4mCOwzb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1880,7 +1880,7 @@ sublink:LISTSOURCE:https://streamango.com/f/masafcerrfolokfs/www_MOVEY_CC_-_Afte
 sublink:LISTSOURCE:https://openload.co/f/jY3BQAN3or0/www.MOVEY.CC_-_After_Porn_Ends_3_2018_1080p_WEB-DL_X264-iM%40X.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/ueB6HoR8g.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1891,7 +1891,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qnabmlafcpkatcpt/Above_Majestic_2018
 sublink:LISTSOURCE:https://openload.co/f/Xy4_wf01ZEk/Above.Majestic.2018.HDRip.XviD-AVID.avi::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/hzCSDrb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1902,7 +1902,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mloelcfbrmcbalee/Our_New_President_2
 sublink:LISTSOURCE:https://openload.co/f/vTrQOlHz4r0/Our.New.President.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/FE0B4.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1913,7 +1913,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/asqetkoesqopmnkl/ESPN_30_For_30_Th
 sublink:LISTSOURCE:https://openload.co/f/w8ogiKuFYlY/ESPN.30.For.30.The.Two.Escobars.HDTV.H.264-CaPiTaN.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzNTMwODM3MV5BMl5BanBnXkFtZTgwMTQ5NzA3NTE@._V1_SY1000_CR0,0,660,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1924,7 +1924,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bctddabeaaatomkd/The_Steve_Irwin_Sto
 sublink:LISTSOURCE:https://openload.co/f/ODW1rL89i-I/The.Steve.Irwin.Story.2018.720p.WEB.x264-CAFFEiNE.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/nyhS0.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1935,7 +1935,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fmoamfpabeaeqkpt/terry_kath720p_EtHD
 sublink:LISTSOURCE:https://openload.co/f/yalctf-A_dM/terry.kath720p%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Qdyxw.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1946,7 +1946,7 @@ sublink:LISTSOURCE:https://streamango.com/f/morbqefemfmktfbs/mcqueen_2018_limite
 sublink:LISTSOURCE:https://openload.co/f/vKOsb0rg2L0/mcqueen.2018.limited.bdrip.x264-cadaver.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTg0MTg3MTM0OF5BMl5BanBnXkFtZTgwOTU0OTU2NTM@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1958,7 +1958,7 @@ sublink:LISTSOURCE:https://streamango.com/f/nmdttsfsckbspsor/Kemper_On_Kemper_In
 sublink:LISTSOURCE:https://openload.co/f/sLwAFxSL5Og/Kemper.On.Kemper.Inside.The.Mind.Of.A.Serial.Killer.2018.720p.WEBRip.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTY0NGVjOGMtMDZkYS00MmUwLTgxMGMtYjdhMGVhODRlNjczXkEyXkFqcGdeQXVyMjg3OTQ2NTI@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1969,7 +1969,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ptkbberlfkmflnnf/Mooch_2018_720p_AMZ
 sublink:LISTSOURCE:https://openload.co/f/cONFA23iWT0/Mooch.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/R4u9GOfc2.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1980,7 +1980,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qlbctmdpmosptead/Stolen_Daughters_Ki
 sublink:LISTSOURCE:https://openload.co/f/FqnWCJ2GZ6w/Stolen.Daughters.Kidnapped.by.Boko.Haram.2018.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/SIY4cQvL.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1991,7 +1991,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bncpfpqqrmqroktq/flight_of_the_conch
 sublink:LISTSOURCE:https://openload.co/f/2m8VU11nRSw/flight.of.the.conchords.live.in.london.2018.web.h264-convoy.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTQyMjM4NTMxMl5BMl5BanBnXkFtZTgwNTA1MTgzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2002,7 +2002,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/bpfqtfaamccnkckb/CODumentary_2017_
 sublink:LISTSOURCE:https://openload.co/f/q3OEml5mKGE/CODumentary.2017.WEBRip.x264-13.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/YWsr8.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2013,7 +2013,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ekknrkeenrrktbrc/American_Chaos_2018
 sublink:LISTSOURCE:https://openload.co/f/ZiBBlthwoj0/American.Chaos.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/sZGB8p.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2024,7 +2024,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mcrpnnooofkstqrd/always_at_the_carly
 sublink:LISTSOURCE:https://openload.co/f/s8ozmPcscoE/always.at.the.carlyle.2018.limited.dvdrip.x264-lpd.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/HZDlQGhvX.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2035,7 +2035,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/ofpflbclkatdsakt/Derren_Brown_Sacr
 sublink:LISTSOURCE:https://openload.co/f/U_uSEZRR-P0/Derren.Brown.Sacrifice.2018.WEB.x264-STRiFE.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/YndCQ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2046,7 +2046,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/malnpdbcsnkpldpf/This_Is_A_I_2018_
 sublink:LISTSOURCE:https://openload.co/f/hAzlGEQKrug/This.Is.A.I.2018.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/zgM2Vv.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2057,7 +2057,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/bramdqffbslmoanr/feminists_what_we
 sublink:LISTSOURCE:https://openload.co/f/E2iGBUx4e9I/feminists.what.were.they.thinking.2018.web.x264-strife.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/nhqBDo.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2068,7 +2068,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/kfrtdfrfeacqtqsp/S_B_2017_LiMiTED_
 sublink:LISTSOURCE:https://openload.co/f/c1BhJ0xF2nc/S.B.2017.LiMiTED.720p.WEB.x264-AEROHOLiCS.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Fgbje.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2079,7 +2079,7 @@ sublink:LISTSOURCE:https://vidoza.net/u4gyef6y39xo.html::LISTNAME:[COLORgold]HD 
 sublink:LISTSOURCE:https://openload.co/f/qG9XDzPfs5Y/Flight.of.the.Conchords.S00E01.One.Night.Stand.AMZN.WEB-DL.DDP2.0.H.264-NTG%5Beztv%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://c1.staticflickr.com/4/3058/2918873475_c667833874.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -2091,7 +2091,7 @@ sublink:LISTSOURCE:https://streamango.com/f/naknqkdcpmcmlkaf/The_God_Plant_2018_
 sublink:LISTSOURCE:https://openload.co/f/UeMWylJJdBQ/The.God.Plant.2018.AMZN-CBR.WEB-DL.AAC2.0.H.264-NTG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Z2AfMG9.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2102,7 +2102,7 @@ sublink:LISTSOURCE:https://streamango.com/f/marredbnccpmsoqr/Mission_Control_The
 sublink:LISTSOURCE:https://openload.co/f/PpCc0X3Mud0/Mission.Control.The.Unsung.Heroes.Of.Apollo.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmM3YWM1NTItZTNiNS00MzlhLTk2YmMtZmRmYzdmMTk0ZThiXkEyXkFqcGdeQXVyMTY2NTQ3ODc@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2113,7 +2113,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/bdcdomnfpnflrmfa/Swiped_Hooking_Up
 sublink:LISTSOURCE:https://openload.co/f/W4ORiXW87Wc/Swiped.Hooking.Up.in.the.Digital.Age.2018.720p.HDTV.x264-aAF.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/ZcR5W.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2124,7 +2124,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/ptntdtretcfftcmf/did_you_wonder_wh
 sublink:LISTSOURCE:https://openload.co/f/lVIibgLdcaM/did.you.wonder.who.fired.the.gun.2017.limited.dvdrip.x264-lpd.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/pQS7URx1J.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2135,7 +2135,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cbltolstrksrantl/Ch_a_S_2018_WEBRip_
 sublink:LISTSOURCE:https://openload.co/f/LU4FMoYMHnQ/Ch.a.S.2018.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/4gk5O.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2146,7 +2146,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/morembcqtsooscbc/Game_Changers_201
 sublink:LISTSOURCE:https://openload.co/f/MwW2_gEinig/Game.Changers.2018.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/3PJWX.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2157,7 +2157,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/rmfqdalafpnconbs/K_B_2017_WEBRip_x
 sublink:LISTSOURCE:https://openload.co/f/qzfKy5QBP9c/K.B.2017.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/suREiQ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2168,7 +2168,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/dllmbbqnppkdnkns/S_A_2018_720p_AMZ
 sublink:LISTSOURCE:https://openload.co/f/umMNGJdKl-8/S.A.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/eOtlQ4.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2179,7 +2179,7 @@ sublink:LISTSOURCE:https://streamango.com/f/adpdrcersesascnf/Whitney_2018_720p_W
 sublink:LISTSOURCE:https://openload.co/f/VHtL_rw8ZhM/Whitney.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/NxJhCSRIPn.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -2191,7 +2191,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/ponrdtpncqnmnmsm/B_W_F_L_O_T_2018_
 sublink:LISTSOURCE:https://openload.co/f/kH-21dMnv4M/B.W.F.L.O.T.2018.720p.hdtv.x264-w4f.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/gxblZQ7.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2202,7 +2202,7 @@ sublink:LISTSOURCE:https://streamango.com/f/aoftnospldnrbaem/three_identical_str
 sublink:LISTSOURCE:https://openload.co/f/e_SgThyanNQ/three.identical.strangers.2018.bdrip.x264-rovers%5BEtMovies%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc0NWM3ZGItMzlmZC00NDRmLWJlZmUtMjkzZjNlYmNhYTc1XkEyXkFqcGdeQXVyNzgxMzYzNjA@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2213,7 +2213,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/lkotesebltrenllc/Perfect_Bid_2017_
 sublink:LISTSOURCE:https://openload.co/f/4OKbY6IuKHE/Perfect.Bid.2017.WEBRip.H264-RBB.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/tDWmO.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2224,7 +2224,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/kqkrbnmftcrbdnna/J_F_F_A_2018_WEBR
 sublink:LISTSOURCE:https://openload.co/f/BwNa9GeJmnA/J.F.F.A.2018.WEBRip.H264-RBB.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/Q5iolTZ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -2236,7 +2236,7 @@ sublink:LISTSOURCE:https://streamango.com/f/smkqeefaalnmofcm/F_O_2016_limited_bd
 sublink:LISTSOURCE:https://openload.co/f/4elE0jxNAww/F.O.2016.limited.bdrip.x264-cadaver.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/C59dno.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2247,7 +2247,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/lnfclosmpccfrodb/Tennessee_Whiskey
 sublink:LISTSOURCE:https://openload.co/f/EafEI0MTEH4/Tennessee.Whiskey.The.Dean.Dillon.Story.2017.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BY2ZiYjI2YTktZmM3OS00MTg0LTliMGMtNTk4OWJhOWNiYmMzXkEyXkFqcGdeQXVyMTM4NjM3NDY@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2258,7 +2258,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/cmroqpdlrfbcqbfa/creep-tohellandba
 sublink:LISTSOURCE:https://openload.co/f/jQgVgiryznw/creep-tohellandback.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/8nHRDrZ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -2270,7 +2270,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/mbbbacqatfotqreq/The_Mask_You_Live
 sublink:LISTSOURCE:https://openload.co/f/ZOuCLz9K1nU/The.Mask.You.Live.In.2015.1080p.NF.WEB-DL.DD2.0.x264-AJP69.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/5u6ZhCb3p.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2281,7 +2281,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/tmqdlqfnakfcnmde/Q-y_2018_web_x264
 sublink:LISTSOURCE:https://openload.co/f/KPKnii_NLDU/Q-y.2018.web.x264-strife.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/MdaW9.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2292,7 +2292,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/dsntrcopkctpckdo/30_Years_of_Garba
 sublink:LISTSOURCE:https://openload.co/f/KQClgGol3Ec/C.C.2018.AMZN.WEB-DL.AAC2.0.H.264-NTG.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/xS5c.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2303,7 +2303,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/dsntrcopkctpckdo/30_Years_of_Garba
 sublink:LISTSOURCE:https://openload.co/f/1jtIK9pHhgg/30.Years.of.Garbage.The.Garbage.Pail.Kds.Story.2017.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/o4taThcz.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2314,7 +2314,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/parfnkbolnnpfost/Anne_Clark_I_Will
 sublink:LISTSOURCE:https://openload.co/f/41x-P2ftqmQ/Anne.Clark.I.Will.Walk.Out.Into.Tomorrow.2018.DOCU.BDRip.x264-GETiT.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/d6xEyD7H.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2325,7 +2325,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rdbkpearankopmkp/spitfire_2018_limit
 sublink:LISTSOURCE:https://openload.co/f/RJcTJ7XbAZ0/spitfire.2018.limited.720p.bluray.x264-cadaver%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/L8CRb3y.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2336,7 +2336,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/pfraldkbnlnbfrlq/The_Last_Lions_20
 sublink:LISTSOURCE:https://openload.co/f/1GXrLBUodoY/The.Last.Lions.2011.1080p.BR.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY4OTMyMTcxN15BMl5BanBnXkFtZTcwMTExMTMzNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2347,7 +2347,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/tnbbblqnflsodlnl/Inside_the_Manson
 sublink:LISTSOURCE:https://openload.co/f/14laWM0C1-o/Inside.the.Manson.Cult.The.Lost.Tapes.2018.WEB.x264-TBS.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTA4NTgzMzgzMTZeQTJeQWpwZ15BbWU4MDQ3MTM1MzYz._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2374,7 +2374,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/esorocdqbprctlar/creep-toomacabre_
 sublink:LISTSOURCE:https://openload.co/f/_yVZoMtIvo0/creep-toomacabre.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/uqjNzV.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2385,7 +2385,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/psleaqmqslcqepms/Reversing_Roe_201
 sublink:LISTSOURCE:https://openload.co/f/LOUniarPVaY/Reversing.Roe.2018.1080p.WEBRip.x264-YIFY.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTg1NzE4NDcxMl5BMl5BanBnXkFtZTgwNzE2MzEzNjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2396,7 +2396,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/pqcnmqbapsnpecfe/Minds_Wide_Open_2
 sublink:LISTSOURCE:https://openload.co/f/CoCPovOno9A/Minds.Wide.Open.2018.WEBRip.x264-CAFFEiNE.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/iLIqUkt.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2408,7 +2408,7 @@ sublink:LISTSOURCE:https://streamcherry.com/f/ndfecfkqqnsrmbem/WWE7IgG37a2kiIFKL
 sublink:LISTSOURCE:https://openload.co/f/wzvDgUmLK4g/WWE7IgG37a2kiIFKLPg7foT5EDwHG623r7nkZyaghi.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzkwY2ZmNjQtYzkyZS00ZDI4LWFjMTItNTNjOGI1OTM1ODI0XkEyXkFqcGdeQXVyMzI3MDUxMjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -3046,7 +3046,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mpfsosfbpdqnmetl/Out_of_Thin_Air_201
 sublink:LISTSOURCE:https://streamcherry.com/f/crbsecfrcmpqfmdq/Out_of_Thin_Air_2017_WEBRip_H264-RBB_mp4::LISTNAME:[COLORwhite]SD LINK 2[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzk4NDUxNzktY2QzMC00MmFmLWFjMGUtNTMxMjdiMGM0MzE0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item> 
@@ -4089,7 +4089,7 @@ sublink:LISTSOURCE:http://vidto.me/86rt52upkj1l.html:LISTNAME:[COLORwhite]E09[/C
 sublink:LISTSOURCE:https://streamango.com/f/dpaaertokrfnqckf/beware_of_mr_baker_2012_internal_dvdrip_x264-regret_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/JH3MfZDj.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4098,7 +4098,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dpaaertokrfnqckf/beware_of_mr_baker_
 sublink:LISTSOURCE:http://vidto.me/kn37b7h2n8ng.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/qwNKWGyL.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4107,7 +4107,7 @@ sublink:LISTSOURCE:http://vidto.me/kn37b7h2n8ng.html::LISTNAME:[COLORwhite]SD  L
 sublink:LISTSOURCE:https://streamango.com/f/tffamscqarmrkkeq/The_China_Hustle_2017_WEBRip_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMjIzNTcxMDU5OF5BMl5BanBnXkFtZTgwNzk0MDM0NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4116,7 +4116,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tffamscqarmrkkeq/The_China_Hustle_20
 sublink:LISTSOURCE:https://streamango.com/f/rksdbsrbldttekkb/ram_dass_going_home_2017_web_x264-strife_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/xwO6d53.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4125,7 +4125,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rksdbsrbldttekkb/ram_dass_going_home
 sublink:LISTSOURCE:https://streamango.com/f/nfpsqnmpqpoqdtrc/faces_places_2017_limited_bdrip_x264-bipolar_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/eSBUJl4.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4134,7 +4134,7 @@ sublink:LISTSOURCE:https://streamango.com/f/nfpsqnmpqpoqdtrc/faces_places_2017_l
 sublink:LISTSOURCE:https://vidzi.tv/pay70jbts8f5.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/6paPZ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4143,7 +4143,7 @@ sublink:LISTSOURCE:https://vidzi.tv/pay70jbts8f5.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://streamango.com/f/bqbdqmqspkastcdq/shirley_visions_of_reality_2013_bdrip_x264-bipolar_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/s2UJVS.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4152,7 +4152,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bqbdqmqspkastcdq/shirley_visions_of_
 sublink:LISTSOURCE:https://streamango.com/f/tfbtkpbbcpdrqsdp/ex_libris_the_new_york_public_library_limited_2017_dvdrip_x264-lpd_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/D8WE0wxI.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4161,7 +4161,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tfbtkpbbcpdrqsdp/ex_libris_the_new_y
 sublink:LISTSOURCE:https://streamango.com/f/pnqosnolrcnssrar/The_Search_for_Life_in_Space_2016_WEBRip_x264-ION10_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/i46TICr.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4170,7 +4170,7 @@ sublink:LISTSOURCE:https://streamango.com/f/pnqosnolrcnssrar/The_Search_for_Life
 sublink:LISTSOURCE:https://streamango.com/f/ntkanqpapkfrdfsf/Shut-ins_Britains_Fattest_People_2015_WEBRip_x264-ION10_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/RlboN.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4179,7 +4179,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ntkanqpapkfrdfsf/Shut-ins_Britains_F
 sublink:LISTSOURCE:https://streamango.com/f/rnodbsbrnmbapcnf/Big_Time_2017_WEBRip_x264-RBB_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/xzW2sc1.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4188,7 +4188,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rnodbsbrnmbapcnf/Big_Time_2017_WEBRi
 sublink:LISTSOURCE:https://streamango.com/f/rsstadoqmckfrate/Avicii_True_Stories_2017_WEB-DL_x264-RBB_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/dBcW5f.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4197,7 +4197,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rsstadoqmckfrate/Avicii_True_Stories
 sublink:LISTSOURCE:https://streamango.com/f/ossmmanrbkcbpctr/Birth_of_a_Movement_2017_WEB-DL_x264-RBB_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/RpXHkf3.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4206,7 +4206,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ossmmanrbkcbpctr/Birth_of_a_Movement
 sublink:LISTSOURCE:https://streamango.com/f/bsbfncnqtoksrnrp/Farewell_Ferris_Wheel_2016_WEB-DL_x264-RBB_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/l6c1RY.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4215,7 +4215,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bsbfncnqtoksrnrp/Farewell_Ferris_Whe
 sublink:LISTSOURCE:https://streamango.com/f/kmlmkspkokmkdkam/The_Gene_Doctors_2017_WEB-DL_x264-RBB_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/g7q9at43A.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4224,7 +4224,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kmlmkspkokmkdkam/The_Gene_Doctors_20
 sublink:LISTSOURCE:https://streamango.com/f/bkrrllflmreesnqd/Invasion_On_Chestnut_Ridge_2017_1080p_WEB-DL_AAC-eSc_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BOWM0NTA0ZmItZjgxMi00YzlhLTljMGItOTc1YzVhNjRlNWJlXkEyXkFqcGdeQXVyNjA3NjM5Njc@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4233,7 +4233,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bkrrllflmreesnqd/Invasion_On_Chestnu
 sublink:LISTSOURCE:https://streamango.com/f/loocbpasemqncaso/Froning_The_Fittest_Man_in_History_2015_WEB_x264-AMRAP_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/3ZmxhGy.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4242,7 +4242,7 @@ sublink:LISTSOURCE:https://streamango.com/f/loocbpasemqncaso/Froning_The_Fittest
 sublink:LISTSOURCE:https://streamango.com/f/bcamacodcmaskfre/Fittest_On_Earth_A_Decade_of_Fitness_2017_WEB_x264-AMRAP_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/zvgAOP.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -4253,7 +4253,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bcamacodcmaskfre/Fittest_On_Earth_A_
 sublink:LISTSOURCE:https://streamango.com/f/cecmkdoeefmopakq/The_Redeemed_and_the_Dominant_Fittest_on_Earth_2018_1080p_WEB_x264-AMRAP_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/uIOsQ.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4262,7 +4262,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cecmkdoeefmopakq/The_Redeemed_and_th
 sublink:LISTSOURCE:https://streamango.com/f/renefmftltelnpsr/Sons_of_Ben_2016_WEBRip_x264-ION10_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/MxqQ53.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -4272,7 +4272,7 @@ sublink:LISTSOURCE:https://streamango.com/f/renefmftltelnpsr/Sons_of_Ben_2016_WE
 sublink:LISTSOURCE:https://streamango.com/f/qskrrpcpemcqpokp/Survivors_Guide_To_Prison_2018_720p_WEB-DL_x264_AAC-eSc_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BNzhmNmI5MDMtZDEyOC00ODkyLTkwODItODQzODAzY2QyZjVlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4281,7 +4281,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qskrrpcpemcqpokp/Survivors_Guide_To_
 sublink:LISTSOURCE:http://vidto.me/zyt5t2hga6rw.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/lVStpeY2O.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4290,7 +4290,7 @@ sublink:LISTSOURCE:http://vidto.me/zyt5t2hga6rw.html::LISTNAME:[COLORwhite]SD  L
 sublink:LISTSOURCE:https://vidzi.tv/j3flmbvydzl3.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4299,7 +4299,7 @@ sublink:LISTSOURCE:https://vidzi.tv/j3flmbvydzl3.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://vidzi.tv/7j9bx0p7hc9w.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BNzQwOGQxZjItMzYxNy00ZjEwLWI2YTAtNjEwMWJiZjk5NzJlXkEyXkFqcGdeQXVyNjg3MzM0Mjc@._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4308,7 +4308,7 @@ sublink:LISTSOURCE:https://vidzi.tv/7j9bx0p7hc9w.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://vidzi.tv/7ecwy6fidst0.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/ut5Nlbdqk.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -4318,7 +4318,7 @@ sublink:LISTSOURCE:https://vidzi.tv/7ecwy6fidst0.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://vidzi.tv/lt50fn7t9iv2.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMjExNjczMTE1M15BMl5BanBnXkFtZTgwNDM5MzMwNzE@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4327,7 +4327,7 @@ sublink:LISTSOURCE:https://vidzi.tv/lt50fn7t9iv2.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://streamango.com/f/fllpqrdsdrkmptca/Just_Eat_It_A_Food_Waste_Story_2014_WEBRip_x264-ION10_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/B2DpxN.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4336,7 +4336,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fllpqrdsdrkmptca/Just_Eat_It_A_Food_
 sublink:LISTSOURCE:https://streamango.com/f/ktsdlkcpcfkrkklr/Yellow_Yellow_Yellow_The_IndyCar_Safety_Team_2017_WEBRip_x264-ION10_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/cJhNP30.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4345,7 +4345,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ktsdlkcpcfkrkklr/Yellow_Yellow_Yello
 sublink:LISTSOURCE:https://streamango.com/f/qrnoktaocdnddlrm/Jane_2017_720p_WEB-DL_AAC2_0_H_264-BOOP_EtHD_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/ImM0l.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4354,7 +4354,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qrnoktaocdnddlrm/Jane_2017_720p_WEB-
 sublink:LISTSOURCE:https://streamango.com/f/kptpnqdfqdntmbca/gua-fightingirish-sd_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/G3YCRF4x.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4363,7 +4363,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kptpnqdfqdntmbca/gua-fightingirish-s
 sublink:LISTSOURCE:https://streamango.com/f/nqckedktfcscbnke/Milius_2013_WEBRip_x264-ION10_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.com/images/2014/01/21/milius.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4372,7 +4372,7 @@ sublink:LISTSOURCE:https://streamango.com/f/nqckedktfcscbnke/Milius_2013_WEBRip_
 sublink:LISTSOURCE:https://streamango.com/f/eampersdeqpeffqq/red_trees_2017_720p_webrip_x264-convoy_mkv_mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/ZIwNhuU.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4381,7 +4381,7 @@ sublink:LISTSOURCE:https://streamango.com/f/eampersdeqpeffqq/red_trees_2017_720p
 sublink:LISTSOURCE:https://vidzi.tv/jp5hdmtkz9rr.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BYzM3ZGRhNDctNDlhMS00OGEyLThmZjEtYTk0ODU4YmQ1ZWNiXkEyXkFqcGdeQXVyMTU2NTQ0MzQ@._V1_SY999_CR0,0,706,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4390,7 +4390,7 @@ sublink:LISTSOURCE:https://vidzi.tv/jp5hdmtkz9rr.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://vidzi.tv/vsoczvz4j711.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BODU0ZmZlMDEtY2M3ZC00MDI2LTliNTktN2IxZTA2ZWIyMDA1XkEyXkFqcGdeQXVyNjMwMjI2OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4399,7 +4399,7 @@ sublink:LISTSOURCE:https://vidzi.tv/vsoczvz4j711.html::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://streamango.com/f/trkneqdoklkbkcnf/Hondros_2017_1080p_WEB-DL_DD5_1_H_264-EYEZ_EtHD_mkv::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/zuIs.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4408,7 +4408,7 @@ sublink:LISTSOURCE:https://streamango.com/f/trkneqdoklkbkcnf/Hondros_2017_1080p_
 sublink:LISTSOURCE:https://vidzi.tv/gffrm30ksk2o.html::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BYzE4ZWRjMDEtODI3Ni00ZWZiLTllM2UtOWQ4YjExYWE1OTNhXkEyXkFqcGdeQXVyMzM4MzkxMTA@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -4949,7 +4949,7 @@ sublink:LISTSOURCE:http://vidto.me/f9ekcy8gxje3.html:LISTNAME:[COLORwhite]E09[/C
 sublink:LISTSOURCE:http://vidto.me/zjvvfekq3p32.html::LISTNAME:[COLORwhite]SD LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NTA3NDgyNV5BMl5BanBnXkFtZTgwNDA3NDg1NDM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item> 
@@ -6187,7 +6187,7 @@ sublink:LISTSOURCE:http://vidto.me/a0walhzrxul6.html::LISTNAME:[COLORwhite]E14[/
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries2.txt</externallink>
 <thumbnail>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/dbicon.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 </items>

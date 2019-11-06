@@ -5,7 +5,7 @@
 <name>[B][I][COLORred]REAL DEBRID AUTHORIZE HERE[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/rdlogin.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -13,7 +13,7 @@
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -21,7 +21,7 @@
 <name>[B][I][COLORwhite]BROKEN CHAINS ADD ON[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/IiwM0IF.jpg</thumbnail>
 <externallink>http://myatom.one/chains%20of%20absolution/chains%20of%20absolution.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -29,7 +29,7 @@
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -38,7 +38,7 @@
 <name>[B][I][COLORwhite]People Watching[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -46,7 +46,7 @@
 <name>[B][I][COLORblue]New Cams/HDTS Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -54,7 +54,7 @@
 <name>[B][I][COLORwhite]Blu-Ray Movies RD Only (TORRENTS)[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -64,7 +64,7 @@
 <name>[B][I][COLORlime]New Movie Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -73,7 +73,7 @@
 <name>[B][I][COLORred]Real Debrid Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/realdebrid.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -81,7 +81,7 @@
 <name>[B][I][COLORorange]4K Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhd.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -90,7 +90,7 @@
 <name>[B][I][COLORgold]Catch Up TV[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -98,7 +98,7 @@
 <name>[B][I][COLORwhite]Episodes Of The Day[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oldepisodes.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -106,7 +106,7 @@
 <name>[B][I][COLORgreenyellow]Documentary[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -114,7 +114,7 @@
 <name>[B][I][COLORmagenta]Kids[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kidszone.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -122,7 +122,7 @@
 <name>[B][I][COLORorange]Kodi Channels[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kodichannels.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -130,7 +130,7 @@
 <name>[B][I][COLORpink]Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/moviezone.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
@@ -138,7 +138,7 @@
 <name>[B][I][COLORroyalblue]Music[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/music.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -146,7 +146,7 @@
 <name>[B][I][COLORyellow]Radio[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/radio.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -156,7 +156,7 @@
 <name>[B][I][COLORyellowgreen]Sport[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/sport.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
@@ -164,7 +164,7 @@
 <name>[B][I][COLORwhite]TV/Entertainment[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tventertainment.txt</externallink>
-<fanart>https://github.com/tombebbs1/magicdragon/blob/master/fanart.jpg?raw=true</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 

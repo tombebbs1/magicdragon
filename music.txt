@@ -20,7 +20,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/concerts.txt</externallink>
 <thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -29,7 +29,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/concerts1.txt</externallink>
 <thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 

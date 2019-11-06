@@ -334,17 +334,7 @@ sublink:LISTSOURCE:https://uptobox.com/1zwn6pijk2tg::LISTNAME:[COLORwhite]OPENLO
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]After the Wedding (2019) HDCAM UPDATED 10/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/kgfol8vmmo7f/after_the_wedding_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/afyzyo1hpz4m::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/vcgf2mqg7sxf::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/51xyecwgo6jy::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTI2NGVlMzAtMGQyYS00N2Q3LWE0ZDUtNzBmNGE1ZWE3NzQzXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Once Upon a Time ... in Hollywood (2019) HDTS UPDATED 10/08[/COLOR]</title>

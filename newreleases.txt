@@ -92,8 +92,8 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 <item>
 <title>[COLORwhite]A Walk with Grace (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://cloudvideo.tv/hjo5m0fjru1y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/135t3s9o884f::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/epan7s0femvp/a_walk_with_grace_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wgx4lqi7hrf4/a_walk_with_grace_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/135t3s9o884f::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/v3ipqe5mcglx::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/8dxjg3ta5qls::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#

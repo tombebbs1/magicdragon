@@ -90,6 +90,17 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 </item>
 
 <item>
+<title>[COLORwhite]test[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://onlystream.tv/i2rj2d0nk2my::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/i2rj2d0nk2my::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/i2rj2d0nk2my::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGIxMWEyZmItZThjOS00ZWE5LTk0NGUtYzAwNGVhZmQzODBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Burning Cane (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/akj2hwhh0ayn/burning_cane::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

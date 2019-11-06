@@ -307,6 +307,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:DE077BED317AFA2216AA902F2D97CC191F0ABA61&
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzhlNzRmMGItYjBhZC00MTE5LTk1MGItYzY1ZGM4YWMyZDc0XkEyXkFqcGdeQXVyMjI4NTE2MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<info>: A mysterious shopkeeper narrates four horror tales, each set during a different holiday.</info>
 </item>
 
 <item>

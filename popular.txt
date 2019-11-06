@@ -358,7 +358,7 @@ sublink:LISTSOURCE:https://1fichier.com/?ofp2cedu0jwetu04wyga::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?ofp2cedu0jwetu04wyga::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTJlZWY2YjYtZGIxMy00MDEwLTliNzMtZGM3MDQ1NzlmNDY1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -780,7 +780,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/cff59ccef21325c3969f7c17e76e2109/
 sublink:LISTSOURCE:https://1fichier.com/?rep3x2jqjg15h9hhzjje::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -814,7 +814,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/6c1852ca5d1cdaea1e92d81e30308350/
 sublink:LISTSOURCE:https://1fichier.com/?do8lr6pqfn5824rdh97u::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

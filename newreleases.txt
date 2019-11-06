@@ -22,7 +22,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr2.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -31,7 +31,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr3.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -40,7 +40,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr4.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -49,7 +49,7 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr5.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -78,7 +78,7 @@ sublink:LISTSOURCE:https://msb15349:tombebbs1971@msb15349.seedbox.io/files/Unive
 sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&dn=Universal.Soldier.1992.INTERNAL.NEW.REMASTERED.1080p.BluRay.X264-AMIABLE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2750::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTFkNjBhOWItOGYzNy00ZTQ5LWE2MWUtMWQxNWE5ZTY0OWQ0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -503,7 +503,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/7be6dfa189f5c610ed6dd7473c288325/
 sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmQyYmY5ZTMtM2JkNi00NmM2LWE3ZmEtYWYzZmRkZDM0ZTdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1049,7 +1049,7 @@ sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?8hrq1cfdwcfy40hjhqsw::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1804,7 +1804,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/314fc59272b401c3c7f48d5870d9a279/
 sublink:LISTSOURCE:https://1fichier.com/?ug2jwbcyl6ow7xcvewjy::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzdhMTM2YTItOWU2YS00MTM0LTgyNDYtMDM1OWM3NzkzNTM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2635,7 +2635,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/cd23ecb883b96941022279b847dfe8f8/
 sublink:LISTSOURCE:https://1fichier.com/?cm8448p1mt4ewl1wsk83::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmZlNTY5YjQtZTU5ZC00MzcyLWI1NDMtNjA0ZjQxMmQwYjJmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_CR0,0,705,999_AL_.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2799,7 +2799,7 @@ sublink:LISTSOURCE:https://1fichier.com/?8kvrpewp75mimvpc7ff2::LISTNAME:[COLORgo
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr2.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2808,7 +2808,7 @@ sublink:LISTSOURCE:https://1fichier.com/?8kvrpewp75mimvpc7ff2::LISTNAME:[COLORgo
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr3.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2817,7 +2817,7 @@ sublink:LISTSOURCE:https://1fichier.com/?8kvrpewp75mimvpc7ff2::LISTNAME:[COLORgo
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr4.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2826,6 +2826,6 @@ sublink:LISTSOURCE:https://1fichier.com/?8kvrpewp75mimvpc7ff2::LISTNAME:[COLORgo
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr5.txt</externallink>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

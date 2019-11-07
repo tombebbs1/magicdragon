@@ -4,7 +4,7 @@
 <title>[B][COLORwhite]TOP 10 VAMPIRE MOVIES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -12,7 +12,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -22,7 +22,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/fmcpqcnapbqalsnd/Interview_with_the_Vampire_1994_720p_BluRay_x264_YIFY_mp4::LISTNAME:#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYThmYjJhMGItNjlmOC00ZDRiLWEzNjUtZjU4MjA3MzY0MzFmXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -31,7 +31,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fmcpqcnapbqalsnd/Interview_with_the_
 sublink:LISTSOURCE:https://streamango.com/f/mmlcadcmfofcdssm/Twilight_Saga_2008_BrRip_720p_X264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://streamango.com/f/mmlcadcmfofcdssm/Twilight_Saga_2008_
 sublink:LISTSOURCE:https://streamango.com/f/ntaommcdnttolote/Underworld_Extended_Cut_2003_720p_Brrip_x264_Deceit_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNDExNDEyMV5BMl5BanBnXkFtZTcwODY1OTkxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -49,7 +49,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ntaommcdnttolote/Underworld_Extended
 sublink:LISTSOURCE:https://streamango.com/f/kqsfomkoqfmrmalc/_0389722_30_Days_Of_Night_2007_BRRip_XviD_AC3_RoSubbed-playXD_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MDE5ODIxMF5BMl5BanBnXkFtZTcwMjMyMTU1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -58,7 +58,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kqsfomkoqfmrmalc/_0389722_30_Days_Of
 sublink:LISTSOURCE:https://streamango.com/f/rlklklffqcqfqaod/The_Lost_Boys_1987_720p_BluRay_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWEzNmUxZTMtZjY0My00OGNmLWIyNDctODM2YzZjM2YwZWEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -67,7 +67,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rlklklffqcqfqaod/The_Lost_Boys_1987_
 sublink:LISTSOURCE:https://streamango.com/f/bmornknctrcrmamp/Dracula_1992_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyOTM5NzU3Nl5BMl5BanBnXkFtZTgwOTQxNjAxNzE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -85,7 +85,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dfnbqmomnlkqdeop/Blade_1998_720p_Blu
 sublink:LISTSOURCE:https://streamango.com/f/eocrqorckrpfcbnt/Dracula_1931_720p_BluRay_x264_AAC-ETRG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTQxMDA2ZmMtMmJhMC00MDBkLWFlNjMtYzI0ZTRmYTU1MzBhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 ]
 <item>
@@ -94,7 +94,7 @@ sublink:LISTSOURCE:https://streamango.com/f/eocrqorckrpfcbnt/Dracula_1931_720p_B
 sublink:LISTSOURCE:https://streamango.com/f/lbdnsdcdqplalqmd/Fright_Night_1985_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTBlOTEzZjYtZTlmMC00OTYyLWIyMTAtNzMzZTRhNzU1YzAyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -103,5 +103,5 @@ sublink:LISTSOURCE:https://streamango.com/f/lbdnsdcdqplalqmd/Fright_Night_1985_7
 sublink:LISTSOURCE:https://streamango.com/f/dsmcmnfpnkctlqtk/Van_Helsing_2004_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODRmY2NhNDItOWViNi00OTIyLTk3YjYtYzY0YTFlMDg1YzQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

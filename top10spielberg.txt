@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]TOP 10 SPIELBERG MOVIES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -20,7 +20,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/kqddkakdasdrnrll/Schindlers_List_1993_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -29,7 +29,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kqddkakdasdrnrll/Schindlers_List_199
 sublink:LISTSOURCE:https://streamango.com/f/oteresmlrtmfebqn/Jurassic_Park_1993_720p_BrRip_264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -38,7 +38,7 @@ sublink:LISTSOURCE:https://streamango.com/f/oteresmlrtmfebqn/Jurassic_Park_1993_
 sublink:LISTSOURCE:https://streamango.com/f/tldlkddfptnefofk/Indiana_Jones_And_The_Raiders_Of_The_Lost_Ark_1981_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SY1000_CR0,0,664,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -47,7 +47,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tldlkddfptnefofk/Indiana_Jones_And_T
 sublink:LISTSOURCE:https://streamango.com/f/frmckqfkbrcfoaos/Saving_Private_Ryan_1998_720p_BluRay_x264_AAC_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -56,7 +56,7 @@ sublink:LISTSOURCE:https://streamango.com/f/frmckqfkbrcfoaos/Saving_Private_Ryan
 sublink:LISTSOURCE:https://streamango.com/f/kearotsmmapbaqeb/Jaws_1975_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX651_CR0,0,651,999_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -65,7 +65,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kearotsmmapbaqeb/Jaws_1975_1080p_Blu
 sublink:LISTSOURCE:https://streamango.com/f/nnrrlrmfsmfabbdn/E_T_The_Extra_Terrestrial_1982_720p_BRrip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -74,7 +74,7 @@ sublink:LISTSOURCE:https://streamango.com/f/nnrrlrmfsmfabbdn/E_T_The_Extra_Terre
 sublink:LISTSOURCE:https://streamango.com/f/paaqkpranmqmtakn/Indiana_Jones_And_The_Last_Crusade_1989_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -83,7 +83,7 @@ sublink:LISTSOURCE:https://streamango.com/f/paaqkpranmqmtakn/Indiana_Jones_And_T
 sublink:LISTSOURCE:https://streamango.com/f/ndedqoenllposftm/Close_Encounters_of_the_Third_Kind_720p_BrRip_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -92,7 +92,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ndedqoenllposftm/Close_Encounters_of
 sublink:LISTSOURCE:https://streamango.com/f/kcamnarncnnneenp/Catch_Me_If_You_Can_2002_720p_BluRay_x264_VPPV_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -101,5 +101,5 @@ sublink:LISTSOURCE:https://streamango.com/f/kcamnarncnnneenp/Catch_Me_If_You_Can
 sublink:LISTSOURCE:https://streamango.com/f/qqkfpmobqfckkffn/Minority_Report_2002_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDgzNDk3ZDctYTUxMC00MDQzLWI1MTctMmQxYWE0MGUzYzIxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

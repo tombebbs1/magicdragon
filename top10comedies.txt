@@ -4,7 +4,7 @@
 <title>[B][COLORwhite]TOP 10 COMEDIES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -12,7 +12,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -22,7 +22,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/dnfdftcdskoqlloc/Dumb_And_Dumber_1994_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDQwMjNiMTQtY2UwYy00NjhiLTk0ZWEtZWM5ZWMzNGFjNTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -31,7 +31,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dnfdftcdskoqlloc/Dumb_And_Dumber_199
 sublink:LISTSOURCE:https://streamango.com/f/rtdedndcobmrpasd/Monty_Python_and_the_Holy_Grail_1974_720p_BR_800MB_MkvCage_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmNmZjViNTQtNDQ5Mi00MDYzLWI5YWMtNDUyZGNmMGZhNDg4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rtdedndcobmrpasd/Monty_Python_and_th
 sublink:LISTSOURCE:https://streamango.com/f/omtlaqknpksfkqcf/Airplane_1980_1080p_x264_-_Jalucian_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDU5MjY1NzItMThjOC00ZTBmLWJmOTMtMTUxNGY3YTM5NGQyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -49,7 +49,7 @@ sublink:LISTSOURCE:https://streamango.com/f/omtlaqknpksfkqcf/Airplane_1980_1080p
 sublink:LISTSOURCE:https://streamango.com/f/eqdfosmrrslklqbc/The_Hangover_2009_UNRATED_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MDA1MTYwMF5BMl5BanBnXkFtZTcwMDcxMzA1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -58,7 +58,7 @@ sublink:LISTSOURCE:https://streamango.com/f/eqdfosmrrslklqbc/The_Hangover_2009_U
 sublink:LISTSOURCE:https://streamango.com/f/cqnkcprpreesepds/The_Big_Lebowski_1998_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTFjMjBiYzItNzU5YS00MjdiLWJkOTktNDQ3MTE3ZjY2YTY5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -67,7 +67,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cqnkcprpreesepds/The_Big_Lebowski_19
 sublink:LISTSOURCE:https://streamango.com/f/cammlmopffpeknnq/Anchorman_The_Legend_Of_Ron_Burgundy_2004_720p_BrRip_x264_BOKUTOX_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -76,7 +76,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cammlmopffpeknnq/Anchorman_The_Legen
 sublink:LISTSOURCE:https://streamango.com/f/psemnlrqnqbmfptd/Step_Brothers_2008_UNRATED_BRRip_720p_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjZiNzU0YWQtYTA4OS00OTYwLTk4ZmYtNGNmZjU3YTFjMjM5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -85,7 +85,7 @@ sublink:LISTSOURCE:https://streamango.com/f/psemnlrqnqbmfptd/Step_Brothers_2008_
 sublink:LISTSOURCE:https://streamango.com/f/kdtkceamfeenqcrb/Superbad_2007_Unrated_BrRip_720p_264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjIyMjA2OF5BMl5BanBnXkFtZTcwMzIxNDE1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -94,7 +94,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kdtkceamfeenqcrb/Superbad_2007_Unrat
 sublink:LISTSOURCE:https://streamango.com/f/bnkmsdqdrnfedtbb/Happy_Gilmore_1996_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NjUxODg3Ml5BMl5BanBnXkFtZTcwNzcyODc5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -103,5 +103,5 @@ sublink:LISTSOURCE:https://streamango.com/f/bnkmsdqdrnfedtbb/Happy_Gilmore_1996_
 sublink:LISTSOURCE:https://streamango.com/f/lcbpdfmksmqnrqoq/Borat_2006_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]TOP 10 ALIEN INVASION MOVIES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -20,7 +20,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/tmporndktbpmmted/Invasion_Of_The_Body_Snatchers_1978_720p_BluRay_x264-_YTS_AG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1MTgxMTY2MF5BMl5BanBnXkFtZTgwODg0NTc1MDE@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -29,7 +29,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tmporndktbpmmted/Invasion_Of_The_Bod
 sublink:LISTSOURCE:https://streamango.com/f/eqddfbtqffeadodd/The_Thing_1982_BluRay_720p_x264_YIFY_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,660,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -38,7 +38,7 @@ sublink:LISTSOURCE:https://streamango.com/f/eqddfbtqffeadodd/The_Thing_1982_BluR
 sublink:LISTSOURCE:https://streamango.com/f/lqtfrtkbfkpqtlqb/Edge_of_Tomorrow_2014_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -47,7 +47,7 @@ sublink:LISTSOURCE:https://streamango.com/f/lqtfrtkbfkpqtlqb/Edge_of_Tomorrow_20
 sublink:LISTSOURCE:https://streamango.com/f/qfefffnlldeffkek/War_of_The_Worlds_2005_720p_Ganool_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -56,7 +56,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qfefffnlldeffkek/War_of_The_Worlds_2
 sublink:LISTSOURCE:https://streamango.com/f/eollefonbepqtqbt/District_9_2009_720p_BrRip_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -65,7 +65,7 @@ sublink:LISTSOURCE:https://streamango.com/f/eollefonbepqtqbt/District_9_2009_720
 sublink:LISTSOURCE:https://streamango.com/f/dcortbfqffterdbt/Attack_the_Block_2011_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -74,7 +74,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dcortbfqffterdbt/Attack_the_Block_20
 sublink:LISTSOURCE:https://streamango.com/f/eprqbtckfopspfbo/Independence_Day_1996_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -83,7 +83,7 @@ sublink:LISTSOURCE:https://streamango.com/f/eprqbtckfopspfbo/Independence_Day_19
 sublink:LISTSOURCE:https://streamango.com/f/bbnfdcotqpsebmca/Mars_Attacks_1996_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzODA5ZjgtNWI5ZC00NTU5LWE2NjYtM2QzYTcwMzE1MjEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -92,7 +92,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bbnfdcotqpsebmca/Mars_Attacks_1996_7
 sublink:LISTSOURCE:https://streamango.com/f/aapfpqrosnaqotap/Starship_Troopers_1997_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNThlOTFhOGEtZjE2NC00MzMzLThkYWItZjlkNWNlMDAzMGZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,732,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -101,5 +101,5 @@ sublink:LISTSOURCE:https://streamango.com/f/aapfpqrosnaqotap/Starship_Troopers_1
 sublink:LISTSOURCE:https://streamango.com/f/dtafnesenpdbopeb/They_Live_1988_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

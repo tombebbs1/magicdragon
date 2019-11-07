@@ -2,14 +2,14 @@
 <title>[B][COLORwhite]YOU ARE IN HALLOWEEN[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLORgold]***************************************[/COLOR][/B]</title>
 <sportsdevil>ignoreme</sportsdevil>
 <referer></referer>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
 <item> 
@@ -163,7 +163,7 @@ sublink:LISTSOURCE:https://streamango.com/f/todmncmnrlaflklc/Freaky_Sweets_S01E0
 <link>ignorme</link>
 <externallink>http://pyramid.teamzt.seedr.io/pyramid/adulthalloween.txt</externallink>
 <thumbnail>https://archive.org/download/movies_201706/movies.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -172,5 +172,5 @@ sublink:LISTSOURCE:https://streamango.com/f/todmncmnrlaflklc/Freaky_Sweets_S01E0
 <link>ignorme</link>
 <externallink>http://pyramid.teamzt.seedr.io/pyramid/kidshalloween.txt</externallink>
 <thumbnail>https://archive.org/download/movies_201706/movies.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

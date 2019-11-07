@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]TOP 10 Oscar Winners[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -20,7 +20,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/psrqkrroemfesplf/The_Godfather_1972_720p_BrRip_x264_BOKUTOX_YIFY_mp4_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2Q2NzQ3ZDUtNWU5OC00Yjc0LThlYmEtNWM3NTFmM2JiY2VhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -29,7 +29,7 @@ sublink:LISTSOURCE:https://streamango.com/f/psrqkrroemfesplf/The_Godfather_1972_
 sublink:LISTSOURCE:https://streamango.com/f/spkppkdfelatttbc/lawrence_of_arabia_1962_720p_brrip_yify_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -38,7 +38,7 @@ sublink:LISTSOURCE:https://streamango.com/f/spkppkdfelatttbc/lawrence_of_arabia_
 sublink:LISTSOURCE:https://streamango.com/f/rrenqlpdntpaosnr/Casablanca_1942_720_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -47,7 +47,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rrenqlpdntpaosnr/Casablanca_1942_720
 sublink:LISTSOURCE:https://streamango.com/f/sckffbmcntbffsdp/The_Best_Years_Of_Our_Lives_1946_720p_BRRip_x264-x0r_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -56,7 +56,7 @@ sublink:LISTSOURCE:https://streamango.com/f/sckffbmcntbffsdp/The_Best_Years_Of_O
 sublink:LISTSOURCE:https://streamango.com/f/tlrofqdsnknnakse/The_Lord_of_the_Rings_The_Return_of_the_King_EXTENDED_2003_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY1000_SX668_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -65,7 +65,7 @@ sublink:LISTSOURCE:https://streamango.com/f/tlrofqdsnknnakse/The_Lord_of_the_Rin
 sublink:LISTSOURCE:https://streamango.com/f/dflrefrcttkmfrbf/12_Years_A_Slave_2013_720p_BluRay_x264-BLOW_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjFkOGNjZjAtMzZjNS00ZjI2LTkwNjEtOWQ3NzQzOTBlMDA5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -74,7 +74,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dflrefrcttkmfrbf/12_Years_A_Slave_20
 sublink:LISTSOURCE:https://streamango.com/f/adkbfopbtfmprtll/Titanic_1997_720p_BluRay_x264_YTS_AG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -83,7 +83,7 @@ sublink:LISTSOURCE:https://streamango.com/f/adkbfopbtfmprtll/Titanic_1997_720p_B
 sublink:LISTSOURCE:https://streamango.com/f/dedqfqmslfloklfm/The_Hurt_Locker_2008_720pBrRip_x_264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzEwNzQ1NjczM15BMl5BanBnXkFtZTcwNTk3MTE1Mg@@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -92,7 +92,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dedqfqmslfloklfm/The_Hurt_Locker_200
 sublink:LISTSOURCE:https://streamango.com/f/deqbmrstoaqtkppk/All_About_Eve_1950_720p_BRRip_x264-x0r_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -101,7 +101,7 @@ sublink:LISTSOURCE:https://streamango.com/f/deqbmrstoaqtkppk/All_About_Eve_1950_
 sublink:LISTSOURCE:https://streamango.com/f/npapfbfsqanaqesf/Gone_With_The_Wind_1939_720p_BluRay_x264_YIFY_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWQwOWVkMGItMDU2Yy00YjIzLWJkMjEtNmVkZjE3MjMwYzEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -110,6 +110,6 @@ sublink:LISTSOURCE:https://streamango.com/f/npapfbfsqanaqesf/Gone_With_The_Wind_
 sublink:LISTSOURCE:ignoreme::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

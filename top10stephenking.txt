@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]TOP 10 STEPHEN KING MOVIES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -10,7 +10,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -20,7 +20,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/qtrcmflsnpccmabb/Carrie_1976_BRRip_aGaiusMariusproduction_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -29,7 +29,7 @@ sublink:LISTSOURCE:https://streamango.com/f/qtrcmflsnpccmabb/Carrie_1976_BRRip_a
 sublink:LISTSOURCE:https://streamango.com/f/pfrfdsnscnlfnbqs/Misery_1990_1080p_BluRay_x264_anoXmous_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -38,7 +38,7 @@ sublink:LISTSOURCE:https://streamango.com/f/pfrfdsnscnlfnbqs/Misery_1990_1080p_B
 sublink:LISTSOURCE:https://streamango.com/f/caapadcsaqbbfqbp/The_Dead_Zone_1983_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDk2ZGVkY2UtZGE0MS00NTY1LThiZjYtYjQxMTAwMjM5M2VlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -47,7 +47,7 @@ sublink:LISTSOURCE:https://streamango.com/f/caapadcsaqbbfqbp/The_Dead_Zone_1983_
 sublink:LISTSOURCE:https://streamango.com/f/lctmerlskbmbssna/Stand_By_Me_1986_720p_BRRip_X264_AC3-PLAYNOW_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxODliZDYtMGMyYy00ZDQzLTgzOTMtMWY5YWEyNTBhNzk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -56,7 +56,7 @@ sublink:LISTSOURCE:https://streamango.com/f/lctmerlskbmbssna/Stand_By_Me_1986_72
 sublink:LISTSOURCE:https://streamango.com/f/cmlqsoqkcbffmrmd/The_shining_1980_720p_x264_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -65,7 +65,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cmlqsoqkcbffmrmd/The_shining_1980_72
 sublink:LISTSOURCE:https://streamango.com/f/ldetsfpprlranmdf/The_Shawshank_Redemption_1994_720p_BRRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -74,7 +74,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ldetsfpprlranmdf/The_Shawshank_Redem
 sublink:LISTSOURCE:https://streamango.com/f/aenklnqlrsodprqa/Children_of_the_Corn_1984_720p_BRRip_X264_AC3-PLAYNOW_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDg3OTc2OTQtZDA0My00YTJiLTg3ZTYtOGYwZWM1NWVhZDdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -83,7 +83,7 @@ sublink:LISTSOURCE:https://streamango.com/f/aenklnqlrsodprqa/Children_of_the_Cor
 sublink:LISTSOURCE:https://streamango.com/f/roofqfspasmcnrsb/Christine_1983_720p_BluRay_x264-_YTS_AG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ4N2M5MTQtNTM3Yi00OWQzLWE5OGUtY2NiZTY3ZmM4NWQ3XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -92,7 +92,7 @@ sublink:LISTSOURCE:https://streamango.com/f/roofqfspasmcnrsb/Christine_1983_720p
 sublink:LISTSOURCE:https://streamango.com/f/okdketfnpsqfdepm/The_Mist_2007_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -101,7 +101,7 @@ sublink:LISTSOURCE:https://streamango.com/f/okdketfnpsqfdepm/The_Mist_2007_1080p
 sublink:LISTSOURCE:https://streamango.com/f/lltbmlslnfssqtom/Creepshow_1982_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTU3NGIyZTctOWEyMS00MGIyLWFkZWMtMTg0ODE2MjExNGZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -110,7 +110,7 @@ sublink:LISTSOURCE:https://streamango.com/f/lltbmlslnfssqtom/Creepshow_1982_720p
 sublink:LISTSOURCE:ignoreme::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -119,7 +119,7 @@ sublink:LISTSOURCE:ignoreme::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/thdbwmgxpwt2::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -128,7 +128,7 @@ sublink:LISTSOURCE:https://uptobox.com/thdbwmgxpwt2::LISTNAME:[COLORorchid][/COL
 sublink:LISTSOURCE:https://streamango.com/f/abcknseqeatltnpk/The_Night_Flier_1997_DivX_ENG_avi_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWM0OTY1YWItYTY2ZC00MzVhLTliM2ItNzJiMzIxMDJhMDI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 

@@ -6,7 +6,7 @@
 <name>[B][COLORwhite]BOXSETS LISTED A-Z[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>ignoreme</externallink>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 <info>Tomraider Movies/info>
 </channel>
 
@@ -15,7 +15,7 @@
 <name>[B][COLORgold]****************************************[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>ignoreme</externallink>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 <info>Tomraider Movies/info>
 </channel>
 

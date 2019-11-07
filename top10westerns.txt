@@ -4,7 +4,7 @@
 <title>[B][COLORwhite]TOP 10 WESTERNS[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -12,7 +12,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -22,7 +22,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/bdnkablmekmbeorf/Unforgiven_1992_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -31,7 +31,7 @@ sublink:LISTSOURCE:https://streamango.com/f/bdnkablmekmbeorf/Unforgiven_1992_720
 sublink:LISTSOURCE:https://streamango.com/f/fnrnqetfosrppdks/The_Searchers_1956_720p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGY4ZTBmNTUtOTcwZC00NjY2LTljMjktNmY5YmE4MjdjYjVjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fnrnqetfosrppdks/The_Searchers_1956_
 sublink:LISTSOURCE:https://streamango.com/f/nktfsckqqbpfpoct/The_Good_the_Bad_and_the_Ugly_1966_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -49,7 +49,7 @@ sublink:LISTSOURCE:https://streamango.com/f/nktfsckqqbpfpoct/The_Good_the_Bad_an
 sublink:LISTSOURCE:https://streamango.com/f/lkqesprtctpmpeqs/Butch_Cassidy_and_the_Sundance_Kid_1969_720p_BRRip_950MB_MkvCage_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1._SY209_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -58,7 +58,7 @@ sublink:LISTSOURCE:https://streamango.com/f/lkqesprtctpmpeqs/Butch_Cassidy_and_t
 sublink:LISTSOURCE:https://streamango.com/f/fmrnqfnlobdrotrf/Once_Upon_a_Time_in_the_West_1968_1080p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTVhNzQ1ZmQtZDY4Ny00ODgwLWIwZTUtODhmOTY3NTQ2MWQ5XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1._SY209_CR3,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -67,7 +67,7 @@ sublink:LISTSOURCE:https://streamango.com/f/fmrnqfnlobdrotrf/Once_Upon_a_Time_in
 sublink:LISTSOURCE:https://streamango.com/f/oaelkddfldpottlc/McCabe_And_Mrs_Miller_1971_720p_BRRip_X264_AC3-PLAYNOW_mkv_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTI2OTI4NzAtMjMyNi00NjBlLTllYjQtYjNlNTBjYzRhOTQxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -76,7 +76,7 @@ sublink:LISTSOURCE:https://streamango.com/f/oaelkddfldpottlc/McCabe_And_Mrs_Mill
 sublink:LISTSOURCE:https://estream.to/4h9l6yc01g3u.html::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BM2Q5ODYwYmQtODc1NS00ZjQxLTg1NzEtMjIzYjA3NWJmY2QxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -85,7 +85,7 @@ sublink:LISTSOURCE:https://estream.to/4h9l6yc01g3u.html::LISTNAME:[COLORorchid][
 sublink:LISTSOURCE:https://streamango.com/f/kleqlkrkpookntme/The_Man_Who_Shot_Liberty_Valance_1962_118mns_avi::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGEyNzhkYzktMGMyZS00YzRiLWJlYjktZjJkOTU5ZDY0ZGI4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -94,7 +94,7 @@ sublink:LISTSOURCE:https://streamango.com/f/kleqlkrkpookntme/The_Man_Who_Shot_Li
 sublink:LISTSOURCE:https://streamango.com/f/epksfkkbsokooaks/Pat_Garrett_Billy_the_Kid_Western_1973_James_Coburn_Kris_Kristofferson_Richard_Jaeckel_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmU4MmMyMjYtMWJiYi00NTYyLWIzNjgtNTQ2Yjc2MzI0MDlhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1._SY209_CR4,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -103,7 +103,7 @@ sublink:LISTSOURCE:https://streamango.com/f/epksfkkbsokooaks/Pat_Garrett_Billy_t
 sublink:LISTSOURCE:https://streamango.com/f/nbpqcdlkqokkktpn/True_Grit_Western_1969_John_Wayne_Kim_Darby_Glen_Campbell_BR_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwNzRlMzUtODIwMS00N2IwLWE1ZTgtODYzNWY0MGJhODY3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1._SX140_CR0,0,140,209_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -112,7 +112,7 @@ sublink:LISTSOURCE:https://streamango.com/f/nbpqcdlkqokkktpn/True_Grit_Western_1
 sublink:LISTSOURCE:ignoreme::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -121,5 +121,5 @@ sublink:LISTSOURCE:ignoreme::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://streamango.com/f/bqerdnbbspotqbkf/Tombstone_1993_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NzYwMjAyNV5BMl5BanBnXkFtZTgwMjk0NzQxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

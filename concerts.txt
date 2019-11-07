@@ -549,7 +549,7 @@ sublink:LISTSOURCE:https://streamango.com/f/cffcaccmqmpkqtrq/taylor_swift_reputa
 sublink:LISTSOURCE:https://openload.co/f/pceasJ_cG6o/taylor.swift.reputation.stadium.tour.2018.720p.webrip.x264-strife%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 3 OLOAD PAIR[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjU3NmQ0MzMtZTIwMS00NDA5LWEzYTQtMjU0MzgzYTI0OTE5XkEyXkFqcGdeQXVyNTYyOTk2Mzk@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

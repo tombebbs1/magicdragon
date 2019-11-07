@@ -5,8 +5,8 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>http://supremacy.org.uk/tombraider/dogsbollocks/adultsection.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
@@ -14,6 +14,6 @@
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>http://supremacy.org.uk/tombraider/dogsbollocks/adultsection.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>

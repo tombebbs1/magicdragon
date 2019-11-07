@@ -4,7 +4,7 @@
 <title>[B][COLORwhite]TOP 10 FIGHTING MOVIES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -12,7 +12,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -22,7 +22,7 @@
 sublink:LISTSOURCE:https://streamango.com/f/aqtnpkobckpfknrc/Undisputed_3_Redemption_2010_720p_BluRay_x264_anoXmous_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0YzA4YjQtZGZkMi00ZmRjLWFmM2ItMDcxZTYzZGU3ZTI1XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -31,7 +31,7 @@ sublink:LISTSOURCE:https://streamango.com/f/aqtnpkobckpfknrc/Undisputed_3_Redemp
 sublink:LISTSOURCE:https://streamango.com/f/ertemnlksrfeorro/Never_Back_Down_2008_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDg3MTIyMF5BMl5BanBnXkFtZTcwOTAwNDc1MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ertemnlksrfeorro/Never_Back_Down_200
 sublink:LISTSOURCE:https://streamango.com/f/sltbfokdafacsora/Rocky_1976_720p_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -49,7 +49,7 @@ sublink:LISTSOURCE:https://streamango.com/f/sltbfokdafacsora/Rocky_1976_720p_x26
 sublink:LISTSOURCE:https://streamango.com/f/ktaebtmnonesfcas/Undisputed_2_2006_1080p_BluRay_H264_AAC-RARBG_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MDA1MzgwMl5BMl5BanBnXkFtZTcwODg4NzAzMQ@@._V1_UY268_CR11,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -58,7 +58,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ktaebtmnonesfcas/Undisputed_2_2006_1
 sublink:LISTSOURCE:https://streamango.com/f/paaskldftdrcqaer/Warrior_2011_720p_BluRay_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -67,7 +67,7 @@ sublink:LISTSOURCE:https://streamango.com/f/paaskldftdrcqaer/Warrior_2011_720p_B
 sublink:LISTSOURCE:https://streamango.com/f/pneafembcrpmnnro/Fight_Club_10th_Anniversary_Edition_1999_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -85,7 +85,7 @@ sublink:LISTSOURCE:https://streamango.com/f/oqeoobondpfombbb/Blood_and_Bone_2009
 sublink:LISTSOURCE:https://streamango.com/f/rtemmpdkfokemtdc/Enter_The_Dragon_1973_720p_BluRay_x264_FILMas_BE_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ0M2Q3MzEtOTZjMy00NGQ1LTk0NDctOWQ4MjQzYTdlZmVjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 ]
 <item>
@@ -94,7 +94,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rtemmpdkfokemtdc/Enter_The_Dragon_19
 sublink:LISTSOURCE:https://streamango.com/f/qpemsodcksmlpptn/Mortal_Kombat_1995_720p_BrRip_x264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzJhYjYxMTctNmY4My00NGIzLThmN2MtYjgwMjlmZWNjMTJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -103,5 +103,5 @@ sublink:LISTSOURCE:https://streamango.com/f/qpemsodcksmlpptn/Mortal_Kombat_1995_
 sublink:LISTSOURCE:https://streamango.com/f/loqefqrmenqoaore/Gladiator_EXTENDED_2000_1080_BrRip_264_YIFY_mp4::LISTNAME:[COLORorchid][/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

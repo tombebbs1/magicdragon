@@ -2,7 +2,7 @@
 <title>[B][COLORwhite]YOU ARE IN STAND UP[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>ignoreme</fanart>
 </item>
 
@@ -12,7 +12,7 @@
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -671,7 +671,7 @@ sublink:LISTSOURCE:https://estream.to/8jmxq4hss2bm.html::LISTNAME:[COLORwhite]Li
 sublink:LISTSOURCE:https://vidzi.tv/p40vuq4ieh8q.html::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/0dYuiG.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -856,7 +856,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ddrfprfkfekrsbrl/Steve_Martin_and_Ma
 sublink:LISTSOURCE:https://streamcherry.com/f/ndtsqmmdfsqcssqn/Steve_Martin_and_Martin_Short_An_Evening_You_Will_Forget_for_the_Rest_of_Your_Life_2018_720p_WEBRip_x264-AMRAP_mp4::LISTNAME:[COLORwhite]SD LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://www.northcharlestoncoliseumpac.com/assets/img/Martin-Web-Banner-NEW-da82f024f7.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

@@ -2,14 +2,14 @@
 <title>[B][COLOR white]3D MOVIES LISTED A-Z[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 <item>
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</fanart>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
 
@@ -109,7 +109,7 @@ sublink:LISTSOURCE:https://streamango.com/f/krdpbmbfmkpqslor/Avatar_mp4::LISTNAM
 sublink:LISTSOURCE:https://1fichier.com/?0hcyngxnd7::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -119,7 +119,7 @@ sublink:LISTSOURCE:https://uptobox.com/edcqoay1bl8x::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?28nv4a0rrfvpd9frcjn2::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -136,7 +136,7 @@ sublink:LISTSOURCE:https://uptostream.com/q7gympak4ghx::LISTNAME:[COLORgold]HD  
 sublink:LISTSOURCE:https://1fichier.com/?hlk9jyage75qgsmrnqi2::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/pBMotG.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -154,7 +154,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rkqdktdtalkqdasc/Beauty_And_The_Beas
 sublink:LISTSOURCE:https://1fichier.com/?k468k50ae8::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -178,7 +178,7 @@ sublink:LISTSOURCE:https://uptobox.com/ghdjw7id98ne::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?uxba6e9yk8::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -223,7 +223,7 @@ sublink:LISTSOURCE:https://streamango.com/f/remfnsptrlmsofbq/Captain_America_The
 sublink:LISTSOURCE:https://1fichier.com/?w5bx9l14tm::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -233,7 +233,7 @@ sublink:LISTSOURCE:https://streamango.com/f/ebbnltbappfalsbr/Captain_America_The
 sublink:LISTSOURCE:https://1fichier.com/?e3q63frbfh::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTPv762hfzO92t4wllf9dNrV5zrbPzFn0XnwjHRWH20dBTuotSW</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -243,7 +243,7 @@ sublink:LISTSOURCE:https://streamango.com/f/rolbomsktkttskrb/Captain_America_Civ
 sublink:LISTSOURCE:https://1fichier.com/?247fhebiue::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://www.mydownloadtube.com/poster_image/detail_page_poster/movies_poster_1462225757.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -476,7 +476,7 @@ sublink:LISTSOURCE:https://uptobox.com/lnlmr4gd4qgp::LISTNAME:3D  LINK 2::#
 sublink:LISTSOURCE:https://1fichier.com/?in93ib8nar::LISTNAME:[COLORgold]3D  LINK 3[COLORred] Real Debrid Only[/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -546,7 +546,7 @@ sublink:LISTSOURCE:https://uptobox.com/mwnzv5pp0ihf::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?o7p55riw4f::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.ru/images/bdIVC.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -556,7 +556,7 @@ sublink:LISTSOURCE:https://uptobox.com/9xlin7xza6o2::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?7rcv1t5n8i7pb1oqjirr::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc1MzE4NTc3MV5BMl5BanBnXkFtZTgwOTgzMDAwMjE@._V1_SY1000_CR0,0,642,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -573,7 +573,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:48675240932800382374035ca5824414dc3b4cfb&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:48675240932800382374035ca5824414dc3b4cfb&dn=Home+%282015%29.Bluray.1080p.Half-SBS.DTSHD-MA+7.1+-+LEGi0N%5BEtHD%5D&xl=13691339355&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -626,7 +626,7 @@ sublink:LISTSOURCE:https://uptobox.com/e6o8d9meawfk::LISTNAME:[COLORgold]3D  LIN
 sublink:LISTSOURCE:https://1fichier.com/?cte9vyr495ms835dyclk::LISTNAME:[COLORgold]RD 3D  LINK 2[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -706,7 +706,7 @@ sublink:LISTSOURCE:https://uptobox.com/al26365cqrj7::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?aefrsh0vdlc9ddz9k3bq::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -752,7 +752,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/71486f4022b0664714b770c5b7b032e3/
 sublink:LISTSOURCE:https://1fichier.com/?whk48n9z23wtigirhdy0::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -762,7 +762,7 @@ sublink:LISTSOURCE:http://uptobox.com/sbn15upaixn7::LISTNAME:[COLORgold]HD  LINK
 sublink:LISTSOURCE:https://1fichier.com/?mpwcs04liz::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -786,7 +786,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4a1d291573a50065fde852af1db873da5acabe71&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:4a1d291573a50065fde852af1db873da5acabe71&dn=Krampus+-+The+Devil+Returns+%282016%29.Bluray.1080p.Half-SBS.DTSHD-MA+5.1+-+LEGi0N%5BEtHD%5D&xl=10225992111&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Fpeerfect.org:6969/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzA0OTYyNjMxNV5BMl5BanBnXkFtZTgwNjQ5NTY4NDE@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -918,7 +918,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/7b6b9f454b3aafb5e61bc42473bb17e1/
 sublink:LISTSOURCE:https://1fichier.com/?4k45b1be7dq0587wesma::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -973,7 +973,7 @@ sublink:LISTSOURCE:https://vidoza.net/29j3ygveoe8a/pokemon_detective_pikachu_201
 sublink:LISTSOURCE:https://1fichier.com/?k87ctnm8vwzcsd1pyioe::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -983,7 +983,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dcbtfkonacakkclb/The_Polar_Express_m
 sublink:LISTSOURCE:https://1fichier.com/?frq1lmlnpd::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1014,7 +1014,7 @@ sublink:LISTSOURCE:https://uptobox.com/zi75n4phqjdj::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?x43agqjrqdhkn45k35lb::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1024,7 +1024,7 @@ sublink:LISTSOURCE:https://uptostream.com/b69jqm7bmxbf::LISTNAME:[COLORgold]HD  
 sublink:LISTSOURCE:https://1fichier.com/?brob1or9y0q2w4q160wg::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTM3ZWVlZWUtYmE1MC00MWZhLTgxYjctOTFkNTIzMDdkOTg2XkEyXkFqcGdeQXVyNTk3MjY3NDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1196,7 +1196,7 @@ sublink:LISTSOURCE:https://uptobox.com/ji3orspye1bo::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?1fe61xzw2e::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1227,7 +1227,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e3a5c2c0d5a306de0e8bd32c192434620ecde3c6&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:e3a5c2c0d5a306de0e8bd32c192434620ecde3c6&dn=Teenage+Mutant+Ninja+Turtles+-+Out+of+the+Shadows+%282016%29.Bluray.1080p.Half-SBS.DTSHD-MA+7.1+-+LEGi0N%5BEtHD%5D&xl=16065661936&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Fpeerfect.org:6969/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmVkNjVjZTQtNTczYS00ODk5LWFkNjItYjNlMDc5ZjMyYTQwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1238,7 +1238,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/55affafef7be877af5621d3be626c336/
 sublink:LISTSOURCE:https://1fichier.com/?fnxltzujy7zn3fssvtob::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY999_CR0,0,672,999_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1291,7 +1291,7 @@ sublink:LISTSOURCE:http://watchvideo.us/pfpo9ibhb9xy.html::LISTNAME:[COLORgold]3
 sublink:LISTSOURCE:http://uptobox.com/eayrs1kgc14y::LISTNAME:[COLORgold]3D  LINK 2[/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1418,7 +1418,7 @@ sublink:LISTSOURCE:https://uptobox.com/p4kahpxrtamb::LISTNAME:[COLORgold]3D  LIN
 sublink:LISTSOURCE:https://1fichier.com/?jxflgi75r0jk9hc2yw5r::LISTNAME:[COLORgold]RD 3D  LINK 2[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTk4OTI4NDIxM15BMl5BanBnXkFtZTgwMjkzODQwNjM@._V1_SY1000_CR0,0,659,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1493,7 +1493,7 @@ sublink:LISTSOURCE:http://uptobox.com/folz1vqjb9e9::LISTNAME:[COLORgold]HD  LINK
 sublink:LISTSOURCE:https://1fichier.com/?3i3jl59j7e::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1518,7 +1518,7 @@ sublink:LISTSOURCE:https://uptobox.com/igy87445pgkk::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?xf1rkykb9qnfhwd30wbe::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1640,7 +1640,7 @@ sublink:LISTSOURCE:https://vidoza.net/9cbx434v5g2c/venom_2018_3d_hsbs_bluray_x26
 sublink:LISTSOURCE:https://1fichier.com/?u78vpswm4t7ugvkydb3h::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1720,7 +1720,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:55314a1e88755b10a7e71e438ec9717f3c333572&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:55314a1e88755b10a7e71e438ec9717f3c333572&dn=Zombies+%282017%29.Bluray.1080p.Half-SBS.DTSHD-MA+5.1+-+LEGi0N%5BEtHD%5D&xl=10339244131&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Fpeerfect.org:6969/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODY4YTJlYjktYzE4Ni00NGU2LThjODgtMDYyYTg1ODczZDFjXkEyXkFqcGdeQXVyMjIxODA2MTA@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
-<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

@@ -13205,6 +13205,6 @@ sublink:LISTSOURCE:https://1fichier.com/?35b55lalm5mi2naq6by9::LISTNAME:[COLORgo
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>http://supremacy.org.uk/tombraider/dogsbollocks/nr3.txt</externallink>
-<thumbnail>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/dbicon.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>

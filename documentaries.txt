@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Apollo (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sid5ovtu34v6/the_apollo_2019_amzn_web-dl_aac2_0_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-420l8dmq::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gj6xk631jyeejmphgjbo::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmI2YjJhN2MtYjgyZi00ZTRiLThhODAtNDVkZDg2YzE3OWJmXkEyXkFqcGdeQXVyNTEzNDY5MjM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dancing with the Birds (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qy9euf42n7ej/dancing_with_the_birds_2019_1080p_nf_web-dl_dd_2b5_1_x264-ika_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

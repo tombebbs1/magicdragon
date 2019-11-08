@@ -146,24 +146,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&
 <fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Blue Ridge Mountain Christmas (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/0hyg3jhiq0db/preview_%2B_sneak_peek_a_blue_ridge_mountain_christmas_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1ekswrpr5jsp/a_blue_ridge_mountain_christmas_2019_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaewkqdre2q::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaewkqdre2q::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/si6w16gopmlq::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/rg1mhk6wl2t6::LISTNAME:[COLORgold]HD  LINK 5[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/649e9c8fb696b4a9a0c8edae929e1fb4/A_Blue_Ridge_Mountain_Christmas_(2019)_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?25pxw5f3pmd48lzno4hz::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/N9RJJ8M3::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&dn=A+Blue+Ridge+Mountain+Christmas+%282019%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&dn=A+Blue+Ridge+Mountain+Christmas+%282019%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzlhOTM0NWEtZDU2MS00NjAzLWI5YWMtZDQ2ZDAxMTIzOTk3XkEyXkFqcGdeQXVyNTU2MDQyOTk@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Let It Snow (2019)[/COLOR]</title>

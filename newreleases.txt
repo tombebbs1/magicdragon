@@ -90,6 +90,25 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 </item>
 
 <item>
+<title>[COLORwhite]VHS Nasty (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s0exi9ce3oev/vhs_nasty_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/05652k3cwfgf/vhs_nasty_2019_720p_amzn_web-dl_dd_2b2_0_h_264-ika::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/kgyzna3z6p6kmpx::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/kgyzna3z6p6kmpx::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/97btz619wkr8::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/1xvx0bvep01j::LISTNAME:[COLORgold]HD  LINK 5[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/bc1311c9265f095be7b884a039801df7/VHS.Nasty.2019.720p.AMZN.WEB-DL.DD_2.0.H.264-iKA.mkv.html::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rlzi55uxomyxeyxk3aiw::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://www.oboom.com/QG7Z4410::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:e719e90a12050340dc45d4d3b4fbb7275bb631f8&dn=VHS.Nasty.2019.720p.AMZN.WEBRip.DDP2.0.x264-iKA&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:7d9b4cc98be0f7f2c4f7da3ac1bcf2264ee941b0&dn=VHS.Nasty.2019.1080p.AMZN.WEBRip.DDP2.0.x264-iKA&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2770::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGJiM2VmNmUtYzk3OS00NDhkLTliZDAtNmYxNjYwYzc4MTA4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Blue Ridge Mountain Christmas (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0hyg3jhiq0db/preview_%2B_sneak_peek_a_blue_ridge_mountain_christmas_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

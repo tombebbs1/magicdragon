@@ -144,17 +144,7 @@ sublink:LISTSOURCE:https://uptobox.com/z9fhf4melul3::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Joker (2019) HDTS UPDATED 14/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zp86uy5udit8/joker_official_trailer_2019_joaquin_phoenix%2C_dcie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/yxshic7c99mn::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-e138z0mx::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c24uc18xp4eg::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Addams Family (2019) HDCAM UPDATED 11/10[/COLOR]</title>

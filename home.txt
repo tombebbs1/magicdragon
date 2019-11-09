@@ -93,15 +93,6 @@
 <info></info>
 </channel>
 
-
-<channel>
-<name>[B][I][COLORgold]Catch Up TV[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info>Hundreds Of Documentarys To Choose From</info>
-</channel>
-
 <channel>
 <name>[B][I][COLORwhite]Episodes Of The Day[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>

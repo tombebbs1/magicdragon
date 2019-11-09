@@ -105,7 +105,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:22400BB762A5BB6C2E495D6BDD3B01516A2F87B8&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:BF9C10689255BB6651DD7AC4C85F69233F6FBCE2&dn=3.Way.Junction.2020.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2YwMjIwYjQtNTYxNi00YTRmLThhYTEtMzZmOWU5NTE3MGM1XkEyXkFqcGdeQXVyMTY4NTk3MzQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -124,7 +124,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:549467982d67e5b417ecfa53df5bc0bb3318829e&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:A707EC4E5DBECAF3A7A53F65398F5579158A342F&dn=Wake.Up.2019.HDRip.XviD.AC3-EVO%5BEtMovies%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.uw0.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGExZmVhYTctZjZlNS00YjJkLWI5MDgtYjUxYjE1ZWVjNTE1XkEyXkFqcGdeQXVyNjkxMTk1NjI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -143,7 +143,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:D439AE6D4E2E6D43E0BA709F158AAA4B4F4EABD9&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:B3C82D94F1D5C3B520A180CCB33B39B1ABD34F16&dn=What.Death.Leaves.Behind.2018.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjIyOTJiNjEtODNmNC00NDliLTgzNTktMjRkNjNhNDNlODYwXkEyXkFqcGdeQXVyNjc5NTcyOTg@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -162,7 +162,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:53BD71B94B5BE61CAFD8A315972CBF16E30AAFE6&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:EF1B7E561274E32371B91290E0465824C4D1CDDD&dn=The.Angel.Of.Auschwitz.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDQzMWQ4NTUtMzU1My00MzZhLWI3MGEtMGQ4ZTE1OGFlZmU5XkEyXkFqcGdeQXVyMjk4MDE2MTE@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -182,7 +182,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e719e90a12050340dc45d4d3b4fbb7275bb631f8&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:7d9b4cc98be0f7f2c4f7da3ac1bcf2264ee941b0&dn=VHS.Nasty.2019.1080p.AMZN.WEBRip.DDP2.0.x264-iKA&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2770::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzkzN2QyMWQtYjQ3NC00NTYxLWI5YjctZDVjNGYxNzJkMTU2XkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -201,7 +201,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e719e90a12050340dc45d4d3b4fbb7275bb631f8&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:7d9b4cc98be0f7f2c4f7da3ac1bcf2264ee941b0&dn=VHS.Nasty.2019.1080p.AMZN.WEBRip.DDP2.0.x264-iKA&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2770::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGJiM2VmNmUtYzk3OS00NDhkLTliZDAtNmYxNjYwYzc4MTA4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -220,7 +220,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&dn=A+Blue+Ridge+Mountain+Christmas+%282019%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzlhOTM0NWEtZDU2MS00NjAzLWI5YWMtZDQ2ZDAxMTIzOTk3XkEyXkFqcGdeQXVyNTU2MDQyOTk@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -241,7 +241,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:28E0B3543571F379D8576C0A857888FCE78FD1A5&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:27668ED95522926A96E98AE25610A96444EC9DAD&dn=Let.It.Snow.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmM0NzRiODEtMTIzNS00MTgwLWFjZDQtNjUxZjI0MDdjZWQ4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -260,7 +260,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8CA89106D83A236A063D58F6046E5D6F4D2E3B99&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:FB14B92E4724707216A7492B06109B7DC763F177&dn=Paradise.Beach.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODM1ODMzYWQtYmVhMy00Njg0LWFkZDUtMTIwNDE0OTU2MzAzXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_CR0,0,734,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -279,7 +279,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:336F1687854F1B6B70649C016E99F309DEE04B75&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:D59D81DE6EEF84E33176E2487ED25BEA7683809C&dn=A.Reindeers.Journey.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTY5YTk3M2UtNTlkZS00NWY1LTgzNTMtY2VlMjkyZmY5NGUwXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -298,7 +298,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:66257147EB4AF350F32AB65781697C5EA2B6139B&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:DC268A0C875B0D52D3B6A37832DF8D0C89886248&dn=Cold.Brook.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGE4NjgxY2ItZmE1MC00OGY1LWFkNmQtYjU0ZDdkNDhlNjNhXkEyXkFqcGdeQXVyNjgxNDE1ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -317,7 +317,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:07EC7339B667F562E4FEDD799D78FD7603522E57&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:BC36FF5392B90D3C6B3E8E4586939F250E626C61&dn=Acceleration.2019.1080p.WEB-DL.DD5.1.H264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmVkODQ1MzMtZDk2MC00Y2ZkLTliODQtY2M3ZGJmM2FkMDM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -336,7 +336,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:643AA4FA8EE966069E36E74982AC8C4455F0C66F&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:A7D3FCE7FFC8085AA3EA284729ABBBAF724410E4&dn=Danger+Close+%282019%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDA3ZjczODQtMzIwNS00MGNmLWE4ODAtNWZjZDBhMzVmZDI3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -355,7 +355,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5B9658CBE5929B746AD450D112765F6B9AB45511&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:786C6BA8DAD50BEE724C4DE7D4D1AB364EC93493&dn=Unintended.2018.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGFlOGU3NzUtZGUxZC00MGExLWI0YTYtY2NjMzNkNWE1NGNhXkEyXkFqcGdeQXVyMjA2OTE4OA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -374,7 +374,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:F84FBCE9D16E53B7A5E5CB4BCB7C47EBD349975F&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:E70D08407A216E6907614635105906CB7C8A9BA4&dn=New.York.Academy.Free.Dance.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjk5MzVjOGMtOTNiOC00MGIwLTg0NTctZTlkODMwODlmNjAyXkEyXkFqcGdeQXVyMTg0MTI3Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -393,7 +393,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:E4A7CD9494628D8FF441B94CF04EFC886456B95E&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:BF18C326D0C96924517CD2CE98E598C6111231C3&dn=The.Passing.Parade.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjEyODQ3YzEtNTg5YS00M2VjLWJkNTMtZWQwOGE4OWU0YWRlXkEyXkFqcGdeQXVyNDE5MTA0NQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -412,7 +412,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A4474284FCC26BA805A83167153667F0FE804BFE&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:C7EF9C8DB6B16CAD2750B53B3E2A36F9B873EB33&dn=The.Cleansing.Hour.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTBmODVhM2EtMjI3Zi00N2NlLTg3ZWQtNDE5OWFkYmRlZTM1XkEyXkFqcGdeQXVyMzI3NzE2NzM@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -431,7 +431,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:609ACFF2C017DCC79AA22D00B455CB95D3CF0D02&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:24F7C456D537DAB5008095553C032AC0743CB6A8&dn=Primal.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZThhM2Y1NjItMGE1NS00NWQ4LTliM2ItZDA5ZDNjYjk0YTE0XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -450,7 +450,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:FBBD8F75511C5E2246E8CEDBEC7DEADF4AF28BCF&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:6069FAD9D829A0B1778B5442B5A9D7E795F4EB11&dn=Dia.Of.The.Dead.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGY0NjUxZjQtMDFmYS00OGU5LWFhZGItMDk1ZTMxYzUwM2RhXkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -469,7 +469,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5D70369FB70DB9D75550865E72E80A7983A729E1&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:31D1EC73371D57854041930D77276F6465C3C6C7&dn=A.Dragon.Adventure.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWY4MzQxMWQtNzZiZi00MjU5LTg5ZmMtYTY1MmU3MDc4MDQ2XkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -488,7 +488,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:C787A510AE67C38A904C5DEAA9F9DD4C68D7DA91&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:2749742923308BF363B3EDE41D062C780F2C4906&dn=Cosmos.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOThkMjRjMzgtY2ZkMS00ZmJhLWEzYTQtNWUwMjk5YmI3N2UzXkEyXkFqcGdeQXVyMjY0Njg5MjE@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -509,7 +509,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2280E6062CADFC5D5588E82180472A78BA38715A&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:1283119B4DB79C513F45B33C56E399D02059D76A&dn=The+Pretenders+%282018%29+%5BWEBRip%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmMzY2JkZjItMmVjNy00ODI4LWEwZDgtYTA0ZjlmZGMxNWY4XkEyXkFqcGdeQXVyNDIxNTg5ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -528,7 +528,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5ed837dfcae3b3bfbe6c8bab65011ad354cc245f&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:f87063ad59ba9974ea31e869f870a7ead9bedb5e&dn=Burning.Cane.2019.1080p.NF.WEBRip.DDP5.1.x264-KAMIKAZE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGIxMWEyZmItZThjOS00ZWE5LTk0NGUtYzAwNGVhZmQzODBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -546,7 +546,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39C5B4157C06184A6E854AC16FAF74E9DC82E7EA&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:60FA62B0647F227EA2B62720638DC24E4AC657E5&dn=After+the+Wedding+%282019%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTI2NGVlMzAtMGQyYS00N2Q3LWE0ZDUtNzBmNGE1ZWE3NzQzXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -564,7 +564,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8444055F0A540DD988C73D2871FC2D71A14D0BF1&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:D610EF119A216B3C08162165983EBE55D6842493&dn=School.Of.The.Damned.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmRlNTBhZmQtMjFmZi00MDcxLTllNDYtYjZlODRkZmI4Y2Y1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SY1000_CR0,0,701,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -582,7 +582,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:075EC34F6C2D06DFF91904CC0E356698F21C1BF2&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:742131960F9180E7D48FEFDC999B11626821CCDA&dn=Ellipse.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTRlYmRhYmMtODMyZi00Y2ZhLThmMTEtYTM3MzljMzdhZjk3XkEyXkFqcGdeQXVyMjk2NTA4NTk@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -600,7 +600,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:64982CAD75B1FDBF22287F1988AFEFE7C80CD8E3&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:50901804DF60F15B7FE84132A908086F2A0E0435&dn=A.Very.Corgi.Christmas.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYWY3MjU5ODYtNDY1YS00YTkyLWI5ZWYtYTAxMzZkZWE1OGQxXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -618,7 +618,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:318AA6B09F5B4757BAD4BA10303585B2D3256464&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:A2F1ADDF685D84F5A95CA5C9E98B332F8C568951&dn=A.Walk.With.Grace.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDgxZmNjMjgtODdhNy00NGE5LWFiZGQtNjM2NGVmMmM0ODA4XkEyXkFqcGdeQXVyMjIxMTM2ODU@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -636,7 +636,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:FE260805A9B9E5F04355EF2D2BE5A8741FB9C5F5&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:B146884F6B14F2777C9933893DD5B1B30B7797DC&dn=Blood.Myth.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTI3OTIxN2UtYzkyNi00MWYxLWExMWEtNTBkY2RkNmI3YjBiXkEyXkFqcGdeQXVyMDQ1MTI1OA@@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -654,7 +654,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4BC9B4ED689EE441AF1D43D72CD8F93F601DFD38&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:43FBB4183D65CBB45E926CB661366F12560F955B&dn=A.Kiss.On.Candy.Cane.Lane.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2MxOTIyYWEtYjI5Yi00ZmI3LTk5NGUtMDBkOTc1OWYwMjZkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -672,7 +672,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:ABBBA71D118EE01FFA54F19D5064D8C0D5430A04&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:A091CCB91803E220581E685DB7569E07801D07DC&dn=Pickaxe.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc4YTM0YzQtOWRkZS00Y2M0LWExZWUtZTQ4ZTRkNjI4YWE1XkEyXkFqcGdeQXVyMTg0MTI3Mg@@._V1_SY999_CR0,0,701,999_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -690,7 +690,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:DADAC15254272C454B0274C859E2925C1226309E&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:6F9068CAEDCACAFF760F7DACD7E87E2BA2E6CA3B&dn=Ice.Blue.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzE0MjU0NTUtYzNkMC00ODY4LThmMGMtNTYwMzE1ZmIzZTJmXkEyXkFqcGdeQXVyMzc0ODEwMg@@._V1_SY1000_CR0,0,772,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -708,7 +708,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:C49D23BD2230CCD82A7D1E92E3EAF334D035FB19&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5B0510DF4E2DD9B28CBD71BAFFFCCC66997EE128&dn=Undercover.Brother.2.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWRmN2NiZjYtOGJmNy00NGFhLTk5MTktNzgyNGYzMWQ5NmU3XkEyXkFqcGdeQXVyNDExODY2MjU@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -727,7 +727,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7A89F3AF6F42B88F36DB17A77162422BBE15B50A&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:DE077BED317AFA2216AA902F2D97CC191F0ABA61&dn=Holiday.Hell.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzhlNzRmMGItYjBhZC00MTE5LTk1MGItYzY1ZGM4YWMyZDc0XkEyXkFqcGdeQXVyMjI4NTE2MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>: A mysterious shopkeeper narrates four horror tales, each set during a different holiday.</info>
 </item>
 
@@ -746,7 +746,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:DD9F819C0495BF2D3DD985DAABACA861BBD837C6&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:AC6A70023D7ED566BCC9B182199AE9039A9DC80F&dn=The.Wrong.Todd.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWQ5ZjkwNDAtYWJiZS00OGNmLThlNmYtYWJhNzM3OGM2NzdlXkEyXkFqcGdeQXVyMjY3OTg1MA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -764,7 +764,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:71F501F1BA5025B386F6CF6B0245A546E4130C8F&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:9C1A80EE7BD8EF0853CC0AF9E4EF0B6A4C09D3DD&dn=Eminence.Hill.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjRlMDc4YTgtMjg5Yi00N2Y4LThmODYtNGJmNDBmOWRkNzZlXkEyXkFqcGdeQXVyMzM1MzIwOA@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -782,7 +782,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:DD269EA43487EB2C71C604AAC9AB66F0DB3BDC03&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:C0D8F81E0B5C699F8D77F6CAD60815480B2AD151&dn=Ghost.In.The.Graveyard.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjgxY2MxNjktYmJkYy00NmYxLWIyODctYWQ2NjhkZmZmYTc5XkEyXkFqcGdeQXVyNjUzMzQzOTU@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -800,7 +800,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A5368EC6B1B757B9A10DFF253B750FE5AF1E163F&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:873401D8EF71ACD2464BF44566A66D4E39D48981&dn=Red.Letter.Day.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGRjMTM3OGEtMmVjNC00YmJjLWI4MTktMGEyMmIwMjY2ZmJjXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -818,7 +818,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:B1ABCAD65AA7A0E592B3090DE6024AC6F13921A2&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:61EB32A6960B13869628717078D97E55825D75E1&dn=Official+Secrets.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjY1NWYwZmEtNGE3Ny00YTZhLThmZTMtNGI2MDY0MGU5YmJlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -836,7 +836,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:890A53F7E766203696C821FAB9C13F15272F2ABB&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:3C08A50E6B88F44CB332D95C3962289AF57C8687&dn=Dora+and+the+Lost+City+of+Gold.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -854,7 +854,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:E364C72EF5EE70359FC1DCB9B65C521D1B94C040&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:ED112F273CFA3DC528283258391ECDE03AE2A08A&dn=The.Experience.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTM5NGQ5MjQtNDc2OC00N2IxLWEzMTAtNDk4OTEwNjYzMzQ5XkEyXkFqcGdeQXVyNTA0NDI5OTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -872,7 +872,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:6d5dcdc46bc38cc49fba3b1a2746f6215067be50&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:94fd0a6c582fa6e0956a9d525f39db7cd39d324e&dn=Cats.and.Peachtopia.2018.1080p.BluRay.x264-NTROPiC&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2730::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5YTFlNzYtZmU5Ni00Y2Y2LWFmMTktNGFlZjE0MWIwMDJmXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -890,7 +890,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:6F117BF20AF629329BCA640816687EDE57332F31&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:A482B54D880CD0C515899155F29081E094F30F2A&dn=Mouthpiece.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTNjZDA2NDMtNzU3My00YWMzLWI4NDQtNDkyZGMzMzkyODA0XkEyXkFqcGdeQXVyNzU4ODEwNDI@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -908,7 +908,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:C473D058C322B792F8C500C142A849174C9D123B&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:C1AD712ECAA05E42FADACAC0CDBF007EDC6FA892&dn=Christmas.With.a.Prince-Becoming.Royal.2019.720p.HDTV.x264.UPTV-Dbaum.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmRmMjgxOGEtMDQxMy00Yjc2LTkxZjctZjc2NmY2NzQ5Njg2XkEyXkFqcGdeQXVyNjI4Mzg5OTg@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -942,7 +942,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:6B3C3351A5AD2E63555F75EFA73CCC23B346CE82&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:6B3C3351A5AD2E63555F75EFA73CCC23B346CE82&dn=Always+and+Forever+Christmas+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjMyMDIxNzktZGNlYi00NGE4LTk1YTMtOWVhYjgwZDQxNjJlXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -960,7 +960,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:EA0EEF77EF4BC5B05C9DA3C86610DE4C9DFC3160&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:EA0EEF77EF4BC5B05C9DA3C86610DE4C9DFC3160&dn=Christmas+Scavenger+Hunt+2019+%28Hallmark%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmU5ZTQ2OGEtOGU2Zi00NTY0LWE4M2EtZWNkYjhkM2EzYTBhXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -978,7 +978,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:67AD09B87EE6C725D3751DC2386D7B300FA6431F&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:F955DCF115426980265CAF94A6FCB1478120AC1F&dn=Streamer.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDEzMTY4MDktOTgwZC00MTdjLTk4OWQtOWIxNjY5MWMwMmQ4L2ltYWdlXkEyXkFqcGdeQXVyMTQ2NjExOA@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -996,7 +996,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A6C91C56928DFB557751E995366C1A3B47F8AD18&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:62F17CDCF7A277FCBAAC15A56C655260A0637EAA&dn=Shockwave.Countdown.To.Disaster.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWEyOWVjZjgtNDBmMi00ODFkLWJmMGEtMmFjMDZlMmNhODE2XkEyXkFqcGdeQXVyMTQ5NTQyNDI@._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1014,7 +1014,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:9244E494D6195AEBE92910011F813AEEDDCD5CF5&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:E8AE11B5812543EC66C083FF81B0A460F48307D2&dn=Tales.From.The.Lodge.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYmI4NzZkNzgtZTQzOC00NTQ2LThlOTMtOTY0YTJhMTk1MzU5XkEyXkFqcGdeQXVyNTgzODQ5OTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1034,7 +1034,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:647443598777E0D110B21A98D0DEC6120DCE316D&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:68D5DFE805A1432DB1E153823976F9148716D137&dn=Salmas+Big+Wish.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTQ1NzA3ZGItYTFlNi00NDNhLWE5MGEtNjQyZjZlMGU5Yzg4XkEyXkFqcGdeQXVyMzY3MzcyNTE@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1052,7 +1052,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2C874A174068414064222DB8C2AE80E8D370836C&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5DBF9FA094F981950ACBC30147C95FA05E8A771D&dn=Cross.Rise.Of.The.Villains.2019.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/ONmuysVU.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1071,7 +1071,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:64639D167F99B509541344BDC6CCCCA1F7D224B6&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:65cd4928d7ef233f2bceb46c14e2541255e898ad&dn=Urban.Fears.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTU3NDU4ZDMtNjEzMS00OWQ3LTk0NDAtN2U3MmYyZGUxYWQ4XkEyXkFqcGdeQXVyNDU5MTUwNTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1089,7 +1089,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7cb9faac711b0c1ece32a0601055928269201eaa&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:7cb9faac711b0c1ece32a0601055928269201eaa&dn=Dulcinea.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDUwYTNiZjUtZjI5NS00MDEyLTkyOTUtOGRlYjk0YmRkYjcxXkEyXkFqcGdeQXVyNTIwNDIwODc@._V1_SY1000_CR0,0,772,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1105,7 +1105,7 @@ sublink:LISTSOURCE:https://1fichier.com/?eb88x4xcg0ob3etbqe2u::LISTNAME:[COLORgo
 sublink:LISTSOURCE:magnet:?xt=urn:btih:C0811183C84AF4263609ED43C10DCD92300D9399&dn=Christmas+Reservations+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 7[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/jHGUEqZdS.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1120,7 +1120,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/8c6be6a1e565a9b6acc60c1cb7e138db/
 sublink:LISTSOURCE:https://1fichier.com/?j969y2oxamvf37stjovh::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGYyNGIzMTQtNjU0Mi00NGE5LTgxM2EtYWM2OTQwMzU5ODBkXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1138,7 +1138,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A090D344ABD5099AA255173241BEBC8E35C0DE24&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:B2C86B41CB4C321E9780660A7077AF2DFD35DBF0&dn=Merry+and+Bright+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2ZhMjk1MTgtMjgwNS00YmQxLTlhZTAtZGZjNGQ1MGUzY2NlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1152,7 +1152,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/cfc833b219b693db1bd0346931a3c886/
 sublink:LISTSOURCE:https://1fichier.com/?71js44qlsuffl0er1cn9::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODYzYTg4YWQtNmUyYS00NzgwLTk3NGQtMjgwMGQwYTNiM2QzXkEyXkFqcGdeQXVyNzYxNzM3NDU@._V1_SY1000_CR0,0,681,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1174,7 +1174,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/dcde2c11d1b001910d791c8b3ae52f1b/
 sublink:LISTSOURCE:https://1fichier.com/?wmqacfsgrrjmw6l2wgfm::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDg1ZmFlMjQtZGU0Ni00NGVhLWJjMDEtMjg4YTBmOTI5NTEzXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1189,7 +1189,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/5ed644e6bdb781f90a42e01f9b717d80/
 sublink:LISTSOURCE:https://1fichier.com/?pci07wgxd2lj1p946vkq::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzc1MWI3MWMtYmNlYi00NjllLWIyNjctNWU2NWRjNjE2ZjhkXkEyXkFqcGdeQXVyNTU5MzI1OTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1204,7 +1204,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/52fd73a5551335981983827d0aacc97a/
 sublink:LISTSOURCE:https://1fichier.com/?89ce0fyu6zj7g64pnvss::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGZhMWFhMTAtNGM3Ni00MTdhLTg3NmMtMDViYTc5ODVkZWVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1218,7 +1218,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/9af501141a25b52a7f582d0e447b637a/
 sublink:LISTSOURCE:https://1fichier.com/?6byb3bf2s0n4qxbh4hzs::LISTNAME:[COLORwhite]SD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDZkYWQyMjQtM2RiMy00YWI4LTgxNTktMjg3M2UwMGI1NTdkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1233,7 +1233,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/c19c362f75323b5682e7a74e4171b8e5/
 sublink:LISTSOURCE:https://1fichier.com/?qfe0aebgvtb120yk7ks0::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2FjNjQzYmMtYmUxOC00YWI3LWJmMDUtNDA5NWYwNDMxNmNhXkEyXkFqcGdeQXVyMzg4MDMyNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1247,7 +1247,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/1df2e520d2792f6fd9c0d65419679ef8/
 sublink:LISTSOURCE:https://1fichier.com/?3nvipy2y10cpwd3qu5yc::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTcyYTJiMWUtYjc3YS00ZWJhLTlmNWEtYjQ3N2Q4NjNlMWRjXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1262,7 +1262,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/d8e4cf2f397c8f20ebbf54185bdb662e/
 sublink:LISTSOURCE:https://1fichier.com/?8k5vzcyn1fhaa3daabau::LISTNAME:[COLORgold]HD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmY2YmFkNGEtYTJiNy00MjViLWJhZjYtYzljNGFiZDcyMGI0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1277,7 +1277,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/688f5dae583d6336857d26075a90062b/
 sublink:LISTSOURCE:https://1fichier.com/?pea1l6fk9bg6ush8mohc::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2U1YmQ3ZDYtM2VhZS00N2RkLWFjNGQtYTNhMDgwNjYxYTNhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1294,7 +1294,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/924b295cfa09fd439bed8cc7f51d7f37/
 sublink:LISTSOURCE:https://1fichier.com/?d7sj816nxvtgxrj9rqu4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1311,7 +1311,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/290f68bc49d2f5b7c47114d7f8e1a6a9/
 sublink:LISTSOURCE:https://1fichier.com/?zhopr7q4qmvuhq2uf9af::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjUxMWUwYjktOTUxNS00MzY2LTgzM2UtOGZjZTZkNDhmMTk3XkEyXkFqcGdeQXVyODk5MjQ1Nw@@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1327,7 +1327,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/26494976f42bbf898d747af656777b08/
 sublink:LISTSOURCE:https://1fichier.com/?r9chkvgn8h4rcndc7fzh::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/5dWvrmG0.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1351,7 +1351,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/54133615c278db208598a702c8c817de/
 sublink:LISTSOURCE:https://1fichier.com/?bm6uxja0fk2w0v9lr4e5::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjkwMDMwOTQtM2MwMS00NjVmLThlODgtZmYyZjBhMjgzYTM3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1369,7 +1369,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/fcdca99ddb085a57c535fbcd41ca1b55/
 sublink:LISTSOURCE:https://1fichier.com/?uuitn6vfr4pw0q0p8xiu::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTgyODUzNjMtYmQ4Mi00ZWNhLTk4NGQtNjk2ZmQxNGU2MWUxXkEyXkFqcGdeQXVyNDM5Mjc1Mg@@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1386,7 +1386,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/0d704cedccad174684273c5756558bac/
 sublink:LISTSOURCE:https://1fichier.com/?qnm1c5qxok1319krvcls::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDNiYzFlYTUtN2JiYS00YzU2LWJkMDQtZTlmNTFjZGI1YWI1XkEyXkFqcGdeQXVyNTI4NDE2MzI@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1403,7 +1403,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/ab8ed121fb7e200a4a6c85316f677013/
 sublink:LISTSOURCE:https://1fichier.com/?g2zwci6bcvytzv441pyo::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/mpod07.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1420,7 +1420,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/3ac94e922d17560a40389f678f49d24a/
 sublink:LISTSOURCE:https://1fichier.com/?n4gakyhn1jdsgq5ygbbs::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjc1YTg2OGItMDI3Zi00ODcxLTg1NWQtMTk4OGU4ZmYwYThkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1437,7 +1437,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/56d85a3991a8d07697cb08c7685d2eb0/
 sublink:LISTSOURCE:https://1fichier.com/?6aae53r3yta9fuc6dj6r::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODJmYzI0N2ItOTk3OS00ZDllLTk4ZjEtZWIzYzI4ZTg2NjIxXkEyXkFqcGdeQXVyMjA3MTU5Njc@._V1_SY1000_CR0,0,705,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1454,7 +1454,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/196515501c513af134c456bf413ae230/
 sublink:LISTSOURCE:https://1fichier.com/?kqlk3ycjiydgjawrei9h::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGMyNmI3NTAtMzcyNC00Zjg3LWIxNDUtOTdhYjIzMDM3NDU1XkEyXkFqcGdeQXVyMjIyODk4NjA@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1487,7 +1487,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/1bf8c50070ead61bef2b90a22ffe1dbf/
 sublink:LISTSOURCE:https://1fichier.com/?nats5ftlepmcgowp45vz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjRmNDE4MmMtMjc3ZS00YzZlLWJjNzgtM2IyNjIxZDFlM2Q5XkEyXkFqcGdeQXVyMjEzMTkwNDA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1504,7 +1504,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/98d15d5419f0d0b29bac5e37eb7b48a1/
 sublink:LISTSOURCE:https://1fichier.com/?c1m84v08dxe1yzbf6aop::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmZkZjVjOGUtYjI0Yy00MzIwLWEwODEtYjQzNTI2MjFkZjliL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTkxNjI4NjY@._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1521,7 +1521,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/9e24c1882e3ef11eb848d5c212d112c4/
 sublink:LISTSOURCE:https://1fichier.com/?c3yg333fsailqyqav8qv::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGI4NGRlNjEtZDUwOC00ZmRkLWI1ZTgtOGZmMTk3MzQ0ODVhXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1538,7 +1538,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/46d8b536add5bb435713037acab869f1/
 sublink:LISTSOURCE:https://1fichier.com/?lz95iny6r6pitcx032jz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc1NjIzODAxMF5BMl5BanBnXkFtZTgwMTgzNzk1NzM@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1555,7 +1555,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/4013faa4ae71c0e56952c7468e3b58c3/
 sublink:LISTSOURCE:https://1fichier.com/?8lsoc2y3gvchf58l5ycr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWE3MjViNWUtY2VjYS00ZDBjLTllMzYtN2FkY2QwYmRiMDhjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1574,7 +1574,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/f89926a47ce9168244227ea3b3bb3f5d/
 sublink:LISTSOURCE:https://1fichier.com/?vj4i0ttix27916i1b5dk::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWIzNDA5MDMtZTM3ZC00Zjg3LWJlMmMtM2YyNGYzZGZiNDMyXkEyXkFqcGdeQXVyMjAyMTA5MDc@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1591,7 +1591,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/b8744b536e7c7876137c80fda322019d/
 sublink:LISTSOURCE:https://1fichier.com/?1ufswmwsyswctbpv3ioe::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1608,7 +1608,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/06243e2fba2e7d6604130fe6f9dc9de1/
 sublink:LISTSOURCE:https://1fichier.com/?hikm0939qewoarzcosti::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDlmYmI3NzgtNjhhYi00NjJlLTkyNTAtYTA4ZGZhNzNjMzQwXkEyXkFqcGdeQXVyMjgxOTM1MDU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1625,7 +1625,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/bcbb9fee694561f16986d7fc6ab57f45/
 sublink:LISTSOURCE:https://1fichier.com/?0yduvmvfgosuuf21syik::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmU3NTc3MjUtZTdhNS00YjA0LWJmMTctY2FkODZkMDgyNjk2XkEyXkFqcGdeQXVyMjI1NjgwMzk@._V1_SY1000_CR0,0,620,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1642,7 +1642,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/74b2da779acc10f35c380937d855d4c3/
 sublink:LISTSOURCE:https://1fichier.com/?v8l3uehcbyvun2vm1ttg::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjdkYWYwYzQtZjNkOC00ZjRjLTk1ZTQtN2NmOTZlYzVhNDhiXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1659,7 +1659,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/0d6470027e1c73171fe7d2c9d69e8758/
 sublink:LISTSOURCE:https://1fichier.com/?4cepgrjpro413j2hl3kw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BY2UwMWNkMjctZGNiYS00MWZiLTliMWMtYTY3NmRhZjU4NDRmXkEyXkFqcGdeQXVyNTA5Nzg5OTQ@._V1_SY1000_SX707_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1676,7 +1676,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/01b444f13deb5fc21a5609bf5c1f3e6c/
 sublink:LISTSOURCE:https://1fichier.com/?i8n8ofwxrhuhcqcy47aq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTU3MDlkNzAtZWVhYy00YjljLThmZDAtOTM4OTg1NTk2NmFmXkEyXkFqcGdeQXVyMTQyMzQ2Njg@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1693,7 +1693,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/b3bca169fad9c5865c0f769929b36e16/
 sublink:LISTSOURCE:https://1fichier.com/?cqqxmzbsd2j2zbrswodr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzExMjFiZWQtZjE5ZC00YjJkLWFjNDItYWJlYjViYTU0MmRkXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1710,7 +1710,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/24a6621887c862ea25d75ef23e99cb1e/
 sublink:LISTSOURCE:https://1fichier.com/?6tesnajfcg2bgr2wfuul::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjVmZmY1NmQtMWNhZS00ZDUwLTk5ZTQtZGE4NWIyM2YwMDRiXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1727,7 +1727,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/356e4f89e8b6d5e8760806b5c6aadbf0/
 sublink:LISTSOURCE:https://1fichier.com/?a8fli811pkqnls96tztc::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzE0ODNmOTktNzdlMy00MjUyLWEyMzYtMGU3N2U0YTdkMGJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1746,7 +1746,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/cc2f0ebad5b3fa392655786ad27e7220/
 sublink:LISTSOURCE:https://1fichier.com/?gktsjjtqnv044v8dg9b0::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTg4Y2FjYzgtM2Y4NC00ZGRjLWJhN2QtYTAxMTMwNjdiOTY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1763,7 +1763,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/345a1edc12a31f06ee15fa3791832b25/
 sublink:LISTSOURCE:https://1fichier.com/?7p3k3qkxlf5nz7rx9pnx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1780,7 +1780,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/77b80fe6dd3ca1f3fff7f299d9817972/
 sublink:LISTSOURCE:https://1fichier.com/?u2zy1s8azxlg2bxrkqn1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjlhZTVmMzktMmQzMy00MzQ2LWJkNzQtYTdjMjZjZmY0NjQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1797,7 +1797,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/176950bc279c7a7c6aa431a69b1a1ceb/
 sublink:LISTSOURCE:https://1fichier.com/?j03324wo77ouapiqplx6::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmQ0ZjQ5NDAtMTJiNC00NTMyLWFlZTYtOTdiMWQwNzAzZWI2XkEyXkFqcGdeQXVyMTM3MTU3MjI@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1814,7 +1814,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/b3863cc05446b9a42b93c61ab5509bd5/
 sublink:LISTSOURCE:https://1fichier.com/?luioa5j3jny0swzyuhby::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTI1ZDA2YWUtOWRlOS00NzM3LWJmMjUtOTU5OWVkNTRiNDgxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,1351,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1831,7 +1831,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/3e215e09c8b1460920c57b9d872edde4/
 sublink:LISTSOURCE:https://1fichier.com/?peag31sayxxyayxij6un::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc1NDMxYzYtOTJjOC00YTQ2LTg4NWEtYzJmZmU2ZmY2N2ZiXkEyXkFqcGdeQXVyNjI2ODQwNzQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1848,7 +1848,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/0362abbd64170805e93a4c4d3c9e1cc5/
 sublink:LISTSOURCE:https://1fichier.com/?h8a6u4hyu4x1h8dszpdt::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTRkMjRmYmMtZGMxNy00YTRjLWFkOWItYmIzODExMmIwZWM1XkEyXkFqcGdeQXVyODcwODYxNTU@._V1_SY1000_CR0,0,655,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -1867,7 +1867,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/b65bf5469a84ea7603940c7573c1fdb4/
 sublink:LISTSOURCE:https://1fichier.com/?3yu2x9dws5pjjy15t4sv::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmM3ZTJmMmYtYjhlOS00MzkzLWJkYWQtN2E0NjZlZGM3NDc5XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1884,7 +1884,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/c79362f5f7113d5dbb5d7ecedf88fd33/
 sublink:LISTSOURCE:https://1fichier.com/?0x4ih3acgbgx91b99a7h::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGI2MzRjMjMtMTBjOC00N2MyLThlMDQtZjljYTUyNzFmNjA0XkEyXkFqcGdeQXVyODA1ODEyNDc@._V1_SX680_CR0,0,680,999_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1901,7 +1901,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/33333a9571e0b1a950c7674d1a957912/
 sublink:LISTSOURCE:https://1fichier.com/?wwq5wqycb3gbzuctzvau::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGYzOTYxZTItZDEzZC00NDQ5LWFiZTEtZTA3Yjk1OGIwY2Y2XkEyXkFqcGdeQXVyMTQ4MTMwMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1918,7 +1918,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/2e216a935bd6d5df848ab0a7df2d13fd/
 sublink:LISTSOURCE:https://1fichier.com/?qslj1rshqgrzy05mbpm2::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjU1YmQ3YzYtZGM4NC00MzVjLWExNjMtM2U3YWUxNGM2MDZlXkEyXkFqcGdeQXVyMzE5NDU3NjQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1935,7 +1935,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/2a1cdd24d5bdc1c4faa8e8972d74f633/
 sublink:LISTSOURCE:https://1fichier.com/?ppd3neyk51n1rqrkaoes::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjE1NTNjMmMtZDE2ZC00ZTA4LWE1YTAtZmQ4YWQwMTIzNGZjXkEyXkFqcGdeQXVyODc3ODg0ODQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1951,7 +1951,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/7427313fdf7e2db7f140dc092c01e6a5/
 sublink:LISTSOURCE:https://1fichier.com/?lytcnalzigd63jh7bum4::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjU5ZTYzM2MtNDNhYi00YjU1LWE4MzEtODc0NmNlODZlMjlhXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1968,7 +1968,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/7ddab9e291f81b5f71a3a2053b210ab4/
 sublink:LISTSOURCE:https://1fichier.com/?vt9zx3ymed6i67hbrmww::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMThlNmMxNzktZjcyNi00ZjVkLTlkZWQtZDc1NzVjOTY1YTMzXkEyXkFqcGdeQXVyMzc1OTg2MTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -1984,7 +1984,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/55b259ebb455fbc1067356696efc54e5/
 sublink:LISTSOURCE:https://1fichier.com/?ejy6epk4azfl1ujwdi30::LISTNAME:[COLORwhite]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzdkNGJhNzQtMjY1OC00MDI3LTk0ZDUtNzU0MGZiY2YwZGUxXkEyXkFqcGdeQXVyNzMxNjQxMTk@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2001,7 +2001,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/88654808641165fb360180c01ec1f472/
 sublink:LISTSOURCE:https://1fichier.com/?essifksxqr2udhgpmx2n::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWQ2MmNhOWUtMWU5Ny00NmY3LTk1YjEtNDllNDc3OTE1MzQwXkEyXkFqcGdeQXVyNTcxNjA3NTQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2018,7 +2018,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/665661fcbb2ba03e291e335d02d962c3/
 sublink:LISTSOURCE:https://1fichier.com/?yf8t9fdh2y2ugrumvau1::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTgxNmY2MDAtM2QzYS00MmNmLTk2NWYtNDA1NzRiOGM4MzQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2035,7 +2035,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/02a58f768898e6ff413aa1baee57e006/
 sublink:LISTSOURCE:https://1fichier.com/?5ox8ee7uuhnh5jy8uojn::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmJkYzIzNzQtMWY4My00ZDVhLTg2MjAtMDgyYjg3OGI1MDkzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2053,7 +2053,7 @@ sublink:LISTSOURCE:https://1fichier.com/?36mcnqv6lw1jvs2sgg5u::LISTNAME:[COLORgo
 </link>
 <info>imdb</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGEwMWJlNzMtMjQ4YS00YjI4LTkwZTYtMGFiZTY5YmE2ZTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2071,7 +2071,7 @@ sublink:LISTSOURCE:https://1fichier.com/?dr39jg793tqsuq1g8fr1::LISTNAME:[COLORgo
 </link>
 <info>imdb</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDBmN2FhZjYtNTUyYS00ODhmLWEyNWEtNTBhOTViOGEyNWVmXkEyXkFqcGdeQXVyMTA1Mzg1NzE0._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2089,7 +2089,7 @@ sublink:LISTSOURCE:https://1fichier.com/?xcugrpqqf67xlclwffaq::LISTNAME:[COLORgo
 </link>
 <info>imdb</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzMzYTZiZDktOWUzMC00N2FlLTk4ZWMtNGI4NGVmYTliMDAxXkEyXkFqcGdeQXVyOTM4OTg0MDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2106,7 +2106,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/7fec8b94241630423e3a00ee06d6eb3e/
 sublink:LISTSOURCE:https://1fichier.com/?ugvu50koqj9k967t7w29::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGI5MmVmMTktZmVkZC00YjAyLTliM2ItMTg4OGE4MzRiMDIxXkEyXkFqcGdeQXVyODE2MzY0ODM@._V1_SY1000_CR0,0,749,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2123,7 +2123,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/927dd58f843f58aee83693fb8a6529cb/
 sublink:LISTSOURCE:https://1fichier.com/?rumyep3p4lvei83hm6t0::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjk4MzM4MWMtNTExNS00Zjc0LTk2ZGEtZjUwMjc4YjM1MTQyXkEyXkFqcGdeQXVyNTk4NzY2OTQ@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -2141,7 +2141,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/e6dc88912c58cfeb9854adcec7098f17/
 sublink:LISTSOURCE:https://1fichier.com/?agx2w66ndvltyf6s0mo9::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjUyZmIwZmUtMGFmMS00MTk5LThmNDItYzFkZTdlNjZiMzUzXkEyXkFqcGdeQXVyMzI0OTAwMg@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2158,7 +2158,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/af727c2313beb30dc3e83e13a108dc93/
 sublink:LISTSOURCE:https://1fichier.com/?lzvncrurgn397huw675u::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmY4OGM5M2ItZWIzNy00NjUxLTg1MDEtMzE3YjMyNzE0ZjQ0XkEyXkFqcGdeQXVyMzA4NzM1Njk@._V1_SX678_CR0,0,678,999_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2175,7 +2175,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/8f8e214c6a5b55401e48f1a3037b6e79/
 sublink:LISTSOURCE:https://1fichier.com/?2vr2lfsqi2g03vl1mhe2::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTZiMzZiNTktZGRkNi00Yzc4LWEyZTYtMTEzOGZjOTFkNWZkXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2192,7 +2192,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/19d58c958424e1a5e37a44f8657ee3bb/
 sublink:LISTSOURCE:https://1fichier.com/?febi58o931ungptkfbl7::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2JjNTI2ZDktNGYyMy00ZjIzLWIzNWQtMzFiYzJmYTFkZWUzXkEyXkFqcGdeQXVyMTkxMjYzMDE@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2209,7 +2209,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/9b39eaf2b6452c079237d21fa91c2dd0/
 sublink:LISTSOURCE:https://1fichier.com/?lwz15bl1tcsht3uxt5cy::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDAxNzhlNDUtNWI3Mi00ZWVlLTg4MzgtOWFmMDE5Zjg5NTNhXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2242,7 +2242,7 @@ sublink:LISTSOURCE:https://1fichier.com/?ta3jkby560tj4op15xf2::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?ta3jkby560tj4op15xf2::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjU2M2JjNDktMjgxOC00ZDgxLTkzMDMtZjA3MGNhNmI4YmExXkEyXkFqcGdeQXVyMzAwOTk1MQ@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2259,7 +2259,7 @@ sublink:LISTSOURCE:https://1fichier.com/?z2fs1hbr5xrzqt1rmkyq::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?z2fs1hbr5xrzqt1rmkyq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjVjNzAxYzEtOTNiNy00ZGM3LWI0NDktMTUzMzU5MzY5Y2FmXkEyXkFqcGdeQXVyNjIyMDI2MDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2276,7 +2276,7 @@ sublink:LISTSOURCE:https://1fichier.com/?f8ujooig2b39pb4wru4m::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?f8ujooig2b39pb4wru4m::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGQ1MDgxMWMtMjMzNC00YmE4LWJhNjctNGU4ZDk3MWY0ZGFkXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2293,7 +2293,7 @@ sublink:LISTSOURCE:https://1fichier.com/?03hfd1cra3u0a6ie571e::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?03hfd1cra3u0a6ie571e::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTg1M2FmZmQtZWVhNi00MWU2LWEyNjctMTE0OGU4NDYxOTQzXkEyXkFqcGdeQXVyMzY3MzcyNTE@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2310,7 +2310,7 @@ sublink:LISTSOURCE:https://1fichier.com/?zg9qotwze08a46dmzzlb::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?zg9qotwze08a46dmzzlb::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjBhNDlmMDItYjBlOS00Nzk1LWJiYzMtZmU3N2NmNGFlYTg1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX659_CR0,0,659,999_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2327,7 +2327,7 @@ sublink:LISTSOURCE:https://1fichier.com/?1t1jmga27ozvimwo4sx8::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?1t1jmga27ozvimwo4sx8::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2NhZDkwMzktNjIzNy00NTBjLWJhYzQtNDQyN2I0NzQ4NDVjXkEyXkFqcGdeQXVyNTEyMDE1MTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2344,7 +2344,7 @@ sublink:LISTSOURCE:https://1fichier.com/?uvl0qkxo7z6uv3xw1ey6::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?uvl0qkxo7z6uv3xw1ey6::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmUxNDUxYmMtZTFkZi00NTVlLWI0ZTQtZmRhYzYxNzIxMmYyXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2361,7 +2361,7 @@ sublink:LISTSOURCE:https://1fichier.com/?gsngwvvkgh1ay8wyuf8i::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?gsngwvvkgh1ay8wyuf8i::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOThiMzJkOTctMzhiZi00MjFlLWFiODMtOGFlNzgwNWI1ZGI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2378,7 +2378,7 @@ sublink:LISTSOURCE:https://1fichier.com/?f41if173589c4k6d97qt::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?f41if173589c4k6d97qt::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzgxMzk0MDctYTk4Zi00MDkzLTkyOGQtODc3YTMzNDJiMGY3XkEyXkFqcGdeQXVyMTA2MDQ4Nzc5._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2395,7 +2395,7 @@ sublink:LISTSOURCE:https://1fichier.com/?5i4r29o8phr03k4fs44z::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?5i4r29o8phr03k4fs44z::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDk0YWRhOWEtMjRlZi00M2RjLWJmOTAtZTVkNWY5Yzg5NGE5XkEyXkFqcGdeQXVyMTA4MzI0NDQz._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2412,7 +2412,7 @@ sublink:LISTSOURCE:https://1fichier.com/?qzmls182cwppn493zirn::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://1fichier.com/?qzmls182cwppn493zirn::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjc0NmVlN2MtMzEwNS00YjI5LTk3ODktNzQyNjBhODY0YWVmXkEyXkFqcGdeQXVyNjY1MjY1ODk@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2429,7 +2429,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/7abea7f7f18dc5d8f98b4ef3726e23a5/
 sublink:LISTSOURCE:https://rapidgator.net/file/7abea7f7f18dc5d8f98b4ef3726e23a5/Halloween.at.Aunt.Ethels.2019.UNCUT.720p.BluRay.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOWMzOGQzMTctMjY1NS00OGY0LTkyNGItY2U1NmUwNTM4ZDI2XkEyXkFqcGdeQXVyMzEyMzg4MDc@._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2446,7 +2446,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/368faa44127aa224f659872330794a62/
 sublink:LISTSOURCE:https://rapidgator.net/file/368faa44127aa224f659872330794a62/A_Brothers_Honor.2019.1080p.HDRip.X264.AC3-EVO[EtMovies].mkv.html::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJiOGYyOTgtMjQzMi00NzgzLTgwYzMtNzQ5MTRhMjA3OTU3XkEyXkFqcGdeQXVyMTA0NTk4Mw@@._V1_SX658_CR0,0,658,999_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2463,7 +2463,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/cf3e72a77df456dcb95be0902a645735/
 sublink:LISTSOURCE:https://1fichier.com/?airby5krzbcp34h70man::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzk5YTBjYmItMTk5Ni00YzEwLWE2YmEtNTQyNjExNWNlNjQ4XkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2480,7 +2480,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/66d1b7038095018842fad0b5777e20b5/
 sublink:LISTSOURCE:https://1fichier.com/?0eo1j9cxa6n58ui0eb3y::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDI0NzY0MjctZjVmNy00YWRlLWFiYWUtNWExYjJlNmIwZDNlXkEyXkFqcGdeQXVyMjM3NDgxNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2497,7 +2497,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/e38c2c19fb23e0a6f79b559290b2330c/
 sublink:LISTSOURCE:https://1fichier.com/?lmsusn3f9xvq2kkdtpvw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGEzYWE1YmItOTg5MS00ZmJiLThlYmYtMWE2OWFmYzM0YTU5XkEyXkFqcGdeQXVyMzg3Mjg3OTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2514,7 +2514,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/2792b4a95e1a2a8ce8b563dd4a79bb99/
 sublink:LISTSOURCE:https://1fichier.com/?aty1iyrtm97okkhwvjoe::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWYyN2JkMGItZDMyOS00ODY1LWI0OWQtOTlmMTMwYjRhODBjXkEyXkFqcGdeQXVyMTUzMzU2NQ@@._V1_SY1000_CR0,0,833,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2531,7 +2531,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/20516a4413c3cf209438043f40ba219f/
 sublink:LISTSOURCE:https://1fichier.com/?d4scol4oq7k1l984zihk::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTUzNDRkY2UtY2NkMS00OWZkLTliN2UtNjQ1NmFjYmMwNzFkXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2548,7 +2548,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/3f47e79883cb90206b966ff0e9da9902/
 sublink:LISTSOURCE:https://1fichier.com/?hkoibn0yg0w72rktbo76::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDI4Y2RkMjEtYWYwZi00ODUzLTg1MmItYWQzNjY0OTNlYTZhXkEyXkFqcGdeQXVyNjU1ODM3NzY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2565,7 +2565,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/fb1d5b3cc1f5b5a89ba7504d8ac6c842/
 sublink:LISTSOURCE:https://1fichier.com/?ui9l4mt4tr63njse6poe::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTExNTU3ZTMtMmMxNi00MjkyLTg1MWUtOGNmZGM2ZmU0YWFlXkEyXkFqcGdeQXVyMzA4MDA0Mjc@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2582,7 +2582,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/aa4984474ee1805292dc1711b71e7563/
 sublink:LISTSOURCE:https://1fichier.com/?0kkb80ywd7m6gdy20gv4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGFlMWFlOWQtNzU2ZC00ZTJlLTg3NWUtMTBiNzhlYjVjYmQ4XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,703,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2599,7 +2599,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/32b126b79d7dfacf7da3cbd03a22b5fd/
 sublink:LISTSOURCE:https://1fichier.com/?vhol91csqrn1vfnrcznd::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGRhOGZhMDAtYTAwZS00NmMwLTg3MGEtNjM4MjY1NzZmYjZiXkEyXkFqcGdeQXVyMTQ3OTM2Njk@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2616,7 +2616,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/abc54e0e544ec9c190d8e9659d86b6ff/
 sublink:LISTSOURCE:https://1fichier.com/?jngvfdzp6d9qshlbrlfo::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTBhZTIxZGYtNzhjZi00MTA3LWE4OGUtMGIwYWMxYzFhMGRmXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2633,7 +2633,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/c407bc9fe51881aa31b4f1e82008ca37/
 sublink:LISTSOURCE:https://1fichier.com/?motp527uu0dybi7c2b1f::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGI5MDhmZDYtOTBlMi00ODUzLWE2ZjMtYmE3Y2RlNWZkODc4XkEyXkFqcGdeQXVyMjA2ODc4OTE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2650,7 +2650,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/3274ac6eed141af08ddd38afb7c2defb/
 sublink:LISTSOURCE:https://1fichier.com/?1iafbn1p7zbt2qsflc2i::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGY4ZjIyMjMtNjBlYS00YjJhLThiNDMtMzFiODVkN2M2OTgxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2667,7 +2667,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/86095107e460e778763aaee6f944cde3/
 sublink:LISTSOURCE:https://1fichier.com/?jlj6pzuzujmmt3wb8rsw::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTBhNWRmNWMtMzE1ZS00ODY4LTk4NTctNzI3ODQ3MjZkODM1XkEyXkFqcGdeQXVyMDU5MDEyMA@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2684,7 +2684,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/65bcd0dc6bed118992b3d2131cfc110e/
 sublink:LISTSOURCE:https://1fichier.com/?jhxind2tpfesgsj9ofgg::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTQ1ZWRkOTYtOGM1Zi00NzVlLTk0ODMtNzZlZDQwNjMwNzRlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX668_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2701,7 +2701,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/e015dac7c6f56aadcaf777737dd583e2/
 sublink:LISTSOURCE:https://1fichier.com/?ip7kg23etox0cl1z963w::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzZlNzNiOTItYjE0NS00ZjcxLTk4ZjYtODcxOTA5ZmIxYzNjXkEyXkFqcGdeQXVyNzY4NzE0MDU@._V1_SY1000_CR0,0,694,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2718,7 +2718,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/a139f4e1be759e60e246b09e696f9562/
 sublink:LISTSOURCE:https://1fichier.com/?9jvwyfuuq8q7hy0qlb4m::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzYyMDI0OTEtZjIwZC00ZjRkLTgxZDktMDE4NmU0NDY2MzdkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2735,7 +2735,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/892b520e53125f704160001837a92082/
 sublink:LISTSOURCE:https://1fichier.com/?m23qdnnem7ity4yqt3b8::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGM0NGY5NzAtZTY4ZS00ZDllLWI3OTEtNTNlYjU4MzU4ODYzXkEyXkFqcGdeQXVyMzA4NjU4MDA@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2752,7 +2752,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/19fffa00f746ac04a5c38bc560ca5f94/
 sublink:LISTSOURCE:https://1fichier.com/?s4lwdve93qmqzk5hq4nx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWE4N2MxMjMtZTE0NC00YmY3LTk1YTctZWEyZmJlZWJmOGJhXkEyXkFqcGdeQXVyMzU5NzU5OQ@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -2771,7 +2771,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/ca9b4caa131a8e5bba15ea300ba7873d/
 sublink:LISTSOURCE:https://1fichier.com/?hzgi4e1qd3llpl3zfrxz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGJjOWJjNGEtYzI2NS00ZjU2LTk3OTAtNTg4YWRiOWMzYWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2788,7 +2788,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/87d7084506ef553c17eca6754b2ddfea/
 sublink:LISTSOURCE:https://1fichier.com/?jvstcyyggnicxjsf10un::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjk0Nzg5MmUtZTcxYy00MDc0LWI2M2EtZjM3NDRkYTZmMDRjXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2805,7 +2805,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/78093c4ea12d8875aa4c93f61fafd70c/
 sublink:LISTSOURCE:https://1fichier.com/?piaz5enm8iu838aog4ua::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzk1MGYyYmQtZjA3NC00ZWZiLTg1NWMtMjEwNTVlODM5OWVkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2822,7 +2822,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/2385f1fa1d987b52647ef18e54e5cd28/
 sublink:LISTSOURCE:https://1fichier.com/?u6bale0fpnlsbooep9w4::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzkxYzAzYjUtMjU1Ni00YTZkLTliMmUtZmE1ODA4NThmOTNkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2839,7 +2839,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/142c19c3713b91ab1b97c0999550d92e/
 sublink:LISTSOURCE:https://1fichier.com/?ybvt6n85k2mxgva7dhgr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2856,7 +2856,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/70527ed0e7b1c753a306f8a696d8e110/
 sublink:LISTSOURCE:https://1fichier.com/?ws6pmtzmm6uoirbd1bkr::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SY1000_SX800_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2873,7 +2873,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/1be236486b24557b070b5293cb93c8ff/
 sublink:LISTSOURCE:https://1fichier.com/?jtiqop1guyrd6x24badc::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTE0MWE4NzMtMzc4Ny00NWE4LTg2OTQtZmIyNDdhZjdiZmJhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2897,7 +2897,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/eb01bd58907f936bf5dd2446df91c39b/
 sublink:LISTSOURCE:https://1fichier.com/?z4rua6vzhyxbsky0m8em::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzUwYzBlYmEtN2M4ZC00MWIzLWJiM2UtMmUzM2FlNjY4NTFjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2914,7 +2914,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/17ce2a3631c1a73e0c1aa26abf502033/
 sublink:LISTSOURCE:https://1fichier.com/?la1xdfdo4yb4xxkthn4x::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmRhMmI3ZWItMDRlNC00NWIwLWI1MzItMGYzNjMyMGFiOTA3XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,712,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2938,7 +2938,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/14685e63b1abac60f12363305b5bf8e2/
 sublink:LISTSOURCE:https://1fichier.com/?91xwug1yhqnc1mvw4c2c::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2955,7 +2955,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/91589fb562994859d95de59d7467b63e/
 sublink:LISTSOURCE:https://1fichier.com/?ehqjyay34npfmtjryyui::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2VlYjRlYWUtY2Y5NC00NGI3LWJkOWYtZTUxYmUwODQyZTNlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_SX699_CR0,0,699,999_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2972,7 +2972,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/162d5189df5f11a65257359089516fde/
 sublink:LISTSOURCE:https://1fichier.com/?1l4n5vwr2hi2yrcwooqy::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2RiN2IyY2QtYjU4ZC00MjM0LTkwMjUtZjVlOTBlNjgzYmJlXkEyXkFqcGdeQXVyNjE2ODIzMTA@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2989,7 +2989,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/e4661c822f4c329da655e566e5447cdd/
 sublink:LISTSOURCE:https://1fichier.com/?z8c2g1plca69v6068ene::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzVhOGFiNTItMjY0NS00NWUzLWEyNzUtYWVhMGQ3MjNiMmI2XkEyXkFqcGdeQXVyNTc4OTQ3OTg@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3006,7 +3006,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/d05506e93bc71e2e4b97b586dbe25f5b/
 sublink:LISTSOURCE:https://1fichier.com/?9sfjqy3yy5087pr7z9ys::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzE0NWJhODItNjdkYS00MmRhLWFhYjgtNmFmZGYxOWFmMjgyXkEyXkFqcGdeQXVyNTcwNDAwMzQ@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3023,7 +3023,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/6679999fc8c794a3bc1db70be19651f5/
 sublink:LISTSOURCE:https://1fichier.com/?3n75y84w4boq20hvn7r3::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzNmYzk2NTctMjg5NC00MGZkLThhOTQtZWUwYmJiOTBhODlkXkEyXkFqcGdeQXVyMDgwMzQxNQ@@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3040,7 +3040,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/4f7ec562ce2066b9929d692dadb995ea/
 sublink:LISTSOURCE:https://1fichier.com/?tvar5rmac3w8ya0tihln::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGQzOWY1MWYtNTNhNC00NjI3LTk5ODktOGFkMGExMTViZDM5XkEyXkFqcGdeQXVyNDYyNTc5MDk@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3073,7 +3073,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/780158293fe047bc4275fab220ab1b10/
 sublink:LISTSOURCE:https://1fichier.com/?apkrpgeitzlqqi66qx4j::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTkyYWU3N2YtODZjOC00NGI1LTgxZTUtNzgzZDUxNTE0NGU2XkEyXkFqcGdeQXVyOTgyOTcwOTc@._V1_SY1000_CR0,0,711,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3090,7 +3090,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/3cfd08eeb879df6e1de12644d9760dc9/
 sublink:LISTSOURCE:https://1fichier.com/?k91xfr2mwet2aftwnud5::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTBiOTc4ZWUtNzA0My00ZWU0LThlZWUtNGI3NDg3MDcwZmE5XkEyXkFqcGdeQXVyMjAxMjU2NDI@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3107,7 +3107,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/cbb07154ac198bfefd4ed0b9332fb2b0/
 sublink:LISTSOURCE:https://1fichier.com/?rbn4q8xtbsyaj95mtsqx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTUxZTliYWYtMTBmNy00NmFmLWE2YzMtZmExYTk5MzhiYmUzXkEyXkFqcGdeQXVyMjA3NDg1MDI@._V1_SY1000_SX705_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3124,7 +3124,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/f897b795a6e108537978a8164d8a6839/
 sublink:LISTSOURCE:https://1fichier.com/?n4kfglkcnjye3vtokmec::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTQ3ZjZhZjAtNWRkNy00NWQ3LWJlMDgtMTExYmY5NTc0MWY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 
@@ -3142,7 +3142,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/bb2f1d493fea00bf0b9f9739647946f2/
 sublink:LISTSOURCE:https://1fichier.com/?p2rk6n3jdeu224100fbz::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDlkOGE4YTUtYWRlZS00YjFkLWE3NmUtNzNlNjdiZTk2NzdhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3159,7 +3159,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/37006c6ff5a2450ae7dcdb7dc5c7d5d3/
 sublink:LISTSOURCE:https://1fichier.com/?yxht5c8nu6jyebki81zx::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOGE5ZDI2NmUtZTU5Yi00NDVhLTk4OTItYzUyYWE5MzQ4OWYwXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3176,7 +3176,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/e6139f3ce353418b06e7e98a5eadc7f2/
 sublink:LISTSOURCE:https://1fichier.com/?6dzw1d957r7114k5zkjq::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/YMhUzFCkA.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3193,7 +3193,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/f28476504617df40f3fffe62b4ffea6c/
 sublink:LISTSOURCE:https://1fichier.com/?7vv6yhvosnr9o6c5ekyh::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGY2ODBhMGEtODA0ZC00Y2VkLWIxODAtMDg3ZWU3MDlkNmNjXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3210,7 +3210,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/dd861f4094ec50583d9fa9b43936a325/
 sublink:LISTSOURCE:https://1fichier.com/?8kvrpewp75mimvpc7ff2::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTBkODUzMTYtNDVlYy00YWYwLWE2YzItNmI5ODU5NDQ2NTgzXkEyXkFqcGdeQXVyNjk2Mjc2OTI@._V1_.jpg</thumbnail>
-<fanart>https://wallpapercave.com/wp/wp1945897.jpg</fanart>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 

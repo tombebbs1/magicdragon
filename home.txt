@@ -19,7 +19,7 @@
 
 <channel>
 <name>[B][I][COLORorange]Catch Up TV Requires A VPN In Most Countries[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<thumbnail>https://i.imgur.com/klD0wtv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>

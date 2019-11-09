@@ -11,7 +11,7 @@
 
 <channel>
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
-<thumbnail>https://media0.giphy.com/media/pS3PoFQQonWdG/giphy.webp?cid=790b7611ab4044d4a379a8067ea212b7976b9cdde1af846e&rid=giphy.webp</thumbnail>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>

@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Midway (2019) HDCAM UPDATED 09/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/uu4wgsrx4wkw/midway_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d815ivot18n4/wwwcr_to__-midway_2019_720p_hdcam_getb8_5cr_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadjz18dwgd::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fbdk3q7nyp2c::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_SY1000_SX800_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Terminator: Dark Fate (2019) HDTS UPDATED 08/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/aq50pctqwu1x/terminator_dark_fate_official_trailer_2019_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

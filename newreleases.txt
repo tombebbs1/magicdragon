@@ -92,7 +92,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 <item>
 <title>[COLORwhite]Daffodils (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/7of4mmn1bmqb/daffodils__official_trailer_2019_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=uxSgEQoVGJI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/mtkthx4jn7a1/daffodils_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5nwqww18e::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/fp3xdoc3bnfv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#

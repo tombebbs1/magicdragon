@@ -91,6 +91,22 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:10b035ba6313244ce94e58fc4d85089a43b991cf&
 </item>
 
 <item>
+<title>[COLORwhite]Daughter of the Wolf (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/lspnn9davekn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0cxc3ix2co37/daughter_of_the_wolf_2019_dvdrip_x264-lpd_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0cxc3ix2co37/daughter_of_the_wolf_2019_dvdrip_x264-lpd_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/b5444yrgrxe3::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/fbf0udkjki1b::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/fbf0udkjki1b::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/b6764e0e875ef1b01c9000e694a67f17/daughter.of.the.wolf.2019.dvdrip.x264-lpd[EtMovies].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hpsa263mtrse4iyqmygy::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjUzM2EzYWQtMDM4NS00NDY1LWJlNjEtYjMwMTllNGY5YTg1XkEyXkFqcGdeQXVyMTMyOTcyNA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Antrum: The Deadliest Film Ever Made (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/qa8lfg3h6b2i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

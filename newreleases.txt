@@ -91,6 +91,22 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:10b035ba6313244ce94e58fc4d85089a43b991cf&
 </item>
 
 <item>
+<title>[COLORwhite]Lady and the Tramp (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/al8b9fpavbbj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1c2yvpxq91bd/lady_and_the_tramp_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1c2yvpxq91bd/lady_and_the_tramp_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xpnnh6wiy1l6::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/uw5d8fnf67le::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/uw5d8fnf67le::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ace281b444052e314326b1adb00d06d0/Lady_and_the_Tramp.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cy3f95u32vz08fze2h46::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2U3ZDBkYWUtNDY3Ny00OTliLTgxNTAtY2QwZTQxMmEwOTQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Daughter of the Wolf (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/lspnn9davekn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

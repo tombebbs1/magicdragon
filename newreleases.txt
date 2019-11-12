@@ -114,7 +114,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8D59AD69634CCB8B40DC1E7125A4735244849CF7&
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/lqp9yzsqsidn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/0uykxbnnkxqu/the_bygone_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/0uykxbnnkxqu/the_bygone_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/670emu0xlz43dyw::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/jid4n0wwwtvk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/jid4n0wwwtvk::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/8so3gmfsg0na::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
@@ -133,7 +133,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:CB0BFB0EC7A1381D1029C116FA7AE70758436E14&
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/v4xw6g6uknm9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/yu0em3258jgd/pink_wall_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/yu0em3258jgd/pink_wall_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4kdp-d1m::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/ikfr46vynwpc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/ikfr46vynwpc::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/cdea9zd1pr13::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#

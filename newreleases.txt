@@ -266,8 +266,8 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A5ED82110EF50350F170B40FD23394C2BC90EFC6&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/b8vyv1jg7ja9/angel_has_fallen_2019ie_official_trailer_gerard_butler%2C_morgan_freeman::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/sk30ljmwkh02/angel_has_fallen_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/dkn1w0t4r9bc::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8z2j72745::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8z2j72745::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dkn1w0t4r9bc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/xt8njpz2zkco::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/78gk9zbvquep::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/519a9f351fcfb36e993ae87280f889ee/Angel.Has.Fallen.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Life on Bitcoin (2014)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qs5u3zecxri9/life_on_bitcoin_2014_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/55hgk3t7iatk::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3jpwzsnl7u9qnhc0vlp9::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjRlYjZjODYtYTg2Ny00YzJkLTg1MTMtYWFkYjRiMzlmNTMzXkEyXkFqcGdeQXVyNzYzMjAyMzU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Demolition of Truth-Psychologists Examine 9/11 (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/t5b63eqjw2rl/the_demolition_of_truth_psychologists_examine_9_11_2016_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

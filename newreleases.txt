@@ -94,7 +94,8 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:10b035ba6313244ce94e58fc4d85089a43b991cf&
 <title>[COLORwhite]Test[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidia.tv/f7l2wbc9iejk.html::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidia.tv/f7l2wbc9iejk.html::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidia.tv/tdzdzjc9t4af.html::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidia.tv/ukqpkoadycbw.html::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

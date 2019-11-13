@@ -91,6 +91,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:10b035ba6313244ce94e58fc4d85089a43b991cf&
 </item>
 
 <item>
+<title>[COLORwhite]Test[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidia.tv/x981t0ee00u7.html::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidcloud.co/v/5dcb740f89a47/Noelle.2019.HDRip.XviD.AC3-EVO.mp4::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Noelle (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/e9sw9n00ysuf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

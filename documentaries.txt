@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Humanity from Space (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/a62z4pe42wil/humanity_from_space_2015_720p_amzn_web-dl_ddp2_0_h_264-gli::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/7oie2zvx05sg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?b955gsu574zp52t10afq::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAxMjU0MDY1M15BMl5BanBnXkFtZTgwNDA0ODg0NzE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Diet Fiction (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xroksbo9l0e7/diet_fiction_2019_720p_amzn_web-dl_ddp2_0_h_264-gli::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/e9l704ye7fdo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tn6qmytvun487mzusxw1::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/SkITgWqvt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Life on Bitcoin (2014)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qs5u3zecxri9/life_on_bitcoin_2014_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

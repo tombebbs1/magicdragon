@@ -59,7 +59,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]Blu-Ray Movies RD Only (TORRENTS)[/B][/I][/COLOR]</name>
+<name>[B][I][COLORwhite]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -102,7 +102,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]Documentary[/B][/I][/COLOR]</name>
+<name>[B][I][COLORgreenyellow]Documentary's[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -152,7 +152,7 @@
 
 
 <channel>
-<name>[B][I][COLORyellowgreen]Sport[/B][/I][/COLOR]</name>
+<name>[B][I][COLORyellowgreen]Sports[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/sport.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

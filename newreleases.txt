@@ -111,7 +111,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:45b9b6c4867b2a4dbe905fa46fd4382b85a486a1&
 <title>[COLORwhite]Test[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://onlystream.tv/ly3h5d5qofwx::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidia.tv/tdzdzjc9t4af.html::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/ajmre9y08nki::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://vidia.tv/ukqpkoadycbw.html::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>

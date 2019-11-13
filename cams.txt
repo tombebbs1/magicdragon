@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Good Liar (2019) HDCAM UPDATED 13/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/li6j6n8rmg8b/the_good_liar_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cf5vh2iq7h3b/www_seehd_ws_the_good_liar_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cf5vh2iq7h3b/www_seehd_ws_the_good_liar_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/uhxgqghlibxs::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2VhNTY5ZTUtYzc1NC00NjUyLWI1NDQtYWE3YmJlNjQ3OGVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Playing with Fire (2019) HDCAM UPDATED 11/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/t88x3te7dih6/playing_with_fire_official_trailer_in_theatres_november::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Thank You for Your Service (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dhvgks8znh8j/thank_you_for_your_service_2015_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/m7e7lu58akpj::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s6pu32ki5pflalfbda7l::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTczOTE5OTkyM15BMl5BanBnXkFtZTgwODg4NTkyNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Let's Get Lost (1988)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tx1fzkw6klaj/lets_get_lost_1988_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

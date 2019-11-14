@@ -108,12 +108,29 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:45b9b6c4867b2a4dbe905fa46fd4382b85a486a1&
 </item>
 
 <item>
+<title>[COLORwhite]A Bluebird in My Heart (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/yfrg650zwhc1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/lhjhtbzy1tko/a_bluebird_in_my_heart_2019_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/nifznkg8t9sb::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/h344hgfd75ac::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7012lmp3kp5a::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/zw3qfcch7yum::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3c272b8fee2793df9a9eb238c817acc9/A_Bluebird_in_My_Heart.2019.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ahuxt08osbpp9ale9fz3::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://cdn.turbobit.net/mxfvgmj6w94r.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmJmZDRjOWEtOGYxZS00YWU1LThmNmItZmE5YzJhYTVjYzA2XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Driver (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/xv60i405bwxm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/nsujtk6m1zr9/the_driver_2019_dvdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://onlystream.tv/vm0mbxvf8mxl::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rmedpi9dqjcm::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/89hqddpo6o4r::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/rmedpi9dqjcm::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/52koaeyrxuv6::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/e128f07ce87abca6cfce6b0309de82ad/The.Driver.2019.DVDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

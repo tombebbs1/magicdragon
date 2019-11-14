@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Let's Get Lost (1988)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tx1fzkw6klaj/lets_get_lost_1988_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ajra5epwrqw0::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?plsxtsmgrtory6npu2yy::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ5MDExMDEwM15BMl5BanBnXkFtZTgwMjg4ODY2MDE@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]To Be of Service (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6grz08h4ymjo/to_be_of_service_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

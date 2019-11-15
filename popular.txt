@@ -158,7 +158,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:91D7E1D81DAFD6BFCFEADAFDAAB5C59A9020525C&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/w8tcpkgu5u9z/klaus__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/9k9943ll3kat/klaus_2019_1080p_nf_web-dl_ddp5_1_x264-kamikaze_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/m073ox2ib1ff::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/8o8fe7szqbfy::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/o1tq2ievaim7::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/c49xga1p9ott::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/c49xga1p9ott::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#

@@ -108,6 +108,25 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:45b9b6c4867b2a4dbe905fa46fd4382b85a486a1&
 </item>
 
 <item>
+<title>[COLORwhite]Crown Vic (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/z3a2coc17957::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qadru4ynwlie/crown_vic_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qadru4ynwlie/crown_vic_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/rtwfvdgl7yak::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1wc7td757n8d::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/iq3ywm4opigk::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ddb815f0a71111386aeb895e2fbccaaf/Crown.Vic.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?l80bvpf7ij7ywx7v739h::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://cdn.turbobit.net/3jg08im5uxdb.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:ED9EC12DDCC6FA13F895EE81D46A4B4BB99122CC&dn=Crown.Vic.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:015D0F24954741869E8D7738B5237E183D7C2403&dn=Crown+Vic+%282019%29+English+720p+HDRip+x264+ESubs+900MB+-+TR&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzcxNGI4YzQtZTUyMC00YWY0LTg3NTctZTY5Yzc5NGIzOWFjXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Gemini Man (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rxtjj2f50xhx/gemini_man_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Charlie's Angels (2019) HDCAM UPDATED 15/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/tt0pawoe6xbc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gtre44edj7n2/charlies_angels_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/iclmtjx2p6lh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/emxb4shzr56t::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDAzOTYxY2YtNzBmNi00YmE5LTk0NTktN2YwNTNiNGZjNWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Good Liar (2019) HDCAM UPDATED 13/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/tt0pawoe6xbc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -206,17 +218,7 @@ sublink:LISTSOURCE:https://uptobox.com/7kvlrip62ngl::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Gemini Man (2019) HDCAM UPDATED 04/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/rxtjj2f50xhx/gemini_man_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/sc48nvhfwxp8/gemini_man_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/qgyeraeky4dwwq2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/gl9rgpw8dmfs::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWVmZmQ1YzEtOTI0OS00MjUyLWI5OWQtMTcyNjlhN2E1OWViXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Judy (2019) HDCAM UPDATED 29/09[/COLOR]</title>

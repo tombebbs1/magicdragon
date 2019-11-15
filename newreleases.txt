@@ -112,7 +112,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:45b9b6c4867b2a4dbe905fa46fd4382b85a486a1&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rxtjj2f50xhx/gemini_man_2019_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/3txs45g419jy/gemini_man_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/3txs45g419jy/gemini_man_2019_hc_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/8yh9es2i80et::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/nyb2wivw7c51::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/f20zh5pu7nt2::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/u8okva7fg9a4::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
@@ -120,7 +120,7 @@ sublink:LISTSOURCE:https://rapidgator.net/file/3d1906dc452854d746fea3b87e1612a3/
 sublink:LISTSOURCE:https://1fichier.com/?8ba86hznfqjd7jfj4xtb::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://cdn.turbobit.net/gh4yjv0mf5wb.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/9hm7hn1bdxrt/gemini_man_2019_hc_1080p_hdrip_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/9hm7hn1bdxrt/gemini_man_2019_hc_1080p_hdrip_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/2dt0xb2c1qi5::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/wu32pdvigxcd::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/fst5ikl9pzpx::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/mabzt4zis31y::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#

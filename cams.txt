@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Ford v Ferrari (2019) HDCAM UPDATED 16/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/sz2go73yeajz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/x675dwdvc3kc/ford_v_ferrari__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/jij03g7839gx::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/uuwe1wc7mizb::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Charlie's Angels (2019) HDCAM UPDATED 15/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/sz2go73yeajz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

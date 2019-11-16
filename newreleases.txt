@@ -88,7 +88,7 @@ sublink:LISTSOURCE:https://cdn.turbobit.net/u29a89j7l3dd.html::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Saturday Night Fever (1977)[/COLOR]</title>
+<title>[COLORwhite]Saturday Night Fever (1977)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/xzr0tuxk255k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/8tb32ex7vzp3/saturday_night_fever_1977_dc_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#

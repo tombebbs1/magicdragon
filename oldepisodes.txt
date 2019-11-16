@@ -1,4 +1,15 @@
 <item>
+<title>[B][COLORwhite]Mr mercedes SE03 E10[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0f529lbr564t/mr_mercedes_s03e10_720p_hdtv_x264-aaf_5beztv_5d::LISTNAME:[COLORwhite]1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/26w827i27tiw::LISTNAME:[COLORwhite]2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/uw0t2pt5pf5w::LISTNAME:[COLORwhite]3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTRhMWE1NjMtZTc0YS00YTU0LTlkYzgtMzE5MGFlZmVjYTFlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The War of the Worlds SE01 E02[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tlx715ewkg::LISTNAME:[COLORwhite]1[/COLOR]::#

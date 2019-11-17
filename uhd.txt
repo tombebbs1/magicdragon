@@ -2498,6 +2498,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5951c7fd13298206fc7560db33dad56baaa8133c&
 </item>
 
 <item>
+<title>[COLORwhite]Noelle (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:7316e5174989762fc0501ff22252966fd9437eda&dn=Noelle.2019.2160p.DSNP.WEBRip.x265.10bit.HDR.DD5.1-TrollUHD&xl=13022227348&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Now You See Me (2013)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>https://1fichier.com/?qkyprlb06v</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>

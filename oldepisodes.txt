@@ -1,4 +1,15 @@
 <item>
+<title>[B][COLORwhite]Ray Donovan SE07 E01[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gu23gv781czh/ray_donovan_s07e01_1080p_web_h264-tbs::LISTNAME:[COLORwhite]1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/w7xgbznmor4s::LISTNAME:[COLORwhite]2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/nmrgshp1zlko::LISTNAME:[COLORwhite]3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzBhMjNlYTEtNmMyZC00YTJhLWI1MjAtMjY2OWZlNGE3MDE3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Walking Dead SE10 E07[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0q3nt2zn901h/the_walking_dead_s10e07_1080p_h264_rosubbed-extremlymtorrents_ws::LISTNAME:[COLORwhite]1[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE10 E07[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0q3nt2zn901h/the_walking_dead_s10e07_1080p_h264_rosubbed-extremlymtorrents_ws::LISTNAME:[COLORwhite]1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/fylwzcezb7ih::LISTNAME:[COLORwhite]2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mqt8wq3k7mf2::LISTNAME:[COLORwhite]3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Mr mercedes SE03 E10[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0f529lbr564t/mr_mercedes_s03e10_720p_hdtv_x264-aaf_5beztv_5d::LISTNAME:[COLORwhite]1[/COLOR]::#

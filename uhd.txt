@@ -225,7 +225,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7c77e2cbe5ea66015c5e6e0f364d3f9d1adc4137&
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:a9c183f01238aabb22773ab1c562d2cd794d7fa5&dn=Alien.Covenant.2017.4K.HDR.2160p.BDRip+Ita+Eng+x265-NAHOM&xl=20677921736&tr=http%3A%2F%2Ftracker.tntvillage.scambioetico.org:2710/announce&tr=udp%3A%2F%2Ftracker.tntvillage.scambioetico.org:2710/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2FIPv6.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.mg64.net:2710/announce&tr=udp%3A%2F%2Ftracker.openbittorrent.com:80/announce:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>hthttps://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1_SY1000_CR0,0,673,1000_AL_.jpgtps://m.media-amazon.com/images/M/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -1240,13 +1240,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:068a60a4b53fca40fe20d4bc3e6228edf8cf7679&
 </item>
 
 <item>
-<title>[COLORwhite]Fifty Shades Freed (2018) 4K [COLORred]4K[/COLOR][/COLOR]</title>
-<link>https://1fichier.com/?tyo12bk821</link>
-<thumbnail>https://ia.media-imdb.com/images/M/MV5BODI2ZmM5MzMtOWZiMC00ZGE3LTk3MWEtY2U0ZjE3ZWJlNDEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLORwhite]First Man (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:e3e65976c7fd6b125662326aa7a64bc93723fdc1&dn=Future+Man+2018Multi..UHD.2160p.Bluray.x265.HDR.Atmos.7.1-DTone&xl=15840616633&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -1432,13 +1425,6 @@ sublink:LISTSOURCE:https://1fichier.com/?9bpqpaih4xoqr2skp7xc::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Goodfellas 4K [/COLOR]</title>
-<link>https://uptobox.com/im7ilmu4vgnl</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -2145,12 +2131,6 @@ sublink:LISTSOURCE:http://uptobox.com/0c8wkycpfyko::LISTNAME:[COLORwhite]SD  LIN
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Labyrinth 4K [/COLOR]</title>
-<link>http://uptobox.com/x0fqztln7mzr</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTkyOTIzN15BMl5BanBnXkFtZTgwNjY3MjQxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Lara Croft: Tomb Raider (2001)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>

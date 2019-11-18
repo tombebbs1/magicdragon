@@ -144,43 +144,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:AAC1C48C02622FEEA46006A104D1F94F56F818A9&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas in Louisiana (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net::LISTNAME:[COLORorchid]SORRY NO TRAILER[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/hfdgerv3tif8/christmas_in_louisiana_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/hfdgerv3tif8/christmas_in_louisiana_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/z4ttub3ygbpy::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/dxvdrewgafkw::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/a59dlctv4g7n::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/464c484629b065b5efae17a9d4817fcc/Christmas_In_Louisiana_2019_Lifetime_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?cdn134czz311043xt7kt::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.turbobit.net/9fudqhqyztoh.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:AAC1C48C02622FEEA46006A104D1F94F56F818A9&dn=Christmas+In+Louisiana+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:AAC1C48C02622FEEA46006A104D1F94F56F818A9&dn=Christmas+In+Louisiana+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/eUaDLitWZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Christmas Under the Stars (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/4q45gh7htbx7/on_location_with_autumn_reeser_and_jesse_metcalfe_christmas_under_the_stars_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/qqj6g8hsvybr/christmas_under_the_stars_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/qqj6g8hsvybr/christmas_under_the_stars_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/b8sdaca2kmr2::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rlo5nzfzycyj::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rlo5nzfzycyj::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ec39d1916434c1eb5ccc35c0224f5466/Christmas_Under_the_Stars_2019_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?rhk9am1mnhr4jhnfkiif::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.turbobit.net/e6feqplq3ufs.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:3EC7FA139F5550BD6A24C98B4E601DA0A0D747F3&dn=Christmas+Under+the+Stars+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:3EC7FA139F5550BD6A24C98B4E601DA0A0D747F3&dn=Christmas+Under+the+Stars+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTA3NWE2YjktYzFjNC00OThjLTgzODYtOTdkMzBiNjhmNTI5XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Brittany Runs a Marathon (2019)[/COLOR]</title>
@@ -239,24 +203,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:FE6A7157F28B2C2AED444C3709AF7AA6FD61EFAD&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas a la Mode (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/::LISTNAME:[COLORorchid]SORRY NO TRAILER[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/48y3bk1uflq3/christmas_a_la_mode_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/ubnk8111dqmj::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/ob01jaa0r4qi::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/sobw3eyz2mwu::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/gxouaivgripa::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/9690cba3919d12c38aa7cb99d12a63d1/Christmas_A_La_Mode_2019_Lifetime_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?1wif1j608366aa3otuxz::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.turbobit.net/0le7z1vdd1su.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:BD39FF7BF91A5A8DEB61E7FA738B04F9062E002A&dn=Christmas+A+La+Mode+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:BD39FF7BF91A5A8DEB61E7FA738B04F9062E002A&dn=Christmas+A+La+Mode+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjI3ZGVlNWMtNjliMS00OTk4LWFkNDQtMzhiMjM4OTIyZmNmXkEyXkFqcGdeQXVyNDI3NjA5MTY@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Saturday Night Fever (1977)[/COLOR]</title>
@@ -296,24 +243,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:45b9b6c4867b2a4dbe905fa46fd4382b85a486a1&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Christmas Miracle (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/zikq0c8o8pkx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5gbo0cnwdahq/a_christmas_miracle_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/n848p7g1q28a::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/qzxug3lhymqc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3iyyr5jyizl3::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/czf2kk33ehxm::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/84e8dfc2748fe553802813d2a20fc8a1/A_Christmas_Miracle_2019_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?go1go5bg8088xbay5kw2::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.turbobit.net/3qeaehejgfzq.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:A9C289059A61BDD2E957D2F8A7E1697DA71D72AB&dn=A+Christmas+Miracle+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:A9C289059A61BDD2E957D2F8A7E1697DA71D72AB&dn=A+Christmas+Miracle+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZDA3OWFkZTEtZmEyMi00NGQ1LWJkODgtNmE1MjY1NTA3NjRkXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Earthquake Bird (2019)[/COLOR]</title>
@@ -334,24 +264,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:91D7E1D81DAFD6BFCFEADAFDAAB5C59A9020525C&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Klaus (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/w8tcpkgu5u9z/klaus__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/9k9943ll3kat/klaus_2019_1080p_nf_web-dl_ddp5_1_x264-kamikaze_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/8o8fe7szqbfy::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/o1tq2ievaim7::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c49xga1p9ott::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c49xga1p9ott::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/44e30e941d4add135b9c2f20ec6d5b08/Klaus.2019.1080p.NF.WEB-DL.DDP5.1.x264-KamiKaze[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?krzdtj53ftj3n98fs5zk::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.turbobit.net/liv55jf2u4te.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:ACCD5E6F50567B23119422DB06E43A0F328D7B1E&dn=Klaus.2019.1080p.NF.WEB-DL.DDP5.1.x264-KamiKaze%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:16E976A2245DFC5B072506413D27A1C9FB6A1A18&dn=Klaus.2019.720p.NF.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Turkey Bowl (2019)[/COLOR]</title>
@@ -628,24 +541,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:10b035ba6313244ce94e58fc4d85089a43b991cf&
 </item>
 
 
-<item>
-<title>[COLORwhite]Noelle (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/e9sw9n00ysuf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/4zgivayinepj/noelle_2019_1080p_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/4zgivayinepj/noelle_2019_1080p_hdrip_x264-evo::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/mk5qob6ba7bo::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/jyybucp98d4t::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/ng4h34jbishh::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/5b5837b9b0bf2a6ea87423e05f01e40c/Noelle.2019.1080p.HDRip.X264-EVO.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?86g2levnfjo6gkciok6q::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/B4BIK39R::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:9FBB32B6F13DB6DB9B9FD1F32896985CEC479EA2&dn=Noelle.2019.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:9FBB32B6F13DB6DB9B9FD1F32896985CEC479EA2&dn=Noelle.2019.1080p.HDRip.X264-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Lady and the Tramp (2019)[/COLOR]</title>
@@ -879,62 +775,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39b6f4985f4362741ff1c3bcb55b46fdd1975a03&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTFkNjBhOWItOGYzNy00ZTQ5LWE2MWUtMWQxNWE5ZTY0OWQ0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 
-<item>
-<title>[COLORwhite]Radio Christmas (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/vukh1uxatxop::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/3lwlpor78hhf/radio_christmas_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/3lwlpor78hhf/radio_christmas_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/qg06korw9xbl::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/pbz1l65hndir::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/00rd46udi1e2::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/834a8702afb31382b44f2a62b553509d/Radio_Christmas_2019_Lifetime_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?li2znr9bvkn4m4pidl8m::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/EEBWASD0::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:F836330702E6A1C104B3D69C56BF3093CBDDD062&dn=Radio+Christmas+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:F836330702E6A1C104B3D69C56BF3093CBDDD062&dn=Radio+Christmas+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/GU17yuAz.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]A Sweet Christmas Romance (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/k4cm4h2p0vh1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/w4ylabjjtvsl/a_sweet_christmas_romance_2019_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5mj0kkn7n::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/zjz3dft6yruk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/q8c7n4t7vo1l::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/xnu0v7lqw48z::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ceadb77bcb7977cfdb5c8cfe36274c88/A_Sweet_Christmas_Romance_2019_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?su71ziuy2krf9hqk587b::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/UDLWTY2P::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:9EC508684AE9F7D5B39B2E2B95EAA455EEA15FA3&dn=A+Sweet+Christmas+Romance+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:9EC508684AE9F7D5B39B2E2B95EAA455EEA15FA3&dn=A+Sweet+Christmas+Romance+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTQ0MTM4NzYtNTBhOC00OWNiLWFkNTctMzAwZDRjMTZjMDJmXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Mistletoe Secret (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/1lgyks991jdx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/lik4kqtiwudt/the_mistletoe_secret_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5mj03rm7k::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/s6ueyli00m1z::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/nrm1q2vpjyh7::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/1tocktplsr1v::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/78401780238e50cb6b4d41734dc0e8cc/The_Mistletoe_Secret_2019_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?tps5idcxp99wsozkwd7l::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/C55I5ZMG::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:77012AEF928379E1F7B4E9AEA2038292CB949FEC&dn=The+Mistletoe+Secret+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:77012AEF928379E1F7B4E9AEA2038292CB949FEC&dn=The+Mistletoe+Secret+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjQzY2Y0NDQtNTk4YS00OWU4LWFkMDQtZTVlODBlMTE3NTc3XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Daffodils (2019)[/COLOR]</title>
@@ -1305,45 +1145,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7d9b4cc98be0f7f2c4f7da3ac1bcf2264ee941b0&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Blue Ridge Mountain Christmas (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/0hyg3jhiq0db/preview_%2B_sneak_peek_a_blue_ridge_mountain_christmas_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1ekswrpr5jsp/a_blue_ridge_mountain_christmas_2019_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/rgyedaewkqdre2q::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/axlqare64v5h::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/si6w16gopmlq::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/rg1mhk6wl2t6::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/649e9c8fb696b4a9a0c8edae929e1fb4/A_Blue_Ridge_Mountain_Christmas_(2019)_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?25pxw5f3pmd48lzno4hz::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/N9RJJ8M3::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&dn=A+Blue+Ridge+Mountain+Christmas+%282019%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:438C0365FD5D605744490BEDB95AE39194EBDA42&dn=A+Blue+Ridge+Mountain+Christmas+%282019%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzlhOTM0NWEtZDU2MS00NjAzLWI5YWMtZDQ2ZDAxMTIzOTk3XkEyXkFqcGdeQXVyNTU2MDQyOTk@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-
-
-<item>
-<title>[COLORwhite]Let It Snow (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/s1rsopw6k0pm/let_it_snow__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/r4x31hlkehq9/let_it_snow_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzpxm3r0yg::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzpxm3r0yg::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/hfs2pjeak2db::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/rfqbhrpzld6z::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ba0332672b459213f4c1f518d24e8519/Let.It.Snow.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?eiajw65a19nigrlt4c6n::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/VRN61WSB::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:28E0B3543571F379D8576C0A857888FCE78FD1A5&dn=Let.It.Snow.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:27668ED95522926A96E98AE25610A96444EC9DAD&dn=Let.It.Snow.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmM0NzRiODEtMTIzNS00MTgwLWFjZDQtNjUxZjI0MDdjZWQ4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Paradise Beach (2019)[/COLOR]</title>
@@ -1361,25 +1163,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8CA89106D83A236A063D58F6046E5D6F4D2E3B99&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:FB14B92E4724707216A7492B06109B7DC763F177&dn=Paradise.Beach.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODM1ODMzYWQtYmVhMy00Njg0LWFkZDUtMTIwNDE0OTU2MzAzXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_CR0,0,734,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]A Reindeer's Journey (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ywmfwt9errnu/a_reindeer%27s_journey_trailer_1_2019__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/etuml2iapxjp/a_reindeers_journey_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/gyqzeh-4253ke05::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/dwd0bzc3bh00::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/1sa6ujfh3vjm::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/mhd0mkah5yqb::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ff9e2fae0c39af3df9c504e84d78478d/A.Reindeers.Journey.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?j73466dfloqwhhtsdppp::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/JMURP8J0::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:336F1687854F1B6B70649C016E99F309DEE04B75&dn=A.Reindeers.Journey.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:D59D81DE6EEF84E33176E2487ED25BEA7683809C&dn=A.Reindeers.Journey.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTY5YTk3M2UtNTlkZS00NWY1LTgzNTMtY2VlMjkyZmY5NGUwXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1686,23 +1469,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:742131960F9180E7D48FEFDC999B11626821CCDA&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Very Corgi Christmas (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/i104iskryqqz/a_very_corgi_christmas_trailer_2019_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/okkzxp95a0iw/a_very_corgi_christmas_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/qtyfg53pajgo::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/vj5aslhjxkdo::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/1t3irzlkbzyw::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/702e406883c7a277ff4f99d723ca4eb0/A.Very.Corgi.Christmas.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?pzjgdw7hrgp2r4zrsx2s::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/YDHLB0DA::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:64982CAD75B1FDBF22287F1988AFEFE7C80CD8E3&dn=A.Very.Corgi.Christmas.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:50901804DF60F15B7FE84132A908086F2A0E0435&dn=A.Very.Corgi.Christmas.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY3MjU5ODYtNDY1YS00YTkyLWI5ZWYtYTAxMzZkZWE1OGQxXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]A Walk with Grace (2019)[/COLOR]</title>
@@ -1740,23 +1507,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:B146884F6B14F2777C9933893DD5B1B30B7797DC&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Kiss on Candy Cane Lane (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/t5bveuwubxu5/a_kiss_on_candy_cane_lane__2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/xf8cst2aukso/a_kiss_on_candy_cane_lane_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/gxfjcsv1i453::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5b9udn9o9k9o::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/9chs4gtgg0m6::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/e3666bd4d7d450aa3949d19a38c2da2b/A.Kiss.On.Candy.Cane.Lane.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?q21w39qstqseawxjn6dq::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/A0I81JM4::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:4BC9B4ED689EE441AF1D43D72CD8F93F601DFD38&dn=A.Kiss.On.Candy.Cane.Lane.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:43FBB4183D65CBB45E926CB661366F12560F955B&dn=A.Kiss.On.Candy.Cane.Lane.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BN2MxOTIyYWEtYjI5Yi00ZmI3LTk5NGUtMDBkOTc1OWYwMjZkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Pickaxe (2019)[/COLOR]</title>
@@ -1813,24 +1563,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5B0510DF4E2DD9B28CBD71BAFFFCCC66997EE128&
 </item>
 
 
-<item>
-<title>[COLORwhite]Holiday Hell (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/5lrnjikk7bdd/exclusive_trailer_holiday_hell_2019_%2C_starring_jeffrey_combs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/lvfdsss59csy/holiday_hell_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/kgyzna3z4224k1y::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/axgbeob7jj8k::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/qb4cufuawci5::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/1516e7ce9e15e38eac9b58b0604ef574/Holiday.Hell.2019.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?np5lqruinf7qbuhnon4w::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/PIECL6D5::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:7A89F3AF6F42B88F36DB17A77162422BBE15B50A&dn=Holiday.Hell.2019.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:DE077BED317AFA2216AA902F2D97CC191F0ABA61&dn=Holiday.Hell.2019.1080p.WEB-DL.H264.AC3-EVO%5BTGx%5D+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzhlNzRmMGItYjBhZC00MTE5LTk1MGItYzY1ZGM4YWMyZDc0XkEyXkFqcGdeQXVyMjI4NTE2MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info>: A mysterious shopkeeper narrates four horror tales, each set during a different holiday.</info>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Wrong Todd (2018)[/COLOR]</title>
@@ -1994,23 +1727,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:A482B54D880CD0C515899155F29081E094F30F2A&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas with a Prince - Becoming Royal (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/hfa85imqw0ll/christmas_with_a_prince_becoming_royal_trailer_2019_romanticie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/rf82z13vhl9c/christmas_with_a_prince-becoming_royal_2019_hdtv_x264_uptv-dbaum::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/rf82z13vhl9c/christmas_with_a_prince-becoming_royal_2019_hdtv_x264_uptv-dbaum::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/vmanjxe9nmml::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/dqy852odz3dx::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/fda2720e54844d4571651e4ff78e0ef5/Christmas.With.a.Prince-Becoming.Royal.2019.HDTV.x264.UPTV-Dbaum.mp4.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?poh1eaav6tzj4x8m4bk1::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?poh1eaav6tzj4x8m4bk1::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:C473D058C322B792F8C500C142A849174C9D123B&dn=Christmas.With.a.Prince-Becoming.Royal.2019.HDTV.x264.UPTV-Dbaum.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:C1AD712ECAA05E42FADACAC0CDBF007EDC6FA892&dn=Christmas.With.a.Prince-Becoming.Royal.2019.720p.HDTV.x264.UPTV-Dbaum.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZmRmMjgxOGEtMDQxMy00Yjc2LTkxZjctZjc2NmY2NzQ5Njg2XkEyXkFqcGdeQXVyNjI4Mzg5OTg@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Hocus Pocus (1993)[/COLOR]</title>
@@ -2028,41 +1745,7 @@ sublink:LISTSOURCE:https://1fichier.com/?r63oecbgsvo4rvpzaquh::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Always and Forever Christmas (2019)[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://vidoza.net/dav9jeckeymj/preview_%2B_sneak_peek_christmas_scavenger_hunt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ikcovizg3b6z/always_and_forever_christmas_2019_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ikcovizg3b6z/always_and_forever_christmas_2019_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3tzzpy0enxcy::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/9s6erpdpcy62::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/e20b5b058a7d47b764ccf9c56d68ea34/Always_and_Forever_Christmas_2019_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?26pdhtxbau3k9rzj0bto::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/XR434ZCJ::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:6B3C3351A5AD2E63555F75EFA73CCC23B346CE82&dn=Always+and+Forever+Christmas+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:6B3C3351A5AD2E63555F75EFA73CCC23B346CE82&dn=Always+and+Forever+Christmas+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjMyMDIxNzktZGNlYi00NGE4LTk1YTMtOWVhYjgwZDQxNjJlXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Christmas Scavenger Hunt (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/dav9jeckeymj/preview_%2B_sneak_peek_christmas_scavenger_hunt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/53r629nuoien/christmas_scavenger_hunt_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/53r629nuoien/christmas_scavenger_hunt_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/fs2ap3td9zxc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/k5x8ncq0vbc9::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/51baab331b353dfa72cf170abb821fc6/Christmas_Scavenger_Hunt_2019_(Hallmark)_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?92515f0qspnzsb5w2v9a::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/7OIWYV8O::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:EA0EEF77EF4BC5B05C9DA3C86610DE4C9DFC3160&dn=Christmas+Scavenger+Hunt+2019+%28Hallmark%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:EA0EEF77EF4BC5B05C9DA3C86610DE4C9DFC3160&dn=Christmas+Scavenger+Hunt+2019+%28Hallmark%29+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZmU5ZTQ2OGEtOGU2Zi00NTY0LWE4M2EtZWNkYjhkM2EzYTBhXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Streamer (2019)[/COLOR]</title>
@@ -2193,54 +1876,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7cb9faac711b0c1ece32a0601055928269201eaa&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas Reservations (2019)[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://vidoza.net/surhn2sndfw2/preview_two_turtle_doves_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/f2mginln5ldw/christmas_reservations_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/f2mginln5ldw/christmas_reservations_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ts7x1e98zreo::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/5nyjcmwyedhs::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?eb88x4xcg0ob3etbqe2u::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?eb88x4xcg0ob3etbqe2u::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:C0811183C84AF4263609ED43C10DCD92300D9399&dn=Christmas+Reservations+2019+Lifetime+720p+Web+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 7 (1FICHIER)[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/jHGUEqZdS.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Two Turtle Doves (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/surhn2sndfw2/preview_two_turtle_doves_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8osgsrleu1om/two_turtle_doves_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8osgsrleu1om/two_turtle_doves_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/wkj465wex15f::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/2nh03vj26mjq::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/8c6be6a1e565a9b6acc60c1cb7e138db/Two_Turtle_Doves_2019_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?j969y2oxamvf37stjovh::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGYyNGIzMTQtNjU0Mi00NGE5LTgxM2EtYWM2OTQwMzU5ODBkXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Merry & Bright (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/f4l5e14c6ec1/merry_%26_bright_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/xwnje1vtmjcb/merry_and_bright_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/xwnje1vtmjcb/merry_and_bright_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/z0ocdts0cf71::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/ugbis12p1dyu::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/7bdb097d1b0dabac79cf13f53ccb5aba/Merry_and_Bright_2019_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?2rcfy19c9gtgev3n1n1w::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://www.oboom.com/2PYDRNCJ::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:A090D344ABD5099AA255173241BEBC8E35C0DE24&dn=Merry.%26amp%3B.Bright.2019.720p.HDTV.x264.Hallmark-Dbaum.mp4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 8 (OBOOM)[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:B2C86B41CB4C321E9780660A7077AF2DFD35DBF0&dn=Merry+and+Bright+2019+Hallmark+720p+HDTV+X264+Solar&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz%3A2000%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 9[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BM2ZhMjk1MTgtMjgwNS00YmQxLTlhZTAtZGZjNGQ1MGUzY2NlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Permeation (2018)[/COLOR]</title>
@@ -2278,20 +1914,7 @@ sublink:LISTSOURCE:https://1fichier.com/?wmqacfsgrrjmw6l2wgfm::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Holiday In The Wild (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/jx34sgbe8sxp/holiday_in_the_wild_trailer_2019_netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/h2oed4glx401/holiday_in_the_wild_2019_1080p_nf_web-dl_ddp5_1_h264-cmrg_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/yw2-mae63jj3nzk::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/p5ikos10yldb::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/5v4sjrqmzlss::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/5ed644e6bdb781f90a42e01f9b717d80/Holiday.in.the.Wild.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?pci07wgxd2lj1p946vkq::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzc1MWI3MWMtYmNlYi00NjllLWIyNjctNWU2NWRjNjE2ZjhkXkEyXkFqcGdeQXVyNTU5MzI1OTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The King (2019)[/COLOR]</title>
@@ -2490,22 +2113,7 @@ sublink:LISTSOURCE:https://1fichier.com/?qnm1c5qxok1319krvcls::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Pondemonium Christmas (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/282qw5xvr3hl/a_pondemonium_christmas_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/q67jg7hrdnv9/a_pondemonium_christmas_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/q67jg7hrdnv9/a_pondemonium_christmas_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/zg7w-aj-kk02zmk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/gk7hmer644bl::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/iAbLNZBUq53/A.Pondemonium.Christmas.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/gk7hmer644bl::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR) [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ab8ed121fb7e200a4a6c85316f677013/A.Pondemonium.Christmas.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?g2zwci6bcvytzv441pyo::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/mpod07.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Lying and Stealing (2019)[/COLOR]</title>
@@ -2729,22 +2337,7 @@ sublink:LISTSOURCE:https://1fichier.com/?0yduvmvfgosuuf21syik::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]No Time Like Christmas (2019)[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://vidoza.net/d297s1rf3tq8/the_rebels_trailer_emmet_cummins::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram5ylxz008::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram5ylxz008::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram5ylxz008::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/xyqzsidi7uej::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/5eUbQV8m6as/No_Time_Like_Christmas_2019_%28Lifetime%29_720p_Webrip_X264_Solar.mp4::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/xyqzsidi7uej::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR) [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/74b2da779acc10f35c380937d855d4c3/No_Time_Like_Christmas_2019_(Lifetime)_720p_Webrip_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?v8l3uehcbyvun2vm1ttg::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjdkYWYwYzQtZjNkOC00ZjRjLTk1ZTQtN2NmOTZlYzVhNDhiXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Rebels (2019)[/COLOR]</title>
@@ -2833,22 +2426,7 @@ sublink:LISTSOURCE:https://1fichier.com/?a8fli811pkqnls96tztc::LISTNAME:[COLORgo
 
 
 
-<item>
-<title>[COLORwhite]Christmas Wishes & Mistletoe Kisses (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/nossdzw0tn3y/christmas_wishes_mistletoe_kisses_hallmark_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/t8m75t91x7se/christmas_wishes_and_mistletoe_kisses_2019_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/t8m75t91x7se/christmas_wishes_and_mistletoe_kisses_2019_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram5881n-rw::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3bcfhudx6mux::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/9VopSiVxXSD/Christmas_Wishes_and_Mistletoe_Kisses_2019_720p_HDTV_X264_Solar.mp4::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3bcfhudx6mux::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR) [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/cc2f0ebad5b3fa392655786ad27e7220/Christmas_Wishes_and_Mistletoe_Kisses_2019_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?gktsjjtqnv044v8dg9b0::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTg4Y2FjYzgtM2Y4NC00ZGRjLWJhN2QtYTAxMTMwNjdiOTY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Dolemite Is My Name (2019)[/COLOR]</title>

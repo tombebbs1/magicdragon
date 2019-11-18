@@ -111,7 +111,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:E914AD941A9FD895845DC25011AE1334DD61CA8C&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/eo27p71th2tq/the_necromancer_2018_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/9ta83zmdbil0/the_necromancer_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/9ta83zmdbil0/the_necromancer_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/tiyjmsmioqc1::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/4jbjikro6cv0::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/90dyscp41xuw::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/2icop5j6olsm::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#

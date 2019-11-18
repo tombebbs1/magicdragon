@@ -204,22 +204,7 @@ sublink:LISTSOURCE:https://1fichier.com/?agx2w66ndvltyf6s0mo9::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Nativity Rocks! (2018)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/f4le0x996oph/nativity_rocks%21_official_main_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/krc2sz97ue39/nativity_rocks_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/krc2sz97ue39/nativity_rocks_2018_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/wg32danqm2m5rry::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/0wk8k2jrp1bs::LISTNAME:[COLORgold]HD  LINK 4 (UPTOBOX)[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/W3MBBiZDNh2/Nativity.Rocks.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/0wk8k2jrp1bs::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR) [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/af727c2313beb30dc3e83e13a108dc93/Nativity.Rocks.2018.1080p.WEB-DL.H264.AC3-EVO[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?lzvncrurgn397huw675u::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNmY4OGM5M2ItZWIzNy00NjUxLTg1MDEtMzE3YjMyNzE0ZjQ0XkEyXkFqcGdeQXVyMzA4NzM1Njk@._V1_SX678_CR0,0,678,999_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Extra Ordinary (2019)[/COLOR]</title>
@@ -696,22 +681,7 @@ sublink:LISTSOURCE:https://1fichier.com/?motp527uu0dybi7c2b1f::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Cinderella Story: Christmas Wish (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/nv9iv4onzpmc/a_cinderella_story_christmas_wish_trailer_2019_teen_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1vkblc8wsjmh/a_cinderella_story_christmas_wish_2019_1080p_bluray_x264-rovers_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1vkblc8wsjmh/a_cinderella_story_christmas_wish_2019_1080p_bluray_x264-rovers_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/zg7w-aj-j2y64lx::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/lehxnrv0l0q0::LISTNAME:[COLORgold]HD  LINK 4 (UPTOBOX)[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/hsU4gT8CRaJ/A.Cinderella.Story.Christmas.Wish.2019.1080p.BluRay.x264-ROVERS%5BEtHD%5D.mkv::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/lehxnrv0l0q0::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR) [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/3274ac6eed141af08ddd38afb7c2defb/A.Cinderella.Story.Christmas.Wish.2019.1080p.BluRay.x264-ROVERS[EtHD].mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?1iafbn1p7zbt2qsflc2i::LISTNAME:[COLORgold]HD  LINK 8 (OBOOM)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZGY4ZjIyMjMtNjBlYS00YjJhLThiNDMtMzFiODVkN2M2OTgxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Princess Emmy (2019)[/COLOR]</title>

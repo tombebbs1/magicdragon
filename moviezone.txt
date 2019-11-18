@@ -34,6 +34,15 @@
 </item>
 
 <item>
+<title>[B][COLORred]Christmas Movies 2019[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2019.txt</externallink>
+<thumbnail>https://i.imgur.com/yzj773B.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]24/7 Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>

@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Hustlers (2019) HDTS UPDATED 18/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dmhaaykq1cjm/hustlers_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wzkr19k6fpj4/hustlers_2019_720p_hdts_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/5cy2ynii9f3q::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0he3ghferttu::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ford v Ferrari (2019) HDCAM UPDATED 16/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://cloudvideo.tv/sz2go73yeajz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -292,17 +304,7 @@ sublink:LISTSOURCE:https://uptobox.com/xhtx0fhi2dci::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Hustlers (2019) HDCAM UPDATED 14/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/dmhaaykq1cjm/hustlers_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/y0b2smawmqrr/www_seehd_pl_hustlers_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/fltpd1uu131y::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/CociQoKktsL/WwW.SeeHD.PL__Hustlers_2019_720p_HDCAM-GETB8.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Downton Abbey (2019) HDCAM UPDATED 14/09[/COLOR]</title>

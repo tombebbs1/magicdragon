@@ -151,7 +151,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:AAC1C48C02622FEEA46006A104D1F94F56F818A9&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/f9za1jstto77/brittany_runs_a_marathon_trailer_1_2019__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/f60swi0nijk5/brittany_runs_a_marathon_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/f60swi0nijk5/brittany_runs_a_marathon_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/2hak5ml712lh::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/0pttavv0nrxk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/5kiy6p58wpu3::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/7yyrih1e0oxi::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
@@ -170,7 +170,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:AA68431C3563012FF05B72DB257DDD58868BA92B&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zqwa0hgnvsie/horrible_histories_theie_rotten_romans_official_trailer_2019_%5Bhd%7D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/csqp1qp7yqdz/horrible_histories_theie_rotten_romans_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/csqp1qp7yqdz/horrible_histories_theie_rotten_romans_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/7jbp2s7cpdm8::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/fcklcus30p44::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/if2hi2t186t1::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://cloudvideo.tv/p3rjtqwxsrog::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#

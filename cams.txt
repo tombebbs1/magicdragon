@@ -1,3 +1,16 @@
+
+<item>
+<title>[COLORwhite]Charlie's Angels (2019) HDTS UPDATED 18/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://cloudvideo.tv/sz2go73yeajz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/b4qfnx0ip52i/charlies_angels_2019_new_hd-ts_x264-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ycnadbvpuucj::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hg5jf5pu0ea9::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDAzOTYxY2YtNzBmNi00YmE5LTk0NTktN2YwNTNiNGZjNWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Hustlers (2019) HDTS UPDATED 18/11[/COLOR]</title>
 <link>
@@ -22,17 +35,6 @@ sublink:LISTSOURCE:https://uptobox.com/uuwe1wc7mizb::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Charlie's Angels (2019) HDCAM UPDATED 15/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/sz2go73yeajz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/gtre44edj7n2/charlies_angels_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/iclmtjx2p6lh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/emxb4shzr56t::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZDAzOTYxY2YtNzBmNi00YmE5LTk0NTktN2YwNTNiNGZjNWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]The Good Liar (2019) HDCAM UPDATED 13/11[/COLOR]</title>

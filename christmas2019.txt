@@ -1,4 +1,21 @@
 <item>
+<title>[COLORwhite]Elf (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/913ko1zi8bkf/elf_2003_official_trailer_1_will_ferrell%2C_zooey_deschanel_christmasie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/igsxhpfupe66/elf_2003_720p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/81o2tdi9vbgf::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vzrf1rk45qrc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fla9ukh9cywa::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/qmwc5rawla1g::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/398d87fcb04c05bbbbdbc080f09d3d7e/Elf.2003.720p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?v8621jexbv8olzjcgdn8::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://cdn.turbobit.net/u29a89j7l3dd.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Random Acts of Christmas (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/::LISTNAME:[COLORorchid]SORRY NO TRAILER[/COLOR]::#

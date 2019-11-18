@@ -44,7 +44,7 @@
 
 
 <channel>
-<name>[B][I][COLORwhite]Christmas Movies 2019[/B][/I][/COLOR]</name>
+<name>[B][I][COLORred]Christmas Movies 2019[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/yzj773B.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2019.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

@@ -1,4 +1,12 @@
 <item>
+<title>[COLOR gold]All Time Best Xmas Movies Trailers[/COLOR]</title>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLVT27CeTc_RNyHUOlkq6_tRX5ZhkFTtrX/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>http://i1012.photobucket.com/albums/af246/BayonettaCroft/MerryChristmas.jpg</fanart>
+<link>ignorme</link>
+</item>
+
+<item>
 <title>[COLORwhite]Love Actually (2003)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rrhlhizyathz/love_actually_2003_official_trailer_colin_firth%2C_emma_thompsonie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

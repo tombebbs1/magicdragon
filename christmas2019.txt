@@ -7,6 +7,19 @@
 </item>
 
 <item>
+<title>[COLORwhite]Top 100 Xmas Songs[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLR7sPawuzFmKc1Q0dFwbawJASpUo8Kggp/?page=0</jsonrpc>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
+</item>
+<item>
+<title>[COLORwhite]Playlist Above Collection Here[/COLOR]</title>
+<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PLR7sPawuzFmKc1Q0dFwbawJASpUo8Kggp</link>
+</item>
+
+<item>
 <title>[COLORwhite]Love Actually (2003)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rrhlhizyathz/love_actually_2003_official_trailer_colin_firth%2C_emma_thompsonie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

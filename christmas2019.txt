@@ -20,6 +20,23 @@
 </item>
 
 <item>
+<title>[COLORwhite]Home Alone 2: Lost in New York (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/45873e72508m/home_alone_2_lost_in_new_york_trailer_1992::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5zgq6fgp5cef/home_alone_2_lost_in_new_york_1992_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/gdb458x1kiju::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1gckw8gfu297::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h8v6qli13koh::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/7mkzqu0gpmwa::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/328888bd1e6fe1f9da6a87db10d0fb88/Home.Alone.2.Lost.in.New.York.1992.720p.BluRay.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zu8h714b6ypyf6z539od::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/avllr4yokg5y.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Christmas Story (1983)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/l6nn4up8m3pz/a_christmas_story_1983_official_trailer_1_family_comedy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

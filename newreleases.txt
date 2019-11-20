@@ -87,6 +87,22 @@ sublink:LISTSOURCE:https://cdn.turbobit.net/u29a89j7l3dd.html::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]6 Children & 1 Grandfather (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gt88c0zml6da/6_children_and_1_grandfather__trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1qn8rbtp8yv9/six_children_and_one_grandfather_2019_hdrip_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/kzqhraycot2e::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/c3w57awd74gf::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xogfnqwz9coc::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/xv60g2zhtyzr::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9220bb483e58460eedd9aa0a59243c3a/Six.Children.and.One.Grandfather.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pq2lhna1x6qalyd7byzy::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9220bb483e58460eedd9aa0a59243c3a/Six.Children.and.One.Grandfather.2019.HDRip.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGM1MGM4N2QtMTNmYS00NjNiLWE1ZDYtYTdhOTZhM2NmYjQ5XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Once Upon a Time ... in Hollywood (2019)[/COLOR]</title>

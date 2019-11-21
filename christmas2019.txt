@@ -28,6 +28,40 @@
 </item>
 
 <item>
+<title>[COLORwhite]It's a Wonderful Life (1946)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/z0vwxkw6pewh/it%27s_a_wonderful_life_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9bqmlfxbdh8d/it%27s_a_wonderful_life_1946_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/3onv7egbzho5::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/r9k2jtytywdh::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/10aenlogkflq::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/v86mpus5jbpg::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4bffa95fb4cc822c232288cc86e370ba/It's.a.Wonderful.Life.1946.720p.BluRay.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?n2rfyy1ip07j0w59q76m::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?n2rfyy1ip07j0w59q76m::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRkOGEwYTUtY2E5Yy00ODg4LTk2ZWItY2IyMzUxOGVhMTM1XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Miracle on 34th Street (1947)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/anu00cf885yn/miracle_on_34th_street_1947_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5vxtbz256rje/miracle_on_34th_street_1947_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/bn14auguy3uo::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/38vdu35e6tga::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oprala9bvpuf::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/khwcjbmkwmdb::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/e73f6216a597f720a161abee5ff016b1/Miracle.On.34th.Street.1947.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lgrnhti98glf9ydms8an::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/tv24tmn3fz91.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRkOGEwYTUtY2E5Yy00ODg4LTk2ZWItY2IyMzUxOGVhMTM1XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas in Connecticut (1945)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/o1d4udohj6pp/christmas_in_connecticut_1945_official_trailer_barbara_stanwyck%2C_dennis_morganie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

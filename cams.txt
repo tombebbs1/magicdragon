@@ -322,29 +322,7 @@ sublink:LISTSOURCE:https://verystream.com/stream/cBjt33KCabb/WwW.SeeHD.WS__Downt
 
 
 
-<item>
-<title>[COLORwhite]Ready or Not (2019) HDCAM UPDATED 02/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zymkukodmo2d/ready_or_not__red_band_trailer_%5Bhd%5D__fox_searchlight::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/cw4aelcllnuj::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/1go0l42t5rrm::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rwd68wdp6v7t::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Once Upon a Time ... in Hollywood (2019) HDTS UPDATED 10/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ghwe203gib50/once_upon_a_time_in_hollywood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/aalhbfltjwys::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c9mluamrqcl8::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/z77z50x3c3ad::LISTNAME:[COLORwhite]OPENLOAD SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 
 

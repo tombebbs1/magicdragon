@@ -9,7 +9,7 @@
 <item>
 <title>[COLORwhite]Best UK Christmas Adverts[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/IaTVlOvv14/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLC_T4reWfHDzGrjpEAwdColR8zgDA3aMm/?page=0</jsonrpc>
 <thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
 <fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
 </item>

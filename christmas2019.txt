@@ -61,7 +61,22 @@ sublink:LISTSOURCE:https://turbobit.net/wrv07cxxfe8k.html::LISTNAME:[COLORgold]H
 <fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Four Christmases (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7wp2vl0ueo31/four_christmases_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tb8envtki10t/four_christmases_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/3f18ve5yfjng::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vzz871sh4k18::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/v03kdaz4ncy0::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/08cl37vez9xu::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/206240eeb687fb773ddc0e1d4e84f215/Four.Christmases.720p.Bluray.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?aoxynp56lpjws8wmobll::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/00fue9ef94os.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ2MjA0NDAwNF5BMl5BanBnXkFtZTcwOTU4MTM5MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Wizard of Oz (1939)[/COLOR]</title>

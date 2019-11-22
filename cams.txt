@@ -1,5 +1,17 @@
 
 <item>
+<title>[COLORwhite]A Beautiful Day In The Neighborhood (2019) HDCAM UPDATED 22/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oncmave9ohv5/a_beautiful_day_in_the_neighborhood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/om1hh2pkw8rk/a_beautiful_day_in_the_neighborhood_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/4dvqr09w5au3::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ch0qbeumwdi2::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTc1OWFmZDYtNDkzMy00ZjM2LTkxZDItM2E3ZTg3NTE1ZWE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Frozen II (2019) HDCAM UPDATED 22/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1770dc4n6rrn/frozen_2_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -218,8 +230,6 @@ sublink:LISTSOURCE:https://uptobox.com/z9fhf4melul3::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]The Addams Family (2019) HDCAM UPDATED 11/10[/COLOR]</title>
 <link>
@@ -255,8 +265,6 @@ sublink:LISTSOURCE:https://uptobox.com/7kvlrip62ngl::LISTNAME:[COLORwhite]SD  LI
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2YyYTgxYmYtNjg3My00YzI4LWJlZWItYmZhZGEyYTYxNWY3XkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Judy (2019) HDCAM UPDATED 29/09[/COLOR]</title>
@@ -294,8 +302,6 @@ sublink:LISTSOURCE:https://uptobox.com/f25uyem3h0py::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Monos (2019) HDCAM UPDATED 16/09[/COLOR]</title>
 <link>
@@ -308,8 +314,6 @@ sublink:LISTSOURCE:https://uptobox.com/xhtx0fhi2dci::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Downton Abbey (2019) HDCAM UPDATED 14/09[/COLOR]</title>
 <link>
@@ -321,12 +325,6 @@ sublink:LISTSOURCE:https://verystream.com/stream/cBjt33KCabb/WwW.SeeHD.WS__Downt
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmQxNGRkMjYtZTAyMy00MDUyLThiNmYtODI1NTkyNmI0ZTNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]Playmobil: The Movie (2019) HDCAM UPDATED 05/08[/COLOR]</title>

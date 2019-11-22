@@ -1,5 +1,17 @@
 
 <item>
+<title>[COLORwhite]21 Bridges (2019) HDCAM UPDATED 22/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/a87z3crld8ou/21_bridges_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5101ewca5fxp/21_bridges_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/ahpy0sc256qh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rl7q6j3z666h::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTg4YzEzNDQtZDAxOS00M2YyLTljZWEtNjk4YTc4NDM2NTBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,562,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Beautiful Day In The Neighborhood (2019) HDCAM UPDATED 22/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/oncmave9ohv5/a_beautiful_day_in_the_neighborhood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

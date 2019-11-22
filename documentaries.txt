@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ready for War (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xwm3uaz2mqrw/ready_for_war_2019_amzn_web-dl_aac2_0_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mclzpq4datqu::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8jp5iy5zgkey8h0ibh9z::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWQ1YWY0YjMtMzcxYS00YzYyLWI4Y2EtMmE0N2VhNThlZDY5XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Thank You for Your Service (2015)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dhvgks8znh8j/thank_you_for_your_service_2015_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

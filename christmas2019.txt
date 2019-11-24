@@ -44,6 +44,23 @@
 </item>
 
 <item>
+<title>[COLORwhite]Kiwi Christmas (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ipkzn20i5oys/kiwi_christmas_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p95znls1almx/kiwi_christmas_2019_720p_web-dl_x264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/2zafo6odbp5g::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/st149557ieyi::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ssnl6rt3pcjz::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ssnl6rt3pcjz::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p1cemm0g6ezx4qft0eg5::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p1cemm0g6ezx4qft0eg5::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pxpzdaf18o04.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2M0ZjJlYzgtNzEwMi00MzI1LWI4YWEtNzAzYjJmYTg4Y2RlXkEyXkFqcGdeQXVyMTUzMzU4Nw@@._V1_SY1000_CR0,0,712,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas at Graceland: Home for the Holidays (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/imsmpp095qdq/preview_christmas_at_graceland_home_for_the_holidays_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -52,7 +69,7 @@ sublink:LISTSOURCE:https://onlystream.tv/44uhb6xzsixg::LISTNAME:[COLORgold]HD  L
 sublink:LISTSOURCE:https://vidlox.me/6oqrp2k3f7fu::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/ec8g4zt9tvnl::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/ec8g4zt9tvnl::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?he9p9juaz4zq6a008h9c::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2e68463af61850479c59c06e0d93e5db/Christmas_at_Graceland_Home_for_the_Holidays_2019_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?he9p9juaz4zq6a008h9c::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/c2b77qznhisu.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>

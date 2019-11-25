@@ -2131,6 +2131,14 @@ sublink:LISTSOURCE:http://uptobox.com/0c8wkycpfyko::LISTNAME:[COLORwhite]SD  LIN
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite][COLORwhite]Lady and the Tramp (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:45797230711df9e85e8341456ddb4d1ac6cd5b94&dn=Lady.and.the.Tramp.2019.2160p.DSNP.WEBRip.x265.10bit.HDR.DD5.1-TrollUHD&xl=16188773142&tr=::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2U3ZDBkYWUtNDY3Ny00OTliLTgxNTAtY2QwZTQxMmEwOTQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Lara Croft: Tomb Raider (2001)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>

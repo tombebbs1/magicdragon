@@ -44,6 +44,23 @@
 </item>
 
 <item>
+<title>[COLORwhite]Merry & Bright (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/m5pdyr1d83k5/merry_%26_bright_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/84uddcr8j04v/merry_and_bright_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/w1afjve2ai67::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1x3o3hmao8hh::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n9jt6lg63fbq::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/6svdmr0q::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0e5f94531948a3864b07d849325613be/Merry.and.Bright.2019.WEBRip.x264-ION10.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3svqpe14xc1xref0mivb::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/doqqfkyg7op5.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2ZhMjk1MTgtMjgwNS00YmQxLTlhZTAtZGZjNGQ1MGUzY2NlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turkey Drop (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5doh6m2e8mzi/olivia_holt_on_the_new_holiday_freeformie_%27turkey_drop%27::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

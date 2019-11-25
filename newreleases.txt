@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://cdn.turbobit.net/u29a89j7l3dd.html::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Bad Dose (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/k5fqh9ic5kow/deadly_reunion_2019_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/mczwhlrz64qj/bad_dose_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/iqwy066bclse::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/i046d8xo0663::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3go1jotmpck3::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/fyzrf7hj::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/b77a481e08371347abddb771024c6324/Bad.Dose.2019.WEBRip.x264-ION10.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?didr3c6qhttjybshq6vk::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/6ama2bpftq1x.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTY1NDY5NGQtNDE1My00ZTRlLTk1ZTItZjdhNDA0Y2Q5ZDI5XkEyXkFqcGdeQXVyMjIzNTMyNTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Balance, Not Symmetry (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/65qbakmkols3/balance%2C_not_symmetry_pinpoint_presents_official_uk_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

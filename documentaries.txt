@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Long Time Running (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vfrz7aomgppb/long_time_running_2017_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/i7repi1d1zlh::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?g3sj2oa8y314u6ssqxby::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTA4NjQzMzg3MF5BMl5BanBnXkFtZTgwMTM0NjIzMzI@._V1_SY1000_SX692_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Untouchable (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0g17w4c4dkc8/untouchable_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

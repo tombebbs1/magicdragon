@@ -1,4 +1,16 @@
 <item>
+<title>[B][COLORwhite]AMA Music Awards 2019 [/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lni7sb9hsdnq/american_music_awards_2019_web_h264-trump::LISTNAME:[COLORwhite]1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/od2kkb47cc4p::LISTNAME:[COLORwhite]2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/z35ho8hodkgx::LISTNAME:[COLORwhite]3[/COLOR]::#
+</link>
+<thumbnail>https://i.ytimg.com/vi/XUcWdqzaM74/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[B][COLORwhite]Ray Donovan SE07 E01[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gu23gv781czh/ray_donovan_s07e01_1080p_web_h264-tbs::LISTNAME:[COLORwhite]1[/COLOR]::#

@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Busby (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2ksvqdvr3bvs/busby_2019_720p_bluray_x264-ghouls::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1ger2j44zs6o::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nvkptripm5pjj49k7z06::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDAwMzMwZDUtOWQ4Mi00ZDE4LWJlNmUtYWIxZjU4ZjNhNjVkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mystify: Michael Hutchence (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1d4razdehx7b/m_m_h_2019_576p_web_x264-tvc::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

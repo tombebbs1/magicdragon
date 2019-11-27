@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lindsey Vonn: The Final Season (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/m1ndevzfg0k8/lindsey_vonn_the_final_season_2019_720p_amzn_web-dl_ddp2_0_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rywy6j9mjwqo::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?emahyqxtp19xbq3ixiwh::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmE5NTI1ODMtNmQzYS00Y2JkLWE2MzItMzI2ZTNjMGFiNzg5XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Busby (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2ksvqdvr3bvs/busby_2019_720p_bluray_x264-ghouls::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

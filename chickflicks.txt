@@ -41,26 +41,6 @@
 </item>
 
 <item>
-<title>[COLORpink]A Dash of Love 2017[/COLOR]</title>
-<link>
-/gtwtda0bbpxa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-/o1ldv0qwl7ce::LISTNAME:[COLORwhite]SD [/COLOR]::#
-/gqkqdbkv63n8::LISTNAME:[COLORgold]HD [/COLOR]::#
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjE5YzAzM2EtZWRjMi00MGI5LWI2MzYtZDIxYTUxNWMxMTFjL2ltYWdlXkEyXkFqcGdeQXVyMTU5MjU5MTM@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLORpink]A Moving Romance 2017[/COLOR]</title>
-<link>
-/zzwuoto9mcig::LISTNAME:[COLORwhite]SD [/COLOR]::#
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjVhYjkzMWQtZjU5OS00MjE5LWI3OGQtYjc5M2M3NTQ3NjNmXkEyXkFqcGdeQXVyMjg5NTM1Mjg@._V1_SY1000_CR0,0,737,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLORpink]A Walk to Remember 2002[/COLOR]</title>
 <link>https://uptobox.com/g8q0ollxhcki</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3NTYxM2MtNjViMS00YmNlLWEwM2MtYWI2MzgzNTkxODFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -77,7 +57,7 @@
 
 <item>
 <title>[COLORpink]An Officer And A Gentleman Special Collector's Edition 1982[/COLOR]</title>
-<link>http://youwatch.org/86edp9lxp3gk</link>
+<link>https://onlystream.tv/wkaz7p04n6vm</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM5NmY2MTktODRiMS00NTQwLTk2ODEtZTFhYjAyMTZmMTc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -110,7 +90,7 @@ sublink:LISTSOURCE:http://uptobox.com/twan61dp1vfj::LISTNAME:[COLORwhite]SD  LIN
 
 <item>
 <title>[COLORpink]Beaches 1988[/COLOR]</title>
-<link>http://youwatch.org/668blr9fbfkm</link>
+<link>https://onlystream.tv/qigv4ez78kxi</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MjA0NDcyN15BMl5BanBnXkFtZTgwNDgzOTgzMTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -146,14 +126,14 @@ sublink:LISTSOURCE:http://uptobox.com/mcgfhdhwqdtm::LISTNAME:[COLORgold]HD  LINK
 
 <item>
 <title>[COLORpink]Big Business 1988[/COLOR]</title>
-<link>http://youwatch.org/pdteh40dr2f6</link>
+<link>https://onlystream.tv/euilvq6b3xgc</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzQwMDYxNl5BMl5BanBnXkFtZTYwMTQyMDc4._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORpink]Big Miracle 2012[/COLOR]</title>
-<link>http://youwatch.org/66g33hd6j64y</link>
+<link>https://onlystream.tv/z5rzfxihj6o4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTg5MjA5NV5BMl5BanBnXkFtZTcwNjk0MTk5Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -174,14 +154,14 @@ sublink:LISTSOURCE:http://uptobox.com/mcgfhdhwqdtm::LISTNAME:[COLORgold]HD  LINK
 
 <item>
 <title>[COLORpink]Bride Wars 2009[/COLOR]</title>
-<link>http://youwatch.org/ykp3ipj7d1zs</link>
+<link>https://onlystream.tv/azzsyyfz7nz5</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2MjU3NjQ3NzReQTJeQWpwZ15BbWU3MDEyNzE4OTE@._V1_UY268_CR1,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLORpink]Bridget Jones Diary 2001[/COLOR]</title>
-<link>http://youwatch.org/xd0rx0ae79az</link>
+<link>https://onlystream.tv/66c990ht5p0f</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjc3NjU1ZTEtNmNjNi00YzNiLWI3OWQtMTJmYTRkZDc1NDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -261,7 +241,7 @@ sublink:LISTSOURCE:http://uptobox.com/s322gxhjm0c8::LISTNAME:[COLORwhite]SD  LIN
 
 <item>
 <title>[COLORpink]Cocktail 1988[/COLOR]</title>
-<link>http://youwatch.org/p52cgobjstls</link>
+<link>https://onlystream.tv/ndfk0817s4l6</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMzk4OTMwOF5BMl5BanBnXkFtZTcwMzE3ODIyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>

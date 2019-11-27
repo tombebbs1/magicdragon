@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Knives Out (2019) HDCAM UPDATED 27/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/96mr6y7o80sj/knives_out_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yt8cr9d55mlp/www_seehd_pl_knives_out_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/whzlpx6pzhi3::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qype4jqj1tpa::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Midway (2019) HDTS UPDATED 25/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/uu4wgsrx4wkw/midway_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

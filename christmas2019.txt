@@ -60,6 +60,23 @@ sublink:LISTSOURCE:https://turbobit.net/81ga5wyxfp7j.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Carole's Christmas (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0ekfor3mc6g6/first_look_%27carole%27s_christmas%27__own_for_the_holidays__oprah_winfrey_network::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/r5c3picndun4/caroles_christmas_2019_720p_webrip_x264-crimson::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/mc08hhb1xnnw::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wgwhvl326hjm::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p8jsje1h3gee::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/b0jtqjyp1::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1a3d674d8519e571168557f04777f74a/Caroles.Christmas.2019.720p.WEBRip.x264-CRiMSON.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3zzb58jom1emhco71m8n::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/3xuoooy7k33b.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2UyN2QzYTMtNjY4Yy00NzA3LWFhZDctMzdkYjJiMzRkNTI1XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]One Fine Christmas (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/b6znj8ktslhv/sneak_peek_one_fine_christmas__own_for_the_holidays__oprah_winfrey_network::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -69,7 +86,7 @@ sublink:LISTSOURCE:https://vidlox.me/a407txeh1v3r::LISTNAME:[COLORgold]HD  LINK 
 sublink:LISTSOURCE:https://uptobox.com/yvdrxov31tyg::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://mixdrop.co/f/7l3zd171c::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/b80eedd3eec0d336a6a841f98cb736b8/One.Fine.Christmas.2019.720p.WEBRip.x264-CRiMSON.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/ld4c1ytx2qek.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4bfi8w1l4w2y7i895fgw::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/ld4c1ytx2qek.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDAzYWZlOTYtOTQzNC00NTliLWE1MTMtZGI0OGNmOTNhNDNjXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>

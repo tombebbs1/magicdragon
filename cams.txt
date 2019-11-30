@@ -181,17 +181,7 @@ sublink:LISTSOURCE:https://uptobox.com/xjq51st47xoy::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Arctic Dogs (2019) HDCAM UPDATED 03/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/fg82bdxsj9dd/arctic_dogs_2019__official_trailer_imdb_exclusive::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/q1xt1a3z6m4q/www_seehd_pl_arctic_dogs_2019_720p_hdcam_getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/umpf1gxigbbw::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/woqnzz2fvob6::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Harriet (2019) HDCAM UPDATED 02/11[/COLOR]</title>

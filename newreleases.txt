@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://turbobit.net/h5n9795c527k.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Dropa (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6hg97umqcm5p/dropa_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/f9q44fs0xm7j/dropa_2019_hdrip_ac3_x264-cmrg_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/ty0a05rt86ep::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vrnm4ahiujrd::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/89n7jyu9h14v::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/rex8xg::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hgc9ppsairae3viqd6rp::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hgc9ppsairae3viqd6rp::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/rr639pfe15aj.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTc0ZWE5ZDAtYjE1ZS00OTVhLTgzMmItMTFiOTQ5ZjRkODJlXkEyXkFqcGdeQXVyODA0MzExMjY@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Arctic Dogs (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fg82bdxsj9dd/arctic_dogs_2019__official_trailer_imdb_exclusive::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

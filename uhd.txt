@@ -1101,7 +1101,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7823f903307c7d35aad6bb4e9890e23363f430f6&
 <item>
 <title>[COLORwhite]Easy Rider (1969)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
-sublink:LISTSOURCE:magnet:?xt=urn:btih:b93b32a17aeb97f6bd9d6cf719c4b95cf4f679dc&dn=Easy.Rider.1969.2160p.UHD.BluRay.X265-IAMABLE&xl=28864501944&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:b93b32a17aeb97f6bd9d6cf719c4b95cf4f679dc&dn=Easy.Rider.1969.2160p.UHD.BluRay.X265.10bit.HDR.DTS-HD.MA.5.1-IAMABLE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2790::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_SY1000_SX662_AL_.jpg</thumbnail>
 <fanart></fanart>
@@ -3869,7 +3869,7 @@ sublink:LISTSOURCE:https://1fichier.com/?ic6svxm14b::LISTNAME:[COLORgold]HD  LIN
 <item>
 <title>[COLORwhite]The Irishman (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
-sublink:LISTSOURCE:magnet:?xt=urn:btih:da94b0d7a0c284845c3c654518196fcc095edf78&dn=The.Irishman.2019.2160p.NF.WEBRip.x265.10bit.HDR.DD5.1.Atmos-NOGRP&xl=28192361362&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:da94b0d7a0c284845c3c654518196fcc095edf78&dn=The.Irishman.2019.2160p.NF.WEBRip.x265.10bit.HDR.DD5.1.Atmos-NOGRP&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 <fanart></fanart>

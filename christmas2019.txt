@@ -60,6 +60,23 @@ sublink:LISTSOURCE:https://turbobit.net/81ga5wyxfp7j.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Staging Christmas (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7rk7t9wxf40h/staging_christmas_trailer_2019_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bj5zbwosfty5/staging_christmas_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/fhss53xdf2ja::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/hicga3sc9qb3::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/hr99n52kintj::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/qa88m::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ryodaku21odzibw3hgdu::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ryodaku21odzibw3hgdu::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/nmjs93tj40vw.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjE2MTQ3NzUtMTY0My00MDVmLTk0MTctMzFmYmNjOWU5ZmZiXkEyXkFqcGdeQXVyMTU0NjY0NDg@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas in Evergreen: Tidings of Joy (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/m3tu0bbzihrv/maggie_lawson_%E2%80%9Cchristmas_in_evergreen_tidings_of_joy%E2%80%9D_interview_home_%26_family::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

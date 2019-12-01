@@ -1,4 +1,28 @@
 <item>
+<title>[COLORwhite]Frozen II (2019) HDTS UPDATED 01/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1770dc4n6rrn/frozen_2_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m27ikken7vqh/frozen_2_2019_720p_hdts_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/fu55i6s07tad::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/640k82ih8ux7::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blue Story (2019) HDCAM UPDATED 01/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7qb1q7aozs48/blue_story__official_trailer__paramount_pictures_uk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/x4aciokhv7m9/blue_story_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/f7de3061p8im::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2v8x5j8yl4ft::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDZmYjM2ZmEtNDFmNC00NmIyLTgzYTMtMzNhNzM2MGZmM2FhXkEyXkFqcGdeQXVyNzQwOTQ1MzM@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dark Waters (2019) HDCAM UPDATED 30/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8hd0kt8r3xl2/dark_waters_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -82,17 +106,7 @@ sublink:LISTSOURCE:https://uptobox.com/ch0qbeumwdi2::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Frozen II (2019) HDCAM UPDATED 22/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/1770dc4n6rrn/frozen_2_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/dao1y22jn2p0/frozen_2_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/y27ol8hz4gjr::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/4sn9er20zv2b::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Charlie's Angels (2019) HDTS UPDATED 18/11[/COLOR]</title>

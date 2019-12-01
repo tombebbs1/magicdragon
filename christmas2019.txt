@@ -60,6 +60,23 @@ sublink:LISTSOURCE:https://turbobit.net/81ga5wyxfp7j.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Christmas in Rome (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cxysj3jjpzq4/on_location_christmas_in_rome_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rvavnmhag67c/christmas_in_rome_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/75rebuku15dq::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/uu2rbigp1ji0::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/86u1lcfb5o02::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0gyicd85::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?y71f19w1yekb5rznras6::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?y71f19w1yekb5rznras6::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/a30rsxumhsn8.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWIzN2Q0MTItMmNmNC00M2JmLTliNmItYmNiODM5MjEyMTc2XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Staging Christmas (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7rk7t9wxf40h/staging_christmas_trailer_2019_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

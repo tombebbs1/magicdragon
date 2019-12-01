@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Strange Victory (1948)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hrbe9mlvdntq/strange_victory_1948_720p_bluray_x264-bipolar::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/f9szswl7d486::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vmekrm5vsq8k18h4n9fb::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/wKiy4gL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]My Father My Kidnapper (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/suk9vjegigod/my_father_my_kidnapper_2019_hdtv_x264-crimson::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/9g7cxkbwkrmp::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ixxxqq9gfqzdzxcomvqt::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.ru/images/hae4Md.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Andy Murray: Resurfacing (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/38tarvc6l522/andy_murray_resurfacing_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

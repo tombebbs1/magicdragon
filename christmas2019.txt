@@ -77,6 +77,23 @@ sublink:LISTSOURCE:https://turbobit.net/dipuv4ownv0l.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Christmas Town (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tt5ph99hnppb/preview_christmas_town_candace_cameron_bure::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/txh8bj879uoj/christmas_town_2019_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/pnh9n58mv0mf::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/pmz1g9chlkae::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2atfgrpfrthp::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/w2uj1xkyd9::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/eb008de6d8e4af2f93ab9510bc35dab2/Christmas_Town_2019_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2xyqocjim87jhj4r2pvp::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/nu24x7udi4ak.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDJiNjZmZTYtODI4OC00MGFiLWJlMTEtYmM1YTA3M2E3Nzc5XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Christmas Chalet (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i9e8gvp75kly/the_christmas_chalet_trailer_2019_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

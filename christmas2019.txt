@@ -60,7 +60,22 @@ sublink:LISTSOURCE:https://turbobit.net/81ga5wyxfp7j.html::LISTNAME:[COLORgold]H
 </item>
 
 
-
+<item>
+<title>[COLORwhite]You Light Up My Christmas (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/spw6wd56eaux/kim_fields_reunites_with_%27facts_of_life%27_cast_for_new_christmas_flick_%27it%27s_very_special%27::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pjucihnk6eg6/you_light_up_my_christmas_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/69cjzx9f3w0k::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7o9k6oymwd61::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/52phuftwx9ww::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/ui7cwbvma2::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d1b07d9be8d2f012ecb22638d3a49d6e/You_Light_Up_My_Christmas_2019_Lifetime_720P_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0qfquvqpu4uhuplp3o3s::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/glw8dyc2y9pm.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDdjYmEwMzctMDVmZS00ZDA0LTg1Y2MtMDRjODM5Yjc0NmRmXkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Sense, Sensibility & Snowmen (2019)[/COLOR]</title>

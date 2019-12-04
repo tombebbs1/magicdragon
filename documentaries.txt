@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Celtic's Smiler: The Neilly Mochan Story (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7xgwxsm5xggx/celtics_smiler_the_neilly_mochan_story_2015_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/t2zjl9e108yh::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f7n2ut9svk8mi4ujr7e1::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDM2MjUwYjYtMDljZS00NjNkLTlkNzUtMjAxMWVhZWViYmYzXkEyXkFqcGdeQXVyNDI2MDczNjA@._V1_SX707_CR0,0,707,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]QT8: The First Eight (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7a65gynyph0o/21_years_quentin_tarantino_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/b906vyzg7lcp::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6ozlx9jfx9hzj9w8pnq0::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzU4MDFmYmMtZTUwOC00YTFjLTg4NzUtMDA4ZGI0NDdhMzk0XkEyXkFqcGdeQXVyMjIwNzk2ODg@._V1_SY1000_CR0,0,777,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Iron Fists and Kung Fu Kicks (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bura1i4egnza/iron_fists_and_kung-fu_kicks_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

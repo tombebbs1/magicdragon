@@ -4254,6 +4254,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:fb3956aa8037047435844e153760ba1e267c8ef6&
 </item>
 
 <item>
+<title>[COLORwhite]The Santa Clause (1994)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:60bab8e532014b81da66946fb3f123872a2b9aa4&dn=The.Santa.Clause.1994.2160p.DSNP.WEBRip.x265.10bit.HDR.DTS-HD.MA.5.1-TrollUHD&xl=18698010736&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTZlNzk1MjItYjJlYy00MTAxLWJkNjEtZmNiNmVlNjQ4NDE5XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Secret Life Of Pets 4K [/COLOR]</title>
 <link>http://uptobox.com/7gdkke9g0yx3</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_.jpg</thumbnail>

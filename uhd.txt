@@ -4306,6 +4306,16 @@ sublink:LISTSOURCE:https://1fichier.com/?jfg8fw5z9s::LISTNAME:[COLORgold]4K  LIN
 </item>
 
 <item>
+<title>[COLORwhite]The Shining (1980)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:c4d45a6466b25cf9ccbb4fe0ed5f5f42514e0021&dn=The+Shining+%281980%29+%282160p+BluRay+x265+HEVC+10bit+HDR+AAC+5.1+Tigole%29&xl=15346414533&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Silence of the Lambs (1991) 4K[COLORred] Real Debrid Only[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:4d584edb69b55bdca660d3e4463fd6994c32c259&dn=The.Silence.of.the.Lambs.1991.2160p.UHDRip.x265.HDR.DTS-HD.MA.5.1-DTOne&xl=19807387860&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

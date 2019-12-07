@@ -60,6 +60,24 @@ sublink:LISTSOURCE:https://turbobit.net/81ga5wyxfp7j.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Same Time, Next Christmas (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/swsa7arcq873/same_time%2C_next_christmas_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sqb36mqogect/same_time_next_christmas_2019_720p_hdtv_x264-crimson::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/u6yw7v48vmuf::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8g3t695spnr3::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qfxq86hiyvi7::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/cc4pqvmmrcsp::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a4c7d5c301e86ea2c1876b46d795c42c/Same.Time.Next.Christmas.2019.720p.HDTV.x264-CRiMSON.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?93v5wwl5nevom9bblppd::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/qnddq11lwqy1.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ1YmExOTYtNjM3Yi00ZjMzLWJiMmEtMzhiMzAxOTBiMGNhXkEyXkFqcGdeQXVyMzAxODU2MDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]A New Christmas (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ql4ie9lfnbor/a_new_christmas__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

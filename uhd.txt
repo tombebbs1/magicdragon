@@ -2844,6 +2844,15 @@ sublink:LISTSOURCE:https://1fichier.com/?5tvx508uk9fd8ngs16mv::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Rambo: Last Blood (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:08e3ef18ea46f53d3a9ae1acf3f320c7744522b7&dn=Rambo.Last.Blood.2019.2160p.UHD.BluRay.x265-AAAUHD&xl=11581127769&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rampage (2018) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptostream.com/25urwu8l7o8u::LISTNAME:[COLORgold]4K  LINK 1::#

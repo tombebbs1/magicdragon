@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Knives Out (2019) HDTS UPDATED 08/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/96mr6y7o80sj/knives_out_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/toh5ndle7e3p/knives_out_2019_720p_hdtc_900mb_getb9_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/lyzznesqouiy::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/71rek4kpnimo::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jumanji: The Next Level (2019) HDCAM UPDATED 07/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5b907bqf4vx9/jumanji_the_next_level_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -79,18 +91,6 @@ sublink:LISTSOURCE:https://onlystream.tv/eqf49tecu52n::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://uptobox.com/i3lea68a2hyb::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjcxMjM4MjgtNTEwMi00ZmE2LTlhMWUtMzQ4OWFmYmQwM2NlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Knives Out (2019) HDCAM UPDATED 27/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/96mr6y7o80sj/knives_out_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/yt8cr9d55mlp/www_seehd_pl_knives_out_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/whzlpx6pzhi3::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/qype4jqj1tpa::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -233,17 +233,7 @@ sublink:LISTSOURCE:https://uptobox.com/ipcyoe873zit::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Doctor Sleep (2019) HDCAM UPDATED 01/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/xck9dhgj60xk/doctor_sleep_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/cs8hm6kvybhg/doctor_sleep_2019_720p_hdcam_getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/wg32danqgn-56l1::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/kl21uma3q18h::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Zombieland: Double Tap (2019) HDTS UPDATED 28/10[/COLOR]</title>

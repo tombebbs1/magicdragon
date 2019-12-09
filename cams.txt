@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Jumanji: The Next Level (2019) HDCAM UPDATED 09/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5b907bqf4vx9/jumanji_the_next_level_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2c43w46bq5dy/jumanji_the_next_level_2019_new_hdcam_x264_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/s4noyioq7us0::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5ku9pugsa1is::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Knives Out (2019) HDTS UPDATED 08/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/96mr6y7o80sj/knives_out_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -7,18 +19,6 @@ sublink:LISTSOURCE:https://cloudvideo.tv/lyzznesqouiy::LISTNAME:[COLORwhite]SD  
 sublink:LISTSOURCE:https://uptobox.com/71rek4kpnimo::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Jumanji: The Next Level (2019) HDCAM UPDATED 07/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/5b907bqf4vx9/jumanji_the_next_level_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/iqmktp9zeq79/jumanji_the_next_level_2019_english_hdcam-rip_720p_x264_aac_900mb_5bmb_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/rwlgeegziuzu::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/15izzhm6vpoq::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

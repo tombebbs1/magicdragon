@@ -60,6 +60,23 @@ sublink:LISTSOURCE:https://turbobit.net/81ga5wyxfp7j.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]A Merry Holiday (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/swsa7arcq873/same_time%2C_next_christmas_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pwbjsflxuuds/mistletoe_and_menorahs_2019_lifetime_720p_web_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/ldd2l2rn6074::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8iv6inn86rhr::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eyi3970ri58k::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/snx6da0bqoof::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5e28874300b356c9cf3de031dad15ad6/Mistletoe_and_Menorahs_2019_Lifetime_720p_Web_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?y36k2yflzfaz47hq61b7::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/l0sgcv836qi8.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjNiM2M1OTgtMWJkOS00YjQxLTk3ZmYtMTNkM2FiYzgxYTc1XkEyXkFqcGdeQXVyMjg1NDc1NA@@._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Same Time, Next Christmas (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/swsa7arcq873/same_time%2C_next_christmas_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

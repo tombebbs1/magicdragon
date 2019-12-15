@@ -62,7 +62,33 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Badge 373 (1973) Remastered[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - The Lion King (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tu8ab4cxskhj/the_lion_king_original_release_trailer_1994_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ycxtofg01cjt/the_lion_king_1994_bluray_720p_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/u6b3um2icqkr::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/06r7x5bypr5w::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fwn008j3hsuh::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/onqv2x86rf::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7e27b90eece1655b4149f2c4fad01ea9/The.Lion.King.1994.BluRay.720p.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pzdpj21vbs7lt18lg9vz::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/spsxh7v3gukc.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Badge 373 (1973) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qwje0dj276fk/badge_373_1973_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/343k0vzk0yx1/badge_373_1973_remastered_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -76,15 +102,6 @@ sublink:LISTSOURCE:https://turbobit.net/h5n9795c527k.html::LISTNAME:[COLORgold]H
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNGFhOGEwMWQtOWRkMC00NjhhLTk0ODQtZDAxYTUwMjE3NzkzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SY1000_CR0,0,798,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>

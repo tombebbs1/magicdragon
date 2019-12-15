@@ -77,6 +77,40 @@ sublink:LISTSOURCE:https://turbobit.net/vcar370rm07u.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Winter Song (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qnof1lu7u45v/a_winter_song_trailer__ashanti_stan_shawie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hzz0xapxg0kp/a_christmas_winter_song_2019_720p_hdtv_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/qmkjxoq0oyvp::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2huohm6w8oaa::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p27i4y5wxfnh::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/eps85q92qnza::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/640d1399e91bfe8f1bf56744324fd928/A.Christmas.Winter.Song.2019.720p.HDTV.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?smov4qrn62we85e0xfye::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/lfkv60lda2sb.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTg2YTZjYjUtYzYxMC00YTcyLWI5ODktZTdlYmQwYmFkMzE3XkEyXkFqcGdeQXVyNTQ2NjI3NDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Matchmaker Christmas (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/puq8xbiw7uhn/matchmaker_christmas_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d6qbvzgnec6s/matchmaker_christmas_2019_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/ggg787qta9q0::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9fr3mi6d9otb::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/vmahvjdgdcbn::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/m0apd1lztrdq::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3fcbe47de83afe2ec0e4b62cc83c0d1b/Matchmaker.Christmas.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?q2ovwaywziydtvt83bf4::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pifmooi6lu37.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjljMmRmZjUtNjI1Yi00YjA4LTg1N2EtNmIwNDNjNGY5YzZmXkEyXkFqcGdeQXVyMjUwOTMwNw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas at the Royal Hotel (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/u1xrsmvtp8m9/christmas_at_the_royal_hotel_preview_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

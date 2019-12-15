@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bluebird (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7esav6zf53vm/bluebird_2019_720p_amzn_web-dl_ddp5_1_h_264-deeplife::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wyq8efrr3pnd::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1i04pbfze8v0ijutbn38::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjM1YWU4N2EtNjhmMS00NDg0LWFlODYtMmM1OGMwYTBhOGZlXkEyXkFqcGdeQXVyNjQyNjk2Njg@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Father's Kingdom (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gwccrac0qps8/fathers_kingdom_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

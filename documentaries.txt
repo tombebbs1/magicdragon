@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]I Am Another You (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hi7nolr9k35f/i_am_another_you_2017_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/c56drrtzelp1::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kc8je5gn1jx0ng0xlgj5::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjgwMTQ3OWMtNmVkMS00NGZmLWI3ZWItNjAwYzlkZmFiM2M4XkEyXkFqcGdeQXVyMjgxMzM4Mjk@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bluebird (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7esav6zf53vm/bluebird_2019_720p_amzn_web-dl_ddp5_1_h_264-deeplife::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

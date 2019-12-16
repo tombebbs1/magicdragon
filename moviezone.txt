@@ -235,6 +235,15 @@ item>
 </item>
 
 <item>
+<title>[B][COLORred]Screeners New Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORpink]Maverick Movies (You Tube)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLDySQNnzfMCqoBxquMEhCOi0GUEB1RbCf/?page=0</jsonrpc>

@@ -75,7 +75,13 @@
 <info></info>
 </channel>
 
-
+<channel>
+<name>[B][I][COLORblue]New Screeners[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
 
 <channel>
 <name>[B][I][COLORlime]New Movie Releases[/B][/I][/COLOR]</name>

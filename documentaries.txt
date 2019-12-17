@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Manson: Music From an Unsound Mind (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6knv0wcof5na/manson_music_from_an_unsound_mind_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/q0ir2vjh4p2u::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6b6tj2paij28e8t64zs3::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzQxZDE2ODYtMDYwZS00OTJkLTg1ZDItZTYxMGE3NmNiZDYzXkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Western Stars (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/lm1x40kkg1os/western_stars_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

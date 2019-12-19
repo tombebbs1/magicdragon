@@ -88,6 +88,25 @@ sublink:LISTSOURCE:https://turbobit.net/spsxh7v3gukc.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Cosmopolis (2012)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dmi6pif9o3oo/cosmopolis_official_trailer_2_2012_d_cronenberg_robert_pattinson_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2r20ryt4lvuk/ano-cosmo_1080p::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/axrouhaiyl::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/63w1vno21wek::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g7iwwu474u8x::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tldde654q7::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/39af14b6a1d8859a638ad5d950f7291a/ano-cosmo.1080p.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/39af14b6a1d8859a638ad5d950f7291a/ano-cosmo.1080p.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/39af14b6a1d8859a638ad5d950f7291a/ano-cosmo.1080p.mkv.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a86b1b0c6f97eca07484f0d52917e021d522c350&dn=Cosmopolis.2012.LiMiTED.1080p.BluRay.x264-AN0NYM0US&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2750::LISTNAME:[COLORgreen]HD  LINK 9[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f2f84f1ae0784cdf79a896a7332550fe179bf4ba&dn=Cosmopolis.2012.1080p.BluRay.x264.DTS-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2760::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sucker Punch (2011)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tzhs779iqeaq/sucker_punch_official_trailer_2_2011_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

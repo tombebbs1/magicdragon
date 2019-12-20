@@ -62,7 +62,33 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - The Lion King (1994)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - National Lampoon's Christmas Vacation (1989)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/77day5u92rjk/national_lampoon%27s_christmas_vacation_theatrical_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/b5leu5fv18lz/national_lampoons_christmas_vacation_1989_720p_bluray_x264-ctrlhd::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/m5an4wl8ng70::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/eg7ptintmtvf::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/f7qm8q4qbm6z::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/f7qm8q4qbm6z::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4b4e7f72a9f8a9a7b59b22e2df8158ef/National.Lampoons.Christmas.Vacation.1989.720p.Bluray.x264-CtrlHD.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8jb5c31yrb8pqcq4ta8z::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/q26diaqr1vk3.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Lion King (1994)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tu8ab4cxskhj/the_lion_king_original_release_trailer_1994_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ycxtofg01cjt/the_lion_king_1994_bluray_720p_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -78,14 +104,6 @@ sublink:LISTSOURCE:https://turbobit.net/spsxh7v3gukc.html::LISTNAME:[COLORgold]H
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-<item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Scarecrow's Revenge (2019)[/COLOR]</title>

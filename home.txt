@@ -26,14 +26,6 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]BROKEN CHAINS ADD ON[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/IiwM0IF.jpg</thumbnail>
-<externallink>http://myatom.one/chains%20of%20absolution/chains%20of%20absolution.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>

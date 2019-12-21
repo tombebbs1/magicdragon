@@ -302,17 +302,7 @@ sublink:LISTSOURCE:https://uptobox.com/s18nbhptocaw::LISTNAME:[COLORwhite]SD  LI
 
 
 
-<item>
-<title>[COLORwhite]Jojo Rabbit (2019) CAM UPDATED 19/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zyjgeddb619x/jojo_rabbit_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/gc95e4hex4a2::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9xwp8dt7cgc5::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/j96owgsksvpd::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX667_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

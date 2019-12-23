@@ -88,7 +88,26 @@ sublink:LISTSOURCE:https://turbobit.net/q26diaqr1vk3.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite]The Informer (2019) HDCAM UPDATED 05/10[/COLOR]</title>
+<title>[COLORwhite]Zombieland: Double Tap (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fmv0fhafbd08/zombieland_double_tap_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m58ul446123c/zombieland_double_tap_2019_720p_korsub_hdrip_xvid_mp3-stuttershit::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://onlystream.tv/p7tf7dgwflw9::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/e7hqimwrcpgc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/eyqkjts0wzjz::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8wzwwgzz6::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/659e477fc820f1dc2dde4a090ab280a8/Zombieland.Double.Tap.2019.720p.KORSUB.HDRip.XviD.MP3-STUTTERSHIT.avi.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?705ykqnhmcldjttqpjmh::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?705ykqnhmcldjttqpjmh::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:D4802011B209001045854E411A6F67D7E640B305&dn=Zombieland.Double.Tap.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2780%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:D4802011B209001045854E411A6F67D7E640B305&dn=Zombieland.Double.Tap.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2780%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Informer (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/f224ta33ovqj/the_informer_official_trailer_2019_joel_kinnaman%2C_rosamund_pikeie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/y9t8883fhz4p/the_informer_2019_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -409,24 +428,7 @@ sublink:LISTSOURCE:https://turbobit.net/ndfx5pkkr7w8.html::LISTNAME:[COLORgold]H
 <fanart>https://i.imgur.com/SLpJKUb.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Zombieland: Double Tap (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/fmv0fhafbd08/zombieland_double_tap_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/m58ul446123c/zombieland_double_tap_2019_720p_korsub_hdrip_xvid_mp3-stuttershit::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/p7tf7dgwflw9::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/e7hqimwrcpgc::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/eyqkjts0wzjz::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8wzwwgzz6::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/659e477fc820f1dc2dde4a090ab280a8/Zombieland.Double.Tap.2019.720p.KORSUB.HDRip.XviD.MP3-STUTTERSHIT.avi.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?705ykqnhmcldjttqpjmh::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?705ykqnhmcldjttqpjmh::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:D4802011B209001045854E411A6F67D7E640B305&dn=Zombieland.Double.Tap.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2780%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:magnet:?xt=urn:btih:D4802011B209001045854E411A6F67D7E640B305&dn=Zombieland.Double.Tap.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2780%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Widow's Walk (2019)[/COLOR]</title>

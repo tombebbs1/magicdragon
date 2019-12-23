@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Watson (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/979mnwf9o75h/watson_2019_720p_webrip_x264-caffeine::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mnzzd6z6y874::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ae0szzvxc79ytyvl53vt::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2U1YWZkMWYtMjMxMi00YTBhLWIzMzQtMGNiMGUwODVkMDQ0XkEyXkFqcGdeQXVyMTk2MTQ2NTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Meghan & Harry: A Royal Baby Story (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/d5uilfgzl0zh/meghan_and_harry_a_royal_baby_story_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

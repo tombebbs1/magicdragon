@@ -333,17 +333,7 @@ sublink:LISTSOURCE:https://uptobox.com/z9fhf4melul3::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Addams Family (2019) HDCAM UPDATED 11/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/51xc6cb4zfeb/the_addams_family_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/8jb51vn8eY1/The.Addams.Family.2019.720p.HDCAM.GETB8.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/8jb51vn8eY1/The.Addams.Family.2019.720p.HDCAM.GETB8.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/8jb51vn8eY1/The.Addams.Family.2019.720p.HDCAM.GETB8.mkv.mp4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODBjOTAzZmMtNGJkOC00M2M3LWI1MTctZjZlMzdiODBkMzc0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019) HDCAM UPDATED 06/10[/COLOR]</title>

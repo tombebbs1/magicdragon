@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Duran Duran: There's Something You Should Know (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kdzsknzwtdfr/duran_duran_theres_something_you_should_know_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/otlqdyn6un4u::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fv7pwi2pvqaz3mkgmi0i::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjk2M2JhZmQtNWQ4Ni00NDQ1LWJiNDUtYTVlNGRjYTFmNmRkXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]New Order: Decades (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rvnavc1hzeoq/new_order_decades_2018_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

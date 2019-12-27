@@ -35,6 +35,29 @@
 </item>
 
 <item>
+<title>[COLORwhite]New Order: Decades (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rvnavc1hzeoq/new_order_decades_2018_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7g0d78xedy4y::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z9t83j3m9xi2fwkv6uzm::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjNjOWIyMDctODk1OS00ZmFhLTkwOGYtNmI3N2Y0NmZkNjNiXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Dirty John, The Dirty Truth (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e7j8qanya1d4/dirty_john_the_dirty_truth_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/tefu7972n2de::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eii5ycvu6sc65rkyf76g::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDMzM2VmMWUtNTU4My00YmE5LTlkODItMWYyNjdlMzgyNjVlXkEyXkFqcGdeQXVyODIxOTg5MTc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]21 Miles (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jijockg2zpwh/21_miles_2019_720p_amzn_web-dl_dd_2b5_1_h_264-ika::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]Spies in Disguise (2019) HDCAM UPDATED 27/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/imc0m0dybwt7/spies_in_disguise__official_trailer_3_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/76z2tgena7d4/spies_in_disguise_2019_720p_hdcam_900mb_getb9_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7hdvjgpsm3ye::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ogfpmcr1ld2h::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gwtujupzm8nrofiedd1f::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ip Man 4: The Finale (2019) HDCAM UPDATED 23/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8xuze8yo4ne9/ip_man_4_official_trailer_2019_donnie_yen%2C_scott_adkinsie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -87,17 +100,7 @@ sublink:LISTSOURCE:https://uptobox.com/5ku9pugsa1is::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Knives Out (2019) HDTS UPDATED 08/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/96mr6y7o80sj/knives_out_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/toh5ndle7e3p/knives_out_2019_720p_hdtc_900mb_getb9_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/lyzznesqouiy::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/71rek4kpnimo::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Jay and Silent Bob Reboot (2019) HDCAM UPDATED 01/12[/COLOR]</title>
@@ -299,10 +302,6 @@ sublink:LISTSOURCE:https://uptobox.com/ipcyoe873zit::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[COLORwhite]Black and Blue (2019) CAM UPDATED 26/10[/COLOR]</title>
 <link>
@@ -316,11 +315,6 @@ sublink:LISTSOURCE:https://uptobox.com/s18nbhptocaw::LISTNAME:[COLORwhite]SD  LI
 </item>
 
 
-
-
-
-
-
 <item>
 <title>[COLORwhite]Maleficent: Mistress of Evil (2019) CAM UPDATED 19/10[/COLOR]</title>
 <link>
@@ -332,8 +326,6 @@ sublink:LISTSOURCE:https://uptobox.com/z9fhf4melul3::LISTNAME:[COLORwhite]SD  LI
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019) HDCAM UPDATED 06/10[/COLOR]</title>

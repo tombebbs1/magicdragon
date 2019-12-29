@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lourdes (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8rjohg7uajh1/lourdes_2019_bdrip_x264-futuristic::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/334tpm0pv5tt::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zgdeb1hdlly53v368x6x::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzdjZTNjYjUtMDFkZS00MGU3LWIxODUtMDU1YTBjZTU3ZDMwXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_CR0,0,734,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Conscience Point (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ffaya9qfu9x4/conscience_point_2019_docu_720p_hdtv_x264-w4f::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

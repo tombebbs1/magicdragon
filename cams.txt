@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]1917 (2019) HDCAM UPDATED 29/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cicv1z6hx1sj/1917_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5jksugy63w4d/www_seehd_ws_1917_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/fnuwsxgm0yve::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oz95shxngx6f::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?b8d4b7somy1denyi7vrj::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Just Mercy (2019) HDCAM UPDATED 28/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9vyn7s8wa3kj/just_mercy_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -252,17 +265,7 @@ sublink:LISTSOURCE:https://uptobox.com/hg5jf5pu0ea9::LISTNAME:[COLORwhite]SD  LI
 
 
 
-<item>
-<title>[COLORwhite]Ford v Ferrari (2019) HDCAM UPDATED 16/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://cloudvideo.tv/sz2go73yeajz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/x675dwdvc3kc/ford_v_ferrari__official_trailer_%5Bhd%5D__20th_century_fox::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/jij03g7839gx::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/uuwe1wc7mizb::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 <item>

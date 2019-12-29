@@ -2413,6 +2413,24 @@ sublink:LISTSOURCE:https://1fichier.com/?08gdhev2clnllkz6ytk3::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Manchester by the Sea (2016)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:1807cca5258c4b1eb5aa8401cdd52d3c78294332&dn=Manchester.by.the.Sea.2016.2160p.SDR.AMZN.WEBRip.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D&xl=14077933463&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Marriage Story (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a7f208576f993ba2a163514d7cf348941e4938e9&dn=Marriage.Story.2019.2160p.HDR.WEBRip.DDP.5.1.HEVC-DDR%5BEtHD%5D&xl=10854881232&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Marrowbone (2017) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptostream.com/9by2c5gyce46::LISTNAME:[COLORgold]4K  LINK 1::#
@@ -3439,6 +3457,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:739ef85806dc1d9f4df6215cef48d9bc27cc5d37&
 </item>
 
 <item>
+<title>[COLORwhite]Tammy and the T-Rex (1994)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:60805bbabecfddc1d3278bd7e9c85ecd20b7a278&dn=Tammy.and.the.T-Rex.1994.DC.2160p.UHD.BluRay.HDR.FLAC.2.0.HEVC-DDR%5BEtHD%5D&xl=12532202896&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDA3MWQyMDItOWZhNy00YmIyLTljNmUtN2Y0OGIzMzBiM2ZkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Tangled (2010)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:13c7698c46896ae0762ffcf3c55c70422c735b37&dn=Tangled+2010.MULTi.UHD.Blu-ray.2160p.HDR.Atmos.7.1.HEVC-DDR&xl=19894707942&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -3480,6 +3508,15 @@ sublink:LISTSOURCE:https://1fichier.com/?y7sv76vidynku3g93acv::LISTNAME:[COLORgo
 sublink:LISTSOURCE:magnet:?xt=urn:btih:13ea81f34ef4e7119a42c9868598348281cddb85&dn=Terminator.Salvation.2009.2160p.UHD.BluRay.X265-IAMABLE&xl=16195017035&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2Fbt.xxx-tracker.com:2710/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Fretracker.lanta-net.ru:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2770/announce&tr=udp%3A%2F%2F9.rarbg.me:2730/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce&tr=udp%3A%2F%2Ftracker.mg64.net:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.zer0day.to:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fipv6.tracker.harry.lu:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2770/announce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me:6969/announce&tr=udp%3A%2F%2Ftracker.port443.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.to:2720/announce&tr=udp%3A%2F%2Ftracker.justseed.it:1337/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2Ftorrentclub.tech:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=http%3A%2F%2Ftracker.tfile.co:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODE1MTM1MzA2NF5BMl5BanBnXkFtZTcwODQ5MTA2Mg@@._V1_SY1000_CR0,0,740,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Aeronauts (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:9a87b10fc10bf25289dbc2fcdd55b733e7e0b066&dn=The.Aeronauts.2019.2160p.AMZN.WEBRip.SDR.DDP5.1HEVC-DDR%5BEtHD%5D&xl=7997085216&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmJkM2M0OTUtNGI3NC00ZTNiLWI4MDUtMGI5MzM1MmQyNTliXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

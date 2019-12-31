@@ -88,6 +88,15 @@ sublink:LISTSOURCE:https://turbobit.net/4d1fxflgkkdh.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[B][I][COLORred]THIS YEARS SCREENERS[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
+<thumbnail>https://whereyouwatch.com/wp-content/uploads/2019/09/Oscar-DVD-screeners-2020.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Black and Blue (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://verystream.com/stream/Y8Ztscnb8Hu/BLACK_AND_BLUE_-_Official_Trailer_%28HD%29.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

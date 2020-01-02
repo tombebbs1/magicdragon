@@ -68,6 +68,18 @@ sublink:LISTSOURCE:https://1fichier.com/?hcyzlpzu4jfkdumpryiv::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Victoria Gotti: My Father's Daughter (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zpj8n6eehkns/victoria_gotti-my_fathers_daughter_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pll02c8prg63::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4ob69ae0dh11vhya083h::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGNjNGYyNzEtZGYxZC00OTQ0LThhOTItMTkyYTI4NThlYWM3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Lourdes (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8rjohg7uajh1/lourdes_2019_bdrip_x264-futuristic::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -77,6 +89,7 @@ sublink:LISTSOURCE:https://1fichier.com/?zgdeb1hdlly53v368x6x::LISTNAME:[COLORgo
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzdjZTNjYjUtMDFkZS00MGU3LWIxODUtMDU1YTBjZTU3ZDMwXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_CR0,0,734,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORwhite]Conscience Point (2019)[/COLOR]</title>

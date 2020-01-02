@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Victoria Gotti: My Father's Daughter (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zpj8n6eehkns/victoria_gotti-my_fathers_daughter_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pll02c8prg63::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4ob69ae0dh11vhya083h::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGNjNGYyNzEtZGYxZC00OTQ0LThhOTItMTkyYTI4NThlYWM3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't F**k with Cats: Hunting an Internet Killer E01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/z0np5y8y7snl/dont_fuck_with_cats_hunting_an_internet_killer_s01e01_internal_720p_web_x264-strife::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -67,16 +78,7 @@ sublink:LISTSOURCE:https://1fichier.com/?hcyzlpzu4jfkdumpryiv::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Victoria Gotti: My Father's Daughter (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/zpj8n6eehkns/victoria_gotti-my_fathers_daughter_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/pll02c8prg63::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?4ob69ae0dh11vhya083h::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOGNjNGYyNzEtZGYxZC00OTQ0LThhOTItMTkyYTI4NThlYWM3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 <item>

@@ -1,3 +1,21 @@
+
+<item>
+<title>[COLORwhite]Harriet (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bkh4rmg0y48s/harriet__official_trailer__now_playing::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wda9c4m161vm/harriet_2019_720p_dvdscr_x264_ac3_hq_hive-cm8_5bethd_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wda9c4m161vm/harriet_2019_720p_dvdscr_x264_ac3_hq_hive-cm8_5bethd_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cseunmq4nwmj::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rz2i865n3mss::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan7zxp2krk::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d697eb2d85f8afc7074e5fb3dce05eb4/Harriet.2019.720P.DVDScr.X264.AC3.HQ.Hive-CM8[EtHD].mkv.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2rif8e0il65v6yv1x54b::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/8ovsp0y6gvja.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmE1Y2JjMDEtZDAyOC00NjFiLWJlNjAtMjA3MDMzZGUxMDViXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Frozen II (2019)[/COLOR]</title>
 <link>

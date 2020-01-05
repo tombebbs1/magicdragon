@@ -62,19 +62,19 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Independence Day (1996) - Extended[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Ghostbusters (1984)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/nqg0mw67mb0v/independence_day__official_trailer_1_1996::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/r0l6ca39rbdy/independence_day_1996_extended_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/ygl0obn3p8nw::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/f5eq0ch60rlv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/bdg1ovz5yl8x::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/ygl0obn3p8nw::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/736d1a4342bb52d9f8c3eb045b3531fa/Independence.Day.1996.EXTENDED.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?0di9cm4or05sfg12z32r::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/4d1fxflgkkdh.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ed14t3x3jiza/ghostbusters_1984_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kq8ja88ce888/ghostbusters_1984_1080p_x265_10bit_fs35_joy_::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/chczi3e3::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/j96oleymlm8w::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/satd85pw6ozu::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/satd85pw6ozu::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/m1xf8r5hfdkb.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?b3rt73wq132qx3mntz21::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/m1xf8r5hfdkb.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SY1000_CR0,0,650,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -93,6 +93,23 @@ sublink:LISTSOURCE:https://turbobit.net/4d1fxflgkkdh.html::LISTNAME:[COLORgold]H
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
 <thumbnail>https://whereyouwatch.com/wp-content/uploads/2019/09/Oscar-DVD-screeners-2020.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Independence Day (1996) - Extended[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/nqg0mw67mb0v/independence_day__official_trailer_1_1996::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/r0l6ca39rbdy/independence_day_1996_extended_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/ygl0obn3p8nw::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/f5eq0ch60rlv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/bdg1ovz5yl8x::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/ygl0obn3p8nw::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/736d1a4342bb52d9f8c3eb045b3531fa/Independence.Day.1996.EXTENDED.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0di9cm4or05sfg12z32r::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/4d1fxflgkkdh.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

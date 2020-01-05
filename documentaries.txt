@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bones of Brundage (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6sr3kxmeql8e/bones_of_brundage_2018_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/aud5qnat7lk9::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fnv4v0suwc4d64r6cli6::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjY4MWFkYWEtM2U2Ni00Y2U4LWJjNWEtZTYyMmI5OWI2YWU3XkEyXkFqcGdeQXVyMTg4ODQyNzM@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]One in a Billion (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ohyoc4f12xm5/one_in_a_billion_2016_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

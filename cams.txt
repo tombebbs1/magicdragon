@@ -117,18 +117,7 @@ sublink:LISTSOURCE:https://1fichier.com/?wisr1dnf679xg06j67jz::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Bombshell (2019) HDCAM UPDATED 19/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/penft0eljjdx/bombshell_2019ie_new_trailer_%E2%80%94_charlize_theron%2C_nicole_kidman%2C_margot_robbie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6o9wp7canlsw/bombshell_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/7kilmcsqsxdj::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/n32c2wg2xa3t::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?8cqlfu278l0w24we5q4i::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjlhOWE3YjktY2MzOC00ZmQ1LWIwNjgtZmVhZmFjZGExMzgyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 
@@ -182,17 +171,7 @@ sublink:LISTSOURCE:https://uptobox.com/5ku9pugsa1is::LISTNAME:[COLORwhite]SD  LI
 
 
 
-<item>
-<title>[COLORwhite]Jay and Silent Bob Reboot (2019) HDCAM UPDATED 01/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/wiibypizh8m0/jay_and_silent_bob_reboot_official_trailer_2019_kevin_smithie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/xg18cjuv2x5j/www_seehd_ws_jay_and_silent_bob_reboot_2019_720p_hdcam-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/llaglqlz0p9a::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/677luxmo5g43::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDBiN2Y1NTMtYzc1ZS00ODlhLWI3NGYtY2M5ODA1ZmY4ZTdjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

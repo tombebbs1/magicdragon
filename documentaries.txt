@@ -35,7 +35,18 @@
 </item>
 
 <item>
-<title>[COLORwhite]Belichick & Saban: The Art of Coaching (2019[/COLOR]</title>
+<title>[COLORwhite]The Guardians (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sdd4sp2h8022/the_guardians_2018_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/u95p5l3pdzn7::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?q2brv7ngnkr9nh0rragc::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWRkMDhmYjYtMmQwMy00MmQ2LWE3YTAtYWUyODA2ODg5Y2Y2XkEyXkFqcGdeQXVyNDg0OTU2MA@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Belichick & Saban: The Art of Coaching (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/y01djcf4vxja/belichick_and_saban_the_art_of_coaching_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/2xjsrdcgpf77::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#

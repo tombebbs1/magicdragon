@@ -34,25 +34,17 @@
 </channel>
 
 <channel>
+<name>[B][I][COLORgreenyellow]Documentary's[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][I][COLORmagenta]People Watching[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[B][I][COLORblue]Cams/HDTS Releases[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[B][I][COLORyellowgreen]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -69,6 +61,22 @@
 <name>[B][I][COLORlime]New Movie Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORblue]Cams/HDTS Releases[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORyellowgreen]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -98,13 +106,7 @@
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
-<channel>
-<name>[B][I][COLORgreenyellow]Documentary's[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
+
 
 <channel>
 <name>[B][I][COLORmagenta]Kids[/B][/I][/COLOR]</name>

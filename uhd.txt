@@ -2073,6 +2073,8 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:196a3db318ec2336cec94134f95e3fd137cea4ea&
 <fanart></fanart>
 </item>
 
+
+
 <item>
 <title>[COLORwhite]Dredd (2012)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
@@ -2340,6 +2342,15 @@ sublink:LISTSOURCE:https://1fichier.com/?9tjtr7p2w0qyafybn0kp::LISTNAME:[COLORgo
 <title>[COLORwhite]Logan (2017) 4K [/COLOR]</title>
 <link>https://uptobox.com/6fk5qcjgftqv</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Logan Lucky (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:54ce7ffa6fbd8265dc84f395f2ade3705ea88259&dn=Logan.Lucky.2017.BDRip.2160p.UHD.Eng.Fre.HDR.DTS-HDMA.DTS.ETRG&xl=13050342981&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fthetracker.org:80/announce&tr=udp%3A%2F%2Fretracker.lanta-net.ru:2710/announce&tr=udp%3A%2F%2Fbt.xxx-tracker.com:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.openbittorrent.com:80/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -4092,6 +4103,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:da94b0d7a0c284845c3c654518196fcc095edf78&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The Jungle Book (2016)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:a0ac9be81d8e080769b2def8aff6f2df88b14d81&dn=The.Jungle.Book.2016.MULTi.UHD.Bluray.2160p.TrueHD.Atmos.7.1.HEVC-DDR&xl=20960932732&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Kid Who Would Be King (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>

@@ -76,8 +76,6 @@ sublink:LISTSOURCE:https://1fichier.com/?ug03mknxzh7s7ukax02p::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]1917 (2019) HDCAM V2 UPDATED 31/12[/COLOR]</title>
 <link>
@@ -156,10 +154,6 @@ sublink:LISTSOURCE:https://1fichier.com/?wisr1dnf679xg06j67jz::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[COLORwhite]Queen & Slim (2019) HDCAM UPDATED 18/12[/COLOR]</title>
 <link>
@@ -208,12 +202,6 @@ sublink:LISTSOURCE:https://uptobox.com/5ku9pugsa1is::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
-
-
 <item>
 <title>[COLORwhite]Blue Story (2019) HDCAM UPDATED 01/12[/COLOR]</title>
 <link>
@@ -238,22 +226,6 @@ sublink:LISTSOURCE:https://uptobox.com/zypo3xqslitk::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
-<item>
-<title>[COLORwhite]Midway (2019) HDTS UPDATED 25/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/uu4wgsrx4wkw/midway_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/vds6rbry2re8/www_seehd_pl_midway_2019_720p_new_hd-ts-getb8::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/ikq1yv1pzrdp::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9yyvfngb5m0f::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_SY1000_SX800_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]21 Bridges (2019) HDCAM UPDATED 22/11[/COLOR]</title>
 <link>
@@ -266,8 +238,6 @@ sublink:LISTSOURCE:https://uptobox.com/rl7q6j3z666h::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Charlie's Angels (2019) HDTS UPDATED 18/11[/COLOR]</title>
 <link>
@@ -279,11 +249,6 @@ sublink:LISTSOURCE:https://uptobox.com/hg5jf5pu0ea9::LISTNAME:[COLORwhite]SD  LI
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDAzOTYxY2YtNzBmNi00YmE5LTk0NTktN2YwNTNiNGZjNWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]The Good Liar (2019) HDCAM UPDATED 13/11[/COLOR]</title>
@@ -321,7 +286,6 @@ sublink:LISTSOURCE:https://uptobox.com/0qejkatqpz12::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
 <item>
 <title>[COLORwhite]Motherless Brooklyn (2019) HDCAM UPDATED 04/11[/COLOR]</title>
 <link>
@@ -333,14 +297,6 @@ sublink:LISTSOURCE:https://uptobox.com/xjq51st47xoy::LISTNAME:[COLORwhite]SD  LI
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzQ0Mjk1YjItNWI1Ny00NWE2LWFlYTAtYjViY2YzMTVlOGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019) HDCAM UPDATED 06/10[/COLOR]</title>

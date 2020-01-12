@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]People Watching[/B][/I][/COLOR]</name>
+<name>[B][I][COLORmagenta]People Watching[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -50,7 +50,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
+<name>[B][I][COLORyellowgreen]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

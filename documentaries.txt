@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Western Stars (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lm1x40kkg1os/western_stars_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/laoftkx23thd::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qxg4f2a1kusae7n8zyk2::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDk2ZjY1MjgtOTEzZi00MWZjLTg5ZmItNDgzMTNmM2QxYTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Yukon Assignment (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bwbuc5ijsb36/the_yukon_assignment_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -426,16 +437,7 @@ sublink:LISTSOURCE:https://1fichier.com/?6b6tj2paij28e8t64zs3::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Western Stars (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/lm1x40kkg1os/western_stars_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/laoftkx23thd::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?qxg4f2a1kusae7n8zyk2::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDk2ZjY1MjgtOTEzZi00MWZjLTg5ZmItNDgzMTNmM2QxYTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Sid & Judy (2019)[/COLOR]</title>

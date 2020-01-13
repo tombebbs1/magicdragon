@@ -35,6 +35,29 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Longest Straw (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ouu1ihkvpm0i/the_longest_straw_2017_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sqbua1srs15q::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hk00n8ddpfeytrl2bw0m::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDUzMTI4MjItMTdkOC00M2RlLWExZmUtNDQ0NzJjMTljMmY5XkEyXkFqcGdeQXVyNTg5MTE1NTI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Hotel Coolgardie (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/da2czjq6ttxq/hotel_coolgardie_2016_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2x46bwqcuy69::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5a8yxqhzrwmah7nk6yt1::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDU4YzQ1NGItZDQ2YS00MjAzLTkxZjEtNDk1ZGMyM2NjZmFiXkEyXkFqcGdeQXVyMjI1NTgzNTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Abducted in Plain Sight (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/q88oz6v5ezue/abducted_in_plain_sight_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

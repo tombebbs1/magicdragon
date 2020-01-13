@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Longest Journey (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6z0kmqvmd5ul/the_longest_journey_2016_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rc1bgqe4ne98::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?v1odudgyfrviucvri6px::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmRkZWZkNDMtOWQyZi00OTI0LTlhZjQtMjZlNTQ0NmE4ZjhkXkEyXkFqcGdeQXVyMTAyOTc5Njk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Ultimate Triathlon (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hjs0a1vtn8y1/the_ultimate_triathlon_2016_720p_amzn_web-dl_ddp2_0_h_264-tepes::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

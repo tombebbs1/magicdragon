@@ -116,6 +116,23 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5336014943F6B96E1DD209AAD7C2E8CE16B4F461&
 </item>
 
 <item>
+<title>[COLORwhite]Abraham Lincoln: Vampire Hunter (2012)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ms9nfce93vz2/abraham_lincoln_vampire_hunter_official_trailer_2_2012_ie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/20fsufzq868u/abraham_lincoln_vampire_hunter_2012_1080p_brrip_x264_yify::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/q3mlrfscw9r2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/x8kc6p01z66q::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gzowi1vgrfon::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2qll502p7::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/71e25cafdfdd9ec75e65d81853978810/Abraham.Lincoln.Vampire.Hunter.2012.1080p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z3reqsm2u4tahtf5x9qr::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/40czxmp1wpnl.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Psycho Party Planner (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/n8pt1sqvat83/ernesto%27s_manifesto_2020__official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

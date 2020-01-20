@@ -114,6 +114,23 @@ sublink:LISTSOURCE:https://turbobit.net/0m90vb6vnc1g.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Man of La Mancha (1972)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1ptwal8q30j0/man_of_la_mancha_official_trailer_1_harry_andrewsie_1972_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/c90j0uro7osr/man_of_la_mancha_1972_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/u36dokgmvner::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/350aae4jq6h2::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/02657642::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan73gq5mre::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4e160edc47cce17445b181967697614a/Man.Of.La.Mancha.1972.1080p.BluRay.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?r3ccjogv31bj50kjfd3a::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/eg8q56mavzfd.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzYyOTExNWEtODg3YS00NGYzLTg2ZmEtZWIwZDNlZTE1YzY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_SX658_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bride of the Werewolf (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3t2xgahko3vg/bride_of_the_werewolf_official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

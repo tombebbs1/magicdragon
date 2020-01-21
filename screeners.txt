@@ -1,19 +1,4 @@
-<item>
-<title>[COLORwhite]Waves (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/i6j4771b2yo8/waves__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/zpbkoyob1vfu/waves_2019_dvdscr_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/zpbkoyob1vfu/waves_2019_dvdscr_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/7m1y2n0xx2f2::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/muimm8xgv6::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2q68rq6n3::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/f96eaa99685fdb7b047b952afb78b31f/Waves.2019.DVDSCR.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?34d7tnfgrzmorv4qnbjq::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/wct252rec58u.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWE2OTdiY2MtM2ViNy00NmExLWIxZjYtYTVkNGJkNzgwYjVmXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Honey Boy (2019)[/COLOR]</title>

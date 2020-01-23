@@ -186,17 +186,6 @@ sublink:LISTSOURCE:https://uptobox.com/2v8x5j8yl4ft::LISTNAME:[COLORwhite]SD  LI
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Dark Waters (2019) HDCAM UPDATED 30/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/8hd0kt8r3xl2/dark_waters_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ut7647r7ad89/dark_waters_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/jbx6hfnoedks::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/zypo3xqslitk::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0M2Y5M2QtZGIwMC00MzJjLThlMzYtNmE3ZTMzZTYzOGEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]21 Bridges (2019) HDCAM UPDATED 22/11[/COLOR]</title>

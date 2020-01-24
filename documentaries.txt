@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Spirits in the Forest (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qu992yu6np4d/depeche_mode_spirits_in_the_forest_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4hhzncfjwz1r::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6wq5aqn79xyw9ma2brgu::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDU1YjU4MDItN2E5Ny00YmQzLWI3YmQtNWZmMjc1Njk3OThhXkEyXkFqcGdeQXVyMDQ2ODk4OA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Dog Called Money (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3njns4itzloj/a_dog_called_money_2019_bdrip_x264-cadaver::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

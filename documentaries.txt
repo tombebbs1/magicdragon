@@ -35,6 +35,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]When the Bell Rings (2014)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/yy0iy8dtxy63/when_the_bell_rings_2014_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/7ctp3bf9f05s::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yrc4upsutf6346xaps27::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTExMzAxMTM1OTZeQTJeQWpwZ15BbWU4MDExODc0OTIx._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Green Is the New Gold (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8lxsa66zhtal/green_is_the_new_gold_2017_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/7tbeqk72lwe7::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?u2evcv1osgco0e7qdygu::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjBkMzdmMTEtMmE3Yi00M2U2LWI5NTktMjE5MmEzYTVjNmZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spirits in the Forest (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qu992yu6np4d/depeche_mode_spirits_in_the_forest_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

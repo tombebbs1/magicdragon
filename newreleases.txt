@@ -114,6 +114,23 @@ sublink:LISTSOURCE:https://turbobit.net/0m90vb6vnc1g.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]A Horrible Way to Die (2010)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ullrv5uc3tbj/a_horrible_way_to_die_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2mne81yi6sku/a_horrible_way_to_die_2010_1080p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/93fl5bipdaz3::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/iw85ebkx02zx::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/1y1f2o1polfz::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhg51z63-1d::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a3843aeca8e86576f410c880b6ed26f6/A.Horrible.Way.To.Die.2010.1080p.BluRay.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pkz3w9sz86vd607duf8t::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/8lgb6q0udcae.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzMjAyMzg2MzheQTJeQWpwZ15BbWU3MDg2NTc1MzY@._V1_SY1000_CR0,0,691,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]True History of the Kelly Gang (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/c2m7a7e7rylc/true_history_of_the_kelly_gang_official_trailer_2019_charlie_hunnam%2C_nicholas_houltie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

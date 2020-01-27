@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]Bad Boys for Life (2020) HDTS UPDATED 27/01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hu6u3gzufu1w/bad_boys_3_for_life_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vydvzdz3r42d/bad_boys_for_life_2020_new_hdts_x264_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3ox2fi7pd72n::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/13gcrtlr7iu4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?x9pnlacltd8nvt1d6obp::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Turning (2020) CAM UPDATED 25/01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jhfu4abj93mc/the_turning_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -11,18 +24,7 @@ sublink:LISTSOURCE:https://1fichier.com/?vlhgeb8x2bsp87l05k7l::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Bad Boys for Life (2020) CAM UPDATED 16/01[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/hu6u3gzufu1w/bad_boys_3_for_life_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/xreo92myvklw/bad_boys_for_life_2020_720p_hdcam_getb8_900mb_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/sie3j7keijki::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/685nxxf49rk3::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?8dit5rycaslw0i9rvzjx::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Seberg (2019) CAM UPDATED 12/01[/COLOR]</title>

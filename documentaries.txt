@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The 62nd Annual Grammy Awards (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/u1i11xjbfkpm/the_62nd_annual_grammy_awards_2020_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/o563bgeo6nfz::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?owkrubw4bracqy73p6s3::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmVjNWU2Y2QtMDFmNC00Y2FhLTliMjktYzk2YzU3YjU0MWE0XkEyXkFqcGdeQXVyODQ1NTk5OQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Cave (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2zg0bc5sk64t/the_cave_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Star Trek: Picard S01E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ufsp9rek388d/star_trek_picard_s01e02_maps_and_legends_1080p_cbs_web-dl_aac2_0_x264_h_264-::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/th0o4f66wj5x::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/d17o02op8zy4::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/1aktwyvwvr6s.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX704_CR0,0,704,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Trek: Picard S01E01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/brgo20850iq6/star_trek_picard_s01e01_remembrance_1080p_amzn_web-dl_ddp5_1_h_264-ntb::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

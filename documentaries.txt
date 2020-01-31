@@ -35,6 +35,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Taylor Swift: Miss Americana (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tfhx4gw1xzjw/taylor_swift_miss_americana_2020_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8jsq5u0hr2gx::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yef2hkl0nz08zt5wcbyt::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzE5MTM2M2EtNzIzNy00M2NiLWE1N2EtNGFkZDAxMWEwOWU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Walking on Water (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vod1chfa6oxc/walking_on_water_2018_webrip_x264-ion10::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

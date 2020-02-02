@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]The Gentlemen (2019) HDTS UPDATED 02/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oxr41q1i4ayo/the_gentlemen_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m2gzpbxn3izo/the_gentlemen_2020_720p_hdts_900mb_c1nem4_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/5badoqlqzm4d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g5schurwea71::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4873wyqmm0gngyyk14qf::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bad Boys for Life (2020) HDTS UPDATED 27/01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hu6u3gzufu1w/bad_boys_3_for_life_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -78,18 +91,7 @@ sublink:LISTSOURCE:https://1fichier.com/?umaft9cdlawcxjq5ejnm::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Gentlemen (2019) CAM UPDATED 06/01[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/oxr41q1i4ayo/the_gentlemen_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/n61xae27w4ui/the_gentlemen_2020_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/vkirf3zs8v42::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/3x4rduwhee68::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?q4p6s8836p7l6r4tltu9::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Grudge (2020) HDTS UPDATED 06/01[/COLOR]</title>

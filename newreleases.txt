@@ -97,6 +97,23 @@ sublink:LISTSOURCE:https://turbobit.net/oid02fb4x6ya.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Dragonheart Vengeance (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/u4puc983h6c9/dragonheart_vengeance_trailer_1_new_2020_dragons_actionie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sm9wrktdexlu/dragonheart_vengeance_2019_brrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/di6p26jn072i::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/etgfvgyk01x3::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rcpqm7w0se1l::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2q5xl-7rr::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/fdc002053c37d7b3b09ebc5b00ee30b3/Dragonheart_Vengeance.2019.BRRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xadjizbsfoxvjv61ycsv::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xadjizbsfoxvjv61ycsv::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDZiZWU2NTUtMzYyZS00ZWE3LTlhOGMtNjRhOGNjYmZkYjliXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SY1000_CR0,0,917,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]S.W.A.T (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1hhj0s75gyk7/s_w_a_t_-trailer_%E7%89%B9%E8%AD%A6%E9%98%9F_kinostart_china_29_12_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

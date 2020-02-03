@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]Clemency (2019) CAM UPDATED 04/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4qa9pros1l08/clemency_%5Bofficial_trailer%5D_in_theaters_december_27%2C_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/z3hv27onodrr/clemency_2019_hdcam_x264_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/kgyzna3j0m3edq2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/a3ta31cle3ny::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nmfoenjzissw7j8vtgqf::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGM2ZDE4NjMtYjY5MC00MDcwLTllZDYtN2YyNDgxOWE5MjI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Gretel & Hansel (2020) CAM UPDATED 02/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/l7lb1yu9fazh/gretel_%26_hansel_official_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -203,18 +216,6 @@ sublink:LISTSOURCE:https://vidlox.me/f7de3061p8im::LISTNAME:[COLORwhite]SD  LINK
 sublink:LISTSOURCE:https://uptobox.com/2v8x5j8yl4ft::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDZmYjM2ZmEtNDFmNC00NmIyLTgzYTMtMzNhNzM2MGZmM2FhXkEyXkFqcGdeQXVyNzQwOTQ1MzM@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]21 Bridges (2019) HDCAM UPDATED 22/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/a87z3crld8ou/21_bridges_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/5101ewca5fxp/21_bridges_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/ahpy0sc256qh::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/rl7q6j3z666h::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTg4YzEzNDQtZDAxOS00M2YyLTljZWEtNjk4YTc4NDM2NTBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,562,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

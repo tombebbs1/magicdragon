@@ -97,6 +97,23 @@ sublink:LISTSOURCE:https://turbobit.net/oid02fb4x6ya.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]S.W.A.T (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1hhj0s75gyk7/s_w_a_t_-trailer_%E7%89%B9%E8%AD%A6%E9%98%9F_kinostart_china_29_12_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nfmv9z33rngg/s_w_a_t_2019_hc_hdrip_xvid_ac3-evo::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/g357ebnyo0td::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/c3htpoxnds52::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4anz4-nym8n::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wlay4omczawf::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/81db0a750fb99e15273be72d85042ffe/S.W.A.T.2019.HC.HDRip.XviD.AC3-EVO.avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?x8h9x7q614sh8sc1h8a2::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/3at3f4qvpyvi.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/6RcKV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]21 Bridges (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/nhh26iblxn13/21_bridges__official_trailer__now_in_theaters::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]Bad Boys for Life (2020) HDTS UPDATED 03/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hu6u3gzufu1w/bad_boys_3_for_life_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1br6naxcpad0/bad_boys_for_life_2020_new_hdts_x264_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/s2vm20d7mlvx::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/2qvb0tpjm856::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nbhpm6h22e8v67achz29::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Clemency (2019) CAM UPDATED 04/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4qa9pros1l08/clemency_%5Bofficial_trailer%5D_in_theaters_december_27%2C_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -37,18 +50,7 @@ sublink:LISTSOURCE:https://1fichier.com/?4873wyqmm0gngyyk14qf::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Bad Boys for Life (2020) HDTS UPDATED 27/01[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/hu6u3gzufu1w/bad_boys_3_for_life_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/vydvzdz3r42d/bad_boys_for_life_2020_new_hdts_x264_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/3ox2fi7pd72n::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/13gcrtlr7iu4::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?x9pnlacltd8nvt1d6obp::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Turning (2020) CAM UPDATED 25/01[/COLOR]</title>

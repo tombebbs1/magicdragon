@@ -191,22 +191,7 @@ sublink:LISTSOURCE:https://turbobit.net/8phfwo217r67.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Beautiful Day in the Neighborhood (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/8zf4vc7bjubk/a_beautiful_day_in_the_neighborhood_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8w96sa0mgysc/a_beautiful_day_in_the_neighborhood_2019_dvdscr_xvid_ac3_hq_hive-cm8_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8w96sa0mgysc/a_beautiful_day_in_the_neighborhood_2019_dvdscr_xvid_ac3_hq_hive-cm8_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/l1akmo4bjqbj::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/c6okpmvc3fm1::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/m3hyhzqx::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/f6e22685945ce48f30856684071c9fb8/A.Beautiful.Day.in.the.Neighborhood.2019.DVDScr.XVID.AC3.HQ.Hive-CM8[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?tnbdckhnbr747meburv7::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/iazb4iseyz7e.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTc1OWFmZDYtNDkzMy00ZjM2LTkxZDItM2E3ZTg3NTE1ZWE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Jojo Rabbit (2019)[/COLOR]</title>

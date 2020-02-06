@@ -107,7 +107,7 @@ sublink:LISTSOURCE:https://uptobox.com/sb1yu8f2bljw::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzj-xq8q-e::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/6ba014b8c0e420d08c0aab69a83929ee/Frankie.2019.REPACK.720p.BluRay.x264-AAA.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?hwbbn9yvnh3a3y5ofj8b::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/6ba014b8c0e420d08c0aab69a83929ee/Frankie.2019.REPACK.720p.BluRay.x264-AAA.mkv.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pyfqxkr1ixq8.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5f1ae5c0a1a28c10b1a7f11b23af27f0442d413e&dn=Frankie.2019.REPACK.720p.BluRay.x264-AAA&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2790::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:7871a372e0ea14c38287d72e0dc70d90d2ef295a&dn=Frankie.2019.1080p.BluRay.x264-AAA&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2790::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>

@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]Dolittle (2020) HDTS UPDATED 06/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0flzr7xz2e99/dolittle_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tfog360u1mcd/dolittle_2020_720p_hdts_900mb_c1nem4_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sonzjspnuwm6::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5910h7lf5pae::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?b7f0b2ptltnehtntmfch::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Underwater (2020) HDTS UPDATED 03/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8wc6yfzh0o5h/underwater_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -90,19 +103,6 @@ sublink:LISTSOURCE:https://uptobox.com/d2gvedkgfadv::LISTNAME:[COLORwhite]SD  LI
 sublink:LISTSOURCE:https://1fichier.com/?o146uxm1n06bluboiqug::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjk5MTdhZGQtMDEzMC00NTk3LTg1ZjgtZTNhN2RlYzY3N2U1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Dolittle (2020) CAM UPDATED 11/01[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/0flzr7xz2e99/dolittle_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/cf7mrrrbtlln/dolittle_2020_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/aweiexmrxntf::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/4urcfkpvfbvl::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?7my52miqasezaf6bfhit::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

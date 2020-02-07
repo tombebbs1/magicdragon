@@ -96,6 +96,25 @@ sublink:LISTSOURCE:https://turbobit.net/1z96adjbfz3u.html::LISTNAME:[COLORgold]H
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Horse Girl (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dmrdhanpyz4q/horse_girl__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rg1226h5gdyq/horse_girl_2020_720p_nf_web-dl_ddp5_1_x264-ntg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/repp9ilpklw5::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wqy99zyz2xi5::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/f9qfucr342f5::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2p--lyjd4::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/bc83495c9f6acf470418a2f59bde6ef2/Horse.Girl.2020.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vnsm2376qidewsakvkbs::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/3s518ztyvxmd.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:1212B4CD2375F475C25C26999AA69793F9A75D86&dn=Horse.Girl.2020.720p.NF.WEB-DL.DDP5.1.x264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:BE8232F35121B6DF8D54F8F516363161829F92C8&dn=Horse.Girl.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2740%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjkxYjU5Y2ItOGE5Yi00ZTg2LTgzNmUtZjI3NTNlOWRhNzllXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Critical Condition (1987)[/COLOR]</title>

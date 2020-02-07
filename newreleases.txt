@@ -95,6 +95,23 @@ sublink:LISTSOURCE:https://turbobit.net/ln5fjtdt7wcd.html::LISTNAME:[COLORgold]H
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - 20,000 Leagues Under the Sea (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3799pkymbuop/%2720_000_leagues_under_the_sea%27_1954_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cvbhwdzx9qrn/20000_leagues_under_the_sea_1954_720p_web-dl_dd5_1_h_264-vigi::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/hdkqyx6e1cop::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/rq9prfx3jtjk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h73o07jztobs::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/8xni7org95yis::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0352d34ba22fad8bb4feff153f900289/20000.Leagues.Under.the.Sea.1954.720p.WEB-DL.DD5.1.H.264-ViGi.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pc8oc5az5sjpzvd3jday::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/jnaq40926uon.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODYxOTMyM2EtNzUzNC00Yjg2LTg3MjYtZTIyNjhiYzc1NTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,659,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>

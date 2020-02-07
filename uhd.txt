@@ -178,7 +178,7 @@ sublink:LISTSOURCE:https://1fichier.com/?g72nla6evcwlnklrnho1::LISTNAME:[COLORgo
 <item>
 <title>[COLORwhite]A Beautiful Day in the Neighborhood (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:magnet:?xt=urn:btih:f46f8ab2345e6bca39e9169bb0113c888d5754d7&dn=A.Beautiful.Day.in.the.Neighborhood.2019.2160p.UHD.BluRay.x265-TERMiNAL&xl=16245648947&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2750/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:44879d9d1ee07a04675d866e309f932d3e698927&dn=A.Beautiful.Day.in.the.Neighborhood.2019.2160p.BluRay.x265.10bit.SDR.DTS-X.7.1-SWTYBLZ&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2790::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTc1OWFmZDYtNDkzMy00ZjM2LTkxZDItM2E3ZTg3NTE1ZWE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>

@@ -2604,6 +2604,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:0b2a85614a3b366a7d4136b5c7e1ff662ca9c53b&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Midway (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:19953cab11e9eb8aa77907cd0d02c8cce85c648f&dn=Midway.2019.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-AAAUHD&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2720::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_SY1000_SX800_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Mike and Dave Need Wedding Dates 4K [/COLOR]</title>

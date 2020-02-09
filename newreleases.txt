@@ -139,7 +139,7 @@ sublink:LISTSOURCE:https://cloudvideo.tv/8aq4ow428xkp::LISTNAME:[COLORgold]HD  L
 sublink:LISTSOURCE:https://vidlox.me/8y1jpvsc12n4::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/rniyekgxtfa8::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://mixdrop.co/f/e0b6svwo00ec::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?2lph4qf81nur1t329z4u::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/4acc1abc016a6a3ea8738c79cbfda73a/Automata.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?2lph4qf81nur1t329z4u::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/mzsb4hly9lmk.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:a7e939488ddfad74e1c039ac3d36eb9651a05d7b&dn=Automata.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
@@ -158,7 +158,7 @@ sublink:LISTSOURCE:https://cloudvideo.tv/jyan34ya6cff::LISTNAME:[COLORgold]HD  L
 sublink:LISTSOURCE:https://vidlox.me/efg9zuibl46c::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/yfzrt0okgpj9::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u58y0p506z::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/6fq0vntobp3u.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/c95fd5cbcc144ee71c2b1a65e0069f26/The.Grotesque.World.of.Jimmy.the.Bean.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?atha7x3r1927tfch15fa::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/6fq0vntobp3u.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:245c8381b820b955a917528931d90f1486d6250c&dn=The.Grotesque.World.of.Jimmy.the.Bean.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#

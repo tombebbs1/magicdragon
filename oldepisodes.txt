@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Interrogation  Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/k7fkou5wmhl7::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cnaqhavm9yx0::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gkdarwiqzlhh::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/in4d3fqncuyr::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8qjx7ivc9nlt::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7kyaqvx9xdxm::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zzrhwgz39qso::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6r0jcpmcy5a4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7gnmz80ym8dj::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mf79er9yzx9i::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWFmMTJmMTUtMjYwOS00YTEyLTgzNzktNWE4Zjg3MzM5Nzc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX686_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Locke & Key Season 1[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/mdu4h58xq3n1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

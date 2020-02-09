@@ -406,7 +406,17 @@ sublink:LISTSOURCE:https://vidoza.net/l1e6vf5of819/the_order_s01e10_finals_2c_pa
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[B][COLORwhite]The Pharmacist  Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/djz2iu2634i2::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/a5ybktk1vfzz::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sa2bkjher6wr::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6sj9t1d5w1nm::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmQ4NDczNTctMGUwNy00ZTJhLWJkYzMtOWRmMWEwZDkwNDBhXkEyXkFqcGdeQXVyNzg1MzQyOTQ@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item> 

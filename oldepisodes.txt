@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Locke & Key Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/mdu4h58xq3n1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/zy72f6p3mk5f::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fup32bhpynms::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/jy30thb9hdzk::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/euq3iofpflq3::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ngnq46kewhbr::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ziq5ors1nd13::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8ssug9de4kzi::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/gwsyueg7xnc8::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4waa4wx2mknk::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjZkNzY4M2ItOWY0Ni00Y2ViLWE1NjItOTIyYzZjMzg5M2E1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Trek: Picard S01E03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k8qwqimzkm9m/star_trek_picard_s01e03_the_end_is_the_beginning_5b1080p_x265_10bit_fs87_joy_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

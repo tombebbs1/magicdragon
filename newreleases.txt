@@ -131,6 +131,23 @@ sublink:LISTSOURCE:https://turbobit.net/jnaq40926uon.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Matching Hearts (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qe80q6cr6cu3/preview_matching_hearts_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p6wzql0fsjuo/matching_hearts_2020_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/574fgsanwa40::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7et48r8q4kqk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g8997aonla8g::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/e0b6svwo00ec::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vd68tzbe8iaivu0tn6rh::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vd68tzbe8iaivu0tn6rh::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/q1nycmrvus81.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjg2NDZlODUtMjM0Yy00ZGQ3LTlkMTEtY2YxNWQ3NDI4OGU5XkEyXkFqcGdeQXVyMjgzMzAzMjE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Devil's Machine (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/j4s35scmwqbo/automata__official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

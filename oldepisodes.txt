@@ -1,4 +1,17 @@
 <item>
+<title>[B][COLORwhite]Ted Bundy: Falling for a Killer  Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/dh2xc7wvii27::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/me3xccmcat0d::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h17cpg0m0tlr::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/69m578l8aa8s::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qtzx52guv6ju::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzE3YzNjMTMtYmEzNC00ZTNkLTkwMWEtNjRhNzk2ZjUxMmMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The Pharmacist  Season 1[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/djz2iu2634i2::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

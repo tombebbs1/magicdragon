@@ -35,6 +35,30 @@
 </item>
 
 <item>
+<title>[COLORwhite]Gaming in Color (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rcs2r269tele/gaming_in_color_2015_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/kr15iuqvich2::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/19nwtwzrcbza::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xyph6nw2m8osa46tjpmo::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM3OTE4MTY1Ml5BMl5BanBnXkFtZTgwNDA1OTExMjE@._V1_SY1000_CR0,0,722,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The UFO Conclusion (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gmdcys3ax54k/the_ufo_conclusion_2016_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/b8x2igdm488v::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8micqpefvah9::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?i46p9aslj7qhhyqmulaz::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTNmYTY1MTktOTA3NS00MWMzLWE3MmItM2FjZTVkM2FiYzUzXkEyXkFqcGdeQXVyMTYxNTQ2NzQ@._V1_SY1000_CR0,0,782,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Oscars (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5nnmt5jokybi/the_92nd_annual_academy_awards_2020_hdtv_x264-linkle_5bettv_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

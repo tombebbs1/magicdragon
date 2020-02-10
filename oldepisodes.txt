@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Oscars (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5nnmt5jokybi/the_92nd_annual_academy_awards_2020_hdtv_x264-linkle_5bettv_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/0salbtd08c1j::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0gacjvo5d6nv::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ebv8qwt8ydsa26sbw110::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ0M2Q4YmQtNTRkNS00ZjFkLWI4ZWMtZjc2Njg3MzEwZGY4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Ted Bundy: Falling for a Killer  Season 1[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/dh2xc7wvii27::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

@@ -215,6 +215,15 @@ sublink:LISTSOURCE:https://1fichier.com/?dnzv4kkx9jxipntpniji::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:ff3dffe83c70f1737630705abf193efd4da2bebc&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.2160p.UHD.BluRay.X265-IAMABLE&xl=13603553605&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2750/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTdjZjBkMDMtODBlNi00N2E0LWE1OGItOTgxODNmMDkzNGJmXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Simple Favor (2018) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/0lop20ftgeew::LISTNAME:[COLORgold]4K  LINK 1::#
@@ -2721,6 +2730,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4214E7581EF8B6C78EBA4208C773E898A5BA0803&
 </item>
 
 <item>
+<title>[COLORwhite]National Treasure: Book of Secrets (2007)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:7436b62bff8a41173b9186d4f2fd8564fb31122c&dn=National.Treasure.Book.of.Secrets.2007.HDR.2160p.WEB.H265-PETRiFiED&xl=16115470041&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2780/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2NTM3NjU1N15BMl5BanBnXkFtZTcwODg1MDU1MQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Night School (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5951c7fd13298206fc7560db33dad56baaa8133c&dn=Night+School+Extended+%282018%29+x+1600+%282160p%29+HDR+5.1+x265+10bit+Phun+Psyz.mkv&xl=4294912174&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fthetracker.org:80/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=http%3A%2F%2Fexplodie.org:6969/announce&tr=http%3A%2F%2Fopen.acgtracker.com:1096/announce&tr=udp%3A%2F%2F182.176.139.129:6969/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -3123,6 +3142,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8d53732b4beafed3f42ab94f254bc609fd001d3f&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTY0OGIxNDMtNzIwZi00NTFmLThhYzUtYzUzYzc5ZjYwMThjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Remember the Titans (2000)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:dbffc7e57ac8ac2389021c33db3ca6b3794716cc&dn=Remember.the.Titans.2000.HDR.2160p.WEB.H265-PETRiFiED&xl=14280024409&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2790/announce&tr=udp%3A%2F%2F9.rarbg.to:2760/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYThkMzgxNjEtMzFiOC00MTI0LWI5MDItNDVmYjA4NzY5MDQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX680_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Replicas (2018)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>

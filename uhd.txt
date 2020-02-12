@@ -4662,6 +4662,25 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:60bab8e532014b81da66946fb3f123872a2b9aa4&
 </item>
 
 <item>
+<title>[COLORwhite]The Santa Clause 2 (2002)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:11f0e3f476fbe2dbff047f2ddd33340240ced293&dn=The.Santa.Clause.2.2002.HDR.2160p.WEB.H265-PETRiFiED&xl=12765972378&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2790/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjU0Njk5MTA2Nl5BMl5BanBnXkFtZTYwODkzMzQ3._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Santa Clause 3: The Escape Clause (2006)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:19c4f393c51ebe8417b40264064936ea6f90a1ef&dn=The.Santa.Clause.3.The.Escape.Clause.2006.HDR.2160p.WEB.H265-PETRiFiED&xl=11665752463&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2790/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTI4ODQ4MzgzMl5BMl5BanBnXkFtZTcwODc5NTUzMQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Secret Life Of Pets 4K [/COLOR]</title>
 <link>http://uptobox.com/7gdkke9g0yx3</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_.jpg</thumbnail>

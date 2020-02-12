@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Uppity: The Willy T. Ribbs Story (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/x3bp4yvblkc8/uppity_the_willy_t_ribbs_story_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/4dz5mmwjwihi::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/67w7f79otixr::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?l7zqrnjgt418fuw7pun3::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDM5Mzk1NmEtZmFmNS00MjA4LThiYzItYjk0MzhlMDQwZTUzXkEyXkFqcGdeQXVyMjg1NjIxODQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jack White: Kneeling at the Anthem D.C. (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ff3w8w0x4knk/jack_white_kneeling_at_the_anthem_d_c_2018_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -27,11 +27,28 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Abominable (2019)[COLORred]3D Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:3277d6103ac121b899af53a8681320450e2a609d&dn=Abominable+%282019%29+%5BBluRay%5D+%5B3D%5D+%5BHSBS%5D+%5BYTS.LT%5D&xl=1635116581&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Abraham Lincoln Vampire Hunter 3D 2012[/COLOR]</title>
 <link>http://uptobox.com/9cls9m3tjp2t</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Aladdin (2019)[COLORred]3D Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:2134eeede0db0887c69bdd680a81d640af5c8a04&dn=Aladdin+%282019%29-3D-HSBS-1080p-H264-AC+3+%28DolbyD-5.1%29+%ED%A0%BD%ED%B8%8E+nickarad&xl=3499530823&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -417,6 +434,16 @@ sublink:LISTSOURCE:https://1fichier.com/?247fhebiue::LISTNAME:[COLORgold]HD  LIN
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Fast & Furious Presents: Hobbs & Shaw (2019)[COLORred]3D Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:7ffa93641e1366f9498a1e54146f5cab8870ba65&dn=Fast+%26+Furious+3D+%282019%29-alE13&xl=17511152912&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz:1337/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.zum.bi:6969/announce&tr=udp%3A%2F%2Ftracker.iamhansen.xyz:2000/announce&tr=udp%3A%2F%2Ftracker.birkenwald.de:6969/announce&tr=http%3A%2F%2Ftracker.devil-torrents.pl/announce&tr=http%3A%2F%2Ftracker.torrentyorg.pl/announce&tr=udp%3A%2F%2Fchihaya.toss.li:9696/announce&tr=udp%3A%2F%2Fvalakas.rollo.dnsabr.com:2710/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Fipv6.tracker.zerobytes.xyz:16661/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Final Destination 5 3D 2014[/COLOR]</title>
@@ -821,6 +848,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4a1d291573a50065fde852af1db873da5acabe71&
 <title>[COLORwhite]Mad Max Fury Road 3D 2015[/COLOR]</title>
 <link>http://uptobox.com/5bsielx8igno</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Maleficent: Mistress of Evil (2019)[COLORred]3D Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:102885c53be66123b5ffeff15c27b9a3d1bf07b9&dn=Maleficent.Mistress.of.Evil.2019.1080p.3D.BluRay.AVC.DTS-HD.MA.7.1-SharpHD&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2720::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

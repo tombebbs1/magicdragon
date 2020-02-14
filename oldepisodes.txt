@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Star Trek: Picard S01E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/g97svujn23ue/star_trek_picard_s01e04_absolute_candor_1080p_amzn_web-dl_x265_10bit_eac3_6_0-qman_5butr_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/vcyimnwvm4tg::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1bl3748aham9::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kziw0vz8ygyy0odmn0ii::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX704_CR0,0,704,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Oscars (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5nnmt5jokybi/the_92nd_annual_academy_awards_2020_hdtv_x264-linkle_5bettv_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -1432,6 +1432,15 @@ sublink:LISTSOURCE:https://1fichier.com/?l2xa1pwa956ozuf8v93s::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Frozen II (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:79cc4560cf83408490f99ae79c98336eeaeda163&dn=Frozen.II.2019.2160p.UHD.BluRay.x265-TERMiNAL&xl=11941824849&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2790/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fury 4K [/COLOR]</title>
 <link>http://uptobox.com/ud7tdl43s3sf</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
@@ -2274,6 +2283,15 @@ sublink:LISTSOURCE:http://uptobox.com/ppct5dmzvtau::LISTNAME:[COLORgold]HD  LINK
 sublink:LISTSOURCE:https://1fichier.com/?c3varcvqpn::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite][COLORwhite]Knives Out (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:1fdda5911c47757f678f70f78ea1718c59775cd7&dn=Knives.Out.2019.2160p.UHD.BluRay.x265-TERMiNAL&xl=36188366203&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2770/announce&tr=udp%3A%2F%2F9.rarbg.to:2760/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -4859,6 +4877,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:f5ea52fb7bd443c3c2251e173d562be55a10ccf4&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite][COLORwhite]To All the Boys: P.S. I Still Love You (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:14ad9456ed8f4a15e12c3e0c8b9b0bb861807140&dn=To.All.the.Boys.P.S.I.Still.Love.You.2020.2160p.NF.WEBRip.DDP5.1.x264-AJP69&xl=23244961064&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2790/announce&tr=udp%3A%2F%2F9.rarbg.to:2750/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGUyMjljNWUtY2FjNC00YjI3LTk0NWQtZjg4NDk1M2ZmN2YwXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Togo (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>

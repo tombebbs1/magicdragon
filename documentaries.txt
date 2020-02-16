@@ -35,6 +35,30 @@
 </item>
 
 <item>
+<title>[COLORwhite]American Dharma (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5ywg0uzjirym/american_dharma_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/jbjl4atp55y2::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/v1h6007j5tvg::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?97ya81z3hbhqfsfxdens::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmM5Njg3NWQtNTI0Yi00MDRkLWEwODEtMDRlMzViMTJmZDU3XkEyXkFqcGdeQXVyNDA3MDgzOTQ@._V1_SY1000_CR0,0,694,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cleanin' Up the Town: Remembering Ghostbusters (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pce4p71xkzys/cleanin_up_the_town_remembering_ghostbusters_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/ugkfybomgd75::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/trrpd29ex3we::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?osyox0ld28uz9brrxtwl::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVkYjRhMjctNzFkYy00MDVjLWI2NjYtZDRjNTI0MGI0M2UxXkEyXkFqcGdeQXVyMjMzMjEzMTk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Not for Resale (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dwnvcloj6vzm/not_for_resale_a_video_game_store_documentary_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

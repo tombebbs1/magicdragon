@@ -105,7 +105,7 @@ sublink:LISTSOURCE:https://turbobit.net/1z96adjbfz3u.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Paths of Glory (1957)[/COLOR]</title>
+<title>[COLORwhite]Paths of Glory (1957)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bdgi5fh290zu/paths_of_glory_1957_trailer_the_criterion_collection::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/he127n62cp9q/paths_of_glory_1957_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#

@@ -62,7 +62,33 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Spartacus (1960)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Paycheck (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ojeiepheeahx/paycheck_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y8ff4kz6wq2i/paycheck_2003_720p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/owi47d8hltd5::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7yg1mn22l::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kszlqwg1jk7h::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/56deyudw-nxrg6z::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/50e6caf1c6b41347761cfa5b3d560fdc/Paycheck.2003.720p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xb7i2xhny1450mn6s4n5::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xb7i2xhny1450mn6s4n5::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTczMzU5NDk4MV5BMl5BanBnXkFtZTYwNDQxNzc3._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[B][I][COLORred]THIS YEARS SCREENERS[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
+<thumbnail>https://whereyouwatch.com/wp-content/uploads/2019/09/Oscar-DVD-screeners-2020.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spartacus (1960)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xkdngr48kybl/spartacus_official_trailer_1_kirk_douglas%2C_laurence_olivierie_1960_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/taunhwzzgcp6/spartacus_1960_1080p_bluray_x264-_5byts_ag_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -79,7 +105,7 @@ sublink:LISTSOURCE:https://turbobit.net/1z96adjbfz3u.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Paths of Glory (1957)[/COLOR]</title>
+<title>[COLORwhite][COLORred]Paths of Glory (1957)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bdgi5fh290zu/paths_of_glory_1957_trailer_the_criterion_collection::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/he127n62cp9q/paths_of_glory_1957_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -96,7 +122,7 @@ sublink:LISTSOURCE:https://turbobit.net/ln5fjtdt7wcd.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - 20,000 Leagues Under the Sea (1954)[/COLOR]</title>
+<title>[COLORwhite]20,000 Leagues Under the Sea (1954)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3799pkymbuop/%2720_000_leagues_under_the_sea%27_1954_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/cvbhwdzx9qrn/20000_leagues_under_the_sea_1954_720p_web-dl_dd5_1_h_264-vigi::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -109,24 +135,6 @@ sublink:LISTSOURCE:https://1fichier.com/?pc8oc5az5sjpzvd3jday::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://turbobit.net/jnaq40926uon.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODYxOTMyM2EtNzUzNC00Yjg2LTg3MjYtZTIyNjhiYzc1NTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,659,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[B][I][COLORred]THIS YEARS SCREENERS[/B][/I][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/screeners.txt</externallink>
-<thumbnail>https://whereyouwatch.com/wp-content/uploads/2019/09/Oscar-DVD-screeners-2020.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

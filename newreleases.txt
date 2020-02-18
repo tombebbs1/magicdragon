@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://1fichier.com/?xb7i2xhny1450mn6s4n5::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Gerry (2002)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4jh6nehuu2xa/gerry_2002_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ig0f1v4qxb1h/gerry_2002_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/7mdn4zrziqip::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/qz531b6fotnl::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/kavk11byk3xz::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/nhgg538uj::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/cb6c8d5d859fd4c7749eb080420b8457/Gerry.2002.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lm7tz1kw4xz76s0fa0cj::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/0kj53sysyjlw.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTg5ZDRlZjItODNmMy00MDI0LWIwOGYtZjA1ODEyN2U1ZTkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]You Can't Take My Daughter (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMDk4OTU0ZjctMjhhYS00YmVlLThlMDAtMjU4YzhlN2IyYzI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,667,1000_AL_.jpg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

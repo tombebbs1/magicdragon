@@ -88,23 +88,6 @@ sublink:LISTSOURCE:https://1fichier.com/?xb7i2xhny1450mn6s4n5::LISTNAME:[COLORgo
 </item>
 
 <item>
-<title>[COLORwhite]Test[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMDk4OTU0ZjctMjhhYS00YmVlLThlMDAtMjU4YzhlN2IyYzI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,667,1000_AL_.jpg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://jetload.net/p/dLrWKGzrB0x7::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/cidzzh8a0uqu::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/bwv7zl3vmp7q::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://mystream.to/watch/z8wlkx9shcc4::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://megaup.net/1uZlz/The.Dawn.2019.1080p.WEBRip.mp4::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/4552b8eaafb3edc26f635ec10d6b2932/You.Cant.Take.My.Daughter.2020.HDTV.x264-TTL.mp4.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?udjp4yghxzdr427k0h73::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/gxy4k1kcxm9p.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]You Can't Take My Daughter (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMDk4OTU0ZjctMjhhYS00YmVlLThlMDAtMjU4YzhlN2IyYzI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,667,1000_AL_.jpg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

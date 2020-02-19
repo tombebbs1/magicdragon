@@ -943,6 +943,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:F085F7D85119D13C8C7C310DA8865AEB9C013474&
 </item>
 
 <item>
+<title>[COLORwhite]Color Out of Space (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:cc8eb4d8cdea6f8de32f8f5e45915ea7260dc069&dn=Color.Out.of.Space.2019.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.5.1-TERMiNAL&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Crazy Rich Asians (2018) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/bufrnsmd2spe::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

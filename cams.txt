@@ -1,4 +1,17 @@
 <item>
+<title>[COLORwhite]Sonic the Hedgehog (2020) HDTS UPDATED 19/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/02fwarjqi4nj/sonic_the_hedgehog_2020_new_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9ljx189nenuh/www_seehd_pl_sonic_the_hedgehog_2020_720p_new_hd-ts-c1nem4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/s9gjd5od9tpw::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/92m5xmw0e2xm::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tqs5bvy9t4v80hbs18x5::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDc1ZTlmOWUtNDY2YS00OGU5LTg2MTYtYTk2MmQzMGE2NzUwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]First Lady (2020) HDCAM UPDATED 18/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -77,18 +90,7 @@ sublink:LISTSOURCE:https://1fichier.com/?he0eofd3jd7jagci8jv8::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Sonic the Hedgehog (2020) HDCAM UPDATED 13/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/02fwarjqi4nj/sonic_the_hedgehog_2020_new_official_trailer_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/hh60myqye7vy/wwwcr_to_sonic_the_hedgehog_2020_english_hdcam-rip_x264_aac_850mb_-cr::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/vwus191ojamv::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/fe81sic2ga95::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?y9jpblopjh7jr5o599gy::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDc1ZTlmOWUtNDY2YS00OGU5LTg2MTYtYTk2MmQzMGE2NzUwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Rhythm Section (2020) HDCAM UPDATED 10/02[/COLOR]</title>

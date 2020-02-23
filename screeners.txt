@@ -15,10 +15,6 @@ sublink:LISTSOURCE:https://turbobit.net/unegelk8bz5e.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[COLORwhite]A Hidden Life (2019)[/COLOR]</title>
 <link>
@@ -113,19 +109,4 @@ sublink:LISTSOURCE:https://turbobit.net/9kjqk5l9npit.html::LISTNAME:[COLORwhite]
 
 
 
-<item>
-<title>[COLORwhite]Portrait of a Lady on Fire (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/h687t0243ec6/portrait_of_a_lady_on_fire_%5Bofficial_trailer%5D_in_theaters_december_6%2C_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1aufgllwgady/portrait_of_a_lady_on_fire_2019_dvdscr_xvid_ac3-evo_5beies_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://onlystream.tv/zxgy4f6oygvr::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/25hyd4rqg88f::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/1egis2hgr1kl::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/bswlsptx::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/80b2198108fd68342de96d3fc518d035/Portrait_of_A_Lady_on_Fire.2019.DVDSCR.XviD.AC3-EVO[EtMovies].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?g6682slnalem2cxrcf0l::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/wiobqnh4plo5.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+

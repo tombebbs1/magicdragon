@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Star Trek: Picard S01E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ol3t4rlg6six/star_trek_picard_s01e05_1080p_web_x264-worl::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/sii1nibgdibe::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cayc233s8rru::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pe5iuhc507is.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX704_CR0,0,704,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fury Vs Wilder[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3uo17nnkyg5o/boxing_2020_02_22_tyson_fury_vs_deontay_wilder_hdtv_x264-verum_5bettv_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

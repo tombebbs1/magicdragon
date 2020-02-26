@@ -3120,6 +3120,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5ac474bc4e4c5d882b4bf7d6ff40593ae510f528&
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Queen & Slim (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:0455ad4a2b79413226cf857cc8a90829c1e52dd2&dn=Queen.and.Slim.2019.2160p.BluRay.x264.8bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2790&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIzYmJkZmEtM2RkZS00MDA4LTg4NjAtOGRkN2EwZmFmMWE4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ralph Breaks the Internet (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5e359dadfc376e622f688ca7bb498a45bd231d28&dn=Ralph.Breaks.the.Internet.2018.UHD.2160p.BluRay.x265.HDR.Atmos.7.1-DTOne&xl=9130539325&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#

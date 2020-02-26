@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORorange]Catch Up TV Requires A VPN In Most Countries[/B][/I][/COLOR]</name>
+<name>[B][I][COLORorange]Catch Up TV Currently Down[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/klD0wtv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
 <fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>

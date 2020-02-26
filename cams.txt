@@ -272,19 +272,6 @@ sublink:LISTSOURCE:https://1fichier.com/?gwtujupzm8nrofiedd1f::LISTNAME:[COLORwh
 </item>
 
 <item>
-<title>[COLORwhite]Ip Man 4: The Finale (2019) HDCAM UPDATED 23/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/8xuze8yo4ne9/ip_man_4_official_trailer_2019_donnie_yen%2C_scott_adkinsie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/oq1lofvjl7kw/ip_man_4_the_finale_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/0sqkjcrz5lym::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ailth46ccd7v::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?nh09app4bcwk4nkux7m2::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BY2FkY2QzOTctNmViZi00YTU5LTk5ZmQtMTJhMzFiOTIyZDc2XkEyXkFqcGdeQXVyNzQ2NTQzMDk@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Star Wars: The Rise of Skywalker (2019) HDTSUPDATED 23/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e0287v9u5s02/star_wars_the_rise_of_skywalker__final_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

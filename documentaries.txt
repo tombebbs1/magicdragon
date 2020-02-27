@@ -35,6 +35,42 @@
 </item>
 
 <item>
+<title>[COLORwhite]Always in Season (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ybe2rdc6aock/always_in_season_2019_pbs_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0ikyxurwhyr9::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ctrjwkjed7zq::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eii5iu9w1lrsl45yw737::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTMxYWNhMzktNzEzMi00MzVhLTliMDctMjQyZGQ2YzQ5ZWJjXkEyXkFqcGdeQXVyMzAzMjEzNjE@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Accept the Call (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pps18sms9i59/accept_the_call_2019_pbs_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/07xtyha3kkt2::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/44ml1ve9wgl6::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dcz7xncow0bhzxhbwkh5::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGRhNjc4ZjEtYmZiYy00Y2IwLThhZTctMjU3Y2M0MzdmNWI4XkEyXkFqcGdeQXVyMjMxNTk2MDg@._V1_SY1000_CR0,0,693,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]We Believe In Dinosaurs (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kua14vwg1xba/we_believe_in_dinosaurs_2019_pbs_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8x0y9eft5ru1::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0amzg2agcxkn::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mdkv9vyqi3xzeope2cjx::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWNiMThlMzgtN2E4Ni00MWJlLTljMWEtMDhjMDNkMjE3MzY1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Dharma (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5ywg0uzjirym/american_dharma_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

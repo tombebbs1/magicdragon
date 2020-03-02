@@ -17,7 +17,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[B][I][COLORwhite]test[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
@@ -38,7 +38,7 @@
 
 
 
-<item>
+item>
 <title>[B][I][COLORpink]24/7 TV Shows[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>

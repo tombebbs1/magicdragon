@@ -98,7 +98,7 @@ sublink:LISTSOURCE:https://uptobox.com/tst3hhzwn7od::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgxg4kd8y8::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/99a7dada1375c35139706f6b43d625dd/All.About.The.Benjamins.2002.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?e4mxac2a3e2o8ah6wrek::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?e4mxac2a3e2o8ah6wrek::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ewblrjffw27y.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjM0MzliMDktZGFlOS00NmQ3LWJhYWItMjBhZmI2OGRlMmMwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

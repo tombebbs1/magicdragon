@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://turbobit.net/zs6cx97ry2dx.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Friday (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/auc5bp8aysx5/friday_1995_official_trailer_ice_cube%2C_chris_tucker_comedy_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/icvgmz4kuwvb/friday__1995__720p_brrip_x264_650mb_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/4h86teun7ngp::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mhl5usnm18hv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xztfqgrn9g25::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/56deyudwd2q5epy::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ed38d6b15b04367f65cdf52600c24b15/Friday_(_1995_)_720p_BrRip_x264_650MB_YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vbwvutcshvbvturrbj4j::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/fbhjaglmblk9.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Hidden Life (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8e8vyjfzwygz/a_hidden_life__official_trailer_%5Bhd%5D__fox_searchlight::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

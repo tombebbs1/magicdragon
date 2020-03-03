@@ -88,6 +88,23 @@ sublink:LISTSOURCE:https://turbobit.net/zs6cx97ry2dx.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Next Friday (2000)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wmju9c8x9494/next_friday_2000_official_trailer_ice_cube%2C_mike_epps_comedyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/mtg5ugd3knm0/next_friday_2000_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/1651hpg2lo8i::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/l7g72nc6bb5w::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/iv2l9vpzeran::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyerae6epwyzmw::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/83c0a54e074826db030f07267fcdceec/Next.Friday.2000.720p.BluRay.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9w2lu3eeogcp1g0n7ua9::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/gazq6zwubo0p.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTg4NTkzMDEtM2MzOS00MDE1LWJmYWItYzdiMGRiNTdmZmFkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,669,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Friday (1995)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/auc5bp8aysx5/friday_1995_official_trailer_ice_cube%2C_chris_tucker_comedy_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -40,22 +40,7 @@ sublink:LISTSOURCE:https://turbobit.net/0dc659qp29l3.html::LISTNAME:[COLORwhite]
 </item>
 
 
-<item>
-<title>[COLORwhite]Little Women (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/9em8ts4e0mc4/little_women_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1kksgxivcuah/little_woman_2019_dvdscr_xvid_ac3_hq_hive-cm8_5bethd_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/sykcjo6rhdea::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/2hutvvgmn2yz::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/l70d71gfopew::LISTNAME:[COLORwhite]SD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhjn5x37q-x::LISTNAME:[COLORwhite]SD  LINK 5 [/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/bbd9254c068e613bcf4ca7f69c9da006/Little.Woman.2019.DVDScr.XVID.AC3.HQ.Hive-CM8[EtHD].avi.html::LISTNAME:[COLORwhite]SD  LINK 6[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?r7xswzu0pgr6kysyscm5::LISTNAME:[COLORwhite]SD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/p82gjstlqd53.html::LISTNAME:[COLORwhite]SD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

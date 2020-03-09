@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Rise of Jordan Peterson (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7ei17ohb2lgd/the_rise_of_jordan_peterson_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/z8a4i9zzg1sm::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mnl91k68k4s8::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/bf7r6vhx2a12.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmYyNmNkN2ItODYxNi00MjA1LThkNDQtNTI3YmVkN2ZkNjM0XkEyXkFqcGdeQXVyNTcyNjgzNzQ@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Million Dollar Piano (2014)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pixjveby2dwk/the_million_dollar_piano_2014_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

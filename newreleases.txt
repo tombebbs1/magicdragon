@@ -62,7 +62,32 @@
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Airport '77 (1977)[/COLOR]</title>
+<title>[COLORwhite][COLORred]FILM OF THE WEEK[/COLOR] - Pulp Fiction (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ttokab1ig279/pulp_fiction_official_trailer_1_1994_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6uiwrvn7dzo7/pulp_fiction_1994_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-mp-0w3q::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/6a8hkif0s62p::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wgkmwv90hweo::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/sw8f7fp5x::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/8fa32d9093a6f12bdb7211209c2de288/Pulp.Fiction.1994.1080p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7uvfonla9twkzwmhldpo::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/2rv05j0a2gqg.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Airport '77 (1977)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/084pa5a3937f/airport_%2777_official_trailer_1_james_stewartie_1977_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/mrrq3npjtxl0/airport_%2777_1977_1080p_bluray_x264_aac-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -76,14 +101,6 @@ sublink:LISTSOURCE:https://turbobit.net/zs6cx97ry2dx.html::LISTNAME:[COLORgold]H
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzM4OWM1N2UtZTRkZi00NjA4LThiOGUtNDA4ZDc2OTI1YjBkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX640_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>

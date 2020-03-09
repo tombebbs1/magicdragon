@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Star Trek: Picard S01E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/owyjorzq2ps8/star_trek_picard_s01e07_nepenthe_1080p_amzn_web-dl_x265_10bit_eac3_6_0-qman_5butr_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/bxye5q7kzrjd::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/0qkjj4mc6pkp::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/iootfrixa725.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX704_CR0,0,704,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Trek: Picard S01E06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5mwv81tp91au/star_trek_picard_s01e06_720p_webrip_x264-xlf_5beztv_5d::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

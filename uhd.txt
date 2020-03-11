@@ -1015,6 +1015,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:85d69638463f4137e6d81eaa574abe04a95860d9&
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Crown Heights (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:4f9af0d27a9763fad5968c235d1470a10f0dcbd2&dn=Crown.Heights.2017.UHD.2160p.HDR.WEB-Rip.DD%2B5.1.HEVC-DDR%5BEtHD%5D&xl=7800206454&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTU1Yjg3NTYtN2MxNC00YTNhLTgwMmQtYzIwYjM5YTJjZDliXkEyXkFqcGdeQXVyNTMyNjkwMw@@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Daddy's Home (2015)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/lkor56ojhqf4::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -1031,6 +1041,15 @@ sublink:LISTSOURCE:http://uptobox.com/thky9zx4w5bh::LISTNAME:[COLORgold]HD  LINK
 sublink:LISTSOURCE:https://1fichier.com/?4pt6rsnja2::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BNDA4Nzc1OTg2OV5BMl5BanBnXkFtZTgwODE3ODgwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite][COLORwhite]Dark Waters (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:890d82045d15bf496384123ec74f5a6d0961dcfc&dn=Dark.Waters.2019.MULTi.2160p.HDR.WEBRip.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D&xl=13319543735&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0M2Y5M2QtZGIwMC00MzJjLThlMzYtNmE3ZTMzZTYzOGEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -2235,6 +2254,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e1908b268c54d9e64a698b1019e7a6d1bf8b08ba&
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Jumanji: The Next Level (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:488033ad422f5daa1d41abfc5f2667f0c94ae822&dn=Jumanji+The+Next+Level+2019.MULTi.UHD.BluRay.2160p.HDR.DTS-X.7.1.HEVC-DDR&xl=21909308188&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jupiter Ascending 4K [/COLOR]</title>
 <link>http://uptobox.com/ypuzvcvwz3vh</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -2971,6 +2999,15 @@ sublink:LISTSOURCE:https://uptobox.com/qnuyg4r4jhea::LISTNAME:[COLORwhite]4K 5.1
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Pass Over (2018)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:42d925210ca1f940219560ffc3971e9135fdbe0a&dn=Pass.Over2018.UHD.2160p.HDR.WEB-Rip.DD%2B5.1.HEVC-DDR%5BEtHD%5D&xl=5736805539&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYwMjg3OTQ1M15BMl5BanBnXkFtZTgwMzI3NzU2NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Patriot Games (1992)[COLORred]4K[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptostream.com/1db16dr364iq::LISTNAME:[COLORgold]4K  LINK 1::#
@@ -3302,6 +3339,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:136dfc9d641e5b094fbd58cdc4544b6a7911294b&
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Rough Night (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:d5606b8edbddd22e82f3f2701f26fed8bb25bddc&dn=Rough.Night.2017.BDRip.2160p.UHD.HDR.Eng.Fre.Spa.TrueHD.DD5.1.ETRG&xl=19687587278&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Fretracker.lanta-net.ru:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODY1NDUzNzY4MV5BMl5BanBnXkFtZTgwNzc3NzcyMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Terminator 2: Judgment Day (1991)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:e32c513d0ec01294b9cd2e28a0ef64a69138b270&dn=Terminator.2.Judgement.Day.1991.Multi.UHD.2160p.Theatrical.Cut.Blu-ray.x265.DTS-HD.MA.5.1-DTOne&xl=19478930098&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce&tr=udp%3A%2F%2Fshadowshq.yi.org:6969/announce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Finferno.demonoid.pw:3391/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.open-internet.nl:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
@@ -3539,6 +3586,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e4d8773df9dc31486e685c4b6516674d8f414869&
 </item>
 
 <item>
+<title>[COLORwhite][COLORwhite]Spies in Disguise (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:216ff3ef98c176d7c4d6661520654c3994f70ef0&dn=Spies+In+Disguise+%282019%29+%5B2160p%5D+%5B4K%5D+%5BBluRay%5D+%5B7.1%5D+%5BYTS.MX%5D&xl=5063914141&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.com:2710/announce&tr=udp%3A%2F%2Fp4p.arenabg.com:1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Spy (2015)4K[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/v4bc2x87z2dg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
@@ -3720,6 +3777,15 @@ sublink:LISTSOURCE:https://rapidgator.net/file/455a9ba16b2dab941d3ae874c6624bc2/
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite][COLORwhite]Superman: Red Son (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:62ba9ceb5dbd478f9d7ca3cdf73cdf8cd9a5a9b1&dn=Superman+Red+Son+2020.UHD.BluRay.2160p.HDR.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D&xl=7718614383&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDAzYTI4MmItYWE3Ni00Y2MwLWE5NDAtZTg4Y2VmMGI3MzIzXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -4648,6 +4714,16 @@ sublink:LISTSOURCE:https://1fichier.com/?szv8k38v4r6awlgpuysx::LISTNAME:[COLORgo
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmNjZDcwNTMtMjQxMy00ZTY5LTg4M2YtYjA5NDliNjNhYzQ3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,663,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite][COLORwhite]The Only Living Boy in New York (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:53b955b84f2ace11a29e36c4eade4e68f638adb3&dn=The.Only.Living.Boy.in.New.York.2017.UHD.2160p.HDR.WEB-Rip.DD+5.1.HEVC-DDR%5BEtHD%5D&xl=7000426722&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 3[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODEzODA5NjU2NF5BMl5BanBnXkFtZTgwODkwNzA5MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]The Package (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>

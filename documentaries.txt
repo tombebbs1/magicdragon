@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bad 25 (2012)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bw6q1f7wecab/bad_25_2012_720p_bluray_h264_aac-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6ph4d23tpl9b::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/10unxdmp4xc0::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/w2jat9ylks6h.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTFjYmEyMzUtMTFmZi00NjllLWFlN2QtZmU0NDBmNGYyMGFhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Women of Troy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4btr43slxfau/women_of_troy_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

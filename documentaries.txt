@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]End the Silence (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2ev0ldw7jcnz/end_the_silence_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/aufqnx9ndl5r::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9hjovyppve6b::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/9j2s6iu43cwd.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzMwZjk4OTQtYzUwMi00NDgwLWJmYmQtYWU2NDQ2NzU5ZDg0XkEyXkFqcGdeQXVyODI3MDM1NTM@._V1_SY1000_CR0,0,711,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Rise of Jordan Peterson (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7ei17ohb2lgd/the_rise_of_jordan_peterson_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

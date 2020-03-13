@@ -1,4 +1,30 @@
 <item>
+<title>[COLORwhite]Bloodshot (2020) HDCAM UPDATED 13/03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xi3gf6jqfv02/bloodshot_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/c7csh9f3dwnd/bloodshot_2020_new_1080p_hd-ts-c1nem4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ud942ia4n1h7::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/edspwg84sed7::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?s91o13qu9tk5ddigxs7x::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_SY1000_SX800_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Hunt (2020) HDCAM UPDATED 13/03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/oomwvakprm4f/the_hunt_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1qsrtwqxr0w2/www_seehd_pl_the_hunt_2020_720p_hdcam-c1nem4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/gis4dqitkckn::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/r4kz682btlq0::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?i3b28bm3bufkub07gnrk::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Trolls World Tour (2020) HDCAM UPDATED 13/03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5wh2ywxkwm73/trolls_world_tour__official_trailer_3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -50,18 +76,7 @@ sublink:LISTSOURCE:https://turbobit.net/cseb6jqet3hr.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Bloodshot (2020) HDCAM UPDATED 06/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/xi3gf6jqfv02/bloodshot_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/tog2m67sn3u0/bloodshot_2020_hdcam_850mb_c1nema_x264-sunscreen::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadk6pm6x1j::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/5w1y9zsud2ru::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/uho2nm3asumk.html::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_SY1000_SX800_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

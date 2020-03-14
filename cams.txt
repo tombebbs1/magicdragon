@@ -326,18 +326,7 @@ sublink:LISTSOURCE:https://1fichier.com/?umaft9cdlawcxjq5ejnm::LISTNAME:[COLORwh
 
 
 
-<item>
-<title>[COLORwhite]Star Wars: The Rise of Skywalker (2019) HDTSUPDATED 23/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/e0287v9u5s02/star_wars_the_rise_of_skywalker__final_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/jqt921psmh6w/star_wars_the_rise_of_skywalker_2019_hdts_xvid-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/1gsia2uz8pd6::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/wfae7sh8n5eb::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?wisr1dnf679xg06j67jz::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Blue Story (2019) HDCAM UPDATED 01/12[/COLOR]</title>

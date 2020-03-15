@@ -87,7 +87,7 @@ sublink:LISTSOURCE:https://turbobit.net/scp07mmsbkv1.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
-<title>[COLORwhite][COLORred]Pulp Fiction (1994)[/COLOR]</title>
+<title>[COLORwhite]Pulp Fiction (1994)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ttokab1ig279/pulp_fiction_official_trailer_1_1994_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/6uiwrvn7dzo7/pulp_fiction_1994_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#

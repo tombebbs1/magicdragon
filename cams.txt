@@ -305,18 +305,7 @@ sublink:LISTSOURCE:https://1fichier.com/?vlhgeb8x2bsp87l05k7l::LISTNAME:[COLORwh
 
 
 
-<item>
-<title>[COLORwhite]Seberg (2019) CAM UPDATED 12/01[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/3ugywc2s5z4p/seberg_trailer_1_2019__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/ipnh4u23bag6/seberg_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/1xuybsf4006x::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/d2gvedkgfadv::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?o146uxm1n06bluboiqug::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjk5MTdhZGQtMDEzMC00NTk3LTg1ZjgtZTNhN2RlYzY3N2U1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

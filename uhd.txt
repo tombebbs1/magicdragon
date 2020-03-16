@@ -3708,6 +3708,17 @@ sublink:LISTSOURCE:https://1fichier.com/?8k505acitk::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]Star Wars: Episode IX - The Rise of Skywalker (2019)[COLORred]4K[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/b7ojgdc96h66::LISTNAME:[COLORgold]4K  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/07f72b825dcd5f26594b1feb55f4c476/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.2160p.HDR.WEB-Rip.Atmos.5.1.HEVC-DDR[EtHD].mkv.html::LISTNAME:[COLORgold]4K  LINK 2[COLORred] Real Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/i4jc0g2s5f8e.html::LISTNAME:[COLORgold]4K  LINK 3[COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Wars Rogue One 2016 4K [/COLOR]</title>
 <link>
 /sdf37o9o1nn5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST 4K [/COLOR]::#

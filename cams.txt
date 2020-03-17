@@ -260,18 +260,7 @@ sublink:LISTSOURCE:https://1fichier.com/?nbhpm6h22e8v67achz29::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Clemency (2019) CAM UPDATED 04/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/4qa9pros1l08/clemency_%5Bofficial_trailer%5D_in_theaters_december_27%2C_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/z3hv27onodrr/clemency_2019_hdcam_x264_ac3-etrg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/kgyzna3j0m3edq2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/a3ta31cle3ny::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?nmfoenjzissw7j8vtgqf::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOGM2ZDE4NjMtYjY5MC00MDcwLTllZDYtN2YyNDgxOWE5MjI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Gretel & Hansel (2020) CAM UPDATED 02/02[/COLOR]</title>

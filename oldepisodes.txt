@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Star Trek: Picard S01E09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pe9zg7ctxg7w/star_trek_picard_s01e09_internal_1080p_web_h264-amrap::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/5pt9wnufi24k::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g3ar8ygfrzi2::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/d5ps043dwc68.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX704_CR0,0,704,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Trek: Picard S01E08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2f3uu02a5roj/star_trek_picard_s01e08_broken_pieces_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

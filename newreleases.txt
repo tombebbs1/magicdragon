@@ -86,6 +86,26 @@ sublink:LISTSOURCE:https://turbobit.net/scp07mmsbkv1.html::LISTNAME:[COLORgold]H
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Altered Carbon: Resleeved (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pqo95i4omqf9/altered_carbon_resleeved__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q322lp1fozfx/altered_carbon_resleeved_2020_1080p_nf_web-dl_ddp5_1_x264-ntg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7t9hq6a1hht::LISTNAME:[COLORgold]HD  LINK 2 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wm73ch8mew1b::LISTNAME:[COLORgold]HD  LINK 3 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/rffof1fnvnmq::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-rd8ep14::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/89a3c552d619d2f37e069c74ac055472/Altered.Carbon.Resleeved.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yww5053036e1xkc9a081::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/bqkmu3ov60lh.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMzQ4OTA4YjYtMjQ5My00ZGEzLTkyOGYtNzk4NjZlYTc5MTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://m.media-amazon.com/images/M/MV5BMzQ4OTA4YjYtMjQ5My00ZGEzLTkyOGYtNzk4NjZlYTc5MTBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTJlOGYzYTMtMjJjYi00YTcxLTgwOGMtYmY0YzJlZjM0NWQxXkEyXkFqcGdeQXVyMTAyNDYyNzcw._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Brahms: The Boy II (2020)[/COLOR]</title>
 <link>

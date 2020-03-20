@@ -37,18 +37,7 @@ sublink:LISTSOURCE:https://1fichier.com/?s91o13qu9tk5ddigxs7x::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Hunt (2020) HDCAM UPDATED 13/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/oomwvakprm4f/the_hunt_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1qsrtwqxr0w2/www_seehd_pl_the_hunt_2020_720p_hdcam-c1nem4::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/gis4dqitkckn::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/r4kz682btlq0::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?i3b28bm3bufkub07gnrk::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Trolls World Tour (2020) HDCAM UPDATED 13/03[/COLOR]</title>
@@ -63,18 +52,7 @@ sublink:LISTSOURCE:https://turbobit.net/o52bzo46uvdt.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Invisible Man (2020) HDCAM UPDATED 11/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/dj3sv5eyhiz3/the_invisible_man_trailer_2020_elisabeth_mossie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/tjgilx17mu9m/wwwcr_to__-the_invisible_man_2020_english_720p_hdcamrip__ads_free_x264_950mb_5cr_5d::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/dfpqxjfnq3du::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/haces85z9b8y::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/bnawmhk2f8hx.html::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Onward (2020) HDTS UPDATED 09/03[/COLOR]</title>
@@ -178,18 +156,7 @@ sublink:LISTSOURCE:https://turbobit.net/ko2djkw7zdnb.html::LISTNAME:[COLORwhite]
 </item>
 
 
-<item>
-<title>[COLORwhite]Emma. (2020) HDCAM UPDATED 16/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/cr4jo3g6olkv/emma_trailer__2_2020_anya_taylor-joy%2C_jane_austen_comedyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/0xjqr6zhmfu1/emma_2020_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/0udulm0ygy47::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9t0qc8wb9axj::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/8hhhynka017f.html::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOGRiODEzM2QtOTUyYi00MWRlLTg4MzMtZGI0YmUzNWUyMjQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Fantasy Island (2020) HDCAM UPDATED 15/02[/COLOR]</title>

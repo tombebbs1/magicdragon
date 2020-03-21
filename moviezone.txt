@@ -42,7 +42,7 @@
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
-item>
+<item>
 <title>[B][COLORwhite]24/7 Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>

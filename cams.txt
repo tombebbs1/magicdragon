@@ -54,18 +54,7 @@ sublink:LISTSOURCE:https://turbobit.net/o52bzo46uvdt.html::LISTNAME:[COLORwhite]
 
 
 
-<item>
-<title>[COLORwhite]Onward (2020) HDTS UPDATED 09/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/gi0ejhvvenot/onward__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/oerjqx5mmk8y/onward_2020_hdts_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/4wudcf0mf::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/7hjfxrgp29fp::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/lvwfi6p1pcdb.html::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Way Back (2020) HDCAM UPDATED 08/03[/COLOR]</title>

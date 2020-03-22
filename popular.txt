@@ -193,6 +193,23 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:AD4C27D2AD1BADA73C408E84666A875A91A3385B&
 </item>
 
 <item>
+<title>[COLORwhite]Contagion (2011)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ncm1rqazwc5z/contagion_2011_official_exclusive_1080p_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0zk4y3j75w6u/contagion_2011_1080p_bluray_x264_aac5_1-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4andjwdk8y5::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/n094mciwupwe::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/nkc7i9hurkdu::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/aczsspsw2ya::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a5e962c1d308696bfc77570ec5a95d69/Contagion.2011.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xxr6j8gdi0k9vkuo6o65::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/vnpuvp2w4mk7.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jumanji: The Next Level (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5b907bqf4vx9/jumanji_the_next_level_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

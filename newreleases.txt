@@ -87,6 +87,23 @@ sublink:LISTSOURCE:https://turbobit.net/5rf3g43aaofp.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Outbreak (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jno7c3ke7iov/outbreak_1995_official_trailer_dustin_hoffman%2C_morgan_freeman_sci-fiie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cngc8h5la7oo/outbreak_1995_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzj6y5ld4k::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/f8qy5fk17y6g::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ls9voynuv2di::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/87c89wy7s::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5c127b8ac1942ee2d82fe5aa6977a582/Outbreak.1995.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?a2k98dtb3txy8hm7nrp8::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/kovth2aly0b3.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTg1Mzk1NjAtNGFlOS00NzdlLWI0NTgtYzlmNTUzZGQ0NjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Contagion (2011)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ncm1rqazwc5z/contagion_2011_official_exclusive_1080p_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

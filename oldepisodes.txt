@@ -1,4 +1,16 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE10 E13[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4g04rc1yv020/the_walking_dead_s10e13_1080p_web_h264-xlf::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ml8nfnyfjdai::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4phpyzh9h0kj::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/6kc35nob91em.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Trek: Picard S01E09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pe9zg7ctxg7w/star_trek_picard_s01e09_internal_1080p_web_h264-amrap::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

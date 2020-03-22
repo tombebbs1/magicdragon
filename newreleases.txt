@@ -87,6 +87,23 @@ sublink:LISTSOURCE:https://turbobit.net/5rf3g43aaofp.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]World War Z (2013) Unrated[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rg98gb1wt11r/world_war_z_official_trailer_1_2013_brad_pittie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dwfbs3qzvl8d/world_war_z_2013_unrated_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-gglq3dm::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4mzoayo8r036::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/yrfho4iikvhm::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/6wmhukm8wyr::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7d6cc47b96388d50b3f21b49064a99ef/World.War.Z.2013.UNRATED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?y1bqzhiwg366yk3ua9uq::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/qpygyce58y7k.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX650_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Platoon (1986)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/o6pzih5xv97w/platoon_trailer_%5Bhd%5D_updated_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

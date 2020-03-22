@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLORwhite]The English Game  Season 1 RD Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?jkux66ui0sg0cvo04t2r::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kyoimzbg9yie3jfg6mq3::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?t7lz2j4oigyirtc7capv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fok1mwijs88eq9igrre4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?42k9q7eoqh8gxuqdpp52::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5urb1iqzzswqxc69jg9o::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGQzOGJmNTEtNDA3ZS00Yjk1LWJlMmItYzZhOTY3MWM3MjQ1XkEyXkFqcGdeQXVyODQyNDI4ODg@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]The English Game  Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://uptobox.com/go6gqb8rstes::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mrul8vj10qnv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/256rorxpoc1a::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/tmb566yx6f96::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/iphic5rb9cef::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pch9h5kjkgic::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGQzOGJmNTEtNDA3ZS00Yjk1LWJlMmItYzZhOTY3MWM3MjQ1XkEyXkFqcGdeQXVyODQyNDI4ODg@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Walking Dead SE10 E13[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4g04rc1yv020/the_walking_dead_s10e13_1080p_web_h264-xlf::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

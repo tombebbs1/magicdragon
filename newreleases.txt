@@ -87,6 +87,23 @@ sublink:LISTSOURCE:https://turbobit.net/5rf3g43aaofp.html::LISTNAME:[COLORgold]H
 </item>
 
 <item>
+<title>[COLORwhite]Virus (1999)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mymyf3hvrlg8/virus_1999_theatrical_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/j4w0vyx2eo8s/virus_1999_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8rxl1-7px::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sae7adv3emqt::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/em6sehzvgasj::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0ifa1ttfa5s::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/2d7d38cc27b40f789ab46bdd791d7dc9/Virus.1999.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ta6y0fbjgtfpzfkok0ai::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/0rk0muj1ev2w.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGRiMmNmZGMtOGMwZi00MjMwLTkzZTQtNDViODE2ZmFiZWUzXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX680_CR0,0,680,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Outbreak (1995)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jno7c3ke7iov/outbreak_1995_official_trailer_dustin_hoffman%2C_morgan_freeman_sci-fiie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

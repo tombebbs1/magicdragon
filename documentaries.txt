@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Long Live the King (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/24eovgb4cp6l/long_live_the_king_2016_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/yua74haulorg::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cv0o8y1l0bw8::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pbne58dq1de5.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTBhZjE3YmUtMzU0Mi00M2YzLTk0ZmMtYTkzZWYyZWRhOTczL2ltYWdlXkEyXkFqcGdeQXVyMDI3MzM2NQ@@._V1_SY1000_CR0,0,649,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Word is Bond (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2ryqacbdwmxu/word_is_bond_2018_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

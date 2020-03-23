@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]City of Two Springs (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6uat42zez2mv/city_of_two_springs_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cs9qjmkh0i5p::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/bf7cbh2y1zkx::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/fvzlfbtym6al.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTZiZTYwZDUtZDQ3Ni00YmIyLTljNzMtOGFmODU5Yzg0ZmExXkEyXkFqcGdeQXVyMjE4MzQ2OTQ@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rubber Jellyfish (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/nzblihkllq50/rubber_jellyfish_2018_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

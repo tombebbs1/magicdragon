@@ -99,6 +99,23 @@ sublink:LISTSOURCE:https://powvideo.net/5zgyftw3ytm8::LISTNAME:[COLORwhite]HD  L
 </item>
 
 <item>
+<title>[COLORwhite]Salem's Lot (1979) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/d8geolgp3azl/salem%27s_lot__1979__trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kbnwpyfq96n5/salems_lot_remastered_horror_1979_eng_ita_multi-subs_720p_5bh264_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/8dx2bflmq876t::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/16jxspl2lhko::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sve8mctlhm8u::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadke0lnppr::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/fb1ffe91f953bef9d12f9d16f6e9e548/Salems_Lot_-_Remastered_Horror_1979_Eng_Ita_Multi-Subs_720p_[H264-mp4].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nzfd8o1pei2pp0lr3n7x::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/4ti4hf8zl687.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzc0MDIwZjktYTEzNC00ZWQxLTk5MWYtYjBmMDI3YTg4ZjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dolittle (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0flzr7xz2e99/dolittle_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

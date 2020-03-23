@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rip Up the Road (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rz9ielwnvi0s/rip_up_the_road_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4zah3ab3i4zw::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4xmu7t9uqwfy::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/s6l6sg9btzo2.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGYyODQzMDUtZTMzYS00ZmExLWE4N2ItNDIyNDdhNGVjY2Y5XkEyXkFqcGdeQXVyNzU3NjcyMTA@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]City of Two Springs (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6uat42zez2mv/city_of_two_springs_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

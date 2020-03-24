@@ -99,6 +99,23 @@ sublink:LISTSOURCE:https://powvideo.net/5zgyftw3ytm8::LISTNAME:[COLORwhite]HD  L
 </item>
 
 <item>
+<title>[COLORwhite]The Paleface (1948)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pckygtg86pc1/bob_hope_in_%27the_paleface%27_vintageie_trailer_1948_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/u8263p9dit6z/the_paleface_1948__comedy_western__1080p_x264-classics_1_::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/egbab3ruru9::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wy4ayhshqrp7::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/irfyjpl9tj89::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5rwrxqe78::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/67b560c3fd508f4c5dccb720c7381351/The.Paleface.1948.(Comedy.Western).1080p.x264-Classics_(1).mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yxcosqezx61zcccccjvg::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/11v8b9j7whq9.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGZhMGEwZjYtNjJlNC00YjY0LTg2YjQtNGU4MmM1OTNjYmMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ1MTUzODc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hunter's Moon (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/t884y5xj4vbm/hunter%27s_moon_2020_exclusive_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -99,6 +99,25 @@ sublink:LISTSOURCE:https://turbobit.net/xkywx45dljgb.html::LISTNAME:[COLORwhite]
 </item>
 
 <item>
+<title>[COLORwhite]28 Weeks Later (2007)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lp7aw4r2mnvi/28_weeks_later_2007_trailer_1080p_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/t1uqoa8u1pyf/28_weeks_later_2007_720p_brrip_264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/jblp1r7tongsu::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mipkolfqiodw::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/oml4xnjr1h6f::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5835xq013::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/lgg86f3tmzl9::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/xm9sds97dicj::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0c6f940849f2e151de0833015278e80d/28.Weeks.Later.2007.720p.BrRip.264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?o0oszluwfyhvz68tckz9::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/0y8gypq7t0gm.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5NjE2NDI0OF5BMl5BanBnXkFtZTgwNzU0NzQyMTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]28 Days Later... (2002)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/z7r1vvtvqwf8/28_days_later_2002_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

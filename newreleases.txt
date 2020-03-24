@@ -99,6 +99,25 @@ sublink:LISTSOURCE:https://powvideo.net/5zgyftw3ytm8::LISTNAME:[COLORwhite]HD  L
 </item>
 
 <item>
+<title>[COLORwhite]Hunter's Moon (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/t884y5xj4vbm/hunter%27s_moon_2020_exclusive_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7fiwh423wec0/the_orchard_2020_720p_amzn_web-dl_ddp5_1_h_264-ntg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/95x2b985ahe8r::LISTNAME:[COLORgold]HD  LINK 2 (ONLYSTREAM)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/95x2b985ahe8r::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g9n7p7p3v620::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/d5kpqfxj5wx8w23::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/998e3c16c830bdd14faf698d8126476c/The.Orchard.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1cmgbaf3t4qznaf0x2vn::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/mnesg1nly3e9.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:61ae286a1cbf65b0280249fedc0e4246ddd4cf04&dn=The.Orchard.2020.720p.AMZN.WEBRip.DDP5.1.x264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2960::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:75f296c9bd20a9e471ad2cae3d5a6a533dc751fd&dn=The.Orchard.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2910&tr=udp%3A%2F%2F9.rarbg.to%3A2790::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTgyZTcyOTktYzA0OS00MDAxLTlmMTQtODY2NmZjM2RiZDJkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cabal (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fr7vhy06m3lh/cabal_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

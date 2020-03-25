@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]********PLEASE STAY AT HOME********[/B][/I][/COLOR]</name>
+<name>[B][I][COLORgreenyellow]**********PLEASE STAY AT HOME**********[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
 <fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
@@ -20,7 +20,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]********AND KEEP YOURSELF & LOVED ONES********[/B][/I][/COLOR]</name>
+<name>[B][I][COLORgreenyellow]***AND KEEP YOURSELF & LOVED ONES***[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
 <fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
@@ -36,7 +36,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]********CLICK ANYWHERE TO CONTINUE********[/B][/I][/COLOR]</name>
+<name>[B][I][COLORgreenyellow]*****CLICK ANYWHERE TO CONTINUE*****[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
 <fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>

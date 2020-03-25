@@ -7,7 +7,7 @@
 <name>[B][I][COLORgreenyellow]********DURING THIS TESTING TIME********[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
+<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
 <info></info>
 </channel>
 
@@ -15,7 +15,7 @@
 <name>[B][I][COLORgreenyellow]**********PLEASE STAY AT HOME**********[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
+<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
 <info></info>
 </channel>
 
@@ -23,7 +23,7 @@
 <name>[B][I][COLORgreenyellow]***AND KEEP YOURSELF & LOVED ONES***[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
+<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
 <info></info>
 </channel>
 
@@ -31,7 +31,7 @@
 <name>[B][I][COLORwhite]************SAFE************[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
+<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
 <info></info>
 </channel>
 
@@ -39,7 +39,7 @@
 <name>[B][I][COLORgreenyellow]*****CLICK HERE TO CONTINUE*****[/B][/I][/COLOR]</name>
 <thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</fanart>
+<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
 <info></info>
 </channel>
 

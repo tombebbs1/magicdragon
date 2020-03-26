@@ -35,6 +35,30 @@
 </item>
 
 <item>
+<title>[COLORwhite]Havana Motor Club (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/25f8de5ab8ul/havana_motor_club_2015_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9p5tde7nfehh::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/tchv2pa2519e::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/e1mvvo3k6r3l.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzcwNDExOTg1N15BMl5BanBnXkFtZTgwMDQ4MTk3NzE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Rescue List (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tdrum7420aqe/the_rescue_list_2017_docu_hdtv_x264-w4f::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7e0byfjion0x::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lgj4txutmw2z::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/6r73fq3a765w.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTM3NjliNjEtNjc3Ni00MDBjLTliYTEtOTlkMjA0MDExNzkwXkEyXkFqcGdeQXVyMTQ1MjY3ODY@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Crip Camp (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fixez610ugqv/crip_camp_2020_720p_web_x264-secrecy::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

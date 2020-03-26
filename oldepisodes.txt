@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Star Trek: Picard S01E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8b5u04ris7he/star_trek_picard_s01e10_internal_1080p_web_x264-bamboozle::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/d6k0kthd9k0h::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7w108yax0al8::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/lk2jr0dy7oil.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX704_CR0,0,704,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The English Game  Season 1 RD Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?jkux66ui0sg0cvo04t2r::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

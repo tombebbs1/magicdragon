@@ -280,6 +280,42 @@ sublink:LISTSOURCE:https://vidoza.net/tnus1bf7x093.html::LISTNAME:[COLORwhite]10
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Ozark Season 3 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://turbobit.net/hhce7twc7a7t.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/dz1r76pu2a9i.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/tcsjpdoqvtkd.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/lc9z9ojf0ll7.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/jld1lbko2f42.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/097lg57ybvyo.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/hlcklacwv3bf.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/rny5hb66l43s.html::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ws6xkkttzpct.html::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/eu05n4fbm74a.html::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Ozark Season 3[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/yawnyglqdmkx/ozark_s03e01_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ke1l7ic1xuib/ozark_s03e02_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/78d58uxkbz83/ozark_s03e03_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/x22sljfh2dgk/ozark_s03e04_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/r965s12h8y6k/ozark_s03e05_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vmqp259i3eut/ozark_s03e06_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rtsqeimhpa06/ozark_s03e07_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/eb6annlj9ysr/ozark_s03e08_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/r54v3f5kakj5/ozark_s03e09_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/u8brlouxe8zg/ozark_s03e10_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[B][COLORwhite]Planet Earth II 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title>

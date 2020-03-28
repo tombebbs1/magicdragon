@@ -43,7 +43,13 @@
 <info></info>
 </channel>
 
-
+<channel>
+<name>[B][I][COLORgreenyellow]**JOIN US @facebook.com/groups/magicdragon/**[/B][/I][/COLOR]</name>
+<thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
+<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
+<info></info>
+</channel>
 
 
 </channels>

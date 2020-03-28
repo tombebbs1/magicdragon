@@ -11,7 +11,7 @@ sublink:LISTSOURCE:https://videobin.co/u70lk1hu5tqg::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://cloudvideo.tv/3t58l6dei7pf::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/d225b54329b3e1275cce24b3f43206b7/Beverly.Hills.Cop.1984.1080p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?ddvqdzb9jpswucjlx96h::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?ddvqdzb9jpswucjlx96h::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/rmiixraq8rcj.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2MyZDE0YjAtNWFjYy00MWRlLTk3MTktMzY3ZDVhNTJkZTlmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,698,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

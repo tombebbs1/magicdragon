@@ -111,7 +111,7 @@ sublink:LISTSOURCE:https://videobin.co/9g9nfcrcsvgn::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://cloudvideo.tv/nyjaomxl15f0::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/59cff70b16cde2755401486e34d2068e/Abigail.Haunting.2020.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?rt9zufq1f91glorh2vfw::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?rt9zufq1f91glorh2vfw::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/p3jgzaaxhfpz.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:52279f5cae4090c36e3280d1879b9fd392522baa&dn=Abigail.Haunting.2020.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2990::LISTNAME:[COLORgreen]HD  LINK 09[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:magnet:?xt=urn:btih:52279f5cae4090c36e3280d1879b9fd392522baa&dn=Abigail.Haunting.2020.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2990::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>

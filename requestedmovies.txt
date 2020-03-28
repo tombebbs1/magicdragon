@@ -1,10 +1,29 @@
 <item>
+<title>[COLORwhite]Beverly Hills Cop (1984)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/32m9hch9kj4p/beverly_hills_cop_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/akj3hdshtgp7/beverly_hills_cop_1984_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/c67m5elqrb7g::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/l8g44e4jlo2c::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/bk735bimekx8::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a2-05p20ml::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/u70lk1hu5tqg::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/3t58l6dei7pf::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d225b54329b3e1275cce24b3f43206b7/Beverly.Hills.Cop.1984.1080p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ddvqdzb9jpswucjlx96h::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ddvqdzb9jpswucjlx96h::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2MyZDE0YjAtNWFjYy00MWRlLTk3MTktMzY3ZDVhNTJkZTlmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,698,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lethal Weapon (1987)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/iyqn812j9hlq/lethal_weapon_1987_official_trailer_mel_gibson%2C_danny_glover_actionie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/vhmyk5b9dir3/lethal_weapon_1987_1080p_brrip_x264_bokutox_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
 sublink:LISTSOURCE:https://mixdrop.co/f/pq8xmoa2b92b::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/pq8xmoa2b92b::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/r6gsao1pmx77::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/q94t6b2t0nzm::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2pwm0ej07::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://videobin.co/l4jrg2hvyzrh::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#

@@ -215,6 +215,14 @@
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
+<item>
+<title>[B][COLORpink]Requested Movies[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/requestedmovies.txt</externallink>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
 
 
 item>

@@ -604,6 +604,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:48675240932800382374035ca5824414dc3b4cfb&
 </item>
 
 <item>
+<title>[COLORwhite]Homeward (2020)[COLORred]3D Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?mfjjfsyhtaob4mez6438::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjg2YTIwNjctZWUyZS00YTkyLTg4YTctODdkZjIxMmJhZWFmXkEyXkFqcGdeQXVyMjUxOTAxNzI@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hotel Transylvania 3D 2012[/COLOR]</title>
 <link>https://uptobox.com/hb36smbbv78v</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

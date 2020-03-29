@@ -355,6 +355,42 @@ sublink:LISTSOURCE:https://vidoza.net/0ed2qe3nofax/santa_clarita_diet_s03e10-the
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Star Trek Picard Season 1 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://turbobit.net/lw7w8ir270w5.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/kj16nskrvv0k.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/yhr35eo1n4mv.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/xnk69jo0pm4b.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/1uw963tehg7i.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/2g5hfti7cinc.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/xgadn2m8wua6.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/sr2ify4q0dx3.html::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/d5ps043dwc68.html::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/f1exlfumpw2a.html::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Star Trek Picard Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wz8szrta43ct/star_trek_picard_s01e01_remembrance_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m4ftxr28muqq/star_trek_picard_s01e02_maps_and_legends_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6ztqww6y9oq6/star_trek_picard_s01e03_the_end_is_the_beginning_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3ih38p4l367r/star_trek_picard_s01e04_absolute_candor_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tz188fx2hmps/star_trek_picard_s01e05_stardust_city_rag_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1vi867z5tr9h/star_trek_picard_s01e06_the_impossible_box_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vrf4vs3l1xjn/star_trek_picard_s01e07_nepenthe_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ehjuu08epy70/star_trek_picard_s01e08_broken_pieces_1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vcmb20gozfnr/star_trek_picard_s01e09_et_in_arcadia_ego__1__1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/l7d8xnmwno31/star_trek_picard_s01e10_et_in_arcadia_ego__2__1080p_10bit_amzn_web-dl_ddp5_1_hevc-vyndros::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[B][COLORwhite]Stranger Things Season 1[/COLOR][/B]</title>
 <premium>True</premium>

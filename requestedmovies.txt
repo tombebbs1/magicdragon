@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]Jaws (1975)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/aw1umxw6q1wx/jaws_official_trailer_1_richard_dreyfuss%2C_steven_spielbergie_1975_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6mkpg8b6p0wk/jaws_1975_1080p_brrip_x264_bitloks_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/68rz6odi4b::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ztiite3eflqh::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8epiisa47o7a::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u58w1q1kkn::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/3iegq7tjjha1::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/cubpwr5i641i::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/48fc6be7e9794e70725a3b4764aa862b/Jaws.1975.1080p.BrRip.x264.bitloks.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?evh2yz7j6aw4pmqpx80m::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ete40t1o4xz9.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX651_CR0,0,651,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Superman (1978)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6efviw3opjpe/superman_theie_35th_anniversary_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

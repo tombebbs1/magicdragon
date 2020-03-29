@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]Cloverfield (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/yvwgj7ou0es0/cloverfield_2008_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dv8lhm5mmgxu/cloverfield_2008_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/fne6ch4yy6a::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/h4rgcz4zwc0w::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/uxuqt2jhvkb3::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyerae6528gkxj::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/5twiubw2s7xt::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/xgvpy1o1ztbd::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/827b790204ce7ccbf11aaae620a4fe23/Cloverfield.2008.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?56tdnfsrhl8c38jy66gc::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/0eam9dor4y46.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDNhNDJlNDktZDI4OC00OTE3LWI2M2UtOThkNTFkNjBjYzRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]War of the Worlds (2005)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/quccnq01qz5b/war_of_the_worlds_2005_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

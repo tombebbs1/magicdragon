@@ -99,6 +99,25 @@ sublink:LISTSOURCE:https://turbobit.net/xkywx45dljgb.html::LISTNAME:[COLORwhite]
 </item>
 
 <item>
+<title>[COLORwhite]Just My Type (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dzgb9twgxr9b/preview_%2B_sneak_peek_just_my_type_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wj3cuf8pionx/just_my_type_2020_hallmark_720p_hdtv_x264_solar::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/izzq97iqfox::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/yzgn1p58xls0::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ucnhsjmm5z3v::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadkz0ppjjx::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/cy309lxjh4z1::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/n2nppxju9f9y::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a01dde5dd522ce064270853a82a4125e/Just_My_Type_2020_Hallmark_720p_HDTV_X264_Solar.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?w0jdh0jv2nzt0rgevn75::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/um36yhufvunb.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjY4ZDI0ODktNWY1NS00ZjQyLWFlOTEtZjlhMWVkYjE5YzJhXkEyXkFqcGdeQXVyOTUyNjcyNA@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]In Vino (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ybzi6p7kn1lo/in_vino_2019_trailer_%2Ccomedy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

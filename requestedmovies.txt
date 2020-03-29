@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]The Elephant Man (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/05a59r7p3xxp/the_elephant_man_1980_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/au9adf1pvj47/the_elephant_man_1980_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/b8ev3mi7am0::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/03vrk44f1qw0::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/g5xtyzqj94wq::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tl025xkp2n::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/d2vjqom89qnu::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/87uvmx5sskgs::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5ab8740f7efca674d895b9912684de82/The.Elephant.Man.1980.1080p.BluRay.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?90b2rsjjjwnjg8c5npwf::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/gh2sox467fm4.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]10 Cloverfield Lane (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ju0telw3kbp0/10_cloverfield_lane_official_trailer_1_2016_mary_elizabeth_winstead%2C_john_goodmanie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

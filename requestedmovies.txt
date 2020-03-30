@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]The Core (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/shdvyp700ovi/the_core_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/swh6lj7s9g8y/the_core_2003_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/swh6lj7s9g8y/the_core_2003_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/gu2sxwxgr6nw::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h6k8zrcmti4r::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/5ytnut6l3ywr::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/5ytnut6l3ywr::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/vey06r9c2rls::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a81575a5bc047d29535706a607f4650a/The.Core.2003.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6omk245t0yyp4rz2h7dj::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pmxgyl0vj53c.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]2012 (2009)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sc9x4s2eiiz1/2012_trailer_1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

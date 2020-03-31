@@ -164,6 +164,42 @@ sublink:LISTSOURCE:https://uptobox.com/mf79er9yzx9i::LISTNAME:[COLORwhite]Ep 10[
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Lincoln Rhyme: Hunt for the Bone Collector Season 1 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?czgdhiqg37vqjfzpsupx::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9ic0gmwf0xxtu8vd2rpl::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?uj33mwaqhjy712ystr6p::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3f6d2mb1mv3k56eityg4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?h9xo7symp2drujqxqgwj::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7m6gxu55u4utx76ham0v::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yabu5lrzpzidv1hate3q::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qzg5npvqpmoed31l9jht::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lxoxoejjfbjd2lj8gdfo::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?llub7sf5t69odbnsdfwx::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Lincoln Rhyme: Hunt for the Bone Collector Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/988sx98owbt5/lincoln_rhyme_hunt_for_the_bone_collector_s01e01_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w532u6vjyuvo/lincoln_rhyme_hunt_for_the_bone_collector_s01e02_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hvmzgzj0q5ii/lincoln_rhyme_hunt_for_the_bone_collector_s01e03_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sp0t2nx2t7em/lincoln_rhyme_hunt_for_the_bone_collector_s01e04_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jujftnvq5emi/lincoln_rhyme_hunt_for_the_bone_collector_s01e05_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uyxw22pmhjgq/lincoln_rhyme_hunt_for_the_bone_collector_s01e06_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d7yopt0ohcnq/lincoln_rhyme_hunt_for_the_bone_collector_s01e07_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7q7kfff1icxb/lincoln_rhyme_hunt_for_the_bone_collector_s01e08_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0w0nhj1iety8/lincoln_rhyme_hunt_for_the_bone_collector_s01e09_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uk1k53g6227v/lincoln_rhyme_hunt_for_the_bone_collector_s01e10_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[B][COLORwhite]Locke & Key Season 1[/COLOR][/B]</title>
 <link>

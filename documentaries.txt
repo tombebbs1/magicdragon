@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Silence After the Storm (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pksme3z9mekw/silence_after_the_storm_2016_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2f9d78j5pa7i::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/0e5r1tl02325gn5::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?pg8fk2145gdrlxtljtsz::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTA3NzI0NTU3NTJeQTJeQWpwZ15BbWU4MDQ2NTE4Njcx._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Six Hours: Surviving Typhoon Yolanda (2014)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8ie7l7skdumn/six_hours_surviving_typhoon_yolanda_2014_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Beartrek (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7ttcvgkanenq/beartrek_2016_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/5zp4d0fqyar6::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/zg7w-ajr4q5wr58::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?q340w7b8pc6lthg7bk6a::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDY5MDJjN2EtMDNkOC00ZjE4LWJlNDktYjA4MDUyNDgyNjliXkEyXkFqcGdeQXVyMjI3MzUyNTM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Chasing The Jet Stream (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/w1l2h3s9yzh3/chasing_the_jet_stream_2019_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

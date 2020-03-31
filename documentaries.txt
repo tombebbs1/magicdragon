@@ -35,6 +35,30 @@
 </item>
 
 <item>
+<title>[COLORwhite]Six Hours: Surviving Typhoon Yolanda (2014)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8ie7l7skdumn/six_hours_surviving_typhoon_yolanda_2014_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1qsbdrx8zbt4::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a2-4nxd--x::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?znc5fei6dybwyvg3i51e::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTdiY2ZhZjktM2NhYy00NzBhLTg3YTQtMWQyODJhYTliYWU3XkEyXkFqcGdeQXVyMjExMjI5NzI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Marcus Jansen: Examine & Report (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zo6hm5wwb0by/marcus_jansen_examine_and_report_2017_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/uwbvfxupgbsj::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzjdq8q06p::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?q2k3hvcpe47uifm4vwb3::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2Y4NjIxZDUtYTQ2Zi00MWQ3LTk1MjktMWEzMjEyNjZhMTBlXkEyXkFqcGdeQXVyNDg4OTAxNzE@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Marcus Jansen: Examine & Report (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zo6hm5wwb0by/marcus_jansen_examine_and_report_2017_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -35,6 +35,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hesburgh (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4vl0t8q8vstv/hesburgh_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/knek50c2o495::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/-qz17ip5d842yql::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vcev878ghrm0zg4bbqg8::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAxNTQwNzg0NDheQTJeQWpwZ15BbWU4MDc3MzU1Njcz._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Beartrek (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7ttcvgkanenq/beartrek_2016_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -12,7 +12,7 @@ sublink:LISTSOURCE:https://1fichier.com/?qzg5npvqpmoed31l9jht::LISTNAME:[COLORwh
 sublink:LISTSOURCE:https://1fichier.com/?lxoxoejjfbjd2lj8gdfo::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?llub7sf5t69odbnsdfwx::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDI1M2Q3ZjQtYjkxYy00NGM2LThmMmQtMmYzZDI5NTE2NDg4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -30,7 +30,7 @@ sublink:LISTSOURCE:https://vidoza.net/7q7kfff1icxb/lincoln_rhyme_hunt_for_the_bo
 sublink:LISTSOURCE:https://vidoza.net/0w0nhj1iety8/lincoln_rhyme_hunt_for_the_bone_collector_s01e09_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/uk1k53g6227v/lincoln_rhyme_hunt_for_the_bone_collector_s01e10_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDI1M2Q3ZjQtYjkxYy00NGM2LThmMmQtMmYzZDI5NTE2NDg4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

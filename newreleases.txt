@@ -702,62 +702,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8c82abfa4658278b206730c5b5c10f8668092db1&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Contact (1997)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/1xpwkwahmlgy/%27contact%27_theatrical_trailer_1997_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/l3lfyxm712h2/contact_1997_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/yd27t4h9044b9::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/yr3qk9gpddvv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/9d587w4ypcnh::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2pw8r3k47::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/kyc52a2p90yp::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/j0ew5xox3xrf::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/cf6762400b357eb9643e57d9a69f1d13/Contact.1997.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?rptut9j6wuqctxxqbcgi::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/axjjgfr0culw.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNkYmFiZjUtYmI3Ni00NzIwLTkxZjktN2ZkMjdhMzlkMDc3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX672_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Funeral in Berlin (1966)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/e9q27tckgabj/funeral_in_berlin_1966_trailer_color__2_52_mins::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8smba8ear027/funeral_in_berlin_1966_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/j2m5yk3p04d::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/88wpyr067slk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptostream.com/iyn8mbyjyx0v::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram0pnr0316::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/uxxrd69c1hmg::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/gbdhxan0xmuj::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/39e09b208129a148fe7e5d90916c96e6/Funeral.In.Berlin.1966.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?gdqcdvxgax25ok7p7r8a::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/meflknmtctto.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzQ4NTk4ZjctNGQ4YS00OWIzLWJjZWItYWM4YWQyNTNkZGE1XkEyXkFqcGdeQXVyMTAyNDU2NDM@._V1_SY1000_CR0,0,653,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Battle Los Angeles (2011) Remastered[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/qvp4zr0uhwl1/battle_los_angeles_official_trailer_1_2011_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/4awhd2arpq7c/battle_los_angeles_2011_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/x2fi0ssf9atm::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/70n3dydi9txk::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/n47w8bu9x69q::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/n47w8bu9x69q::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/qt06fveiyrse::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/rfobln42blt6::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ba06a611735d26619c13d8b481b3b663/Battle.Los.Angeles.2011.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?3ur6l50xn5s3xvh37744::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/kv125oum46n7.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDg2NzQwOGMtMGRkNC00YjAwLTg4NjgtZWQwYzljZmM1YzA4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Stalker's Prey 2 (2020)[/COLOR]</title>
@@ -836,62 +780,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5ef662f5eee2a535502205da3d2408a12ca10a71&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:5ef662f5eee2a535502205da3d2408a12ca10a71&dn=Kathryn.Upside.Down.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2820::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYjdmODc0ODQtZmYzYS00NmYzLTk2MWItMmQ4NWVmODg3MDcxXkEyXkFqcGdeQXVyMTU4NTIyNTY@._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]28 Weeks Later (2007)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/lp7aw4r2mnvi/28_weeks_later_2007_trailer_1080p_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/t1uqoa8u1pyf/28_weeks_later_2007_720p_brrip_264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/jblp1r7tongsu::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/mipkolfqiodw::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/oml4xnjr1h6f::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/m-yw2u5835xq013::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/lgg86f3tmzl9::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/xm9sds97dicj::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/0c6f940849f2e151de0833015278e80d/28.Weeks.Later.2007.720p.BrRip.264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?o0oszluwfyhvz68tckz9::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/0y8gypq7t0gm.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5NjE2NDI0OF5BMl5BanBnXkFtZTgwNzU0NzQyMTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]28 Days Later... (2002)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/z7r1vvtvqwf8/28_days_later_2002_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/u7qfayt7u54z/28_days_later_2002_720p_brrip_264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/2un7xc3j1dk::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/1k5urqewaj9w::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/u2r2hjcowv7f::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzjyz5p8x0::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/lgg86f3tmzl9::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/m85sdbbzt93z::LISTNAME:[COLORgold]HD  LINK 7 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/769821fb054fbe6f3870f6ef7d81f8ac/28.Days.Later.2002.720p.BrRip.264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 8 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?abwog0774etez7hqxa7m::LISTNAME:[COLORgold]HD  LINK 9 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/pz5r8fz4cyvp.html::LISTNAME:[COLORgold]HD  LINK 10 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZGQxOTFjNWQtMjQ0Yi00OWU1LWFlZmEtNGFhMmRlYjg3N2IzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Paleface (1948)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/pckygtg86pc1/bob_hope_in_%27the_paleface%27_vintageie_trailer_1948_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/u8263p9dit6z/the_paleface_1948__comedy_western__1080p_x264-classics_1_::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/egbab3ruru9::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/wy4ayhshqrp7::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/irfyjpl9tj89::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5rwrxqe78::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://videobin.co/ok3m695017t1::LISTNAME:[COLORgold]HD  LINK 6 (VIDEOBIN)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/67b560c3fd508f4c5dccb720c7381351/The.Paleface.1948.(Comedy.Western).1080p.x264-Classics_(1).mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?yxcosqezx61zcccccjvg::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/11v8b9j7whq9.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOGZhMGEwZjYtNjJlNC00YjY0LTg2YjQtNGU4MmM1OTNjYmMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ1MTUzODc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1028,22 +916,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:124d04927d633db764f464ec542849493bfa8bd4&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Salem's Lot (1979) Remastered[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/d8geolgp3azl/salem%27s_lot__1979__trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/kbnwpyfq96n5/salems_lot_remastered_horror_1979_eng_ita_multi-subs_720p_5bh264_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/8dx2bflmq876t::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/16jxspl2lhko::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/sve8mctlhm8u::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadke0lnppr::LISTNAME:[COLORgold]HD  LINK 5 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/fb1ffe91f953bef9d12f9d16f6e9e548/Salems_Lot_-_Remastered_Horror_1979_Eng_Ita_Multi-Subs_720p_[H264-mp4].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?nzfd8o1pei2pp0lr3n7x::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/4ti4hf8zl687.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzc0MDIwZjktYTEzNC00ZWQxLTk5MWYtYjBmMDI3YTg4ZjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Dolittle (2020)[/COLOR]</title>
@@ -1190,108 +1062,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7A01630CA766AF8C97B12A85AE9D075E23932226&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:e0eec93c425e2bee0f6073a8be05c20a0e2e95e2&dn=The.Song.Of.Names.2019.1080p.WEB-DL.DD5.1.H264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2960::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGY5N2U3YzktNDU5NC00Mzc5LWI4YmEtZTI0MWRiYjdlZjg3XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]I Am Legend (2007)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/w80jk1bmb9ov/i_am_legend_2007_official_trailer_1_sci-fi_thriller::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/zrymokl2ylbb/i_am_legend_2007_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgxle4jzqw::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/tg3vi3e63hd8::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/2yguuh71955z::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/sas7guuavdqg::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/9c426ffd3e3bca244d34ac28260fd46c/I.Am.Legend.2007.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?lul0mtm6y2c1twaguzr1::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/41xqbxcda03q.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Virus (1999)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/mymyf3hvrlg8/virus_1999_theatrical_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/j4w0vyx2eo8s/virus_1999_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/80p2wh8rxl1-7px::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/sae7adv3emqt::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/em6sehzvgasj::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/0ifa1ttfa5s::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/2d7d38cc27b40f789ab46bdd791d7dc9/Virus.1999.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?ta6y0fbjgtfpzfkok0ai::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/0rk0muj1ev2w.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGRiMmNmZGMtOGMwZi00MjMwLTkzZTQtNDViODE2ZmFiZWUzXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX680_CR0,0,680,999_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Outbreak (1995)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/jno7c3ke7iov/outbreak_1995_official_trailer_dustin_hoffman%2C_morgan_freeman_sci-fiie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/cngc8h5la7oo/outbreak_1995_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzj6y5ld4k::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/f8qy5fk17y6g::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/ls9voynuv2di::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/87c89wy7s::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/5c127b8ac1942ee2d82fe5aa6977a582/Outbreak.1995.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?a2k98dtb3txy8hm7nrp8::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/kovth2aly0b3.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZTg1Mzk1NjAtNGFlOS00NzdlLWI0NTgtYzlmNTUzZGQ0NjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Contagion (2011)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ncm1rqazwc5z/contagion_2011_official_exclusive_1080p_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/0zk4y3j75w6u/contagion_2011_1080p_bluray_x264_aac5_1-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4andjwdk8y5::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/n094mciwupwe::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/nkc7i9hurkdu::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/aczsspsw2ya::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/a5e962c1d308696bfc77570ec5a95d69/Contagion.2011.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?xxr6j8gdi0k9vkuo6o65::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/vnpuvp2w4mk7.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]World War Z (2013) Unrated[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/rg98gb1wt11r/world_war_z_official_trailer_1_2013_brad_pittie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/dwfbs3qzvl8d/world_war_z_2013_unrated_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-gglq3dm::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/4mzoayo8r036::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/yrfho4iikvhm::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/6wmhukm8wyr::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/7d6cc47b96388d50b3f21b49064a99ef/World.War.Z.2013.UNRATED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?y1bqzhiwg366yk3ua9uq::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/qpygyce58y7k.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX650_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Platoon (1986)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/o6pzih5xv97w/platoon_trailer_%5Bhd%5D_updated_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/cx2wjg2abcik/platoon_1986_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2p3npmnxx::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/8vijqb5xpsuec::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/s139nkwxxt1f::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/d92i4ma2876q::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/920bb64970e20d73d925d86ef83deacd/Platoon.1986.1080p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?gtvtfit8oky2doad1twz::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/scp07mmsbkv1.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BM2Y1NTQyNWYtNDViNy00ZWRhLTk3MTMtOTI3ZGQ5MDFiNWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,646,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1712,23 +1482,6 @@ sublink:LISTSOURCE:https://turbobit.net/l4t8wup2tx6w.html::LISTNAME:[COLORwhite]
 </item>
 
 <item>
-<title>[COLORwhite]Pulp Fiction (1994)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ttokab1ig279/pulp_fiction_official_trailer_1_1994_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/6uiwrvn7dzo7/pulp_fiction_1994_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-mp-0w3q::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/6a8hkif0s62p::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/wgkmwv90hweo::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/sw8f7fp5x::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/8fa32d9093a6f12bdb7211209c2de288/Pulp.Fiction.1994.1080p.BrRip.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?7uvfonla9twkzwmhldpo::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/2rv05j0a2gqg.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Star Wars: The Rise of Skywalker (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e0287v9u5s02/star_wars_the_rise_of_skywalker__final_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -2071,22 +1824,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2164C5C7E6D73F466ACF9AE2EA599CB373931EF1&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Airport '77 (1977)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/084pa5a3937f/airport_%2777_official_trailer_1_james_stewartie_1977_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/mrrq3npjtxl0/airport_%2777_1977_1080p_bluray_x264_aac-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/lbufew0olx4j::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/sjvtws7cp1ki::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/wgkmwv90hweo::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/rewuisjh4bwp::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/46fcc378afe2937da0e154be8dab49b2/Airport.'77.1977.1080p.BluRay.x264.AAC-[YTS.MX].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?v2i6qhfv05uukkjdarhr::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/zs6cx97ry2dx.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzM4OWM1N2UtZTRkZi00NjA4LThiOGUtNDA4ZDc2OTI1YjBkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX640_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Haunting of Alcatraz (2020)[/COLOR]</title>
@@ -4963,17 +4701,6 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:37C01D014C8DC8AC12E28B7B25375C7B93BF45B9&
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDE0NjA0NGYtOGE2Yi00MTY4LTg4OTMtMzAyZmFiNjRhODcxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
 
 <item>
 <title>[B][I][COLORred]PAGE 2[/B][/I][/COLOR]</title>

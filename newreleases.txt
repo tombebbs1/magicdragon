@@ -2500,22 +2500,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5847ABF2F2876CFB4702DD2A59F6BAC5BCC0A5D8&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Deep Impact (1998)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ni5ljf4w3yet/deep_impact_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/9msjvwbuzcw8/deep_impact_1998_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/u6ot8asbmmvw::LISTNAME:[COLORgold]HD  LINK 2 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/6if9rehvas::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/o0mqvdcygx8p::LISTNAME:[COLORgold]HD  LINK 4 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/56deyudwqpzwp7g::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/43b93ddc370676f9ff930fe1e87e4df9/Deep.Impact.1998.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?1s472wgxs68gt1n4wie2::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/ydfxgistohb4.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYTUwMTY1YmMtN2U5NC00YjkzLTg0YWQtZmEwNTEzZjdkNzQ2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX666_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

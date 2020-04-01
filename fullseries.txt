@@ -316,6 +316,7 @@ sublink:LISTSOURCE:https://vidoza.net/tnus1bf7x093.html::LISTNAME:[COLORwhite]10
 <fanart></fanart>
 </item>
 
+
 <item> 
 <title>[B][COLORwhite]Ozark Season 3 Real Debrid[/COLOR][/B]</title> 
 <link>
@@ -327,8 +328,8 @@ sublink:LISTSOURCE:https://turbobit.net/jld1lbko2f42.html::LISTNAME:[COLORwhite]
 sublink:LISTSOURCE:https://turbobit.net/097lg57ybvyo.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/hlcklacwv3bf.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/rny5hb66l43s.html::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/ws6xkkttzpct.html::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/eu05n4fbm74a.html::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+sublink:LISTSOURCE:https://vidoza.net/r54v3f5kakj5/ozark_s03e09_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/u8brlouxe8zg/ozark_s03e10_internal_720p_web_x264-ghosts::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjJjM2MwYzUtMzEzOC00MGVlLWI5ZjYtYzMyNmE4ZTJiMWZmXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_SX688_CR0,0,688,999_AL_.jpg</thumbnail>
 <fanart></fanart>

@@ -36,24 +36,6 @@ sublink:LISTSOURCE:https://uptobox.com/tttlfp1v3x14::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
-<title>[COLORwhite]Air Force One (1997) Remastered[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/erouaozprg0m/air_force_one_1997_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/lwowp1bopuqk/air_force_one_1997_remastered_720p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/zpokwzm8uvplj4::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2px1pwymn::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/m2j52k5fvv40::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/4lt4imtxlze4::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/e2fdc109a9e1beb6dceeede20807ec67/Air.Force.One.1997.REMASTERED.720p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?uczg9jt7qi5ygcsa53fr::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/n6ppyno3hwd2.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/tttlfp1v3x14::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNGVhZWFiOGYtZmZjNS00OTE3LWJmMDItMDZlYTkxYTAwZDkyL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]K-PAX (2001)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ugd8kcwe5wfr/k-pax_official_trailer_1_jeff_bridgesie_2001_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

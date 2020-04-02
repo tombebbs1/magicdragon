@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]La Liste 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/14k072blymi0/la_liste_2016_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cxy5ype4yukh::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzjr7rwxgd::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/jtdgtgv5atpp.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/tnIZv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fat Fiction (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zbmfsdrkeros/fat_fiction_2020_720p_amzn_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -1,46 +1,161 @@
 
 <channels>
 
-
-
 <channel>
-<name>[B][I][COLORgreenyellow]********DURING THIS TESTING TIME********[/B][/I][/COLOR]</name>
-<thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
+<name>[B][I][COLORred]REAL DEBRID AUTHORIZE HERE[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/rdlogin.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]**********PLEASE STAY AT HOME**********[/B][/I][/COLOR]</name>
-<thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
+<name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]***AND KEEP YOURSELF & LOVED ONES***[/B][/I][/COLOR]</name>
-<thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
+<name>[B][I][COLORorange]Catch Up TV VPN ADVISED[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/klD0wtv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
+<fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]************SAFE************[/B][/I][/COLOR]</name>
-<thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
+<name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>[B][I][COLORgreenyellow]*****CLICK HERE TO CONTINUE*****[/B][/I][/COLOR]</name>
-<thumbnail>https://assets.nhs.uk/prod/images/External_0320_coronavirus_04.width-1200.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home1.txt</externallink>
-<fanart>https://i.redd.it/7rvz6nvu3ik41.jpg</fanart>
+<name>[B][I][COLORgreenyellow]Documentary's[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORmagenta]People Watching[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORwhite]Requested Movies[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/requestedmovies.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORlime]New Movie Releases[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORblue]Cams/HDTS Releases[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORyellowgreen]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[B][I][COLORred]Real Debrid Movies[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/realdebrid.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORorange]4K Movies[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhd.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORwhite]Misc Episodes[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oldepisodes.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info>Hundreds Of Documentarys To Choose From</info>
+</channel>
+
+
+
+<channel>
+<name>[B][I][COLORmagenta]Kids[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/kidszone.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORpink]Movies[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/moviezone.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][I][COLORroyalblue]Music[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/music.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info>Hundreds Of Documentarys To Choose From</info>
+</channel>
+
+<channel>
+<name>[B][I][COLORyellow]Radio[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/radio.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info>Hundreds Of Documentarys To Choose From</info>
+</channel>
+
+
+
+<channel>
+<name>[B][I][COLORyellowgreen]Sports[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/sport.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info>Hundreds Of Documentarys To Choose From</info>
+</channel>
+
+<channel>
+<name>[B][I][COLORwhite]TV/Entertainment[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tventertainment.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
 

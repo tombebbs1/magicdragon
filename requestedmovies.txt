@@ -1,4 +1,22 @@
 <item>
+<title>[COLORwhite]K-PAX (2001)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ugd8kcwe5wfr/k-pax_official_trailer_1_jeff_bridgesie_2001_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m2zwuuxhwi1y/k-pax_2001_720p_hdtv_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/xol0nxzdu3noej::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzjr8127nj::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mlk80horoycb::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/juli1q29fawy::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7c3f2339a0d84e56c001b8ac0cdf23d5/K-PAX.2001.720p.HDTV.x264.YIFY.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vatjvkj8timit44d0ai7::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/bx4knuvo6c78.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9wck3nxz36m0::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE5ZDVkNDAtMTJmYy00NzkzLTg2ZDUtOTZkOTU1ZDYwYTFhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,711,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Usual Suspects (1995)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1l55f5fczenv/the_usual_suspects_1995_original_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

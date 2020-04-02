@@ -1,4 +1,40 @@
 <item> 
+<title>[B][COLORwhite]Taken Season 1 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?u6j06d79au3b1yxtugnr::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9dpl3tufzjjqrh4whuee::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?73zw3mfmn8cngwxlqgjm::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?30j0yag19cw00kcfojov::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9ui5b1uph25bsd60fv0y::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5f016d9xop6bfaslaax9::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?70rkelamaomv1fjewh4u::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rmvo28qol2ns78b1zafv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?73zw3mfmn8cngwxlqgjm::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?09p7or43jw4i6n7o2vyb::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTI0NTI0NjAxMV5BMl5BanBnXkFtZTYwOTM3MTg5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Taken Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/i0qa977pqisw/e01_beyond_the_sky::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sm2z7le9v1w7/e02_jacob_and_jesse::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/j4sr6bih5aql/e03_high_hopes::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/e2ulcokbcar6/e04_acid_tests::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qbex2tufn6el/e05_maintenance::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0v29yzqqgvvl/e06_charlie_and_lisa::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m1odxt1783sj/e07_gods_equation::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9m5wf4tou1jr/e08_dropping_the_dishes::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hllawc3rgyso/e09_john::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wbdfr9z32224/e10_taken::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTI0NTI0NjAxMV5BMl5BanBnXkFtZTYwOTM3MTg5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Lincoln Rhyme: Hunt for the Bone Collector Season 1 Real Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?czgdhiqg37vqjfzpsupx::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

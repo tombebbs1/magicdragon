@@ -44,6 +44,30 @@
 </item>
 
 <item>
+<title>[COLORwhite]I AM PATRICK (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/t9d03072rhpo/i_am_patrick_2020_1080p_nf_web-dl_ddp5_1_x264-kaizen::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/su4hom6ac41d::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/pgy0ram0rjy4jld::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?r6tiyeiq7obxgnzs9n25::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWUyZTU0YTctMGU0Ni00ZjIyLThiNjYtZWVmZDkxMzUzY2I0XkEyXkFqcGdeQXVyMzIyOTkyNzQ@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ali & Cavett: The Tale of the Tapes (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/eqhcyx4d33u7/ali_cavett_the_tale_of_the_tapes_2018_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4imnsznv5471::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2px5jkdpk::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2k50vhd83vjrxi9pw5qg::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDcwMjI5ZDItMTlmNC00M2ZiLWI1MzQtZWJhMDBlM2UzMTQ2XkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Elephant (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9r7pa33cc60f/elephant_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

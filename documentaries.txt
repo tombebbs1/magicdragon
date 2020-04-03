@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Elephant (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9r7pa33cc60f/elephant_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/07nf0a2tign1::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4and-mpeqx4::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?p17jmknaicm3tirouyfs::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTk2ZDY1MDgtMzNmOS00OWJlLThlYTctOGQ4NzdjZjUzNGM0XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_SY1000_SX800_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dolphin Reef (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xj8466tf9jvm/dolphin_reef_2020_webrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

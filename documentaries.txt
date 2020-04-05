@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jimi Hendrix Electric Church (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ny1pf11wdnl6/jimi_hendrix_electric_church_2015_brrip_xvid_mp3-xvid::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ncqqel2xfm01::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5r78gw1l7::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cstgfkfye6sjlca53be1::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmQwMzIxZDAtNTc2Ni00Nzg0LThiMDQtMzBlYWI1MjQzZWJhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Hundred Miles to The End (2013)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dejydrun30ls/a_hundred_miles_to_the_end_2013_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

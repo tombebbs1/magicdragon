@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Bold Peace (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ohjrqtsw1f1b/a_bold_peace_2016_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lnzhe5v3x26x::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/qgyerae67jnw1l-::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8ae4ftrjpp9lhkshbeud::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM3OTU2MDEyNV5BMl5BanBnXkFtZTgwMzg1ODM5NjE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Crystal City (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/scu43t7ujfm6/crystal_city_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

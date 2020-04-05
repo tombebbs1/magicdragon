@@ -1,4 +1,22 @@
 <item>
+<title>[COLORwhite]Fargo (1996) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rru5kwm2m55d/fargo_official_trailer_1_steve_buscemiie_1996_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cdnr4a7xmilw/fargo_1996_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/gn0oxx49bdqv9l::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgx1zy5j7w::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/18asgv0dqki5::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/xv1zm5gdmjrt::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/a02ceec03d0e5f5d7dd59f263aa4265e/Fargo.1996.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?29r0t0b687ldzvewi06i::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/h8v3d1dypr15.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/awjgcm1ymmo4::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmE0NGJjNDAtNjUzOS00MmZhLWE2OTYtMmQ4MTU4Y2RlODQ5XkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Total Recall (1990) Mind Bending Edition[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/u8oji99amlsz/total_recall_trailer_1990::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Seven Days in Mexico (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0v99s9bxoac5/seven_days_in_mexico_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/o8obbmsgvhz0::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/xg4r0a5r7q0dyx0::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qn46q3sft2u4sdx4zbyl::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTZhMmMwMjYtN2NlZS00ODg1LWEyMmEtYzBlMjU4NWU3MDZmXkEyXkFqcGdeQXVyNzQ1MjA3OA@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]House of Children (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vaclus13u507/house_of_children_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

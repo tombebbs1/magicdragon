@@ -1,3 +1,33 @@
+<item> 
+<title>[B][COLORwhite]Tiger King[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rxw6tpmb4rgr/tiger_king_murder_mayhem_and_madness_s01e01_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/skiupnhpemue/tiger_king_murder_mayhem_and_madness_s01e02_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/j7ppk694fbkc/tiger_king_murder_mayhem_and_madness_s01e03_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q7oa067z5jc6/tiger_king_murder_mayhem_and_madness_s01e04_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/phey1c6a9w8w/tiger_king_murder_mayhem_and_madness_s01e05_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/e0alx3d4eq2e/tiger_king_murder_mayhem_and_madness_s01e06_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6oxw0ilsvma2/tiger_king_murder_mayhem_and_madness_s01e07_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzI5MjQ2NzEtN2JmOC00MjE2LWI2NjItYTNjNTJjMjBkOWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Tiger King Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?rwb6cxkxirbd62wan3x4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?v7srv33jj71u2ypzvqq4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?306dssm13c3ubgy1kxuf::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?o4bpndvpu9f50x08un9n::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?15n1p0g9p67xct88qkmi::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zgxgo43eu0bh6cohocjs::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bju4vwacvc8duni8evuy::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzI5MjQ2NzEtN2JmOC00MjE2LWI2NjItYTNjNTJjMjBkOWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[B][COLORwhite]Walking Dead SE10 E15[/COLOR][/B]</title>
 <link>

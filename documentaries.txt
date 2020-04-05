@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Don't Call Me Bigfoot (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zvjfczqhhpbl/dont_call_me_bigfoot_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lgj1m0weycpw::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadky3rdg00::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ju1odfovtpxm0aub6fih::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWIxZWE0MGUtNmI0MC00ODY5LWI2YTQtOTNhYThhODVkOThkXkEyXkFqcGdeQXVyODc2MjA4Mg@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Elly and Henry (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/m8q0k9n1t31d/elly_and_henry_2017_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

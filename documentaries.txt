@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Crystal City (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/scu43t7ujfm6/crystal_city_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/l458zdphbpez::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/lgnw4and83d7krd::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?a0ho8zbynrh0exlaze42::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzBkMzRhNzgtZGRjYi00ODcwLThjMzUtZDZjYTQyMmU3ZTU0XkEyXkFqcGdeQXVyNTUzMDgwOTY@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Brave are the Fallen (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1y8y9ltf74wj/brave_are_the_fallen_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

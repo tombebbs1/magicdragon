@@ -623,6 +623,8 @@ sublink:LISTSOURCE:https://vidoza.net/gpdfu6zo92hb/the_umbrella_academy_s01e10_x
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Tiger King Real[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rxw6tpmb4rgr/tiger_king_murder_mayhem_and_madness_s01e01_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/skiupnhpemue/tiger_king_murder_mayhem_and_madness_s01e02_720p_nf_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#

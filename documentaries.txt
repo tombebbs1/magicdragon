@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Brave are the Fallen (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1y8y9ltf74wj/brave_are_the_fallen_2020_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lwotb8p9ssdj::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/670emu0e28g168m::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?bj3hc6i22tmz524hygm1::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2Q5MjFhN2EtYTMwZC00MmEzLWEzOWYtMDAzZWVmYzI1Mjc3XkEyXkFqcGdeQXVyODc2MjA4Mg@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alien Moon (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xhvajakf605x/alien_moon_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

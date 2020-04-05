@@ -60,7 +60,7 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
 </item>
-
+ 
 <item>
 <title>[COLORwhite]You're Bacon Me Crazy! (2020)[/COLOR]</title>
 <link>

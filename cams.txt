@@ -96,7 +96,18 @@ sublink:LISTSOURCE:https://1fichier.com/?qh6z1ln5u4ezhqmc8jr5::LISTNAME:[COLORwh
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]The Turning (2020) CAM UPDATED 25/01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jhfu4abj93mc/the_turning_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dp4gly1zyip2/www_seehd_ws_the_turning_2020_720p_hdcam_k1ckass::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/236afn50c50i::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/16vum3cjgc1l::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vlhgeb8x2bsp87l05k7l::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2ZiMzVkNzktZjlmMy00MWE1LWJkMjgtZTFiMWYyYTU3M2FjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Like a Boss (2020) CAM UPDATED 10/01[/COLOR]</title>

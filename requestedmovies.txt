@@ -1,4 +1,22 @@
 <item>
+<title>[COLORwhite]Nightbreed (1990) Directors Cut[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/aahko9o7d9fu/nightbreed_original_theatrical_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/51gr8a1o76aw/nightbreed::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/en6egqorbqdoe8p::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-e0pld3z::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/b8avyq0gd6wo::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/ech36dqh54h1::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9321a0f28ff4db996147faa3b600edff/Nightbreed.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?c7swc9l7ctodf8y4thx7::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ynt8qog9sod9.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/qab26ppzy7lf::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmFlMWFiM2ItNWQ1Yy00ZDE2LWEzNmUtOTE0MDM4YjVjNmYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,621,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nightbreed (1990)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/aahko9o7d9fu/nightbreed_original_theatrical_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

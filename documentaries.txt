@@ -43,6 +43,18 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Haunters: The Art of the Scare (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/33w6fp6ct3kv/haunters_the_art_of_the_scare_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/rozvmr87td3x::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/670emu0e2je4zzj::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tdz7y6z04gi8a7tly1b7::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmMxZTM5MmQtYzVjMi00YWEzLWE5ZGUtYzk3MTNjODBlMjFlXkEyXkFqcGdeQXVyMjg2MzA1ODI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Tiger King[/COLOR][/B]</title> 
 <link>

@@ -137,6 +137,42 @@ sublink:LISTSOURCE:https://vidoza.net/dreh99oe61dz/cobra_kai_s02e10_no_mercy_108
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Home Before Dark Season 1 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?s8hk84qwy23vlzjedxrb::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jw98s9dgyj5lfewqbr03::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8ky1crv6o5639k7x3dsx::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xckv5a8qmobx2f89axxs::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?h7b2up6e2gacmxvt7z1t::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qtr2tmgd7e98x0g72ya9::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2zpsg179p3tehypt4ium::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?o7dtmaecdvb8hqlcy62x::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?va7ukszp6fck11hw7aau::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rzo0zneo3kbs1kdiuf6l::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzA4MTNlMWUtZGZlMy00YWVmLTliMDQtNThmMmQwY2JjY2VmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Home Before Dark Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/x28wrvrif0ju/home_before_dark_s01e01_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/la4274byrv4q/home_before_dark_s01e02_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5ceo7djqfmnx/home_before_dark_s01e03_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xp55v53yuaaa/home_before_dark_s01e04_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gsmmfa1a1ss1/home_before_dark_s01e05_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kfox96kqdny3/home_before_dark_s01e06_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bv6g90mix89o/home_before_dark_s01e07_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uckypwtnjn32/home_before_dark_s01e08_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/g9bov1sc0lja/home_before_dark_s01e09_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qrgoyk7zl4p4/home_before_dark_s01e10_720p_atvp_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzA4MTNlMWUtZGZlMy00YWVmLTliMDQtNThmMmQwY2JjY2VmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[B][COLORwhite]Interrogation  Season 1[/COLOR][/B]</title>
 <link>

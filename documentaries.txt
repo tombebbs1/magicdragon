@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rescue Me: International (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cb0bbhk986cn/rescue_me_international_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/pwk4ei7efmuw::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-1j18p1-p::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?3t7w3epiats92lyg1l89::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzhhZGJjYjAtZWU2OC00NmQxLTgyNzUtYWU5ZTY5NjczNDc4XkEyXkFqcGdeQXVyODc2MjA4Mg@@._V1_SY1000_CR0,0,1333,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Haunters: The Art of the Scare (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/33w6fp6ct3kv/haunters_the_art_of_the_scare_2017_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

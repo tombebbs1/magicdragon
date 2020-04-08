@@ -1,4 +1,22 @@
 <item>
+<title>[COLORwhite]Koma (2019) German/Russian[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ozzwy0mxtgqq/coma_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/i431yqmu13rv/coma_2019_ger-rus_1080p_h265-dts::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/en6z6n06ar916e::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/ngyw7a2-5p-w0md::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/967jzclmwdbs::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/l8p4461q5ec2::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/7e024a7a988c74d707c8ed1070dc35be/Coma.2019.GER-RUS.1080p.h265-DTS.mkv.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?otd06c1o29vhw73lsq2j::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?otd06c1o29vhw73lsq2j::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/norulojxpru6::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDc3OWJkMWEtMTlmOC00OGU4LTk3MDYtZDE3OTNiZGRhMmMxXkEyXkFqcGdeQXVyNjYzMTAzNTY@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]What We Do in the Shadows (2014)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/v5m45u8ngd7p/what_we_do_in_the_shadows_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

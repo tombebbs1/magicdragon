@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]David Blaine: The Magic Way (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/v044zaz7tl1s/d_blaine_the_magic_way_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/hz2md30p3rbq::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/447qrbzjmxmg1-k::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5v5oeu0vp9hm468437o8::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/lxb8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Finders Keepers (2015)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mb6o0gsw91kw/finders_keepers_2014_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

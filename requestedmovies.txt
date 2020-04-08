@@ -1,4 +1,22 @@
 <item>
+<title>[COLORwhite]The Shawshank Redemption (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zbwfk5rznyz5/the_shawshank_redemption_trailer_1994_hq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rfz3rwilt3lr/the_shawshank_redemption_1994_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ehtlzkb7uqic::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/3360qumj5xxpy6l::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ehtlzkb7uqic::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/54sn4bf9yoh9::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5acfb75c50f30dab331488ceda5a0005/The.Shawshank.Redemption.1994.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9yozaqy6135nh1qae7r2::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/fbg0xujcxm4t.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xt578aksrah3::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmExYjczMTQtYzc3OS00MDA2LWFkZjItZjE0NGM4YTRhYTY2L2ltYWdlXkEyXkFqcGdeQXVyNjMzMjk3ODc@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Son of Rambow (2007)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5tpsg9wotkg9/son_of_rambow_uk_trailer_starring_will_poulter::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -9,7 +27,7 @@ sublink:LISTSOURCE:https://vidlox.me/o8f0kn7fjed7::LISTNAME:[COLORgold]HD  LINK 
 sublink:LISTSOURCE:https://cloudvideo.tv/350vvlbgotru::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/9ec989c11122e44c28b7cd19516f867c/Son.Of.Rambow.2007.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?0lbv06h27ey5py1xg4aj::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?0lbv06h27ey5py1xg4aj::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/cw5cq7i8uk35.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/0mrueimv1orb::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTM1MjM0ODc5N15BMl5BanBnXkFtZTcwMjMxMDg1MQ@@._V1_.jpg</thumbnail>

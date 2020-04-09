@@ -66,7 +66,7 @@
 <link>
 sublink:LISTSOURCE:https://vidoza.net/nw4zovdbe08r/the_crossroads_of_hunter_wilde_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/euqlddcfg57w/the_crossroads_of_hunter_wilde_2019_720p_webrip_x264_aac-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/euqlddcfg57w/the_crossroads_of_hunter_wilde_2019_720p_webrip_x264_aac-_5byts_mx_5d::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/dq3rvo71tpxx13::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/raos4p5jyvnl::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/el2x0u-1jpkm787::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://videobin.co/by7n0kg6a1qf::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
@@ -87,7 +87,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8B1D21D9B6F0BDA8FBC37A577EDCE858CEB442DB&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4pbdn3e6901y/hope_gap_official_trailer__roadside_attractions::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/nd4qhii7ya84/hope_gap_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/nd4qhii7ya84/hope_gap_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/n01njmnetlo6378::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/tg5lzd0kn3jv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhj-eln3qwl::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://videobin.co/05y9kylowyet::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#

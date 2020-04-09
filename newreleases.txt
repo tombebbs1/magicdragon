@@ -61,12 +61,34 @@
 <fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Hope Gap (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4pbdn3e6901y/hope_gap_official_trailer__roadside_attractions::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nd4qhii7ya84/hope_gap_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nd4qhii7ya84/hope_gap_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tg5lzd0kn3jv::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/1y3qnhj-eln3qwl::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/05y9kylowyet::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/0xbt46u3lezs::LISTNAME:[COLORgold]HD  LINK 6 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/3de08d94eaf8c8b8b619d88fd16dd4ec/Hope.Gap.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tx2fgzzt9vp1uzmqmrpx::LISTNAME:[COLORgold]HD  LINK 8 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/u0wr65wiyltm.html::LISTNAME:[COLORgold]HD  LINK 9 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sryi4t6jqugc::LISTNAME:[COLORgold]HD  LINK 10 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:F0B70A1F36ACA259A49AD45FA2362D06AEBB260E&dn=Hope.Gap.2020.720p.WEBRip.800MB.x264-GalaxyRG+%E2%AD%90&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 11[COLORred]TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5CA2194AB1E8E91980DB8A2F04A98B589684AFB1&dn=Hope.Gap.2020.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgreen]HD  LINK 12[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmY0YmUzM2MtOTRhNS00MjA0LWJmMDctNWMzOTllNzk5ZDdiXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Kings of Mulberry Street (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/frrez0w46bv7/kings_of_mulbery_street_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/ine2buk9f70g/kings_of_mulberry_street_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-e3qd31y::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/9n1x7xlvu3vnze3::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/x2u39amosmuw::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/wg32dan-e3qd31y::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://videobin.co/h2m2r05p0ppy::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#
@@ -87,7 +109,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:076F7BD5DF087BD09470475D310EE1FC3D16310E&
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vtgfsulyy7b5/8_slices_trailer_1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/dbi58a7lnyw6/8_slices_2020_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/l2l26kg7ohz8::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/9n1x7xlvu3vnze3::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/l2l26kg7ohz8::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
 sublink:LISTSOURCE:https://www.fembed.com/v/3360qumj57wxlj0::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
 sublink:LISTSOURCE:https://videobin.co/tkpmwgwbe3j3::LISTNAME:[COLORgold]HD  LINK 5 (VIDEOBIN)[/COLOR]::#

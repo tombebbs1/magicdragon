@@ -1,4 +1,22 @@
 <item>
+<title>[COLORwhite]King Kong (1976)[/COLOR] </title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lf018x67isrd/king_kong_theatrical_trailer_remastered_in_high_definition_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/17nn25q58wx6/king_kong_1976_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/hfzkx0n7hzrg::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/2x451s2pz223qd3::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/majy36pt3szg::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/imtjlcyrdin4::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/bb231bc596aa847c42e51b62ca326623/King.Kong.1976.720p.BluRay.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?czljyel22c53tcikzre9::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/k6jhfo1rnsc3.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/p9wyza8063fl::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNlNjlmYjktNjhiNy00YTQzLWEzYTUtYzc0MDdjYTlmNzUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX653_CR0,0,653,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rain Man (1988) Remastered[/COLOR] </title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/83i8p9s3nst9/rain_man_official_trailer_1_tom_cruise%2C_dustin_hoffmanie_1988_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

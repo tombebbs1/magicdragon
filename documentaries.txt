@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hoaxed (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dpxatyovoxs2/hoaxed_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/iphhscj72if5::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/7dreyhgx0qzzzjr::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qbwj91w4x714j3gu4q94::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGZjZmRkNTctN2I0NC00MDBiLWE1YTAtNWEzMWVlYmZlMzE3XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Isle of Snow (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bo24txxlocqn/isle_of_snow_2019_webrip_x264-ion10::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

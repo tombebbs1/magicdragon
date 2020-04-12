@@ -1,5 +1,23 @@
 
 <item>
+<title>[COLORwhite]The Running Man (1987)[/COLOR] </title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2k1vl5c5a43s/the_running_man_trailer_remastered_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hgxdojmtfnpn/the_running_man_1987_1080p_bluray_x264-_5byts_am_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/nfkduya0fbmz::LISTNAME:[COLORgold]HD  LINK 2 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://www.fembed.com/v/jg-rwadkl713nmd::LISTNAME:[COLORgold]HD  LINK 3 (FEMBED)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/jwok7cwm42at::LISTNAME:[COLORgold]HD  LINK 4 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/hq4hz1zq1345::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/adefe32c5864a7819281cf763d54dbb5/The.Running.Man.1987.1080p.BluRay.x264-[YTS.AM].mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2wiy167bclqcf6oj5f1k::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/qsx28x3uwhv4.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/8mmutuuuh1ru::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blast from the Past (1999)[/COLOR] </title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/nnoiqo5yxit3/blast_from_the_past_1999_official_trailer_alicia_silverstoneie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

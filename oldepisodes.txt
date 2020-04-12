@@ -1,3 +1,33 @@
+<item> 
+<title>[B][COLORwhite]The Goodies Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8za946zv7dun/the_goodies_s01e01_beefeaters_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sq13ltxds8ag/the_goodies_s01e02_snooze_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vcnj6k1jn1yq/the_goodies_s01e03_give_police_a_chance_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/stvgt064mhad/the_goodies_s01e04_playgirl_club_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gw3jvk2twb50/the_goodies_s01e05_the_greenies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wuqklxc9keie/the_goodies_s01e06_cecily_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vmnk8i6fhg4s/the_goodies_s01e07_radio_goodies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Goodies Season 1 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?1aqbsdyikrdpuwk8net1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?el7xnl9ad9dkl5fjo9g1::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dhp047hygxufvhrtttg7::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f1rhu51lwndypvqaqhaw::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?icrtudb6vcs3gr2wo85h::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8cwbzy02il7r6qvsf7d1::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1trdkvgh24vek2ms7r01::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Red Dwarf The Promised Land Part 1 (2020)[/COLOR] </title>
 <link>

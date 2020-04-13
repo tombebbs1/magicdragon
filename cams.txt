@@ -24,9 +24,6 @@ sublink:LISTSOURCE:https://turbobit.net/bjbfwyxgbz7l.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
 <item>
 <title>[COLORwhite]Wendy (2020) HDCAM UPDATED 02/03[/COLOR]</title>
 <link>
@@ -66,16 +63,3 @@ sublink:LISTSOURCE:https://turbobit.net/ko2djkw7zdnb.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-<item>
-<title>[COLORwhite]Blue Story (2019) HDCAM UPDATED 01/12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/7qb1q7aozs48/blue_story__official_trailer__paramount_pictures_uk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/x4aciokhv7m9/blue_story_2019_720p_hdcam_900mb_getb8_x264-bonsai::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/f7de3061p8im::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/2v8x5j8yl4ft::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDZmYjM2ZmEtNDFmNC00NmIyLTgzYTMtMzNhNzM2MGZmM2FhXkEyXkFqcGdeQXVyNzQwOTQ1MzM@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>

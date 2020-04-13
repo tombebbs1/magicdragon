@@ -791,6 +791,36 @@ sublink:LISTSOURCE:https://1fichier.com/?2fr1davzbkg9vr3tp609::LISTNAME:[COLORwh
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]The Goodies Season 7[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jb3e2x1g513j/the_goodies_s07e01_alternative_roots_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yzlybmrsnrtu/the_goodies_s07e02_dodonuts_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nvq9ozya44e4/the_goodies_s07e03_scoutrageous_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ildtc2vcfn6q/the_goodies_s07e04_punky_business_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vahfompn3vma/the_goodies_s07e05_royal_command_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vui937up4ho9/the_goodies_s07e06_earthanasia_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+ublink:LISTSOURCE:https://vidoza.net/nwu71w03ucv4/the_goodies_s06e07_the_goodies__e2::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Goodies Season 7 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?vg4l3xs2drlrxv7lkg2q::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cat50035pgdmq3pxw272::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?68f2pix1gg30slf6tpm1::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?x2cod4ld0rmghl0ydfoh::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2i63xesvgq4vpl8gcmfz::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?81abhghmhja8qh3s4jnq::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+ublink:LISTSOURCE:https://1fichier.com/?2fr1davzbkg9vr3tp609::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item> 
 <title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title> 

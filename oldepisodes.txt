@@ -1,6 +1,48 @@
  
- <item> 
-<title>[B][COLORwhite]The Goodies Season 1[/COLOR][/B]</title> 
+<item> 
+<title>[B][COLORwhite]The Goodies Season 5[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xlb5m5eolzxa/the_goodies_s05e01_theies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zsn3s41ag0tj/the_goodies_s05e02_the_clown_virus_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qjva0qm43om0/the_goodies_s05e03_chubby_chumps_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/e8ge8s0zar0s/the_goodies_s05e04_wacky_wales_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xdtvd700t1k5/the_goodies_s05e05_frankenfido_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zyam7x8f7prf/the_goodies_s05e06_scatty_safari_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/91dzxbizmth8/the_goodies_s05e07_kung_fu_kapersdvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vgrrivq2aq8w/the_goodies_s05e08_lighthouse_keeping_loonies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/terw50gx4dwx/the_goodies_s05e09_rome_antics_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qtln7pbt0mu2/the_goodies_s05e10_cunning_stunts_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/2109vmiauove/the_goodies_s05e11_south_africa_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 11[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q9weqezzus9r/the_goodies_s05e12_bunfight_at_the_ok_tea_rooms_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 12[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/alvron95a17a/the_goodies_s05e13_the_end_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 13[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rpww0n1g6131/the_goodies_s05e00_special_-_goodies_rule__e2::LISTNAME:[COLORwhite]Special 1[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Goodies Season 5 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?zlrhqf0tp5emvm6vk4gg::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4r0dwnv66let3glwbc8a::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?x3j1m6r85edbp06mz7h8::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?yqd412lxblwkc267sme9::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ra9qzueb7tf332p2m1lk::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lwkkb637m5encvngcnp7::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?fmzqcw7u52dc5vjb22x4::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?hh2h7dem6yg9us6qf8pd::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?70gy1eukh5kwlp0p9sj7::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?x44frwwkn4if7mpntb9k::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vw0bzqouaz4j8dmjc8qo::LISTNAME:[COLORwhite]Ep 11[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?xtz2f45murfresg0fmy6::LISTNAME:[COLORwhite]Ep 12[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?mhx83vcaydoldrguindh::LISTNAME:[COLORwhite]Ep 13[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5krjpjwni0xe76hb66jk::LISTNAME:[COLORwhite]Special 1[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Goodies Season 4[/COLOR][/B]</title>
 <link>

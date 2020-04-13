@@ -851,6 +851,36 @@ sublink:LISTSOURCE:https://1fichier.com/?tgwfqmeeglus3k55s2ze::LISTNAME:[COLORwh
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]The Goodies Season 9[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wq6fwrwj9odr/the_goodies_s09e01_robot_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hjxccionmjq3/the_goodies_s09e02_football_crazy_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/v7gn9tnebixw/the_goodies_s09e03_bigfoot_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qru3c1spq92s/the_goodies_s09e04_change_of_life_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rgbhehkd459c/the_goodies_s09e05_holidays_5b_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4i1l1lhc3olb/the_goodies_s09e06_animals_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+ublink:LISTSOURCE:https://vidoza.net/kctiadrrgdve/the_goodies_s08e00_extra_-_an_audience_with_the_goodies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Special[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Goodies Season 9 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?17rr33ulqouc4xgxtewo::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8q0gctba9r1celwcgmfk::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tcw1g363tzxhup2mwkfd::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?j1dh6z0zupfw1l5v3t0i::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1ldqy9unkumb7el6bwuv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?rhcwvsypglvhes1rih3r::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+ublink:LISTSOURCE:https://1fichier.com/?tgwfqmeeglus3k55s2ze::LISTNAME:[COLORwhite]Special[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item> 
 <title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title> 

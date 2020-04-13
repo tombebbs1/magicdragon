@@ -606,6 +606,54 @@ sublink:LISTSOURCE:https://1fichier.com/?1trdkvgh24vek2ms7r01::LISTNAME:[COLORwh
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]The Goodies Season 2[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8za946zv7dun/the_goodies_s01e01_beefeaters_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sq13ltxds8ag/the_goodies_s01e02_snooze_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vcnj6k1jn1yq/the_goodies_s01e03_give_police_a_chance_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/stvgt064mhad/the_goodies_s01e04_playgirl_club_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gw3jvk2twb50/the_goodies_s01e05_the_greenies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wuqklxc9keie/the_goodies_s01e06_cecily_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vmnk8i6fhg4s/the_goodies_s01e07_radio_goodies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5kpwnxc06r3w/the_goodies_s02e08_dancing_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zqsw5y1ybvvb/the_goodies_s02e09_farm_fresh_food_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/y04ft2yqi9vl/the_goodies_s02e10_free_to_live_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/l4b8ljjdgt2r/the_goodies_s02e11_gender_education_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 11[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n7uxmsdreys8/the_goodies_s02e12_london_to_brighton_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 12[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bjutsvc4x2bp/the_goodies_s02e13_double_trouble_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 13[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/snxio8ui1k77/the_goodies_s02e00_special_-_goodies_travelling_instant_5_minute_christmas_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Special 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xyy6j0t2sttw/the_goodies_s02e00_special_-_montreux_72_kitten_kong_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Special 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ep1kt47aleqf/the_goodies_s02e00_special_-_a_collection_of_goodies_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Special 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Goodies Season 2 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?r0ck1b2gqnxqissmj3u3::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8n6qe3qkofxj0zzdwxk3::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?dhp047hygxufvhrtttg7::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f1rhu51lwndypvqaqhaw::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?icrtudb6vcs3gr2wo85h::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8cwbzy02il7r6qvsf7d1::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1trdkvgh24vek2ms7r01::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?2grjhl3zixmwfxo5t743::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?kfolu460zdxk67ce8jy1::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0v0urrkgkrr8ihg7sogp::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?av3lzhyhss8stxm4p2is::LISTNAME:[COLORwhite]Ep 11[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?83iz5sdjwi72t90lxsio::LISTNAME:[COLORwhite]Ep 12[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?35ai0lvyur9gy57x2mva::LISTNAME:[COLORwhite]Ep 13[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zwt8bezjnr7ajoafueb4::LISTNAME:[COLORwhite]Special 1[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9vtb3vk4k0rjzluzlber::LISTNAME:[COLORwhite]Special 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?usiuya9uatyhtsne2u41::LISTNAME:[COLORwhite]Special 3[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item> 
 <title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title> 

@@ -1,4 +1,36 @@
 <item> 
+<title>[B][COLORwhite]The Goodies Season 1[/COLOR][/B]</title> 
+<item> 
+<title>[B][COLORwhite]The Goodies Season 3 Real Debrid[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rkz5ojrc0wvz/the_goodies_s03e01_the_new_office_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/oaa079i8dv33/the_goodies_s03e02_hunting_pink_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sfwmk1rkyhit/the_goodies_s03e03_the_winter_olympics_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vuw834set9og/the_goodies_s03e04_that_old_black_magic_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/swun64cdyp14/the_goodies_s03e05_for_those_in_peril_on_the_sea_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8mgunr8nr1v3/the_goodies_s03e06_way_outward_bound_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gp6gj84ci2lh/the_goodies_s03e00_special_-_superstar_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Special[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Goodies Season 3 Real Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?3gqwb6io68n9xanr3mq5::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?gg3ocufz05d2sqw9xkyj::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?uimstm145lwsfa6n0y1u::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?q3r0g5d6v2n6e5hsx8uo::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zuuz2p6ra8e1sv31hnsu::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?j107dax2ytn295ku64bg::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ujn0589lme9ug2dbf06m::LISTNAME:[COLORwhite]Special[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNjI4NjAwNl5BMl5BanBnXkFtZTYwMzkzNjk5._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Goodies Season 2[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8za946zv7dun/the_goodies_s01e01_beefeaters_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

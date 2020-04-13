@@ -46,7 +46,7 @@ sublink:LISTSOURCE:https://videobin.co/ocsrkz2z4vds::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://cloudvideo.tv/r3pz175caakk::LISTNAME:[COLORgold]HD  LINK 5 (CLOUDVIDEO)[/COLOR]::#
 sublink:LISTSOURCE:https://rapidgator.net/file/3af209ab11c30647d30d91accfc0f9fa/Home.2015.720p.BluRay.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 6 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?jb1412rzt56cxy9xw03g::LISTNAME:[COLORgold]HD  LINK 7 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/wm5ltg8bt1sg.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jb1412rzt56cxy9xw03g::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/6td7a4osz140::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

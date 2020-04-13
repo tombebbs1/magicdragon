@@ -13,7 +13,7 @@ sublink:LISTSOURCE:https://1fichier.com/?188327x9ak3s2updldus::LISTNAME:[COLORgo
 sublink:LISTSOURCE:https://turbobit.net/k8ym2kzixl5g.html::LISTNAME:[COLORgold]HD  LINK 8 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/e517qpdxc4mp::LISTNAME:[COLORgold]HD  LINK 9 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
 </link>
-<thumbnail></thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

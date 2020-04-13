@@ -1,7 +1,7 @@
 <item> 
 <title>[B][COLORwhite]The Goodies Season 1[/COLOR][/B]</title> 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 3 Real Debrid[/COLOR][/B]</title>
+<title>[B][COLORwhite]The Goodies Season 3[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/rkz5ojrc0wvz/the_goodies_s03e01_the_new_office_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/oaa079i8dv33/the_goodies_s03e02_hunting_pink_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#

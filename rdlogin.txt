@@ -19,9 +19,9 @@
 <fanart><fanart>
 <item> 
 
- <item>
+<item>
 <title>[COLORyellow]Authorize Premiumize Resolveurl[/COLOR]<title>
-<Link>plugin://script.module.resolveurl/?mode=authPremiumize<link>
+<Link>plugin://script.module.resolveurl/?mode=auth_Premiumize<link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item>

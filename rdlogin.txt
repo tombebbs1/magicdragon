@@ -21,7 +21,7 @@
 
  <item>
 <title>[COLORred]Authorize Premiumize Resolveurl[/COLOR]<title>
-<Link>plugin://script.module.resolveurl/?mode=auth_premiumize<link>
+<Link>plugin://script.module.resolveurl/?mode=auth_premiumize_me<link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item>

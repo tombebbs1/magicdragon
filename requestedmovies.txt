@@ -1,4 +1,21 @@
 <item>
+<title>[COLORwhite]Dogma (1999)[/COLOR] </title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/765bgvcej3l6/dogma_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ckyh5gnx9bo3/dogma_1999_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/5x79vwzc0k96::LISTNAME:[COLORgold]HD  LINK 2 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ore8lwapctoi::LISTNAME:[COLORgold]HD  LINK 3 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://cloudvideo.tv/z8u0ra0n4krn::LISTNAME:[COLORgold]HD  LINK 4 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/16724a50f6cd5296b6d0cc1751e10d6a/Dogma.1999.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 5 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1vyt3qrzlr2grpsdxhnr::LISTNAME:[COLORgold]HD  LINK 6 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/knfaozf7unsf.html::LISTNAME:[COLORgold]HD  LINK 7 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ijcfe7qsy22b::LISTNAME:[COLORgold]HD  LINK 8 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzAyOWUyZjQtNDBiMy00ZDExLTgwNmMtZDdmY2ViNzkyN2Y0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Business (2005)[/COLOR] </title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1faju81u2olg/the_business_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -51,6 +68,8 @@ sublink:LISTSOURCE:https://uptobox.com/e517qpdxc4mp::LISTNAME:[COLORgold]HD  LIN
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
+
 
 <item>
 <title>[COLORwhite]The Goonies (1985)[/COLOR] </title>

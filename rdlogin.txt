@@ -18,10 +18,3 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item> 
-
- <item>
-<title>[COLORyellow]Authorize Premiumize Resolveurl[/COLOR]<title>
-<Link>plugin://script.module.resolveurl/?mode=auth_pm<link>
-<thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
-<fanart><fanart>
-<item>

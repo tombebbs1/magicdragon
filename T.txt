@@ -5211,12 +5211,7 @@ sublink:LISTSOURCE:https://streamango.com/f/dcdsoqtfktestpfq/The_Vampire_King_20
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Van 1996[/COLOR]</title>
-<link>https://streamango.com/f/oasapnldpadkteqq/The_Van_1996_720p_WEB-DL_DD5_1_H264-FGT_mkv_mp4</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTAzNzg0Ml5BMl5BanBnXkFtZTcwOTAwNzAwMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Vanishing of Sidney Hall (2017)[/COLOR]</title>

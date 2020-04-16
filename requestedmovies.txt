@@ -1,4 +1,19 @@
 <item>
+<title>[COLORwhite]Gladiator (2000) Extended[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dqt6exi45crz/gladiator_2000_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xaluuqrarvv5/gladiator_2000_extended_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/n5yfjkxouviq::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/43eaaf7edd768fd7dc2fb01eb476b1ed/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f9bs5iy6mxib7klk3x2k::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?f9bs5iy6mxib7klk3x2kl::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/08bkxn2ehhem::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Philadelphia (1993) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/go9hzgghhdje/philadelphia_1993_-ie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,19 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Painted Warrior (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/csm8lrr73ah0/the_painted_warrior_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cyxc5zbz5x1d::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/25e6ef541be3bfcf47394dee237e4ed0/The.Painted.Warrior.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORwhite]HD  LINK 3 RD Only[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ycub4es4us6kwbeewz14::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjMwMDZlYWQtZmU0ZS00NjYxLTlkNmMtZGQxNDZkYjg3YWI1XkEyXkFqcGdeQXVyMjM1NzM1MTg@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Story of Plastic (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/btq13b7913vs/the_story_of_plastic_2020_webrip_x264-caffeine::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

@@ -1,4 +1,19 @@
 <item>
+<title>[COLORwhite]King Kong (2005) Extended[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ay23beqzdg72/king_kong_official_trailer_1_jack_blackie_2005_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wz1qww95flrf/king_kong_2005_extended_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9ggpxfw0fy7r::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/0fda55eb1e0c423d0a00e4a94bd1eb1c/King.Kong.2005.EXTENDED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?zf2h9602qmrqznsffi6a::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/0q7he73q56hw.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/mapbndn62fa1::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWRmM2RkOWYtZjFkNS00MDg5LThlNWItNWJmYzllN2Y4OTc0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Van (1996) DVD RIP[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/b45sxu9xee0l/the_van_trailer_1996_vhs_capture_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

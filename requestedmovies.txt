@@ -1,5 +1,8 @@
 <item>
 <title>[COLORwhite]The Hunt for Red October (1990) Remastered[/COLOR]</title>
+
+<item>
+<title>[COLORwhite]The Hunt for Red October (1990) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/wan64pfu33jg/the_hunt_for_red_october_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/4134eyw8izff/the_hunt_for_red_october_1990_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#

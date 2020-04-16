@@ -11,6 +11,8 @@ sublink:LISTSOURCE:https://uptobox.com/pneuauyqyu7e::LISTNAME:[COLORgold] HD  LI
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzU2NzU1YzUtMzMwNS00ZDU2LTkxZGQtNTI4NzNhYTc4YTVmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,701,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]The Sum of All Fears (2002) Remastered[/COLOR]</title>

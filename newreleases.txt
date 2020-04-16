@@ -83,6 +83,21 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:34E71B7F968C34CDF3D54FB024A9272BE4F24626&
 </item>
 
 <item>
+<title>[COLORwhite]Sesame Street: Elmo's Playdate (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/beadbrrc6txt/sesame_street_elmo%E2%80%99s_playdate_preview_caringforeachother::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ca32fl6dx36m/sesame_street_elmos_playdate_2020_1080p_amzn_web-dl_dd_2b2_0_h_264-monkee::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/gpj4tz10dgg7::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/1883ab57d7c7393f5c743ee949de3154/Sesame.Street.Elmos.Playdate.2020.1080p.AMZN.WEB-DL.DD_2.0.H.264-monkee.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?80yw749m3x28e1wntcju::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?80yw749m3x28e1wntcju::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/87wjgc0397ht::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://dyncdn.me/posters2/0/0ad1a6d9a0262abe612bd4904b4190869b9d8933.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Urban Myths (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/n9lqrcby4szl/urban_myths_official_trailer_lou_ferrigno_jr%2C_courtney_gainesie_by_mirror_dog_productions::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

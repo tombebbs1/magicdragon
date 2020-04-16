@@ -14,6 +14,21 @@ sublink:LISTSOURCE:https://uptobox.com/ou0o6jlyza9x::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
+<title>[COLORwhite]Clear and Present Danger (1994) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kzf12heekktb/clear_and_present_danger_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ya2i4x1wbhzl/clear_and_present_danger_1994_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7bcrprf68xa5::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/e85fc2d3db5ee9c25537e6e52cccbf30/Clear.And.Present.Danger.1994.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?u6e7yw9biqdmhp09ecsa::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/jrzk2pmtlpc7.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/lrlmbj0tadna::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDczOWNiMmEtZjA4MS00NDMzLWExNTktYjc0MGU0YTQ3ZDExXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,672,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Patriot Games (1992) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vkhgxto0sic4/patriot_games_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

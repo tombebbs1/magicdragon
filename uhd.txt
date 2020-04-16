@@ -1635,7 +1635,7 @@ sublink:LISTSOURCE:https://1fichier.com/?lcim3k3zjg::LISTNAME:[COLORgold]HD  LIN
 
 <item>
 <title>[COLORwhite]Gladiator (2000) Extended[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
-<link>https://1fichier.com/?nkghwbo9px</link>
+<link>magnet:?xt=urn:btih:b59be4464b0687f0c897c29ef24e789806d150dc&dn=Gladiator.2000.EXTENDED.2160p.UHD.BluRay.x265.10bit.HDR.DTS-X.7.1-IAMABLE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2810&tr=udp%3A%2F%2F9.rarbg.to%3A2860</link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>

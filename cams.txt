@@ -13,18 +13,7 @@ sublink:LISTSOURCE:https://turbobit.net/bjbfwyxgbz7l.html::LISTNAME:[COLORwhite]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Wendy (2020) HDCAM UPDATED 02/03[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/5wzzixhxapg4/wendy_trailer_2020_peter_pan%2C_fantasyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/dct42x1rww7i/wendy_2020_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/s7g3o894ulfy::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/zmvuwg54cub1::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://turbobit.net/c9lmz2sb9q08.html::LISTNAME:[COLORwhite]SD  LINK 4 Real Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BN2NlODlkZWEtN2U2OC00MTI4LTlhMTEtZTM0MDIyODZiMDhhXkEyXkFqcGdeQXVyMTA1NTA1MTI4._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]First Lady (2020) HDCAM UPDATED 18/02[/COLOR]</title>

@@ -1,4 +1,19 @@
 <item>
+<title>[COLORwhite]Genevieve (1953)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xfcklh5lqyx6/genevieve_1953_sun-2-sept_at_7_15pm__wed-5-sept_at_9pm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fj4swcf1yukb/genevieve_1953_720p_bluray_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/u3rt4eqtxwc2::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/d638d7f2e7981bb63f5ad65858d23a15/Genevieve.1953.720p.BluRay.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?5qaw7cwt0rcq8m9xe331::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pmskadm9s63y.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/7jnekyax2d89::LISTNAME:[COLORgold] HD  LINK 4 (UPLOAD) [COLORred] Real Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTM1NjkxMjUtYTA5My00YzVlLThmYTYtN2Y1ODU2ZWI1ODkxXkEyXkFqcGdeQXVyNjUzNzcwMjc@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Li'l Abner (1959)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9j4n99x3xai2/li%27l_abner_original_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]VIPCO The Untold Story (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wvcq6b14pp9a/creep-vipcotheuntoldstory::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xv5pur6p5en1::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6jad03h1uui5sv661sze::LISTNAME:[COLORwhite]HD  LINK 3 RD Only[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/vauq90g4spp3.html::LISTNAME:[COLORwhite]HD  LINK 4 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/cLjlU3sp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Painted Warrior (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/csm8lrr73ah0/the_painted_warrior_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
@@ -253,7 +265,7 @@ sublink:LISTSOURCE:https://vidoza.net/2hc7yi4utem7/tiger_king_murder_mayhem_and_
 </item>
 
 <item> 
-<title>[B][COLORwhite]Tiger King Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Tiger King Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?rwb6cxkxirbd62wan3x4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?v7srv33jj71u2ypzvqq4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -2821,10 +2833,10 @@ sublink:LISTSOURCE:https://vidoza.net/ihdfjmk1y1w1/amazing_grace_2018_1080p_blur
 sublink:LISTSOURCE:https://vidoza.net/ihdfjmk1y1w1/amazing_grace_2018_1080p_bluray_1400mb_dd5_1_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
 sublink:LISTSOURCE:https://flix555.com/be4pef4wvzgo::LISTNAME:[COLORgold]HD  LINK 3[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/idwbdx7inrgj::LISTNAME:[COLORgold]HD  LINK 4[/COLOR]::#
-sublink:LISTSOURCE:https://verystream.com/stream/jkxpRiPb2hh/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://verystream.com/stream/jkxpRiPb2hh/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv::LISTNAME:[COLORgold]HD  LINK 5[COLORred] Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/idwbdx7inrgj::LISTNAME:[COLORgold]HD  LINK 6 OLOAD PAIR[/COLOR]::#
-sublink:LISTSOURCE:https://rapidgator.net/file/ce7cfba7ebdea108ef17037ce9ad7832/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?tcr4s93mefdb9hdvnpxf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ce7cfba7ebdea108ef17037ce9ad7832/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.html::LISTNAME:[COLORgold]HD  LINK 7[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?tcr4s93mefdb9hdvnpxf::LISTNAME:[COLORgold]HD  LINK 8[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODQzNTMyNTY2NF5BMl5BanBnXkFtZTgwNDM5MTg1NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

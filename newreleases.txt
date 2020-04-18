@@ -79,7 +79,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:F9956DD40F8EBE3469B91DF7D7CD16AEA102A240&
 </item>
 
 <item>
-<title>[COLORwhite]The Adventures of Açela (2020) HD RIP[/COLOR]</title>
+<title>[COLORwhite]The Adventures of Acela (2020) HD RIP[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sv3c41rkovfe/the_adventures_of_a%C3%A7ela_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/exs1s02mhnm2/the_adventures_of_acela_2020_hdrip_xvid_ac3-evo::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#

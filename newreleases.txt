@@ -1390,6 +1390,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7B6450247FC3380F8680F8C61241CDFD462E225A&
 </item>
 
 <item>
+<title>[B][I][COLORred]PAGE 2[/B][/I][/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr2.txt</externallink>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][I][COLORred]PAGE 3[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>

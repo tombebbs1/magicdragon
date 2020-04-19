@@ -42,7 +42,7 @@ sublink:LISTSOURCE:https://turbobit.net/bhj82b0gryhz.html::LISTNAME:[COLORgold] 
 sublink:LISTSOURCE:https://gounlimited.to/a2k79qp1nr77/The.Da.Vinci.Code.2006.EXTENDED.1080p.BluRay.x265-RARBG.mp4::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
 sublink:LISTSOURCE:https://uptobox.com/cl8d2ygbd3wd::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_SY1000_CR0,0,672,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

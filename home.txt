@@ -82,7 +82,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORyellowgreen]1 Click HD Real Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
+<name>[B][I][COLORyellowgreen]1 Click HD Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -91,7 +91,7 @@
 
 
 <channel>
-<name>[B][I][COLORred]Real Debrid Movies[/B][/I][/COLOR]</name>
+<name>[B][I][COLORred]Debrid Movies[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/realdebrid.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -99,7 +99,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORorange]4K Movies[/B][/I][/COLOR]</name>
+<name>[B][I][COLORorange]4K Movies Debrid Only[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhd.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

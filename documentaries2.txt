@@ -1,4 +1,13 @@
-
+<item>
+<title>[COLORwhite]Tyson (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9vpr7wplh3t4/tyson_2008_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://flix555.com/abe9b75gyuzk::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fip3wad2rjzr::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzU0NjM1MTQzN15BMl5BanBnXkFtZTcwMTE3MTA0Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Reckoning: Hollywood's Worst Kept Secret (2018)[/COLOR]</title>
@@ -869,16 +878,7 @@ sublink:LISTSOURCE:https://uptobox.com/t18va0jatd5k::LISTNAME:[COLORgold]HD  LIN
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Tyson (2008)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/9vpr7wplh3t4/tyson_2008_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://flix555.com/abe9b75gyuzk::LISTNAME:[COLORgold]HD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/fip3wad2rjzr::LISTNAME:[COLORgold]HD  LINK 3 REAL DEBRID[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMzU0NjM1MTQzN15BMl5BanBnXkFtZTcwMTE3MTA0Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Memory: The Origins of Alien (2019)[/COLOR]</title>

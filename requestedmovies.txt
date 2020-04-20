@@ -1,4 +1,20 @@
 <item>
+<title>[I][COLORwhite]Godzilla (1998) Remastered[/COLOR][/I]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xnslrolemmqb/godzilla_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w0dxfved8kq6/godzilla_1998_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/99jv7n6hszjn::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/06e616bbffcf78dd298e31c5c1f73892/Godzilla.1998.REMASTERED.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?deqjrqov77fz9vd1dga0::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/knrlle41oax7.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/apjckyoi54vu/Godzilla.1998.REMASTERED.1080p.BluRay.x265-RARBG.mp4::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/bqg13224py1b::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjFlOTI2OGQtMzg0YS00ZGE4LTkwMjEtZDUzYThlOTU5YjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX674_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[I][COLORwhite]Virus (1996)[/COLOR][/I]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ef0bxs9owfl0/virus_trailer_1996::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

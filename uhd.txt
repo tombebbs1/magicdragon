@@ -2464,7 +2464,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:144064d96063617d73ed4b707d9cdc2dc11e0aaa&
 
 
 <item>
-<title>[COLORwhite]Kong: Skull Island (2017) 4K[/COLOR]</title>
+<title>[COLORwhite]Kong: Skull Island (2017) 4K RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/0c8wkycpfyko::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
 </link>
@@ -4957,7 +4957,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:da77c0ea85d62d53807484854d298cd5c2142013&
 </item>
 
 <item>
-<title>[COLORwhite]The Revenent 4K [/COLOR]</title>
+<title>[COLORwhite]The Revenent 4K [/COLOR] RD Only</title>
 <link>https://uptobox.com/bqw944mxw5be</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2FmODc2N2QtYmY3MS00YTMwLWI2NGYtZWRmYWVkNjFjZmI0XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>

@@ -1,4 +1,36 @@
 <item>
+<title>[I][COLORwhite]Terminator: Dark Fate (2019)[/COLOR][/I]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s17rxqegwtg1/terminator_dark_fate_official_trailer_2019_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/t2i5k5ieera0/terminator_dark_fate_2019_1080p_webrip_x264-_5byts_lt_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dvj41z7nr7p5::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/222d2eeed43e6c8e9c824376c85e3da2/Terminator.Dark.Fate.2019.1080p.WEBRip.x264-[YTS.LT].mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ex15p7t41ef25p4mwaj9::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/cokrvmv5h0ze.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/py39vycarcrr/Terminator.Dark.Fate.2019.1080p.WEBRip.x264-_5BYTS.LT_5D.mp4::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/6rubnt5au1b7::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDBmNWUxOWEtZmMwNS00MGYyLWFhYTMtNDAyMDAxZGE0YTVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[I][COLORwhite]Terminator Genisys (2015)[/COLOR][/I]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fp59w2rlumj1/terminator_genisys_official_trailer_1_2015_arnold_schwarzeneggerie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fp86l51n4861/terminator_genisys_2015_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1zivxkkpqx1o::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/10d17e7e8e4a86d95577ef13f869c62a/Terminator.Genisys.2015.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?j23f5r19kzk7uwu5vk6y::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ao9x51w8na5t.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/3i8odhoxuzj5/Terminator.Genisys.2015.1080p.BluRay.x265-RARBG.mp4::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/dv4dmzgw9itc::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[I][COLORwhite]Terminator Salvation (2009)[/COLOR][/I]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ynzapybfk9xd/terminator_salvation_2009_official_trailer_christian_bale%2C_bryce_dallas_howardie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

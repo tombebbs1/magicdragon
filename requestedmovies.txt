@@ -1,4 +1,21 @@
 <item>
+<title>[I][COLORwhite]The Happening (2008)[/COLOR][/I]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/snr8fer0grqu/official_trailer_the_happening_2008_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/n93d7avs830k/the_happening_2008_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/calisopaeu62::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/p2nvfoavgbrj.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/ce7a1298832366059c7787e4ae9ac737/The.Happening.2008.1080p.BluRay.x265-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?v8ujqy9tjtcjumfrwotj::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/zi5wv3e7zbp1.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/dt46eqosxyf3/The.Happening.2008.1080p.BluRay.x265-RARBG.mp4::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/n93t0zh0fr8u::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[I][COLORwhite]The Navigator (1924) Remastered[/COLOR][/I]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/c0ez5s81v8p0/the_gator_1924_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

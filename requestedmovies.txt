@@ -1,4 +1,21 @@
 <item>
+<title>[I][COLORwhite]The Navigator (1924) Remastered[/COLOR][/I]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/c0ez5s81v8p0/the_gator_1924_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/34z6ji0388ff/the_gator_1924_remastered_720p_bluray_x264-ghouls::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vv27ejishewi::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/h3ypc6e4fu81.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/da55fac6a6521486914a2cdb07d12528/the.navigator.1924.remastered.720p.bluray.x264-ghouls.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?7dprja892vs9n1gmu75m::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/8ntv336a40ak.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/7y9xhatm2yqw/the.navigator.1924.remastered.720p.bluray.x264-ghouls.mkv::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/cykhf5z1e1tg::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA1ODQ1Nzk0MV5BMl5BanBnXkFtZTgwOTEwNTQ2MzE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[I][COLORwhite]Terminator: Dark Fate (2019)[/COLOR][/I]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/s17rxqegwtg1/terminator_dark_fate_official_trailer_2019_paramount_pictures::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,21 @@
+
+<item>
+<title>[I][COLORwhite]The Hippopotamus (2017)[/COLOR][/I]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0uy43jid7nd8/the_hippopotamus_trailer_1_2017__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8613wdbazaoa/the_hippopotamus_2017_1080p_bluray_x264-_5byts_ag_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wlezjfexdrjl::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/1x3fbpai83kk.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9bc7a6960c11268c909a06cdb09d9deb/The.Hippopotamus.2017.1080p.BluRay.x264-[YTS.AG].mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?9wsmy51kajxfjszq1ojs::LISTNAME:[COLORgold] HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/pwda1degy3s3.html::LISTNAME:[COLORgold] HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/ynoordi1d0ge/The.Hippopotamus.2017.1080p.BluRay.x264-_5BYTS.AG_5D.mp4::LISTNAME:[COLORgold] HD  LINK 5 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ct5st9p0k6o8::LISTNAME:[COLORgold] HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDU3YTNhZTYtOTJmMS00MDZmLTljZTYtZjkyMjZhMjRlMmU1XkEyXkFqcGdeQXVyMzgyNTM5NA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[I][COLORwhite]Toolbox Murders (2004) DVD RIP[/COLOR][/I]</title>
 <link>

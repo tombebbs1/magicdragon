@@ -208,7 +208,7 @@ sublink:LISTSOURCE:https://uptobox.com/obxyy9fb35dm::LISTNAME:[COLORgold] HD  LI
 </item>
 
 <item>
-<title>[I][COLORwhite]The Terminator (1984) DC Remastered[/COLOR][/I]</title>
+<title>[I][COLORwhite]The Terminator (1984) Remastered[/COLOR][/I]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/s2pw78egy02y/the_terminator_1984_official_trailer_arnold_schwarzeneggeie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/mw0yfm7d1un1/the_terminator_1984_remastered_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#

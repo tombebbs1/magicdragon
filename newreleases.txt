@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[B][I][COLORred] GO TO NEW RELEASES PAGE 2[/B][/I][/COLOR]</title>
+<title>[B][COLORred] GO TO NEW RELEASES PAGE 2[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr2.txt</externallink>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>[B][I][COLORred]GO TO NEW RELEASES PAGE 3[/B][/I][/COLOR]</title>
+<title>[B][COLORred]GO TO NEW RELEASES PAGE 3[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr3.txt</externallink>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>[B][I][COLORred]GO TO NEW RELEASES PAGE 4[/B][/I][/COLOR]</title>
+<title>[B][COLORred]GO TO NEW RELEASES PAGE 4[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr4.txt</externallink>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[B][I][COLORred]GO TO NEW RELEASES PAGE 5[/B][/I][/COLOR]</title>
+<title>[B][COLORred]GO TO NEW RELEASES PAGE 5[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr5.txt</externallink>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-<title>[I][COLORwhite]Faith, Hope & Love (2019)[/COLOR][/I]</title>
+<title>[COLORwhite]Faith, Hope & Love (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8g40ljeabhzw/faith%2C_hope_%26_love_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/nz0yhdn24c0a/faith_hope_and_love_2019_1080p_web-dl_h264_ac3-evo_5bethd_5d::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -84,7 +84,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:DA061274C7D8BEB252A344D99FD11B731F18FF96&
 </item>
 
 <item>
-<title>[I][COLORwhite]Full Out 2: You Got This! (2020)[/COLOR][/I]</title>
+<title>[COLORwhite]Full Out 2: You Got This! (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ciq3qbv9w143/full_out_2_you_got_this%21_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidoza.net/askgfupu9suu/full_out_2_you_got_this_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
@@ -1778,7 +1778,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7B6450247FC3380F8680F8C61241CDFD462E225A&
 </item>
 
 <item>
-<title>[B][I][COLORred]PAGE 2[/B][/I][/COLOR]</title>
+<title>[B][COLORred]PAGE 2[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr2.txt</externallink>
@@ -1787,7 +1787,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7B6450247FC3380F8680F8C61241CDFD462E225A&
 </item>
 
 <item>
-<title>[B][I][COLORred]PAGE 3[/B][/I][/COLOR]</title>
+<title>[B][COLORred]PAGE 3[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr3.txt</externallink>
@@ -1796,7 +1796,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7B6450247FC3380F8680F8C61241CDFD462E225A&
 </item>
 
 <item>
-<title>[B][I][COLORred]PAGE 4[/B][/I][/COLOR]</title>
+<title>[B][COLORred]PAGE 4[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr4.txt</externallink>
@@ -1805,7 +1805,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7B6450247FC3380F8680F8C61241CDFD462E225A&
 </item>
 
 <item>
-<title>[B][I][COLORred]PAGE 5[/B][/I][/COLOR]</title>
+<title>[B][COLORred]PAGE 5[/B][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr5.txt</externallink>

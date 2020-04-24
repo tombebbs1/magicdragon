@@ -1,5 +1,61 @@
 
 <item> 
+<title>[B][COLORwhite]After Life Season 2[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vup.to/smagcco889xb.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/ci85y4yn1bkk.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/s6gjcolm3u8s.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/p8o36jsxcmqh.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/74s9iae39qi8.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/mrkkaog9pncq.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]After Life Season 2 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?gazp55sug3dq8b2zq9uc::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?qq5siuyo91qm5zgzh1vt::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?a7ppl02e0cgus2b697h2::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?sny4zg9bxoq72v9zjvcv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?47ju0q8ww4eicwtojzl5::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ivae3tjx6mfddtjrswem::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]After Life Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vup.to/210n529m5uny.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/1xt7vdehvov3.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/y7ny4oapta61.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/wkg3qgww1tfv.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/zzgledll2dyp.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/5y1755dc7cvo.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]After Life Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?mef0piq2fpqiwx8zwlhm::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?6fqhylhevthn3m5x7uk9::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?47g23clmeje84koei7l8::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?cuxxz269l3i6e86j6xxz::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vagkizm0gn1p3u2jugrp::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ihb84c6mzrcxa480c4bo::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Goodies Season 9[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/wq6fwrwj9odr/the_goodies_s09e01_robot_dvdrip_x264-skorpion::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
@@ -15,7 +71,7 @@ ublink:LISTSOURCE:https://vidoza.net/kctiadrrgdve/the_goodies_s08e00_extra_-_an_
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 9 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 9 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?17rr33ulqouc4xgxtewo::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?8q0gctba9r1celwcgmfk::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -45,7 +101,7 @@ sublink:LISTSOURCE:https://vidoza.net/kctiadrrgdve/the_goodies_s08e00_extra_-_an
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 8 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 8 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?v4ssknurngpfas28ra4o::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?q013j7r4anvylau4whmu::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -75,7 +131,7 @@ ublink:LISTSOURCE:https://vidoza.net/nwu71w03ucv4/the_goodies_s06e07_the_goodies
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 7 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 7 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?vg4l3xs2drlrxv7lkg2q::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?cat50035pgdmq3pxw272::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -103,7 +159,7 @@ sublink:LISTSOURCE:https://vidoza.net/nwu71w03ucv4/the_goodies_s06e07_the_goodie
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 6 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 6 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?f56volz2broo37ssyowk::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?7s6nyghir37oxcnbk394::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -140,7 +196,7 @@ sublink:LISTSOURCE:https://vidoza.net/rpww0n1g6131/the_goodies_s05e00_special_-_
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 5 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 5 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?zlrhqf0tp5emvm6vk4gg::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?4r0dwnv66let3glwbc8a::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -177,7 +233,7 @@ sublink:LISTSOURCE:https://vidoza.net/odv3y8jp5ej0/the_goodies_s04e00_special_-_
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 4 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 4 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?co0927w5rbbakvgvxb7j::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?xog8j9vr82oe93rz35de::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -207,7 +263,7 @@ sublink:LISTSOURCE:https://vidoza.net/gp6gj84ci2lh/the_goodies_s03e00_special_-_
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 3 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 3 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?3gqwb6io68n9xanr3mq5::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?gg3ocufz05d2sqw9xkyj::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -246,7 +302,7 @@ sublink:LISTSOURCE:https://vidoza.net/ep1kt47aleqf/the_goodies_s02e00_special_-_
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 2 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 2 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?r0ck1b2gqnxqissmj3u3::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?8n6qe3qkofxj0zzdwxk3::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -285,7 +341,7 @@ sublink:LISTSOURCE:https://vidoza.net/vmnk8i6fhg4s/the_goodies_s01e07_radio_good
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Goodies Season 1 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Goodies Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?1aqbsdyikrdpuwk8net1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?el7xnl9ad9dkl5fjo9g1::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -324,7 +380,7 @@ sublink:LISTSOURCE:https://1fichier.com/?9tul52pye1txpj0q9zmk::LISTNAME:[COLORwh
 </item>
 
 <item> 
-<title>[B][COLORwhite]Home Before Dark Season 1 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Home Before Dark Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?s8hk84qwy23vlzjedxrb::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?jw98s9dgyj5lfewqbr03::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -376,7 +432,7 @@ sublink:LISTSOURCE:https://vidoza.net/2hc7yi4utem7/tiger_king_murder_mayhem_and_
 </item>
 
 <item> 
-<title>[B][COLORwhite]Tiger King Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Tiger King Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?rwb6cxkxirbd62wan3x4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?v7srv33jj71u2ypzvqq4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -419,7 +475,7 @@ sublink:LISTSOURCE:https://vidoza.net/ddkd11tdv2k9/save_me_uk_s02e06_internal_72
 
 
 <item> 
-<title>[B][COLORwhite]Save Me 2 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Save Me 2 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?2fsrzgijmmxhx7membws::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?5evcbf8qiy9fjba5hqmm::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -433,7 +489,7 @@ sublink:LISTSOURCE:https://1fichier.com/?g1r9kqjuqhrx2f1hdu5g::LISTNAME:[COLORwh
 </item>
 
 <item> 
-<title>[B][COLORwhite]Taken Season 1 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Taken Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?u6j06d79au3b1yxtugnr::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?9dpl3tufzjjqrh4whuee::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -469,7 +525,7 @@ sublink:LISTSOURCE:https://vidoza.net/wbdfr9z32224/e10_taken::LISTNAME:[COLORwhi
 </item>
 
 <item> 
-<title>[B][COLORwhite]Lincoln Rhyme: Hunt for the Bone Collector Season 1 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Lincoln Rhyme: Hunt for the Bone Collector Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?czgdhiqg37vqjfzpsupx::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?9ic0gmwf0xxtu8vd2rpl::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -505,7 +561,7 @@ sublink:LISTSOURCE:https://vidoza.net/uk1k53g6227v/lincoln_rhyme_hunt_for_the_bo
 </item>
 
 <item> 
-<title>[B][COLORwhite]Star Trek Picard Season 1 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Star Trek Picard Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://turbobit.net/lw7w8ir270w5.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/kj16nskrvv0k.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -553,7 +609,7 @@ sublink:LISTSOURCE:https://turbobit.net/l8dg7wm7bmp9.html::LISTNAME:[COLORwhite]
 </item>
 
 <item> 
-<title>[B][COLORwhite]Ozark Season 3 Real Debrid[/COLOR][/B]</title> 
+<title>[B][COLORwhite]Ozark Season 3 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://turbobit.net/hhce7twc7a7t.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://turbobit.net/dz1r76pu2a9i.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
@@ -5680,7 +5736,7 @@ sublink:LISTSOURCE:https://openload.co/f/UHIYYb4vArc/Bull.2016.S03E05.720p.HDTV.
 </item>
 
 <item> 
-<title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Real Debrid Only[/COLOR][/COLOR][/B]</title> 
+<title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Debrid Only[/COLOR][/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://1fichier.com/?8kk8p7l5bmc6c0m2zxqp::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?0dz3l5szzxgpt724fl7d::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#

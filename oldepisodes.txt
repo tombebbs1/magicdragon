@@ -1,5 +1,39 @@
 
 <item> 
+<title>[B][COLORwhite]Gangs of London Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vup.to/ey5qd0q6ll0n.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/1zry40kaa7nk.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/dlybeepahvgh.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/ds9vs2vmxt4l.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/v4zkf5nyg956.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/f6eh5zit0neg.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/xpb7h7a4tdpn.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/66hqd7ki4t4k.html::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/ex4cp1aqgdyn.html::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGJlZTE0MTQtZDdmMS00YWViLThlMDktYzk1N2RhMjY0NGEyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Gangs of London Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?wisnks68ll0g5etwd77j::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ecelal1xm5ohhttp0cvd::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?52b1r0bpje3duz9lb84n::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?eonwmz43o033fssy2h0o::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z61ojoomxffffp7u6832::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?4mgt2bbvh61yjym3j05v::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?1gzs319uit1ispem8r4g::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?u1e4w03t98xp4ws1of39::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?t8w6u6t2w3mivc8ccx0g::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#   
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGJlZTE0MTQtZDdmMS00YWViLThlMDktYzk1N2RhMjY0NGEyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]After Life Season 2[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vup.to/smagcco889xb.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

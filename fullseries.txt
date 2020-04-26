@@ -990,6 +990,41 @@ sublink:LISTSOURCE:https://vidoza.net/hxilpcou275j.html::LISTNAME:[COLORwhite]06
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]The Last Kingdom Season 4[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vup.to/voovbq0qgnxk.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/ugwrsqe319k9.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/sl1vv5ejnen2.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/num2ydokx4ct.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/u14tka3q84k8.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/rzm650ekwoht.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/tpsdum1erhoy.html::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/22argmgdevyi.html::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/0hv5jr32czq8.html::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#   
+sublink:LISTSOURCE:https://vup.to/0fsf3szpor1f.html::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1_SX667_CR0,0,667,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Last Kingdom Season 4 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?9xapl6ys2xcwl8qdplb9::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?oo58exhd2iombysmkada::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?g2sp8qyys0qf5yv3qd54::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?jo7co3tsdmskkwam98kw::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vtuerzwwvp3rkxvwwufp::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?0acpeyb24l1nhxedv63a::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ko1rde3rp5cbgpztbeel::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?8mup9lmuc0dfwoylaa4t::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?j4f6u5snwe359zp4u9sv::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#   
+sublink:LISTSOURCE:https://1fichier.com/?t8dr05ogt278i5sq85qn::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1_SX667_CR0,0,667,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item> 
 <title>[B][COLORwhite]The Order Season 1[/COLOR][/B]</title> 

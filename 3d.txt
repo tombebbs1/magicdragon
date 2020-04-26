@@ -1245,6 +1245,15 @@ sublink:LISTSOURCE:https://1fichier.com/?1fe61xzw2e::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]Star Wars: Episode IX - The Rise of Skywalker (2019)[COLORred]3D Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:aa6b825e390b83d1a172fb81d8b8dde54088ebac&dn=Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.3D.1080p.BluRay.x264-GUACAMOLE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2830&tr=udp%3A%2F%2F9.rarbg.to%3A2790::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Storks 3D 2016[/COLOR]</title>
 <link>http://uptobox.com/afm3l08c7zyo</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjI3MzcwMF5BMl5BanBnXkFtZTgwOTIyNDY5OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

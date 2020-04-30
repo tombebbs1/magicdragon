@@ -1,5 +1,33 @@
 
 <item> 
+<title>[B][COLORwhite]Code 404 Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vup.to/c80d0ah9za28.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/v7opg5rzygtx.html::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/shir4w3cfv6d.html::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/luw5osqjcqbh.html::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/ph8vbldp566l.html::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/v7km92nryezm.html::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGNjMGVkNGYtNTE0ZS00MzYxLWJlZGYtZjFhZGQ3MGIyMDcwXkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Code 404 Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?p3s74x5v65ddlmuimmd0::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?vs0k2knuww2014s67ldw::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?je18rr4300ertztko5l5::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?nz8c7s777jp6ba2miryw::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?040rlh5b0fc7opgiucxm::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?lizvx3mutitundzaitvd::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGNjMGVkNGYtNTE0ZS00MzYxLWJlZGYtZjFhZGQ3MGIyMDcwXkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Last Kingdom Season 4[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vup.to/voovbq0qgnxk.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

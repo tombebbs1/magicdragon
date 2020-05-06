@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>[B][I][COLORwhite]4K MOVIES A - L[/B][/I][/COLOR]</title>
+<title>[B][I][COLORwhite]4K MOVIES   A - L[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhda-l.txt</externallink>
@@ -50,7 +50,7 @@
 </item>
 
 <item>
-<title>[B][I][COLORwhite]4K MOVIES M - Z[/B][/I][/COLOR]</title>
+<title>[B][I][COLORwhite]4K MOVIES   M - Z[/B][/I][/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhdm-z.txt</externallink>

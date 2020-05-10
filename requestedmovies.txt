@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Doberman Gang (1972)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/y5bf7o1bgk4v/the_doberman_gang_1972_trailer::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wn15lmrp9ukd/the_doberman_gang_1972_::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tm82l3hz7838::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/5o9ddrhgri5k.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/kc1qzfc9u2ui::LISTNAME:[COLORgold]HD  LINK 4 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/wnkrvwd1i00m8lz::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP OR VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/488342b6b924263262b4dd79fc6a186f/The_Doberman_Gang_(1972).avi.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?71mk1gq39v8u1x63o2o1::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/6x2liwobev7r.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/q1y6050dlcl7/The_Doberman_Gang_(1972).avi::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/5kd5qtjxt2q8::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4y6c5z4de2h3::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzgxN2I5ZGEtNTlkNS00NzE0LTg0ZDQtYTE0YTg1MjQ4MDdjXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_CR0,0,660,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unforgiven (1992) REMASTERED[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2kwc15eswko0/unforgiven_1992_official_trailer_clint_eastwood%2C_morgan_freemanie_h::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#

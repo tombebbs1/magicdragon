@@ -25,7 +25,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[B][I][COLORorange]TEST[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/klD0wtv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
@@ -33,7 +33,7 @@
 <info></info>
 </channel>
 
-<channel>
+channel>
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>

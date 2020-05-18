@@ -1,5 +1,33 @@
 
 <item> 
+<title>[B][COLORwhite]Inhuman Resources Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?wcqa3stm682pj9l4q8hi::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?swy1eelme0wxghy1y466::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?e90mhcuotyp4xo86f1o8::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?edaxpurp0n4aier801jl::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?atrixcuh7jjks0evp3nt::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?w9ck28u384ufqagah483::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTE3MjVkM2YtYzU0Mi00MmE2LTgwMWEtODNhOTBiZTQ4OGFhXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Inhuman Resources Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/b3p0mup5au0j/inhuman_resources_s01e01_1080p_nf_web-dl_h264_ddp5_1_snake::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/mjjd2tlkcgoi/inhuman_resources_s01e02_1080p_nf_web-dl_h264_ddp5_1_snake::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ypmpkpyj3xkr/inhuman_resources_s01e03_1080p_nf_web-dl_h264_ddp5_1_snake::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ksgqs5co4d3s/inhuman_resources_s01e04_1080p_nf_web-dl_h264_ddp5_1_snake::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ys3kvdvxd7k8/inhuman_resources_s01e05_1080p_nf_web-dl_h264_ddp5_1_snake::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/unq4a89yw0wy/inhuman_resources_s01e06_1080p_nf_web-dl_h264_ddp5_1_snake::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTE3MjVkM2YtYzU0Mi00MmE2LTgwMWEtODNhOTBiZTQ4OGFhXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Code 404 Season 1[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vup.to/c80d0ah9za28.html::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

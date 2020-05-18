@@ -61,6 +61,29 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Savage Creatures (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5t2dt1crw84j/savage_creaturesie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hfguqi44605m/savage_creatures_2020_1080p_webrip_aac2_0_x264-rr::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0raabgc1jg6n::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/t15piughvmte.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/sk8298blqrqo::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/841gnmx9slg8g::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/9e00de1147103732214b52ddf15e0bc4/Savage.Creatures.2020.1080p.WEBRip.AAC2.0.x264-RR.mkv.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z0mzm9k46tonjgkikef1::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?z0mzm9k46tonjgkikef1::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/qr6b68g9hsxl/Savage.Creatures.2020.1080p.WEBRip.AAC2.0.x264-RR.mkv::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/05wggv2zf067::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9re3le1mi4jb::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5f503bd21874c0530493e73de2735e2cbf74955b&dn=Savage.Creatures.2020.1080p.WEBRip.AAC2.0.x264-RR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2840::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:5f503bd21874c0530493e73de2735e2cbf74955b&dn=Savage.Creatures.2020.1080p.WEBRip.AAC2.0.x264-RR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2840::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDA2ZjcxMjAtYzM1Mi00YmI3LTk5ZmEtM2I2ZmJlNDM2ZTMyXkEyXkFqcGdeQXVyMjM1MDQxOQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Aurora Teagarden Mysteries: Heist and Seek (2020)[/COLOR]</title>
 <link>

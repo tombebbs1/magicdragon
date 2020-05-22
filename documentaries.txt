@@ -43,6 +43,38 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item> 
+<title>[B][COLORwhite]The Beatles Anthology Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://uptobox.com/umx6juv92nx9::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/sk2x2x0j9kgj::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/j32oeuvjbkkh::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5wsm825mla7m::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/q2601qayn0pw::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xmho0sxjgq4i::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/opyvcxo4an41::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/1scwnabss23v::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SY1000_CR0,0,756,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]The Beatles Anthology[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/t9ayiwdax5uc/anthology_1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/wbxdsp9cr89x/anthology_2::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gu32x7vnkf1s/anthology_3::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ccsh1c8uophy/anthology_4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/8jtfu4vemxa7/anthology_5::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w06gtckxen9k/anthology_6::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xi1bp2h0ng14/anthology_7::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7z2gkfso443f/anthology_8::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjgwZmE1NDAtN2JhNy00ZGQ4LWFhMjEtZDVmZDExNzQwNDgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SY1000_CR0,0,756,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Taylor Swift City of Lover Concert (2020)[/COLOR]</title>
 <link>

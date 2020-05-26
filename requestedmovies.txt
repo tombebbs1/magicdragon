@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Food of the Gods (1976)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/seqwmfynbsnh/the_food_of_the_gods_1976_official_trailer::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7hzn3ivm2qg5/the_food_of_the_gods_1976_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2inmt3wclzxz::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/i87w4glqi1m2.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/kcq3azk8d97h::LISTNAME:[COLORgold]HD  LINK 4 (CLOUDVIDEO)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/i87w4glqi1m2.html::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP OR VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/5cc07724ff28a1ed0cd0749823af5177/The.Food.of.the.Gods.1976.720p.BluRay.x264.YIFY.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?ogmv97jcuyeq6wd404k8::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/mis7ddpeslx0.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/sikwr6f0sr1h/The.Food.of.the.Gods.1976.720p.BluRay.x264.YIFY.mp4::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/x3n6r37yax83::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5t6c8lgpfst2::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTUzOTRiNjYtZmU1Ny00OWMxLWFjYmMtNjE1MDM4NTFlMWZlXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]29th Street (1991)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i7qeg1n92wib/29th_street_trailer_1991::LISTNAME:[COLORwhite]SHOW ME THE TRAILER FIRST[/COLOR]::#

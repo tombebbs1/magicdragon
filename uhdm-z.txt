@@ -67,6 +67,16 @@ sublink:LISTSOURCE:https://1fichier.com/?08gdhev2clnllkz6ytk3::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Maniac (1980)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f433b458bc1fff16b1f5ea590924a99a1b4b8b12&dn=Maniac.1980.MULTi.UHD.Bluray.2160p.HDR.Atmos.7.1.HEVC-DDR.mkv&xl=14382843780&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWI3YjZmY2MtZTVlOS00MDc5LThjYjMtZDMwNmZkZjMzOGI0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,650,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Man of Steel (2013) 4K [COLORred] Debrid Only[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:D1DB5D2242CA1916B0757CCF19511293D6958DCF&dn=Man.of.Steel.2013.Multi.2160p.BluRay.x265..HDR.Atmos.7.1%5BEn%2BHi%5D-DTOne&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -1883,6 +1893,16 @@ sublink:LISTSOURCE:https://1fichier.com/?7gl1yeco1kas23wr22ei::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Half of It (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:4e3573f90956a84336aaef2bbefb7d4b7479ff49&dn=The.Half.of.It.2020.2160p.NF.WEB-Rip.DDP5.1.HDR.HEVC-DDR%5BEtHD%5D&xl=8257624697&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2RlZmZkOTUtMDI5Ni00ZjZmLWI1OTItZmUwNWE4ZWVjNzFiXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Hate U Give (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:f00ae329e5de6bea767de58fd12ed75998d66bed&dn=The+Hate+U+Give+2018.Multi.UHD.BluRay.2160p.x265.DTS-HD.MA.7.1-DTOne&xl=13326794170&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -2601,6 +2621,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:ad972f4c1bc1f02894d1809a5f8dd35b5199b97e&
 </item>
 
 <item>
+<title>[COLORwhite]The Wrong Missy (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:256924f0c299524900c1d6ed39e1cae3c8c9845d&dn=The.Wrong.Missy.2020.UHD.MULTI.2160p.HDR.WEBRip.DDP.5.1.HEVC-DDR%5BEtHD%5D&xl=7426717034&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2QwZWJlZjMtNzU5NC00NTA0LWI1MjQtYWQ1ZTg4NWZmNjdkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]They Live (1988)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://rapidgator.net/file/2e5717ae9fe41220101f9e19d42a997d/They.Live.1988.Multi.UHD.2160p.Bluray.x265.HDR.DTS.5.1-DTOne..mkv.html::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -3079,6 +3108,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:bdced42cd1b2a0506c4a4e7789de80a52c52156d&
 sublink:LISTSOURCE:magnet:?xt=urn:btih:c646c9d82b8351597768540f3e20e9d0cdbb9ed5&dn=Yesterday+2019.2019.MULTi.UHD.BluRay.2160p.HDR.Atmos.7.1.HEVC-DDR&xl=18419432774&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Zombie (1979)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:dcdaca0c353fe402d72c4433f0e8a805be6c4414&dn=Zombie.1979.MULTi.UHD.Bluray.2160p.HDR.Atmos.7.1.HEVC-DDR.mkv&xl=14767392132&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTA4NTJkYWEtNmU0Ni00ODMwLWE4ZDItZThmMjhhMmMzZjU3XkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

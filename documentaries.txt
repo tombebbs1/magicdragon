@@ -43,6 +43,34 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item> 
+<title>[B][COLORwhite]McMillions Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://uptobox.com/ziofc93m4fuo::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/3rayhglyitb6::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/70cljjix9c7d::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/fy98x83y96ey::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/pz1v0ownkwmu::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/9xn7ifz26ufi::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjQ0ZWQxOWQtMDA4Ny00ZTg2LWE1NGUtYjYwZWI4MzZkZTI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]McMillions Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e9doetzvabk6/mcmillions_s01e01_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fguvwqt9gdnv/mcmillions_s01e02_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3u7a946lgsqs/mcmillions_s01e03_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0jgynbiebtoy/mcmillions_s01e04_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/u3iraf9ciu3x/mcmillions_s01e05_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/r067p45cpxgn/mcmillions_s01e06_720p_amzn_webrip_x264-galaxytv::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjQ0ZWQxOWQtMDA4Ny00ZTg2LWE1NGUtYjYwZWI4MzZkZTI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Eating Up Easter (2018)[/COLOR]</title>
 <link>

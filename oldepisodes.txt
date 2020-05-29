@@ -1,4 +1,33 @@
 <item> 
+<title>[B][COLORwhite]The First Team Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://uptobox.com/v6grcng5wjrv::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5j1jjcagmanv::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/65hlakns4gwy::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/ar742feqv6yv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/5t4b13180i2v::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/wjrxeurtoidp::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTFiODI3YWMtMzk1NS00MGNjLTkwODItMmIzM2RlOTkwN2QzXkEyXkFqcGdeQXVyOTY5MjA3MjA@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item> 
+<title>[B][COLORwhite]The First Team Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/b5ql3x7sze7a/the_first_team_s01e01_selling_shirts_web_h264-sherlock::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/c9u9mcrlsjha/the_first_team_s01e02_new_friends_web_h264-sherlock::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/e5opcaat46pe/the_first_team_s01e03_octopus_situation_web_h264-sherlock::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/tbdgw0cv0g6j/the_first_team_s01e04_international_break_web_h264-sherlock::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/t2roq6yukuqh/the_first_team_s01e05_pints_of_sorry_web_h264-sherlock::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3bmomc127xv1/the_first_team_s01e06_upheaval_web_h264-sherlock::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTFiODI3YWMtMzk1NS00MGNjLTkwODItMmIzM2RlOTkwN2QzXkEyXkFqcGdeQXVyOTY5MjA3MjA@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Space Force Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://uptobox.com/bvufydy9srhj::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

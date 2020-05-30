@@ -44,6 +44,21 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tabloid (2010)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xju4xbgc2fu8/tabloid_2010_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/flwfecg4lk9n::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/bu24bisui692.html::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f6144852d5e8cf1687d5a5a339b4b7f3/Tabloid.2010.1080p.BluRay.H264.AAC-RARBG.mp4.html::LISTNAME:[COLORwhite]HD  LINK 4 RD Only[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?r1zf8dnkp8ubuf8079iv::LISTNAME:[COLORwhite]HD  LINK 5 RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/dun68fhz515r.html::LISTNAME:[COLORwhite]HD  LINK 6 RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/xwkhh6p3eezi::LISTNAME:[COLORwhite]HD  LINK 7 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY5ODAwMjcwMl5BMl5BanBnXkFtZTcwMzc5NzA2NQ@@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Banking on Africa: The Bitcoin Revolution (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/89cindy9dejx/banking_on_africa_the_bitcoin_revolution_2020_1080p_webrip_x265-rarbg::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

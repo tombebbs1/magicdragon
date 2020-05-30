@@ -2583,6 +2583,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:b4499e33c4f48304487c747a559a3c18fc4e3cd5&
 </item>
 
 <item>
+<title>[COLORwhite]The Vast of Night (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:0354c068b3e9cafa0320f4df06b4e88a8e20c457&dn=The.Vast.of.Night.2019.UHD.2160p.HDR.WebRip.DDP.5.1.HEVC-DDR.mkv&xl=7155955408&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2YxNDczNGYtNmViNi00MDZiLWJiM2ItNGFlN2Q1NGExNGZhXkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The War of the Worlds (1953)(2008) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/i17749cc127e::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

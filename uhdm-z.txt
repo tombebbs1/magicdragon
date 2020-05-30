@@ -1057,6 +1057,15 @@ sublink:LISTSOURCE:https://1fichier.com/?sj335y0emwxbrzmc9vfi::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Snitch (2013)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:742094565d10ef374019341bef43eee40e98d515&dn=Snitch+2013.MULTi.UHD.Blu-ray.2160p.HDR.Atmos.7.1.HEVC-DDR.mkv&xl=18035455982&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTM4MTYzNjA3Nl5BMl5BanBnXkFtZTcwMzcyNDA5OA@@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Solo: A Star Wars Story (2018) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptostream.com/4hegmf2l8wup::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

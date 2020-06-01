@@ -61,6 +61,27 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Child Support (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zr8i5pqs2w5s/child_support_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/l4dogvafvr26/child_support_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 1 (VIDOZA)[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/l4dogvafvr26/child_support_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD  LINK 2 (VIDLOX)[/COLOR]::#
+sublink:LISTSOURCE:https://vup.to/4wkt7wc83aqr.html::LISTNAME:[COLORgold]HD  LINK 3 (VUP)[/COLOR]::#
+sublink:LISTSOURCE:https://videobin.co/t6mujn6q5ovo::LISTNAME:[COLORgold]HD  LINK 4 (VIDEOBIN)[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/3n9mrjw6f8md39::LISTNAME:[COLORgold]HD  LINK 5 (MIXDROP)[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/f06f01a879c3cd2c98505ad9571a96f4/Child.Support.2019.1080p.WEBRip.x264-RARBG.mp4.html::LISTNAME:[COLORgold]HD  LINK 1 (RAPIDGATOR)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?usl1jsgeig71n3slqxtw::LISTNAME:[COLORgold]HD  LINK 2 (1FICHIER)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/lpoa5pdvrxm7.html::LISTNAME:[COLORgold]HD  LINK 3 (TURBOBIT)[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://gounlimited.to/4ycc91pbn47t/Child.Support.2019.1080p.WEBRip.x264-RARBG.mp4::LISTNAME:[COLORgold]HD  LINK 4 (GOUNLIMITED) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/i10eje22km4m::LISTNAME:[COLORgold]HD  LINK 5 (CLICKNUPLOAD) [COLORred] Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/4n6trnjszl7f::LISTNAME:[COLORgold]HD  LINK 6 (UPLOAD) [COLORred] Debrid OR PIN[/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:318602a1872946814382e97eedb1c72c59036683&dn=Child.Support.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2810::LISTNAME:[COLORwhite]TORRENT HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:318602a1872946814382e97eedb1c72c59036683&dn=Child.Support.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2810::LISTNAME:[COLORwhite]TORRENT HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjdkNjY4YzgtYTMzMi00MzNkLTkxMTItNWYzNTRlM2VhYWI4XkEyXkFqcGdeQXVyNzQyOTA2Nzk@._V1_SY999_CR0,0,772,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Jesus Shows You the Way to the Highway (2019)[/COLOR]</title>

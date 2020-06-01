@@ -2341,6 +2341,15 @@ sublink:LISTSOURCE:https://1fichier.com/?f5bgal4sbxljexa96802::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Jaws (1975)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f432ed8543ef557bfdb152741c45afb906be8bce&dn=Jaws.1975.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2930&tr=udp%3A%2F%2F9.rarbg.to%3A2760::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX651_CR0,0,651,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jigsaw (2017) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/0zhjuo2cc364::LISTNAME:[COLORgold]4K  LINK 1::#

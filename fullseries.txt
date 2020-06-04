@@ -85,6 +85,22 @@ sublink:LISTSOURCE:https://1fichier.com/?ihb84c6mzrcxa480c4bo::LISTNAME:[COLORwh
 <fanart></fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Alex Rider Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://clicknupload.co/9ow3q0htyrbs::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/ijstlb193iv1::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/gvqtyyagjj11::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/hgfiaudy24n4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/w90z0brgs6gt::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/h7d70od8h0hm::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/0aalqtke6mtn::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/hxz9r924co1r::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#    
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmVmYWE2YWItYWRkYy00MzhmLTg0NTYtZjZiNjM2YzRhNjYwXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[B][COLORwhite]American Gods[COLORred] 4K RD Only[/COLOR][/COLOR][/B]</title>

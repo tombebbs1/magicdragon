@@ -27,6 +27,14 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Bloodtide (1982)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:daa0a49d4268f9bad57c61ca8ec09a3313b18de0&dn=Blood.Tide.1982.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2840::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2Y4YTE2NzktYWFlYy00OTIyLWEwY2MtNWY5ZTc0MDQ2MmQ1XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Parasite (2019) Black & White Edition[/COLOR]</title>

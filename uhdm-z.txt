@@ -2078,6 +2078,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:a38e8d160fc139584b30196e6d6917b2f1f287aa&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The King of Staten Island (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:4f151af982221e76270e3bb9f725ef9a9a98936b&dn=The.King.of.Staten.Island.2020.HDR.2160p.WEB.H265-HUZZAH&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2850::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]The Kissing Booth (2018)4K[/COLOR]</title>

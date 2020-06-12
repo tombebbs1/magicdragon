@@ -28,6 +28,25 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Guest (2014)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:3490aa25e5e93c169b9b5687552f8f4a4a9a5273&dn=The.Guest.2014.1080p.BluRay.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2910&tr=udp%3A%2F%2F9.rarbg.to%3A2990::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Popeye (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:edbb11631812bdb15678c786551831410078c0d5&dn=Popeye.1980.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDgyNDg0YWUtZjNiMy00NzI1LTgzMmQtOGU5NGQwOTA2NDFkXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bloodtide (1982)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:daa0a49d4268f9bad57c61ca8ec09a3313b18de0&dn=Blood.Tide.1982.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2840::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -20,7 +20,7 @@
 <item> 
 
 <plugin>
-<title>[COLORwhite]Authorize PREMIUMIZE.ME[/COLOR]</title>
+<title>[COLORyellow]Authorize PREMIUMIZE.ME[/COLOR]</title>
 <link>plugin://script.module.resolveurl/?mode=auth_pm</link>
 <thumbnail>https://pbs.twimg.com/profile_images/853973394542428162/8mAbgwdX_400x400.jpg</thumbnail>
 <fanart>https://imgur.com/CNj3hmy.jpg</fanart>

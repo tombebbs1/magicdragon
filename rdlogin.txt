@@ -6,15 +6,22 @@
 <item>
 
 <item>
-<title>[COLORyellow]Authorize Real Debrid UrlResolver[/COLOR]<title>
+<title>[COLORyellow]Authorize Debrid UrlResolver[/COLOR]<title>
 <Link>plugin://script.module.urlresolver/?mode=auth_rd<link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item>
     
 <item>
-<title>[COLORyellow]Authorize Real Debrid Resolveurl[/COLOR]<title>
+<title>[COLORyellow]Authorize Debrid Resolveurl[/COLOR]<title>
 <Link>plugin://script.module.resolveurl/?mode=auth_rd<link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png<thumbnail>
 <fanart><fanart>
 <item> 
+
+<plugin>
+<title>[COLORwhite]Authorize PREMIUMIZE.ME[/COLOR]</title>
+<link>plugin://script.module.resolveurl/?mode=auth_pm</link>
+<thumbnail>https://pbs.twimg.com/profile_images/853973394542428162/8mAbgwdX_400x400.jpg</thumbnail>
+<fanart>https://imgur.com/CNj3hmy.jpg</fanart>
+</plugin>

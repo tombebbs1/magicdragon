@@ -32,3 +32,15 @@
 <thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/trakt.png</thumbnail>
 <summary>Authorize Trakt</summary>
 </item>
+
+  <dir>
+    <title>***Search Trakt***</title>
+    <trakt>search</trakt>
+	<thumbnail>http://magnetic.website/menu%20icons/trakt.png</thumbnail>
+ </dir>
+
+  <dir>
+    <title>***Search TMDB***</title>
+    <tmdb>search</tmdb>
+	<thumbnail>http://magnetic.website/menu%20icons/the%20movie%20data%20base.png</thumbnail>
+ </dir>

@@ -25,3 +25,10 @@
 <thumbnail>https://pbs.twimg.com/profile_images/853973394542428162/8mAbgwdX_400x400.jpg</thumbnail>
 <fanart>https://imgur.com/CNj3hmy.jpg</fanart>
 </plugin>
+
+<item>
+<title>[COLOR yellow]Authorize Trakt[/COLOR]</title>
+<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/trakt.png</thumbnail>
+<summary>Authorize Trakt</summary>
+</item>

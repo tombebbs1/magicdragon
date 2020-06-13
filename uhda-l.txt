@@ -40,6 +40,14 @@
 <fanart>http://blogs-images.forbes.com/johnarcher/files/2014/08/4KUltraHDLogos.jpg</fanart>
 </item>
 
+<item>
+<title>TEST</title>
+<link>https://35.download.real-debrid.com/d/VQKMZDQHTTH32/30.for.30.0407.720p-yestv.mkv</link>
+<thumbnail>https://i.imgur.com/09wf0D0.jpg</thumbnail>
+<fanart>http://</fanart>
+<info></info>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Debrid Only[/COLOR][/COLOR][/B]</title> 
 <link>
@@ -1462,13 +1470,7 @@ sublink:LISTSOURCE:https://1fichier.com/?sugz7zcl649vbhwxs5j9::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>Escape from New York</title>
-<link>https://real-debrid.com/d/T2YTYB6KDZZFY</link>
-<thumbnail>https://i.imgur.com/09wf0D0.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
+
 
 <item>
 <title>[COLORwhite]E.T. the Extra-Terrestrial (1982)4K[/COLOR]</title>

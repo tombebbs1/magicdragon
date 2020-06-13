@@ -26,6 +26,17 @@
 <fanart>https://imgur.com/CNj3hmy.jpg</fanart>
 </plugin>
 
+<dir>
+  <title>[COLORlime]PAIR TRAKT[/COLOR]</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+  <thumbnail>http://www.ezzer-mac.com/frank/art/trakticon.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/art/traktfanart.jpg</fanart>
+  <summary>Pair Trakt</summary>
+  </dir></link>
+<thumbnail></thumbnail>
+<fanart>https://archive.org/download/img20200327203045/IMG_20200327_203045.jpg</fanart>
+</dir>
+
 <item>
 <title>[COLOR yellow]Authorize Trakt[/COLOR]</title>
 <trakt>https://api.trakt.tv/sync/collection/shows</trakt>

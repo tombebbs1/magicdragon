@@ -134,6 +134,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]21 Bridges (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/Q6CMJMKXEGHDG::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTg4YzEzNDQtZDAxOS00M2YyLTljZWEtNjk4YTc4NDM2NTBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,562,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]21 Jump Street (2012)4K[/COLOR]</title>

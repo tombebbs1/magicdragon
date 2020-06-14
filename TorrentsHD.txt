@@ -27,6 +27,22 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>Crash (1996)</title>
+<link>https://real-debrid.com/d/O7XZPUX4JFM7C</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjlhMDBlNDQtMjZkZi00NzJmLWI4MTgtZDdkMzZmZDcyZGNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>http://</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLORwhite]Crash (1996)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/O7XZPUX4JFM7C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjlhMDBlNDQtMjZkZi00NzJmLWI4MTgtZDdkMzZmZDcyZGNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Outsiders (1983)[/COLOR]</title>

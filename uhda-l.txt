@@ -40,13 +40,7 @@
 <fanart>http://blogs-images.forbes.com/johnarcher/files/2014/08/4KUltraHDLogos.jpg</fanart>
 </item>
 
-<item>
-<title>TEST</title>
-<link>https://35.download.real-debrid.com/d/VQKMZDQHTTH32/30.for.30.0407.720p-yestv.mkv</link>
-<thumbnail>https://i.imgur.com/09wf0D0.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
-</item>
+
 
 <item> 
 <title>[B][COLORwhite]The Haunting of Hill House Season 1 4K[COLORred] Debrid Only[/COLOR][/COLOR][/B]</title> 
@@ -248,6 +242,14 @@ sublink:LISTSOURCE:https://1fichier.com/?hu2k47ebrgthv1fajcej::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmRlZDQ1MmUtMzE2Yi00YTkxLTk1MGMtYmIyYWQwODcxYzRlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A Knight's Tale (2001)[COLORred]4K[/COLOR][/COLOR]</title>
+<link>https://real-debrid.com/d/ZMCO4OUGYTRAS</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_.jpg</thumbnail>
+<fanart>http://</fanart>
+<info></info>
 </item>
 
 <item>

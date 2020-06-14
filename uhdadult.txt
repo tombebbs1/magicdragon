@@ -41,7 +41,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PL6ZK5XSK2LJO::LISTNAME:[COLORgold]
 </link>
 <thumbnail>https://dyncdn.me/posters2/8/89a786f4e58fc7ae5f23aeb11926167d194d9b42.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item
+</item>
 
 item>
 <title>[COLORwhite]Bang.Rammed.20.06.09.Payton.Preslee[/COLOR]</title>

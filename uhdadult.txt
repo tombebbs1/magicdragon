@@ -34,6 +34,14 @@ sublink:LISTSOURCE:https://real-debrid.com/d/54HHH3DLDEJPK::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Lubed.20.06.02.Jade.Kush.Slippery.Jade[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/W7K7474TBFIXG::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://dyncdn.me/posters2/b/b127869f5bdcfa95530001a63c0e1c4978217837.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]CaughtFapping.20.06.06.Texas.Patti.Motherly.Concern[/COLOR]</title>

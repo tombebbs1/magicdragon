@@ -166,7 +166,13 @@ channel>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
-
+<channel>
+<name>[B][I][COLORred]TEST[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhdadult.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info>Hundreds Of Documentarys To Choose From</info>
+</channel>
 
 </channels>
 

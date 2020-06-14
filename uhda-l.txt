@@ -1159,6 +1159,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4f9af0d27a9763fad5968c235d1470a10f0dcbd2&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Da 5 Bloods (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OVOYKIY44QQW6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjE4ODEwNzktYjg5Yi00N2YxLWExMmEtMmQyZTBiYWI4MGQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Daddy's Home (2015)4K[/COLOR]</title>

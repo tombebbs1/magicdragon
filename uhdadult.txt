@@ -43,10 +43,10 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PL6ZK5XSK2LJO::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]Bang.Rammed.20.06.09.Payton.Preslee[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/ESHSOXRNCC7HM::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PL6ZK5XSK2LJO::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://dyncdn.me/posters2/2/23588b315af45cbef6a9f80c0295febcb0459710.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

@@ -28,6 +28,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Crash (1996)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/O7XZPUX4JFM7C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjlhMDBlNDQtMjZkZi00NzJmLWI4MTgtZDdkMzZmZDcyZGNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Outsiders (1983)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:4d2dab5c924bdcd0451b7693c3febb42e67650c3&dn=The.Outsiders.1983.1080p.BluRay.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2990::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2E4Njk4N2UtZWFhOS00NzczLWFmNDgtMzdhMjFlNTZjMmVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]DuckTales the Movie: Treasure of the Lost Lamp (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:93e93628fdbd8ef6650b70c3574ce7c92618d13c&dn=Ducktales.The.Movie.Treasure.of.The.Lost.Lamp.1990.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2840::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGY1NjdiMmItMmE5MS00NjllLWJmM2ItMmU1ZTRjMWYyZjc4XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SY1000_CR0,0,634,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Necromancer (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:ae6527eda9354e081f6a83a5413a41b9574845a8&dn=The.Necromancer.2018.1080p.BluRay.x264.DTS-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2920::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

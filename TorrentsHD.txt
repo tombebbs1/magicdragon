@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Metro (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EDKSKY67ZXUDE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmI1ZGNiYTUtOTllNi00YWU5LThmNmItODM2N2I4OTEyYmQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Premonition (2007)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VD6LRKRRZ6H4I::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

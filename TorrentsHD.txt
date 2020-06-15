@@ -28,11 +28,12 @@
 </item>
 
 <item>
-<title>Crash (1996)</title>
-<link>https://real-debrid.com/d/O7XZPUX4JFM7C</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjlhMDBlNDQtMjZkZi00NzJmLWI4MTgtZDdkMzZmZDcyZGNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
-<fanart>http://</fanart>
-<info></info>
+<title>[COLORwhite]Impractical Jokers: The Movie (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YV4XQKRXXY2NQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWYwNjVhZDUtZjk2Yi00Mjc5LTkwYWMtMzU2ZDY1N2VjZGU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SY1000_SX676_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

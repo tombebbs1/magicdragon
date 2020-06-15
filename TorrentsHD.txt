@@ -28,6 +28,42 @@
 </item>
 
 <item>
+<title>[COLORwhite]Premonition (2007)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/VD6LRKRRZ6H4I::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTY1MDU1MzAwOV5BMl5BanBnXkFtZTYwMDkzNzY3._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tau (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UGRQ6WVWGQO5E::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmYzYWNhYWQtNjg0MS00NWU5LTgyZGUtYzViNjgwY2NjY2YwXkEyXkFqcGdeQXVyNjYzMzU4OTg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Funhouse (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OVBVPBQVGFDK2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjE3MjdiZjAtYjcyNi00ZjYzLWIxYWEtNWE5ZmI2OTZiMDE5XkEyXkFqcGdeQXVyNjg0NjExMjg@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Love in the Forecast (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HXG3E5O4MZNRO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWQ0ZTQ2OGItNTQ4NS00YzMwLTk0Y2QtOTVlZjViZThlNTIwXkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Impractical Jokers: The Movie (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YV4XQKRXXY2NQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

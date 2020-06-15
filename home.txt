@@ -166,7 +166,7 @@ channel>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
 
-<channel>
+channel>
 <name>[B][I][COLORred]ADULT SECTION 18 + ONLY[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhdadult.txt</externallink>

@@ -39,7 +39,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/VD6LRKRRZ6H4I::LISTNAME:[COLORgreen
 <item>
 <title>[COLORwhite]Tau (2018)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/UGRQ6WVWGQO5E::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:magnet:?xt=urn:btih:b4c7fc43228e9e3b65d23d8967ff326dca0b78d3&dn=Tau.2018.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2720::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmYzYWNhYWQtNjg0MS00NWU5LTgyZGUtYzViNjgwY2NjY2YwXkEyXkFqcGdeQXVyNjYzMzU4OTg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

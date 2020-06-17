@@ -28,6 +28,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Curly Sue (1991)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f427be4d264ad32683cd3e18d1a4487a5d44aaf4&dn=Curly.Sue.1991.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2800::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTc1OWM0YWQtN2NjNS00NTlkLWE2YzktMmQwOTMxMGFhNmEzXkEyXkFqcGdeQXVyNjgzMjI4ODE@._V1_SX666_CR0,0,666,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pocahontas (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:d0f892ff64bb3c5f9abdc696b470bd024dc9bfeb&dn=Pocahontas.1995.1080p.BluRay.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2980::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]An American Werewolf in London (1981) REMASTERED[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:2744ed3fbf6c7e02270588a0376ab8644648f4d8&dn=An.American.Werewolf.In.London.1981.ARROW.REMASTERED.1080p.BluRay.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2980::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGNmYWQzMGEtNDlhMS00NzEwLTkzMDItMDQ4MjkyMzRkNjFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,637,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Metro (1997)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/EDKSKY67ZXUDE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

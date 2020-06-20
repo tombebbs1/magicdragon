@@ -35,6 +35,52 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GG2QTO4K5LALI::LISTNAME:[COLORgreen
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzE4MTc2YmYtYmNiMi00ZjA2LWE0YTgtYmM2ZTU5N2M4ZjE1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+<item>
+<title>[COLORwhite]True Lies (1994) Bootleg Version[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:f35f3dca4573bddb154feb3c18b409b9c346fe8d&dn=True.Lies.1994.1080p.BOOTLEG.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2890::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzg5YmUyNGMtMThiNS00MjA2LTgwZDctNDlhM2RkZDNmZmRkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Babyteeth (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:8d1104ea659c8be8251b7ce1a7eff24831193297&dn=Babyteeth.2019.1080p.WEB-DL.DD5.1.H264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2730::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGRhMzRkYzEtMDBjNy00YjkxLWJjNzctNzEwNGNhZDUyZWI0XkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]House of Many Sorrows (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:3808cce6dca83758a72a958d862ea3cc2395425e&dn=House.of.Many.Sorrows.2020.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740&tr=udp%3A%2F%2F9.rarbg.to%3A2880::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjdjZGYwOTktZGM3Zi00Y2NjLWEzNWQtNjllYWJiODA1MWNiXkEyXkFqcGdeQXVyMTc4NjI1NzI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Wasp Network (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:87b170b17f77b30f3535f01bfe7b86e6b38d4a37&dn=Wasp.Network.2019.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2740::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjI4MGJmNWUtZDFlNy00OTMzLWEyZWMtMDg4ODdmZDg1YmUxXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SY1000_CR0,0,737,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eddie Murphy: Raw (1987)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:22504970cb52ecdde6182198f095a1076a9a36e3&dn=Eddie.Murphy.Raw.1987.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2810::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWEwYTk4YTgtZGVjNi00MmI0LTkwOTItOWUxYzBlN2YwZWFkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]You Should Have Left (2020)[/COLOR]</title>

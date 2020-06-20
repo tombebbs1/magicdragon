@@ -218,6 +218,15 @@ sublink:LISTSOURCE:https://1fichier.com/?g72nla6evcwlnklrnho1::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]7500 (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:fcf0069f75c24c6924a6fb2c95abd47fe63b59c3&dn=7500.2019.HDR.2160p.WEB.H265-SAFETY&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720&tr=udp%3A%2F%2F9.rarbg.to%3A2880::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjE4YzU1YWMtYzE3Zi00ZjViLWJjMmEtOTA1NWVkNGFlM2U5XkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Bad Moms Christmas (2017)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>https://1fichier.com/?rdki0umob7</link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTUwNTA4MDMxNl5BMl5BanBnXkFtZTgwMjE4NjQ0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

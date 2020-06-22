@@ -27,6 +27,23 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]This Is England (2006)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NBUC4AZLMUTE6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmE3OWZhZDYtOTBjMi00NDIwLTg1NWMtMjg0NjJmZWM4MjliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Victory (1981)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/4FQYR7NBNADSG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDVhZjBiNDgtZTY1YS00Y2I3LTgwYTUtMDExYzNjMDNkMDQ3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Spider-Man: Far from Home (2019)[/COLOR]</title>

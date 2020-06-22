@@ -271,7 +271,14 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ZMCO4OUGYTRAS::LISTNAME:[COLORgold]
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]A League of Their Own (1992)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:ccfdf7b317c3c13e9b2efac059c9cc16720f951d&dn=A.League.of.Their.Own.1992.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-AViATOR&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2910::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjQ1NTQyYjktZDc5My00NDA1LWI1NmItY2ViNjQ0NDk4NmRjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]A Quiet Place (2018)4K[/COLOR][/COLOR]</title>
@@ -2420,6 +2427,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:f432ed8543ef557bfdb152741c45afb906be8bce&
 </item>
 
 <item>
+<title>[COLORwhite]Jerry Maguire (1996)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:6932abd9175ae04d57f8320f943912e0e4c00255&dn=Jerry.Maguire.1996.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2780::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jigsaw (2017) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/0zhjuo2cc364::LISTNAME:[COLORgold]4K  LINK 1::#
@@ -2705,6 +2721,16 @@ sublink:LISTSOURCE:https://rapidgator.net/file/86a4284a9d2ddaa123153d93c892e764/
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTMyODY1NTg1N15BMl5BanBnXkFtZTcwMTUyODI4Mg@@._V1_SY1000_CR0,0,598,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Lawrence of Arabia (1962)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:magnet:?xt=urn:btih:248cbeb3d11e840b048895a7203eaafbd932aca9&dn=Lawrence.of.Arabia.1962.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-IAMABLE&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2880::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Lean on Pete (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>

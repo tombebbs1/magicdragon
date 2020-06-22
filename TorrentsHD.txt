@@ -28,6 +28,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]White Fang (1991)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FAZ33A2ZDQFWE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2VjZTkxYzYtMTQwZC00YWU1LWFlNWUtMDlhYWExMmFiY2RmXkEyXkFqcGdeQXVyNzA5MzkyOTM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]City Slickers (1991) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AVMVJ5QNO37WM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTkwNjM2MTc5NF5BMl5BanBnXkFtZTcwMzQ2NjEzNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dumbo (1941)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/BGVH3KMN7LH2K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

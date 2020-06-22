@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dumbo (1941)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BGVH3KMN7LH2K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWVmNWQ2OTQtNzJlNC00ZmQwLTg4ZTktZTNmM2IxZTlkOGM3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tremors: A Cold Day in Hell (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/PKO2GMABL7U2Q::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

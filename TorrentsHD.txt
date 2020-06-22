@@ -28,6 +28,79 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tremors: A Cold Day in Hell (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/PKO2GMABL7U2Q::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDM3MTQ4MjYtNDk3Zi00NTliLTkxZjQtOTI1Yzg1NjViOWJkXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tremors 5: Bloodlines (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KPTQZIK2SFXHC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjczMDQxMDUxOV5BMl5BanBnXkFtZTgwOTAxMjE1NjE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tremors 4: The Legend Begins (2004)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7R4T532ZE2MCG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGExYzc5YzYtMTRjNy00ZTJiLWJiNDktZDk0MzllMmVhZWIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tremors 3: Back to Perfection (2001)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/B2T5M676WTNPC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjg2MjNlMWEtZjMwZS00ZDc4LTkxNGQtOGRlMGI2ZDA5ZDRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tremors II: Aftershocks (1996)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3YDHB3GHPR7VI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWI0MjY1NjgtYzI0MS00Yzg4LWIyNzgtZmY4YmJmOTNjYTg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Tremors (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HHVMLWO2BVY2M::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_SY1000_SX670_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Invention of Lying (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JU5T7Z3FZQCAQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2OTQzOTc1Nl5BMl5BanBnXkFtZTcwNDM5MDE4Mg@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jerry Maguire (1996)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HGH2MSI2KJEXY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Force of Nature (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/GG2QTO4K5LALI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
@@ -35,6 +108,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GG2QTO4K5LALI::LISTNAME:[COLORgreen
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzE4MTc2YmYtYmNiMi00ZjA2LWE0YTgtYmM2ZTU5N2M4ZjE1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
 <item>
 <title>[COLORwhite]True Lies (1994) Bootleg Version[/COLOR]</title>
 <link>

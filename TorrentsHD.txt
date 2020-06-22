@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Kill Bill: The Whole Bloody Affair (2011)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TGW6RAEO76RY6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmFkNTc1MWYtYTVlNy00NmZmLTkzMjAtMWM0N2FmMWRkNWNhXkEyXkFqcGdeQXVyMTE5NDkxMA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]White Fang (1991)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/FAZ33A2ZDQFWE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Buster (1988)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XOENXONPWT2PE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2ZmZWMwMDQtMzQxNS00ZGQ2LThmOWMtMjI4ZTdjMzg3NGFjXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shazam! (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/5XOWR3YETV6P2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

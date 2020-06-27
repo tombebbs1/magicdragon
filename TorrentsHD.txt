@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Goocher (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/73OCIOIDOIG7C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzllZDI5YzMtNzQ2Yy00NzVlLTk0ZWYtNDEzNDhhODlkYjdhXkEyXkFqcGdeQXVyNjUyNjYxMzI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ghosts of Mars (2001)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/WDGCLY3BCGRMO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

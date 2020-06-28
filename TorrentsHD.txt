@@ -28,6 +28,42 @@
 </item>
 
 <item>
+<title>[COLORwhite]One Crazy Summer (1986)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6LURLHJXWLS32::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGNjN2ZmM2UtZjQzMS00NmM1LWJkZjUtMzg5Njc5OWQwODEyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Money Pit (1986)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WS52GTXZ4GBDS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDJmNTZkMDMtOWU5ZS00N2ZlLWIxN2EtZTI4NzBhODc0MmRjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Crying Game (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HJJHAVJOSFJV4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWU4MjQ3YzUtNTA3YS00YmRmLTk1YjktODM1NGU0MjFiOTUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Menace II Society (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7NYL5EO3YZAQ6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGE3MGI0MzItNjJjNC00ZTUzLTlmZTctOGUyMDllMWM2OTcxXkEyXkFqcGdeQXVyMjQ1MjYzOTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lolita (1997)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/AFH5WE5MYF2OE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

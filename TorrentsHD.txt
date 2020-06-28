@@ -28,6 +28,69 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lolita (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AFH5WE5MYF2OE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGNkZDU0YjktN2Q5Zi00MmY0LWI3Y2YtNmQzOGQxY2UzNGM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tully (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NWLD65WA73LGU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU0OTM4NTMyMF5BMl5BanBnXkFtZTgwNDA5MzUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mary Shelley's Frankenstein (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/B2UMQM7OEEJGA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWNjMGQ2NTYtNWZlMS00Nzk4LWE5ZDQtNWFhZDk0ZWM3ODc4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A Bridge Too Far (1977)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/T7AKO65OYPMVI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTczNjg0MzQyM15BMl5BanBnXkFtZTcwMjY0NjAzNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Red Dawn (1984)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/PMCI2EGM3T6GY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzgzNjcwMjI3MF5BMl5BanBnXkFtZTcwNDAxNTQyNA@@._V1_SY1000_CR0,0,643,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Working Girl (1988)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BKS3EHAB43RUM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTIwZGE5OWUtYzMxMi00Njk5LWI5NjAtMWYyMDljZGRjYWRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Invasion of the Body Snatchers (1978) REMASTERED[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/QAWAFHYAZR6XU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTkzY2Y3ZTMtYTg4Yy00OTNjLTlkNjctMGVlZDMwZWIxMzA0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,643,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Goocher (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/73OCIOIDOIG7C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

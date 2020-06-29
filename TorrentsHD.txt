@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Towering Inferno (1974)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TXZBSYLYUDS7Q::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA1N2JlMjItMTExZC00NTIxLWE2YTYtY2ZkM2M5OWM3M2YyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Oliver! (1968)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VRDXUXHQRD3PC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

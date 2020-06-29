@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]SHEPHERD: The Story of a Jewish Dog (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7DVN5UNDBR4I6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTMyYTk4MjItNTgzZi00NmExLTlkMDQtNjQ0OWVmMjQzNDhjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]It's a Mad Mad Mad Mad World (1963)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/RSJ5PBCKF65CK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

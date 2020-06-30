@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Disclosure (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3IUJQ3AR6G2TA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDk3MmJjNWUtNzVkZS00ZjNmLTliN2ItZTQ5YmVkMzRiMTdmXkEyXkFqcGdeQXVyNjEyNzc5NA@@._V1_SY1000_CR0,0,710,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Viena and the Fantomes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/HSRYM2O64JHWO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -4,7 +4,7 @@
 <title>[B][COLOR white]YOU ARE IN THE NEW RELEASES[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<thumbnail>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</thumbnail>
 <fanart></fanart>
 </item>
 

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Skywalker Legacy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SLQ2YJXNTSWXE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzFkNzIwMjYtYzcxMi00YTM4LWFlMjQtNGU5ZGQ1ODc4NTZjXkEyXkFqcGdeQXVyMjU0MzM2NA@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The F**k-It List (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/6YSDZQJ4GDRN4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

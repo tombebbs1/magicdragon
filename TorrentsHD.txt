@@ -26,6 +26,42 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Thinning (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6ZAEL65IWJCPI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTgxMDM2NjAyNl5BMl5BanBnXkFtZTgwODA1MTUyMDI@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Candidate (1972)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CRH4X6MGANOYS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTYxMjY5ZWItYTRkNC00MGIxLTk0MzMtZTZhMDg0MGY2ZWU5XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Flight 93 (2006)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/THOIOEPCKXK4M::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU3MTc4NDgwNl5BMl5BanBnXkFtZTcwOTI3OTIzMQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tom and Jerry: The Movie (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DFZJFR2FCZUVC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMxYjU0NmUtOTg0NC00ZGQ5LWEwZjEtZTU4OTgwMzAwYjk5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,660,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Skywalker Legacy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/SLQ2YJXNTSWXE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

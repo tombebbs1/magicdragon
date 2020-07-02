@@ -44,6 +44,21 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Skywalker Legacy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/miu71007w2y3/the_skywalker_legacy_2020_1080p_bluray_x264_dd5_1-fgt::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9lptfmvfcgke::LISTNAME:[COLORwhite]HD  LINK 2[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9lptfmvfcgke::LISTNAME:[COLORwhite]HD  LINK 3[/COLOR]::#
+sublink:LISTSOURCE:https://rapidgator.net/file/366c31262d2ed9cac1771569f43f17eb/The.Skywalker.Legacy.2020.1080p.BluRay.x264.DD5.1-FGT.mkv.html::LISTNAME:[COLORwhite]HD  LINK 4 RD Only[/COLOR]::#
+sublink:LISTSOURCE:https://1fichier.com/?98vbt9qzp2425rm39whg::LISTNAME:[COLORwhite]HD  LINK 5 RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://turbobit.net/ailyqlljce55.html::LISTNAME:[COLORwhite]HD  LINK 6 RD ONLY[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/h67kxt2pjkgo::LISTNAME:[COLORwhite]HD  LINK 7 RD ONLY[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzFkNzIwMjYtYzcxMi00YTM4LWFlMjQtNGU5ZGQ1ODc4NTZjXkEyXkFqcGdeQXVyMjU0MzM2NA@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tread (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/52a92sabs3g3/tread_2020_web_h264-babytorrent::LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#

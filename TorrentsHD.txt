@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Nowhere Alaska (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/G2DISUYYYTVLY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTNjMWMwM2MtZmM2OS00YzBkLTljZmQtOGE2YzI5ZjE4MDQ0XkEyXkFqcGdeQXVyNjU1NTM4OTM@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Desperados (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SVQ5K7RWJJFCO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTdlNmE0MWQtMWVjMC00MzRiLWJhN2MtN2NjNDFlNDg3MTY1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fatal Attraction (1987)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EALSB3HIZ5VNM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjBjNzNiNWYtYWU0NC00OTdjLTk3NmYtM2NjZjc2ZGIwOTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Outpost (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/AHUFI4IYFW754::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

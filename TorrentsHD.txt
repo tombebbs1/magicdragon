@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jaws (1975)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NI3JLWLTICZFY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX651_CR0,0,651,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Creepshow 3 (2006)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/H4JSYBJBR4I52::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGFlMjQyMGItYWYwNi00ZTkzLWIwZGMtOGZhNTBmNWM5NTFkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fame: The Musical (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/TIJFLVHTN2FUQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

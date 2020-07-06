@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]American Zombieland (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UDJFSV33K7KC6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTg1NzcwMmUtMDdjZC00MjA1LTg2NjUtNzY2MDgwZGM0YjMzXkEyXkFqcGdeQXVyMjA3OTc2MTE@._V1_SY1000_CR0,0,776,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jaws (1975)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/NI3JLWLTICZFY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Subferatu (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FJKZNDE62Q4S4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTVmY2QyNDItNjBmYy00NTMyLWE4YzItZmFmMGU1YzdiOGU5XkEyXkFqcGdeQXVyNTIwODkzNjc@._V1_SX687_CR0,0,687,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Zombieland (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/UDJFSV33K7KC6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
@@ -79,14 +88,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/JA4UIONP4DAEQ::LISTNAME:[COLORgreen
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Hamilton (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/W6P3FBMIMO4I6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Nowhere Alaska (2020)[/COLOR]</title>

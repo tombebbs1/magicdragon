@@ -25,6 +25,34 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+item>
+<title>[COLORwhite]Tommaso (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NL527C5D4RE6K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjMwN2MxNzQtMGZmMy00MTg3LWFhYmQtNmJiZGVjNjE3ZjIyXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]True North (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NL527C5D4RE6K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTNiMTEzNjItZTkxOC00NjQ4LTgyYTgtMjU1NjNjOTk2ZDc0XkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Teen Musical - The Movie (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/N2O2C5IXANDTQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWMxMDY4YmItNjFiZi00MWVjLWE3OTEtNzhhZGE0ZGUxNzVlXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_SY1000_CR0,0,652,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Jaws: The Revenge (1987)[/COLOR]</title>
 <link>

@@ -25,10 +25,46 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-item>
+<item>
+<title>[COLORwhite]Jim Jefferies: Intolerant (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GHLWS53XASQAM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmZmYzhiZjMtYjIxYi00YjMyLWEzZjItMmFlNWI2YjBlNzc5XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Elvis from Outer Space (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2ENIO6EGNDISQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmY5NjUyYmMtM2EzZC00ZGUxLWE1OWItMmJjMjdhMGIyZmFiXkEyXkFqcGdeQXVyNDA3MDgzOTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Browse (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2EPB32M2BCV4K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTliMmJlMjMtMGQ4My00ZjlkLTljNWYtZGQzM2FlNjZkMTI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dead Voices (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JERFKFZQPXGD6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWFkMWVjZTQtNGQzZC00MTIwLWE4YmYtNjk3MTBjMGUxNzk5XkEyXkFqcGdeQXVyNjIwMjMzMzc@._V1_SY1000_CR0,0,733,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tommaso (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/NL527C5D4RE6K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/36DT24HJXFOUW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjMwN2MxNzQtMGZmMy00MTg3LWFhYmQtNmJiZGVjNjE3ZjIyXkEyXkFqcGdeQXVyMjI3NDAyNg@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

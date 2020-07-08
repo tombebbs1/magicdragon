@@ -26,6 +26,34 @@
 </item>
 
 <item>
+<title>[COLORwhite]24 Hour Party People (2002)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DMD73LKVZ4QGO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTcyYzMyZGUtOGExYi00ZTljLWE3NDEtMGQyYTZiNmIzMzRiXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY1000_CR0,0,686,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]High-Rise (2015)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TNCR32PYAQRYM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM3MjM4NzMwMl5BMl5BanBnXkFtZTgwMTQ4MjUzODE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Nine Miles Down (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GFWLGY27S4PWS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM0ODAzNzQyNF5BMl5BanBnXkFtZTcwODIyMjg2Mw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]PS5 - The Future of Gaming (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dropapk.to/hc6sgmvxlc8g::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -25,6 +25,34 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Battlefield 2025 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/B62LHNRW55PNA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDdlODgyZTktZjJiNi00MTlkLWJjMGEtOTQ3ZDA1YzlhZDc0XkEyXkFqcGdeQXVyMzM1MzIwOA@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Invasion (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CPDKMVVMTZKR6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDFmMGE3Y2ItYWRhNC00M2ZjLWIwZTAtZmU5MTM1NjMyMzVhXkEyXkFqcGdeQXVyNjMxMDgyNzQ@._V1_SY1000_CR0,0,700,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Daredevil (2003) Directors Cut[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6GU66BL4TZMSC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjYwZDNhMTgtNjEwNS00Y2Y0LTkxYjMtY2MyYTM0NDE1N2ZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Mighty Oak (2020)[/COLOR]</title>
 <link>

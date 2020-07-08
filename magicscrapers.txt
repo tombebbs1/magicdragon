@@ -1,0 +1,13 @@
+<dir>
+<title>Movies</title>
+<link>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/moviescrapers.txt</link>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>TV Shows</title>
+<link>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/tvscrapers.txt</link>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</dir>

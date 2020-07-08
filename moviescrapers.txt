@@ -1,0 +1,168 @@
+<dir>
+  <title>Movie Search</title>
+  <tmdb>search</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+  <fanart></fanart>
+  <summary>Search Movies And Tv Shows</summary>
+</dir>
+
+<dir>
+  <title>Dragon Upcoming</title>
+  <tmdb>movie/upcoming</tmdb>
+ <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+<title>Dragon Popular</title>
+<tmdb>movies/popular</tmdb>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Dragon Now Playing</title>
+<tmdb>movies/now_playing</tmdb>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Dragon Top Rated</title>
+<tmdb>movies/top_rated</tmdb>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Action Movies</title>
+  <tmdb>genre/movies/28</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Adventure Movies</title>
+  <tmdb>genre/movies/12</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Animated Movies</title>
+  <tmdb>genre/movies/16</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Comedy Movies</title>
+  <tmdb>genre/movies/35</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Crime Movies</title>
+  <tmdb>genre/movies/80</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/movies/99</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Dramatic Movies</title>
+  <tmdb>genre/movies/18</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Family Movies</title>
+  <tmdb>genre/movies/10751</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Fantasy Movies</title>
+  <tmdb>genre/movies/14</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Historical Movies</title>
+  <tmdb>genre/movies/36</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Horror Movies</title>
+  <tmdb>genre/movies/27</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Musical Movies</title>
+  <tmdb>genre/movies/10402</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Mystery Movies</title>
+  <tmdb>genre/movies/9648</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Romantic Movies</title>
+  <tmdb>genre/movies/10749</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Science Fiction Movies</title>
+  <tmdb>genre/movies/878</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>TV Movies</title>
+  <tmdb>genre/movies/10770</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Thriller Movies</title>
+  <tmdb>genre/movies/53</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>War Movies</title>
+  <tmdb>genre/movies/10752</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Western Movies</title>
+  <tmdb>genre/movies/37</tmdb>
+  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+	<fanart></fanart>
+</dir>

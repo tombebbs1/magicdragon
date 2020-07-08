@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Clash of the Titans (1981)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6REMSUFSZMDLE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTQ4NDUxMTUtZDM0YS00MTk5LWExMWMtZjBiYTFjYTM3ZjJkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]24 Hour Party People (2002)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/DMD73LKVZ4QGO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

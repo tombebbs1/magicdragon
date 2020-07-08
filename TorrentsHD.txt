@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mighty Oak (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/236AXENRGFWQC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDZmM2NlODMtNzU4ZS00ZDFmLTgwNDAtMjVjYzVkYjdmNTVkXkEyXkFqcGdeQXVyMTAxNTIwMzIz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Speak Your Mind (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MPC7RVR56624Q::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA2Yjc0ZGQtZmU1Ni00MDc0LThjMjItMGEzN2FkZmY1MjgwXkEyXkFqcGdeQXVyNjc3ODYxNzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Where Sleeping Dogs Lie (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/O6OPIA7N4MIZG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -30,7 +30,7 @@
 
 <dir>
   <title>[COLORgold]NEW MOVIES[/COLOR]</title>
-  <link>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</link>
+  <link>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newtorrents.txt</link>
   <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
   <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
  </dir>

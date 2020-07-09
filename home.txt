@@ -66,7 +66,7 @@ channel>
 </channel>
 
 <channel>
-<name>[B][I][COLORlime]New Movie Releases[/B][/I][/COLOR]</name>
+<name>[B][I][COLORlime]Movie Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -82,7 +82,7 @@ channel>
 </channel>
 
 <channel>
-<name>[B][I][COLORyellowgreen]1 Click HD Debrid Only (TORRENTS)[/B][/I][/COLOR]</name>
+<name>[B][I][COLORyellowgreen]New 1 Click HD Debrid Only[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Volition (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SRUN67TP2JXTC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNWQ5NGIxMDUtMzZjNy00NjhmLWJhYzItYTU3MjgzOWM4YzdjXkEyXkFqcGdeQXVyNDk1NDczNjI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]My Senior Year (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZXCM4FGWTWEIE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODgyZGM3YzQtYjMwYi00MjliLWJmMzUtZmM0NTUwNWE3ODYzXkEyXkFqcGdeQXVyMjIxODA2MTA@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Last Moment of Clarity (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/VEEG5L4IHLWLU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI0YzliNjYtYWY1OC00MDYzLTgxNjMtZmZiNDYzYWQ0ZWNlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Devil's Advocate (1997)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/STO2JZFOG2L7A::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

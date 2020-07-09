@@ -35,43 +35,7 @@
   <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
  </dir>
 
-<dir>
-  <title>[COLORgold]TV SHOWS[/COLOR]</title>
-  <link>http://myatom.one/broken%20chains/TV%20SHOWS/tv%20shows%20mainmenu.txt</link>
-  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-  <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
- </dir>
 
-
-
-<dir>
-  <title>[COLORgold]KIDS ZONE[/COLOR]</title>
-  <link>http://myatom.one/broken%20chains/KIDS/kids%20main.txt</link>
-  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-  <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
- </dir>
-
-<dir>
-  <title>[COLORgold]WWE SHOWS[/COLOR]</title>
-  <link>http://myatom.one/broken%20chains/WWE/WWE%20MAIN.txt</link>
-  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-  <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
- </dir>
-
-<dir>
-  <title>[COLORgold]MUSIC[/COLOR]</title>
-  <link>http://myatom.one/broken%20chains/Music/MUSIC%20MAIN.txt</link>
-  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-  <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
- </dir>
- 
- <dir>
-  <title>[COLORgold]LIVE TV[/COLOR]</title>
-  <link>http://myatom.one/Ghost-Addon/ghostxmls/xmls1/apk.xml</link>
-  <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-  <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-  <summary>APKS</summary>
-  </dir>
 
  
   <plugin>

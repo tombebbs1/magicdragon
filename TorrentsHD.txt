@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Runners (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/LLBZT4DLYUKMO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDM3YjZlMjctNmNiMC00NTIxLWE2OWMtNmU2NDMzNTUxNGFiXkEyXkFqcGdeQXVyNTA4NDgzMw@@._V1_SY1000_CR0,0,690,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Archive (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/I4J6TJZL7VZUS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzFkNTRiMzYtODM2MS00YWQ2LThkNTUtMDE1Y2E2YjAwYTUxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]First Cow (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/ZVJI4KKBL35UK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

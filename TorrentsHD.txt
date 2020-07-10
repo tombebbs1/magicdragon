@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Life Like (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3E6FO3O4XJI4E::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjJkYjgxOWItYjMwZi00Mjc0LTliZmUtYjM3NzY2MWEyYjU2XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Old Guard (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/MRHNFPG476K7A::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

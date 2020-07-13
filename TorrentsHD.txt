@@ -25,6 +25,24 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+item>
+<title>[COLORwhite]High Crimes (2002)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MNU3LBWICTOXY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM3MDkyNDMyMV5BMl5BanBnXkFtZTYwMDI3Nzc3._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Call of the Wild (1935)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MNU3LBWICTOXY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk5MzI5MzE2NF5BMl5BanBnXkFtZTgwNzE5Njc0MjE@._V1_SY1000_CR0,0,608,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Love in Harmony Valley (2020)[/COLOR]</title>
 <link>

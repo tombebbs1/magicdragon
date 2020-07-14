@@ -35,6 +35,24 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BGYTZEAOMNNEA::LISTNAME:[COLORgreen
 </item>
 
 <item>
+<title>[COLORwhite]Useless Humans (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KYSJRAY5SAUI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDg0NzhmZTEtZDkxNy00ZDFjLTk4OGEtMWYwNDBjZGNkYzdkXkEyXkFqcGdeQXVyNDQ5Njc0MDc@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Coven (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/4TJSZWLD5BCZE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzE0MjU4NDUtMzlhNi00OGQ5LWFkZmYtYzBmNGZkZmVkYmQyXkEyXkFqcGdeQXVyNjMyMjQ2ODc@._V1_SX759_CR0,0,759,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alpha Code (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/GQ3B7A5D6HQUM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

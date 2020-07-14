@@ -25,7 +25,23 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Getting It (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BUZII4F7B7B4C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWQzMWVhOTQtMzM5OC00ZjlhLWIzODUtYjM4MTU2ZDRlMWQzXkEyXkFqcGdeQXVyMzYwNjY5NTg@._V1_SY1000_SX700_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
+<item>
+<title>[COLORwhite]Clementine (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5AWXWR7R2MNHY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjE3YzczMTQtNzgwYy00NDA5LTk1NWUtMGUyYjJjNzJjMjg2XkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY999_CR0,0,674,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Useless Humans (2020)[/COLOR]</title>

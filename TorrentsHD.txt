@@ -25,14 +25,7 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]High Crimes (2002)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/BGYTZEAOMNNEA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM3MDkyNDMyMV5BMl5BanBnXkFtZTYwMDI3Nzc3._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Useless Humans (2020)[/COLOR]</title>
@@ -67,6 +60,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GQ3B7A5D6HQUM::LISTNAME:[COLORgreen
 sublink:LISTSOURCE:https://real-debrid.com/d/K3ZGQ24GACBKA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWVmMDEwMjktOTUyMC00OGMxLTgxNjgtYzAwMWU0YTg5ODIzXkEyXkFqcGdeQXVyNTc4MTY0MzA@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]High Crimes (2002)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BGYTZEAOMNNEA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM3MDkyNDMyMV5BMl5BanBnXkFtZTYwMDI3Nzc3._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

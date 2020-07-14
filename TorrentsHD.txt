@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Voices (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ASARW6CULDTUQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDMxNzdmMTItYTBhZC00YjdhLWFiYzMtOGFkZjY0NzVmZGU4XkEyXkFqcGdeQXVyMjAwODA2NTc@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Suburban Wildlife (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/5HDEN42GYLIMI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

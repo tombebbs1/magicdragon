@@ -44,6 +44,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pigeon Kings (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RKD4NYVV34FP2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDliOTkzNTAtYWMwZC00N2M5LTlmOWMtYWVhNzAyYTA3YWY0XkEyXkFqcGdeQXVyNTMyMjQ1OTk@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]This Is It (2009) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DG4JKZJ5VYUCU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTI3Njc5NjQ4MV5BMl5BanBnXkFtZTcwNTQ4NTI4Mg@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]PS5 - The Future of Gaming (2020) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dropapk.to/hc6sgmvxlc8g::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

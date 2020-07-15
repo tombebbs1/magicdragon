@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]DIVOS (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/LKU7ZCGQFC4Z2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTEyOGQ0OWEtNTJhZC00YTVjLWFmNGUtNDEwMmMzOTZmNzFhXkEyXkFqcGdeQXVyMzU4NTM4MjE@._V1_SY1000_CR0,0,689,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Killer Raccoons 2: Dark Christmas in the Dark (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6XLYCQAUOFUGS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODVmYjY0ZjgtYjBhMC00ZTM0LWIwZDMtMTVhODY1NDViMmMzXkEyXkFqcGdeQXVyODc2NjM5NTk@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghosts of War (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KGZMSVKZO4B7U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzYWVmN2QtOWM0Yi00ZTJiLWFkNzItOThmYTkxYzUzYTQyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Haunting (1963)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YWT2ML6CPTI2O::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

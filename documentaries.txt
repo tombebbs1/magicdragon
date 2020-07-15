@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]New Homeland (2018) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/F6IMLACQBD5SM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDljM2M4NTgtZGRhNC00NzNjLTllZDUtZDUyZDEyYjNjMGRhXkEyXkFqcGdeQXVyMTA4NzI5MDg3._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Race Against Pandemic (2020) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/IOPBZVDG3F6Y4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

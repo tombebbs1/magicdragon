@@ -9,14 +9,6 @@
 <info></info>
 </channel>
 
-channel>
-<name>[B][I][COLORred]THIS ADD ON WILL SOON BE DEBRID ONLY[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/rdlogin.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
-
 <channel>
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
@@ -25,21 +17,6 @@ channel>
 <info></info>
 </channel>
 
-channel>
-<name>[B][I][COLORorange]TEST[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/klD0wtv.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
-<fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
-<info></info>
-</channel>
-
-channel>
-<name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
 
 <channel>
 <name>[B][I][COLORgreenyellow]Documentary's[/B][/I][/COLOR]</name>
@@ -66,6 +43,14 @@ channel>
 </channel>
 
 <channel>
+<name>[B][I][COLORyellowgreen]New Releases HD Debrid Only[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][I][COLORlime]Movie Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
@@ -80,15 +65,6 @@ channel>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
-
-<channel>
-<name>[B][I][COLORyellowgreen]New 1 Click HD Debrid Only[/B][/I][/COLOR]</name>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-<info></info>
-</channel>
-
 
 <channel>
 <name>[B][I][COLORred]Debrid Movies[/B][/I][/COLOR]</name>

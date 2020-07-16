@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Family (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DHBPY3XDPLTU2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE2MzI0MzkyNV5BMl5BanBnXkFtZTcwMjQ2MDM2OQ@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+item>
+<title>[COLORwhite]Fatal Affair (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BQ6LHS23PYXM4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODA1M2Y5NjktYmI0NS00ZWU4LWJhODMtZGM3MjE1NTE4YzIzXkEyXkFqcGdeQXVyMTU0NjY0NDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Valley of the Lanterns (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/BQ6LHS23PYXM4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

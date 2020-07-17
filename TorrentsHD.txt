@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Young Frankenstein (1974)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CK3NUN3OZLH6U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_SY1000_CR0,0,645,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cat on a Hot Tin Roof (1958)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UP5DJEOJC2VGE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzFhNTMwNDMtZjY3Yy00NzY3LWI1ZWQtZTQxMWJmODVhZWFkXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SY1000_CR0,0,651,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Lawnmower Man (1992) Directors Cut[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/MSPRDYYE7NOU4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

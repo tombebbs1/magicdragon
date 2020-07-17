@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Easy Does It (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FNMBZFAC62J34::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE3MTRiYmEtMTE2ZC00MjY2LWJmMTgtYThhOTlhNTZjYTdkXkEyXkFqcGdeQXVyMTk3OTkxOTA@._V1_SY1000_CR0,0,783,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Silencing (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/3UHSZJSHF6R52::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dirt Music (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IIBH7JT7PGG3I::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTYwNDBiZjEtZGUzZS00MWQ2LWE5OGYtMGVlNzE2NTJjMTViXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Easy Does It (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/FNMBZFAC62J34::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

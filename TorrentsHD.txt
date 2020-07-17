@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]K-19: The Widowmaker (2002)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/23D2FOLHPMSFO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWY2YjIwNDAtYjQwOC00YjY5LTk2MDUtMjY4ZDdiMjdlNjIzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX672_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Young Frankenstein (1974)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/CK3NUN3OZLH6U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

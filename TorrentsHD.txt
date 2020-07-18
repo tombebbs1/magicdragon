@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hero (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FOOIKV7K5C3VS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyMDk0OWItZWQxYy00YzFkLWIwNDctYTYxODU5Zjk3MjAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dirty War (2004)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/WKTY2EPQWZUTM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

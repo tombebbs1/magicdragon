@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Lancaster at War (2009) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5UWIXUXUR7BCW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjlmMzRiYmUtMWFlNi00NWQ1LThhMGItZWFlZDljY2EyZGYwXkEyXkFqcGdeQXVyMjMxMDM1MDY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Boy Interrupted (2009) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/J7YLOVCNMML46::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Warpath (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UF556K2BBULE4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmQwODAwZTMtOTM3Yy00YjkxLWJlN2ItM2Q0ODg5ZmZhMDZkXkEyXkFqcGdeQXVyMTQ4NDExMA@@._V1_SY1000_CR0,0,656,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]End of Sentence (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5AJ732B445G52::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDVmOTkwMjEtOWQ1Ny00Nzc2LWJmNmEtMWVkYTAxNzc0YWJlXkEyXkFqcGdeQXVyMTg4NzM5NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mongolian Death Worm (2010)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2W4KTBHZXXIWA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE3MjI5OTc5Ml5BMl5BanBnXkFtZTgwNzQzMDgwMzE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Resistance (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VEJNFASCS2P6Y::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

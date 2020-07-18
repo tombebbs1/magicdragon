@@ -26,6 +26,51 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hollywood Homicide (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OQWFRF6WO7O2K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU5Mjk1NzQ4Nl5BMl5BanBnXkFtZTYwMTYxNzk5._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Devil's Own (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OBNRMYLXM43KY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYzMDA1OTc4OF5BMl5BanBnXkFtZTgwODc2MzkyMTE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Frantic (1988)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/53T4Q775UZM4G::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjY2ODQ3MTQyOV5BMl5BanBnXkFtZTgwNTc2MzkyMTE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Presumed Innocent (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OJDNFFTRDL6UC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMyODU4NjQwMV5BMl5BanBnXkFtZTgwMTkwNTg4NjE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]What Lies Beneath (2000)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/U5P3YMFYL2LOG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTY4NjNkMTMtNTEyOC00NDBiLWFkZjMtZDkwYzU3OTFjOTkzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cosmos (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/K466UDLRFV3QW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

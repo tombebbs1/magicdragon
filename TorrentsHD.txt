@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Thelma & Louise (1991)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CPGT7GKR4AT7C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mommie Dearest (1981)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ALWIT6F7APBKU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNThlYzA1MjAtNjAwMy00ZmMxLWJjMTYtNjIwN2MzZjc1ZTU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,668,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hollywood Homicide (2003)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/OQWFRF6WO7O2K::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

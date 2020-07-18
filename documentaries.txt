@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Great Boeing 787 (2017) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GJPUZICPW3LOU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://dyncdn.me/posters2/e/e7227ebdaefcf9f7abf6b80f7ca761d12ba9d261.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Becoming Mike Nichols (2016) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/IRDMQG2CKBOXI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

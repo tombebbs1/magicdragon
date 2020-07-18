@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dirty War (2004)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WKTY2EPQWZUTM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzRhOTA3NzgtYzI5NC00YzQ4LWE2ZjctY2NlODc1YmE5NjhlL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Fly (1986)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/PG3FBGMBEJHKA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

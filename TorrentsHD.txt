@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Fly (1986)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/PG3FBGMBEJHKA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Thelma & Louise (1991)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/CPGT7GKR4AT7C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

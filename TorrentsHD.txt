@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Project X (1987)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MB6UI75EFLJPY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjNlZDRiNTUtZTYyMy00ZWVlLWIwMGUtMmRkZDk3ODhhYzUyXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Harry Brown (2009)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YQP4W76H3KNA2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

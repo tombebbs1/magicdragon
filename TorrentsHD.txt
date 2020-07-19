@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Harry Brown (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YQP4W76H3KNA2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM5NjE2NzI2Ml5BMl5BanBnXkFtZTcwNDY0ODUyMw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Muriel's Wedding (1994)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AYQJJZMIVGRWK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTU2M2Q0YzktZGE4MC00YTQ1LWJmZGUtYzdjZTdiODBkY2ZmXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Brotherhood of Justice (1986)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/S4YO6YJECW25C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

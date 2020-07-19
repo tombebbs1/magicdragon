@@ -1,4 +1,11 @@
-
+<item>
+<title>[COLORwhite]Peninsula (2020) HDCAM UPDATED 19/07 Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dropapk.to/v0v83nahnni9::LISTNAME:[COLORwhite]SD  LINK 4 Debrid Only[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Burnt Orange Heresy (2019) HDCAM UPDATED 19/03[/COLOR]</title>

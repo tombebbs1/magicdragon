@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Citizen X (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YGXFCMULVQKAU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGIwNjAzZmQtMzZmZC00NDM5LTg0ZjctMzZmOTQxM2Y1OGRlXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Project X (1987)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/MB6UI75EFLJPY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

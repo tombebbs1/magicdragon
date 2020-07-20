@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Along the Roadside (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/QDGX36FZYQWFS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU0ODgwNjIwOF5BMl5BanBnXkFtZTgwNDMzMTg0NDE@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Patsy & Loretta (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3XSTBBRQCZZAY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzMzYTZiZDktOWUzMC00N2FlLTk4ZWMtNGI4NGVmYTliMDAxXkEyXkFqcGdeQXVyOTM4OTg0MDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]MidKnight Adventure (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/7GOBZHP73GDIK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

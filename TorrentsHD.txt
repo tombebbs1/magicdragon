@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Denmark (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/Q4Q7IVT3N77BA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjI1ZTI5ODgtYjgwZC00MzY5LWIzNWQtNTE5NWY0MGVmMjA4XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]American Fighter (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YJ5JMTO73D62C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWRjNjMyMGEtZGZkMy00ODRmLWI3NjItNjFlNjMwNDgzMTY5XkEyXkFqcGdeQXVyMzU0MDMzNw@@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Very Excellent Mr. Dundee (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/O5RYM5OFRENBI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTVlZWUzOTYtOTg2MS00MTM0LWFlNjQtYmM4NDk4OGViM2Y5XkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_CR0,0,690,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Citizen X (1995)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YGXFCMULVQKAU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

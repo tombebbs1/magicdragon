@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]MidKnight Adventure (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7GOBZHP73GDIK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTdmMzcwMzAtYjJlZi00YTgzLWIzOGQtNTA3M2RiMTZkZWJmXkEyXkFqcGdeQXVyNTUwMjg4OTM@._V1_SY1000_CR0,0,750,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Haole (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BQ2LUNMNTBZJY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTE5ZWY1N2MtMDVjZC00ZmU3LTkzNzYtMjY4MzAyMjQyZTA3XkEyXkFqcGdeQXVyMzcyMDA0NTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Debunkers, Inc. (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZEH5WRYCFCKDK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTM5NDg5OTktNjAxMy00MjRkLWJiZDktOTY4YWI3ZTc0NTJiXkEyXkFqcGdeQXVyMjM4NDk4MzY@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Denmark (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/Q4Q7IVT3N77BA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

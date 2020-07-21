@@ -44,6 +44,24 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GKMDDDWMWGP6U::LISTNAME:[COLORgreen
 </item>
 
 <item>
+<title>[COLORwhite]Blood Vessel (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MT5E2J4KQEN2G::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzU2OGVjZjMtOTE4Mi00Njk1LWI4YjUtMzc4MzdlZWExOTdlXkEyXkFqcGdeQXVyMTkxMDQ1NzA@._V1_SY1000_CR0,0,681,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jack Whitehall: I'm Only Joking (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TX7YGMCI5ZDKM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2VhMzgwZTctYjE3NS00Yjk4LWJmYTQtODZhNjFiMDg5MDJkXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Killer Next Door (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/BESU2VEAA5SZS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

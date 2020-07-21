@@ -25,7 +25,23 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Arachnophobia (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/J2575Z6HSW23A::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjExNTcyMjI2Ml5BMl5BanBnXkFtZTgwMDgwNTg4NjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
+<item>
+<title>[COLORwhite]Coma (2019) Dubbed[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZP6EWJNVW2WPU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDc3OWJkMWEtMTlmOC00OGU4LTk3MDYtZDE3OTNiZGRhMmMxXkEyXkFqcGdeQXVyNjYzMTAzNTY@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Blood Vessel (2019)[/COLOR]</title>

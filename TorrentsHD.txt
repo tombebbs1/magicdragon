@@ -44,6 +44,60 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GKMDDDWMWGP6U::LISTNAME:[COLORgreen
 </item>
 
 <item>
+<title>[COLORwhite]A Killer Next Door (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BESU2VEAA5SZS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmNjODQ0OTEtM2QyYy00ZGU5LTgwZWQtMmEyZWRiNWJiZDc2XkEyXkFqcGdeQXVyMzE3NjQ5NA@@._V1_SY1000_CR0,0,708,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guest Artist (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/E5ON5QXJOQZOE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTMwMjdhZTYtZGExMS00NThkLThjN2QtZTM0NDM2MGU2OGQyXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,716,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Scary Stories (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CE6A4KV35TWFW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWUxMGRmYWMtMzE2Mi00YzAwLWE2ODctOWE4NzdlNGNlOWRmXkEyXkFqcGdeQXVyNzgwNTM1MTg@._V1_SY1000_CR0,0,701,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]White Lie (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EDPZI7RNFFKPQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzA2MDlkOGUtYzYxMS00MzUyLThmMWItMjhmYzQ2YmNjMjQxXkEyXkFqcGdeQXVyNzMwOTk0Ng@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guest of Honour (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GGVDVZKRSE53M::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTkzNWUxZjMtNjk2Ni00MTRlLWFiMDEtYmIyOGIwNGRiZTNmXkEyXkFqcGdeQXVyNjAyNTIzOTM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lemonade (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/F3W6AJA7KG4SI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzdjNGI0NWYtYTAwNy00ZDlmLWIyODUtOGQ5NzRlMDM5NGVkXkEyXkFqcGdeQXVyNDY2NDMxNDY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The War of the Worlds (1953)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/T333OAYKWBOJ4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

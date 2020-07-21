@@ -25,23 +25,7 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Uncle Buck (1989)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/TOVHCSU3NVPQG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwOWVkNzMtZTIyZC00ZWM0LTg5MWYtMWYwYjVhZTM3MDMzXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]The Full Monty (1997)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/GKMDDDWMWGP6U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODg0NWFjMTAtNGZjMC00NmZlLThhZDYtM2MzNTU2NDZiZDVmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Blood Vessel (2019)[/COLOR]</title>
@@ -112,6 +96,24 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GGVDVZKRSE53M::LISTNAME:[COLORgreen
 sublink:LISTSOURCE:https://real-debrid.com/d/F3W6AJA7KG4SI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzdjNGI0NWYtYTAwNy00ZDlmLWIyODUtOGQ5NzRlMDM5NGVkXkEyXkFqcGdeQXVyNDY2NDMxNDY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Uncle Buck (1989)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TOVHCSU3NVPQG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjIwOWVkNzMtZTIyZC00ZWM0LTg5MWYtMWYwYjVhZTM3MDMzXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Full Monty (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GKMDDDWMWGP6U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODg0NWFjMTAtNGZjMC00NmZlLThhZDYtM2MzNTU2NDZiZDVmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

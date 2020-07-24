@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Soldier's Revenge (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5IGCEYJXS4T5W::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjJjMGZmZGUtOTRiNi00Y2I4LWE3MTEtYzgwMDg5MzlhZGUzXkEyXkFqcGdeQXVyMTkzMzY4NA@@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Big Ugly (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CC5NFWYFU4KXO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2E5ZTUxNjEtYjE4Ni00Y2Y3LThkMDYtOGYwMzcyM2JjYWU1XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Kissing Booth 2 (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/NYUVX7KLMA57W::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

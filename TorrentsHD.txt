@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Clown Motel: Spirits Arise (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7FBCJCRZCLPDQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjAzMmM2NjktZDU3ZS00MzZhLTkwMWQtNGI1ZmQzZWEwZjk3XkEyXkFqcGdeQXVyMjkwMTc0NTU@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Devil Within (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/WK6KLBQ2WW25A::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

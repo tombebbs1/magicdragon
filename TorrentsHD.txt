@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Devil Within (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WK6KLBQ2WW25A::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmE1MzMwNGMtMzhkMi00OWUzLTg4ZjctZTk3MGQwZjc3MTAyXkEyXkFqcGdeQXVyMTY3MjE3NDA@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nimbe: The Movie (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/V33UWMHIOEAMI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2Y1OTk0NWItZjY3My00Njk5LTk5NmYtZTI4MDJmZGVlZTk1XkEyXkFqcGdeQXVyNDExNDk4ODQ@._V1_SY1000_CR0,0,703,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tribal Get Out Alive (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/Q57CKIVELDZWK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

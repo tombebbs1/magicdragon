@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Irrational Fear (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3SRM3C3LBIOP6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmIxNTdiODAtMTY3ZC00NWRiLThjODAtY2MyZTlmMzliNTU1XkEyXkFqcGdeQXVyNTcwMzkyNDE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nose to Tail (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/IGXOAS2Q3XKVS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Finke: There and Back (2018) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/I7E2JG6L4OVOA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjFiZjUwYjgtZTZlYy00MGU4LWExMTMtN2E3ODM5NjMzNTY5XkEyXkFqcGdeQXVyMTUzMzU4Nw@@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Revolution VHS (2017) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/2X3WDEHPX4HW6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

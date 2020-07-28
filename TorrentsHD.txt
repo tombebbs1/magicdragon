@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Nose to Tail (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IGXOAS2Q3XKVS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGI4YmYzODYtMWQxNS00ZmUwLWE0MDktMjQzMzcxNWI0ZjcyXkEyXkFqcGdeQXVyOTQ5MDA2MzQ@._V1_SY1000_CR0,0,698,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Woodland (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FPNH3NEOBQ63U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzc1MjU3ODAtODZhMi00M2E4LTgyNDctYjIxMGMwMzc5NTEwXkEyXkFqcGdeQXVyNTA4NDgzMw@@._V1_SY1000_CR0,0,672,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ice Cream in the Cupboard (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NKTMN334MW7I4::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmVkOTY1ODItNDZjMC00ZDVjLTgwNWUtOGVlNTc2ZjYyYmZiXkEyXkFqcGdeQXVyMTA1Nzc0NDA1._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ash (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/JOTTZJZ2GQHCS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Manifestation (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KWYGYXYQCBPNS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzQ5M2M5OGEtZDhlNC00MGZmLTk3MzQtMzNiMjk5ZGQ1MjM5XkEyXkFqcGdeQXVyMTg5MjE4MTg@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]3 Knee Deep (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HXKJFK3RYADJC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzkzMTY1MTYxMF5BMl5BanBnXkFtZTgwMTUyMTk5MDI@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Irrational Fear (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/3SRM3C3LBIOP6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Unbound (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7ZI5VRX35UQKG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjA3ZDE5MDItMDA0OC00NDEwLTk3YWEtOTU0YjUxNzgwNDNiXkEyXkFqcGdeQXVyMTY3MjE3NDA@._V1_SY1000_CR0,0,627,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Manifestation (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/KWYGYXYQCBPNS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

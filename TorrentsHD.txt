@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Gabriel's Rapture (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KFILZYOI2QCNM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmNjNDY5NTktY2VhOC00NWI3LTg3ZjQtZjE0M2YxNmVlNWMyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Upside-Down Magic (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/2PDQQ6Z5KDH6C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -25,6 +25,16 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Black Is King (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DI7LUFHDB3ZVS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNkOWU1MDUtNzMzMy00NTAwLWExZTAtZjJlZjg0YWNiZjE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Seriously Single (2020)[/COLOR]</title>
 <link>

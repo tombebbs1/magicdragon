@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Serpent in the Bottle (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/C22B3WYWLHWFK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDc0OWU3N2MtNGM5Zi00MGZhLWEyYmQtMDE3Y2E1ZWU0ZTBiXkEyXkFqcGdeQXVyOTEwMzA0Njg@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Steve-O: Gnarly (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/EWABDTN4Y4AJQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

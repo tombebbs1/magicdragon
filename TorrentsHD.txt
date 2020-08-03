@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Romance in the Air (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MROACYXFD6LAS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTM5OTBiNWMtYWRjYS00NGQ5LTk3MjAtYjdiN2U5ZTFlYWQ2XkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Dalton Gang (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/X7MU77EUG4KXM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_SY1000_CR0,0,686,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Behind the Line: Escape to Dunkirk (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/ZLU6EPKOAHSKQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

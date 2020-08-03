@@ -1,15 +1,4 @@
-<item>
-<title>[COLORwhite]Solar Impact (2019) HDCAM UPDATED 02/08[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/jd54y9s7kn4k/solar_impact_official_trailer_in_cinemas_30_july_2020::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/djarfceo321v/solar_impact_2019_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/utp2x2h5ddm2::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vup.to/m7wn66ewgq45.html::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?igcdcu3c3ivpg1q2o8b0::LISTNAME:[COLORwhite]SD  LINK 4 Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTk0MGE3MmEtZjEwOC00NWJkLWE3ZmUtNGQwMjgyYjZiYzgwXkEyXkFqcGdeQXVyMTA5NTk2MDA4._V1_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Peninsula (2020) HDCAM UPDATED 19/07[/COLOR]</title>

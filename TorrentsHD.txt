@@ -26,6 +26,78 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Murder to Remember (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/R4ELQQV2GV2TM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzQxOWVmNDEtMWFlMC00MDhhLTliNTYtYzc3MTg1MDBkMmU0XkEyXkFqcGdeQXVyMjA4NTEwOTE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Never Rarely Sometimes Always (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RDP5MZSXQQUEM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGUzZjZhMmUtZDE4Yi00NTI0LWJlMDUtNTU1OWI2ZWM1MzBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]April in Autumn (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HUINZK4HRXROK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjQ5NjA3NzEtNzM2OC00YWI3LWIxZTUtZDhkNGUzOWVmOGFiXkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Around the Sun (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7UD6L6LMI53GO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE0NWUzNDAtNDdmYi00ODYxLWE3OGUtYTQ4MmQ2MGJjMTg1XkEyXkFqcGdeQXVyNTkzMTE0Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Bone Box (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/S77NXBCJDDCRU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTc5ODE0N2EtNDU3OS00YzNhLTkzMzAtOGRhZjQxNjY2MmIwXkEyXkFqcGdeQXVyNTcwMzkyNDE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Deathstroke: Knights & Dragons (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NXOD77FQWD6GG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODZkYzM3M2YtYzA1MC00ZGZkLTkzZTgtZWZiMDYwNjliNjFlXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Green Rush (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/4ZWM4WV35SNSQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzVlNzM4OWItMWJiMS00NTJkLWFhOTgtYTRlZGQ3MTA0NzFjXkEyXkFqcGdeQXVyMTU0ODE4MDQ@._V1_SY1000_CR0,0,679,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Star Light (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FAHQZ6UNWKVRA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWM2NGI1YTgtMjQ1OS00MjNjLTkzMjQtZjg1MWRlZTRmN2Y1XkEyXkFqcGdeQXVyNTU3NDIxMTM@._V1_SY1000_CR0,0,752,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Skin Walker (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/GWU2XXSQPFW4C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

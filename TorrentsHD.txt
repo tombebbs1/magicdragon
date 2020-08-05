@@ -26,6 +26,78 @@
 </item>
 
 <item>
+<title>[COLORwhite]What We Found (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GGFXJHO2N5B5U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWUzMDM3MTgtNjhmNC00NmY4LTg0NmUtOGJmY2U0NTA5Y2UyXkEyXkFqcGdeQXVyNTMyMDExNTc@._V1_SY1000_CR0,0,709,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Aliens Stole My Body (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/T6M7O7B3IGH2Q::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjhlODdkMWUtYTUwMy00OTE1LWIzMTMtMzU1YWZiMzMzNzY2XkEyXkFqcGdeQXVyMTAzNDg1MA@@._V1_SY1000_CR0,0,681,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Discarded (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TRVFJ3ETAQFNW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2Q3MTIwNTUtNTc1YS00NTNhLTg5OWItMDYxNjE1YmFkN2MwXkEyXkFqcGdeQXVyMjIzNzI4NTM@._V1_SY1000_CR0,0,750,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nothing But the Blood (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IJ3A5MQ7WPPMG::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjAzZmFkZTMtZGE2Yi00MTUxLTljMDAtMzllN2I0MDc4YWQ5XkEyXkFqcGdeQXVyMjAyMjkxMjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Malibu Rescue: The Next Wave (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/52YZDVRRTZ7YI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmIyZjVkNDQtOWEyZC00OGYzLWIwNWYtNGUyMmFkMDQ5ZWYzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Day 13 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XMTFN6XLWBTOS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzIwY2JlMDUtNGQ5Ny00M2FmLTkyZmItMzU2NTA1ZWJkNDA4XkEyXkFqcGdeQXVyMTgwMDU5MjA@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Limbo (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JS5RXVFHRHUNA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGYzOTYxZTItZDEzZC00NDQ5LWFiZTEtZTA3Yjk1OGIwY2Y2XkEyXkFqcGdeQXVyMTQ4MTMwMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Eye for an Eye (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/QFAGMR7336WLY::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODE4N2E0NGYtNTFlNy00YjY3LWE3MjItYTNhNmRkNGI5Yjc2XkEyXkFqcGdeQXVyNTMwODYxNA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sinful (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/OKDAUF34UDVYC::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -26,6 +26,42 @@
 </item>
 
 <item>
+<title>[COLORwhite]Skin Walker (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GWU2XXSQPFW4C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2IxMGYxOTItMWQ4NS00YjljLThiYzMtM2ZlYjQ1ZjdiYWQ2XkEyXkFqcGdeQXVyNDI4MjI3NDk@._V1_SY1000_CR0,0,699,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Love Flower (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2RBLEQL2PE7B6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTI1YzUzM2EtN2ZiNS00MmVmLTg5NWQtZDVkNWMwYjNjZDNjXkEyXkFqcGdeQXVyMzU3MzExMDA@._V1_SY1000_CR0,0,786,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Man from Kathmandu Vol. 1 (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7XE4XCTE4BUWS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODczZWY5Y2QtODkwZC00MDIxLThmOGEtNTMzMzM4MmE1MmNlXkEyXkFqcGdeQXVyNzQ3NTY5MjE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Beast No More (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RQFXI62CDL7TO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjViZTQxZjgtMTdmOS00MGI2LTljMWEtMDUzM2E5MzYzMDdlXkEyXkFqcGdeQXVyNDkwNjk1ODQ@._V1_SY1000_SX700_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]What We Found (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/GGFXJHO2N5B5U::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

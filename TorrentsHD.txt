@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Burnt Orange Heresy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/PATH4POKFQPW4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWFiN2I4ZTQtZDA2NC00YzE3LWFhMzgtZWY0MGIzNjdiZmY3XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Peninsula (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/HPL6IL74YCEX6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -1,9 +1,18 @@
 <item>
+<title>[COLORwhite]The New Mutants 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UQFZI6R7NKLQQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/3s7uW2DO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tenet 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/P7RLFYIPCS4HO::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZWFiN2I4ZTQtZDA2NC00YzE3LWFhMzgtZWY0MGIzNjdiZmY3XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<thumbnail>http://img.rlsbb.to/images/zkup7tE.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

@@ -2866,6 +2866,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:69efbb6c29f20aff07661c83423bcb6a12f56d51&
 </item>
 
 <item>
+<title>[COLORwhite]Trolls World Tour 2020 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CT4IMSYKO2JDW::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/expISOjC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Troop Zero (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:142cef9b062f8a8a3f1314f038545509a092ceb6&dn=Troop.Zero.2020.2160p.AMZN.WEBRip.DDP5.1.x264-AJP69&xl=23545189669&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

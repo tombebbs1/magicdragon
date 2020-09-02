@@ -1,15 +1,9 @@
-
-
 <item>
-<title>[COLORwhite]Peninsula (2020) HDCAM UPDATED 19/07[/COLOR]</title>
+<title>[COLORwhite]Tenet 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/vyizlvf39eff/peninsula_official_trailer_2020_train_to_busan_2_zombieie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/8qhf9b5y2tc4/train_to_busan_2_2020_720p__hdcam_eng_sub_llg::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/9rl07bk4cr3x::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://vup.to/ckolqs8soj4q.html::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://dropapk.to/v0v83nahnni9::LISTNAME:[COLORwhite]SD  LINK 4 Debrid Only[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P7RLFYIPCS4HO::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWFiN2I4ZTQtZDA2NC00YzE3LWFhMzgtZWY0MGIzNjdiZmY3XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

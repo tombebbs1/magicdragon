@@ -35,9 +35,9 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HPL6IL74YCEX6::LISTNAME:[COLORgreen
 </item>
 
 <item>
-<title>[COLORwhite]#Alive (2020)[/COLOR]</title>
+<title>[COLORwhite]Alive (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/FEDHCMXFA6ZRO::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JLTDR4FLWIVBW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/ZKmWQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

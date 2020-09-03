@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Adventures of Pluto Nash (2002)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JKD7HTQKUGOEY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://www.geourdufilm.com/wp-content/uploads/2015/06/The-Adventures-of-Pluto-Nash-2002.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Alien Autopsy (2006)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5QOTGR3LTIYIG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51JYb-lDYIL._AC_SY445_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Partners (1982)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CJWPO6BWINBCE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51lvkFdZmhL._AC_SY445_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mighty Macs (2009)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/OCLAUBRENZA5Q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

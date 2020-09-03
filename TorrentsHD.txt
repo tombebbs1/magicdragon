@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Lost Boys (1987)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BZG2QAPBDYFBM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91HJHqC-4cL._SL1500_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unknown Origins (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YTR7IKXEDVPPS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

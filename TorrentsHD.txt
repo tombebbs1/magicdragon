@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The 2nd (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://img.rlsbb.to/images/yrntUjiI.jpg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/wys2OP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]English Dogs in Bangkok (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/TRS6ARZ5MOIH4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

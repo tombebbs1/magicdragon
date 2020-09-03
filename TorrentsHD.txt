@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Beetlejuice (1988) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KTNI3JWUOIATG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://miro.medium.com/max/600/1*gZVlGeSFZug75DcvRdYSUA.jpeg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love, Guaranteed (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/7LXAGD3RXAWQ6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

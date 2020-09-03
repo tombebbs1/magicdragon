@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love, Guaranteed (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7LXAGD3RXAWQ6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/jXecnJTW4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blue Thunder (1983)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WBX3NIGIJJHT4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://i.pinimg.com/originals/bb/f8/23/bbf823a1b6bb7f15cd155ef7f953d131.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Lost Boys (1987)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/BZG2QAPBDYFBM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

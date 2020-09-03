@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Mighty Macs (2009)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OCLAUBRENZA5Q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://dyncdn.me/mimages/33844/poster_opt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Good Night (2007)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KUP7ZPOQHKREI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/28idOI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Beetlejuice (1988) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/KTNI3JWUOIATG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

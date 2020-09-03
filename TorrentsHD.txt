@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Anti Corona Virus (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SVTALXI5IZUWQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/iVJTYQG2k7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Adventures of Pluto Nash (2002)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/JKD7HTQKUGOEY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

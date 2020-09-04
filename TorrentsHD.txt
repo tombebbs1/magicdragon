@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Still Here (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/N74F2ZG2RFRPI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/oIEtbk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Argument (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/IOBMZR2HRCPPS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

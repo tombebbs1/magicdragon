@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Critical Thinking (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6APGXGRTIKVES::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/baC5x.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Guest House (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TLG24HKANELUQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/lym86.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Owners (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SD6OSXW4L5JFG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/IbQ9nq5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Anti Corona Virus (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/SVTALXI5IZUWQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

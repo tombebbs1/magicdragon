@@ -1057,6 +1057,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:00f9077a243c00df7211b9bbd10575e7e22893af&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Chemical Hearts (2020) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2UYFKLZOAITZI::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/w8u5zo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]CHIPS (2017) 4K [COLORred]4K[/COLOR][/COLOR]</title>

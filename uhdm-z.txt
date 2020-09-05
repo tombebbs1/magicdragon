@@ -1813,6 +1813,8 @@ sublink:LISTSOURCE:https://1fichier.com/?0n4w62wvnkc162ik2thn::LISTNAME:[COLORgo
 <fanart></fanart>
 </item>
 
+
+
 <item>
 <title>[COLORwhite]The Fate of the Furious (2017) 4K [/COLOR]</title>
 <link>http://uptobox.com/hiom0ux17l31</link>
@@ -1934,6 +1936,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:f00ae329e5de6bea767de58fd12ed75998d66bed&
 <link>http://uptobox.com/ts1aocnetg48</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Hitchhiker's Guide to the Galaxy (2005) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CS6LRDACKZGRW::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmU5MGU4MjctNjA2OC00N2FhLWFhNWQtMzQyMGI2ZmQ0Y2YyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

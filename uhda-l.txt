@@ -784,6 +784,24 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:96d77d5b0eef4b424f9e3090fc44d0078a1fee45&
 </item>
 
 <item>
+<title>[COLORwhite]Bill & Ted's Bogus Journey (1991) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5EO3LMVHK4JP2::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://media.s-bol.com/J6DNzlxW2JZJ/843x1200.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bill & Ted Face the Music (2020) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WJEJ5XIPEY4RK::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b9/Bill_%26_Ted_Face_the_Music_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Billy Lynns Long Halftime Walk 4K [/COLOR]</title>
 <link>http://uptobox.com/t7s2mbgrhrri</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NDI1Nzg4OF5BMl5BanBnXkFtZTgwNjYxOTg4ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -2079,6 +2097,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:37127707D4E75CE2D5A171604C98362CA723578A&
 <link>https://1fichier.com/?4ao690suak</link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTk0ODMyNjk1NF5BMl5BanBnXkFtZTgwNDkxOTk4MzI@._V1_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Heat (1995) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2ASJCJSYJ2B5O::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81aNVy4ogPL._AC_SL1500_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

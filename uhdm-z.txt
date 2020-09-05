@@ -2603,6 +2603,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:b4499e33c4f48304487c747a559a3c18fc4e3cd5&
 </item>
 
 <item>
+<title>[COLORwhite]The Texas Chain Saw Massacre (1974) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TJRT5UPXSYC52::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a0/The_Texas_Chain_Saw_Massacre_%281974%29_theatrical_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Thinning[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>https://uptobox.com/itzcw5jc4z37</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMDM2NjAyNl5BMl5BanBnXkFtZTgwODA1MTUyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Get on Up (2014)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5JELAAQWQ7SVK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/3v1Jhiuf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Message from the King (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/CJ5727YHMZHKA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

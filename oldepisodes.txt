@@ -1,4 +1,15 @@
 <item> 
+<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U5P6GGTC2I2B6::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+</link>
+<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Alex Rider Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://clicknupload.co/9ow3q0htyrbs::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

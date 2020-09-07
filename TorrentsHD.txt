@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mortal (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UMHBOJBANQOKU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dFB6Tiy3z2xRLbnEUB5ocApT5xG.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Into the Labyrinth (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/HFJBDK3BH2MLW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

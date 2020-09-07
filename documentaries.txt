@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Chadwick Boseman: A Tribute for a King (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TPLXD7BH4YO2C::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fkjuXkET4ekPvyaAvoTj5G5yUp.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]David Blaine: Ascension (2020) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/5FPXUYTMQQURA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

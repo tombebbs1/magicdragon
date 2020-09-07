@@ -397,6 +397,15 @@ sublink:LISTSOURCE:https://1fichier.com/?1hge252izp::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]All Together Now (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NTH3MXN2CSCRG::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Allegiant 4K [/COLOR]</title>
 <link>http://uptobox.com/pv5ykj8ir3wd</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>

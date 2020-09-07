@@ -296,6 +296,15 @@ sublink:LISTSOURCE:https://1fichier.com/?0q6ygtoxn4myxqlx78od::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Mulan (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RYZHXFT4H6QSI::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Murder on the Orient Express (2017)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://uptobox.com/x6052wzevqpf::LISTNAME:[COLORgold]4K  LINK 1::#

@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]My Octopus Teacher (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WYJ5QRERXHWSM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sW7VOrkHKYIeV9PaYc5IqGU2XK8.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Battle Mountain-Graeme Obrees Story 2015 Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/KUSD7O45FEDLE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

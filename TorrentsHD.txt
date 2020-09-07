@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Into the Labyrinth (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HFJBDK3BH2MLW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uYX6eZRnUlQCRndgodWUHLrOKz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Attack of the Unknown (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/BIAVH3XUBSRJU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

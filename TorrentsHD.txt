@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Misbehaviour (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OJEKJJZ3N4CUM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1SoYYvxG4bWTXp4wNWt5sKQf1E.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love Live! Sunshine!! The School Idol Movie Over the Rainbow (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/6YDNB75EMI4WQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -66,7 +75,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SMFNDYOFDIJYA::LISTNAME:[COLORorchi
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/WESQVIRLTQD4S::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/neHQIIN2FPnKXHLu8x15pxZo84S.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUgCwMvo2DwEDfSHd7GMqOVgusx.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -75,7 +84,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WESQVIRLTQD4S::LISTNAME:[COLORorchi
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/UVGOIPBRBQ4B6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUgCwMvo2DwEDfSHd7GMqOVgusx.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/neHQIIN2FPnKXHLu8x15pxZo84S.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

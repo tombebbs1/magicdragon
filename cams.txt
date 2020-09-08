@@ -19,7 +19,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/EB4VKEO5NQ746::LISTNAME:[COLORorchi
 <item>
 <title>[COLORwhite]Tenet 2020 HDTS UPDATED 03/09 RD Only[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/DEUE5QOCHEHG2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H5NS5YT2VVFGS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/zkup7tE.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

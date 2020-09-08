@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love Live! Sunshine!! The School Idol Movie Over the Rainbow (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6YDNB75EMI4WQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFgAeUjzJ4YB62pS0PxB5qL5ryp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Coriolanus (Stratford Festival) (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/JGCUPLCOQEYNA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

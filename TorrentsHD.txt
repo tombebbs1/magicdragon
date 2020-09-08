@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]First One In (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/VI25PCQNYWOMK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXtorCRXoX55lpWP59H6b69oC4f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Silence & Darkness (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EY47SCBH7XQKA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAkvsAoxTytKzWLbTrrxhJv2vBL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deep Murder (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/6MZ5OJFGQKJDK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

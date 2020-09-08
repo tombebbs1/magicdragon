@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Indigo Valley (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6ER63347LGQRQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UZ2Wd3ercj6FJ7zEQZ2bBu83g3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Garden Left Behind (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/SMFNDYOFDIJYA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

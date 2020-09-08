@@ -641,6 +641,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:c5e89d4fb44a5083b63f5dc0e8508c57c8083460&
 </item>
 
 <item>
+<title>[COLORwhite]Project Power (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?6h40pes9306mukxmlwq0::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Prometheus (2012) 4K [/COLOR]</title>
 <link>http://uptobox.com/4dxqx58uixnr</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -2389,12 +2398,30 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:f8260a58f2f5c317993aeeca772cdb8a9dd8cec8&
 </item>
 
 <item>
+<title>[COLORwhite]The Old Guard (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?i86md6t7rdsqrcqbcwb8::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Omen (1976)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://rapidgator.net/file/e93e48015c6be03fad11e24697eb277d/The.Omen.1976.2160p.SDR.WEBRip.DTS-HD.MA.5.1.x264-GASMASK.mkv.html::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
 sublink:LISTSOURCE:https://1fichier.com/?szv8k38v4r6awlgpuysx::LISTNAME:[COLORgold]HD  LINK 2 [COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmNjZDcwNTMtMjQxMy00ZTY5LTg4M2YtYjA5NDliNjNhYzQ3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,663,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The One and Only Ivan (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?7ppjx7rxo7gorbq1hxk5::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7ZsW5EbLbQwoGx0548KCmCAXA9.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -2531,6 +2558,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:19c4f393c51ebe8417b40264064936ea6f90a1ef&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The Secret Garden (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?7m96rhe9cre7l34mszmy::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Secret Life Of Pets 4K [/COLOR]</title>
@@ -2619,6 +2654,15 @@ sublink:LISTSOURCE:https://1fichier.com/?elsgydtxap0ptv1gc437::LISTNAME:[COLORgo
 sublink:LISTSOURCE:magnet:?xt=urn:btih:b4499e33c4f48304487c747a559a3c18fc4e3cd5&dn=The+Sword+in+the+Stone+1963+2160p+HDR+DisneyP+WEBRip+DTS-HD+MA+5.1+HEVC-DDR%5BEtHD%5D&xl=7777743334&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODc2MjAyZDYtNWYwZi00YTQwLWE0ZDMtMjM2NTJmYWMxMmQ0XkEyXkFqcGdeQXVyNTQxMTIxMTk@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Tax Collector (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://1fichier.com/?kp0476hj3mmhl46xmxbm::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Evil Under the Skin (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MGXQEIMKXOXSI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDwJC6Y0rv0Al1ey9MvF3ZgLgC9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Misbehaviour (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/OJEKJJZ3N4CUM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

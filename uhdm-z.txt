@@ -1893,6 +1893,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:b8f1261a10b648e0b1ed267cd268daf566682e55&
 </item>
 
 <item>
+<title>[COLORwhite]The Goonies (1985)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/J3FSX5JI3YRK::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxz1HIdUjQN23IZQk4Gy7ozJBM0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Greatest Showman (2017)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/8e2yqoanlutj::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

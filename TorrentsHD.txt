@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ava (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/32L7RDNIR3NWC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/TzUxN0Hm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unpregnant (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/PWHB2A2EDJ4O2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

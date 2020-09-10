@@ -14,14 +14,7 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Tesla (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/BTDH2GAPZ6EHM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/vnAxdZiGN.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Rogue (2020)[/COLOR]</title>
@@ -89,9 +82,9 @@ sublink:LISTSOURCE:https://real-debrid.com/d/B3P4NZ43JMJBU::LISTNAME:[COLORorchi
 <item>
 <title>[COLORwhite]Ava (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/YLHW534IUAHSM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/32L7RDNIR3NWC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>http://img.rlsbb.to/images/2EvNVT7nQ.jpg</thumbnail>
+<thumbnail>http://img.rlsbb.to/images/TzUxN0Hm.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

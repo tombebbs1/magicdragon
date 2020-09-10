@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cranston Academy: Monster Zone (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/THKI4SFLRW6JK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwWDHYlmiOXNBCsvhCDfccluLQK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Babysitter: Killer Queen (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/Y3OR6Z3RCNRDK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx7akzfwbPCLlxKgZ1NycThFC92.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pool Boy Nightmare (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/HQ7NKTNP7FGE4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,39 @@
+<item> 
+<title>[B][COLORwhite]Two Weeks To Live (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2OTML6ZJZCBUM::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KZ7JHUEDR2ZC4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WEY2GNWPSXXCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XFQHASEVNQN4G::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GRMG653ZQCO2E::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ASICT7BCCM24G::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#    
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqrDUz3AfEoGBwq3GvK1PSaMHd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Power Book II: Ghost (2020) SO1E01 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TZIPTHWTVL3L4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN8HcetzKsNliez2xo4ymWOl8bd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HQWP2BVOXAWCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/UEC5SSK6QL4I2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2FBNXKFHOJTCC::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]WWE Monday Night Raw 07/08/21 RD Only[/COLOR]</title>
 <link>
@@ -23,16 +59,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YY4O3MGWOQBAW::LISTNAME:[COLORwhite
 <fanart></fanart>
 </item>
 
-<item> 
-<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/U5P6GGTC2I2B6::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
-</link>
-<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item> 
 <title>[B][COLORwhite]Alex Rider Season 1 Debrid Only[/COLOR][/B]</title> 

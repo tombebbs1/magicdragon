@@ -1,4 +1,22 @@
 <item> 
+<title>[B][COLORwhite]Away (2020) Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/D35CUE3BUJ6G4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4C2G7L6MTVA4I::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GLH2CAUTEBMCG::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WIVL22DQH4FHM::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JYMUK26FWHBKE::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QDVTU7LZ7YBFS::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2VPLFKTBUDLAU::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2PHX4VZVMWEPE::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LL6VYRC4PHXHQ::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TJITLRCBFB4DQ::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZKqLBIZcjaB5NEpFr4umT8ezoW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Two Weeks To Live (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/2OTML6ZJZCBUM::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

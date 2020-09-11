@@ -43,6 +43,32 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]The Sit-In: Harry Belafonte Hosts The Tonight Show (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IV3MFCA4UKHGK::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOdXw9dxwS1NK1QluT46gCkCCkm.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Max Richter's Sleep (2019) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IAUGHBTMDDMI2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCJ93G2sfYamV5CwTUonEuytWbZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Black Boys (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YLREHQVLUQTQS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqQOPm3RbpVbYNDyNTKJKnqk1xq.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Devil's Road: The True Story of Ed and Lorraine Warren (2020) Debrid Only[/COLOR]</title>

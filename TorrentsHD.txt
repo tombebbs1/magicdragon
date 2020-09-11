@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pets United (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YENJWUHTHGK2I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4Oq3RYVXs7hPX3JAVZPzN5jBmH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Surge (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/6WHVMS7IRBVLS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

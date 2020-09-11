@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rent-A-Pal (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/4A6GSRJ54SIFW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/NEcifZl3TZgNbvTp6u29MGBeUr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ava (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/32L7RDNIR3NWC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

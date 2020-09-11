@@ -1,4 +1,21 @@
 <item> 
+<title>[B][COLORwhite]Julie and the Phantoms (2020) Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NX3E5HSWR3Z6Y::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OPV7QRNWYDZQ6::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A7GVD2XBPHLG2::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S2RJVI5L7LJBA::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DHWHUU2X3367A::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/75Q2WPZDKGAUC::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZP2Z5SPDYAUJ2::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z5CYMONEELJWE::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DUAASRXLRDH36::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#    
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogfaQ8Yhg3Sc94bmkwZqmPH1Gm5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Boys (2019) Season 2 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/G5LZPMRCG7TMO::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

@@ -28,7 +28,7 @@
 <item>
 <title>[COLORwhite]Paranormal Attraction (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/336AQAHCQSYKU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CU3UZ4IPBNAUQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>http://remoteimage2.protected.to/tmp/637354986563249012_411084_1.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -37,7 +37,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/336AQAHCQSYKU::LISTNAME:[COLORorchi
 <item>
 <title>[COLORwhite]Archaon: The Halloween Summoning (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/R5AKOQDPKTG3Y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XFOWXFVDNLHLA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/ZgGqyXPtc.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

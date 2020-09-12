@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]First Cow (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MEQNZMXTFSPSW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]BoBoiBoy Movie 2 (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/77MXHEO4MQVQW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

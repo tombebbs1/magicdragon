@@ -26,7 +26,7 @@
 </item>
 
 <item> 
-<title>[B][COLORwhite]Smokey And The Bandit Trilogy[/COLOR][/B]</title> 
+<title>[COLORwhite]Smokey And The Bandit Trilogy[/COLOR]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/ODMYGBLUDJIOK::LISTNAME:[COLORwhite]Smokey And The Bandit 1[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/QZ25TKFZ2X6XK::LISTNAME:[COLORwhite]Smokey And The Bandit 2[/COLOR]::#

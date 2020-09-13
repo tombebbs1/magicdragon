@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Shock Doctrine (2009) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BNJI7HQTLIT56::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hkm9ZdR3ygHXaBTqGQwB2UXGbm.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mighty Jerome (2010) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/X3PFCKHMQ5TJQ::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

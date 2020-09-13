@@ -25,6 +25,16 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Smokey And The Bandit Trilogy[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ODMYGBLUDJIOK::LISTNAME:[COLORwhite]Smokey And The Bandit 1[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QZ25TKFZ2X6XK::LISTNAME:[COLORwhite]Smokey And The Bandit 2[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WAR6TLJ3S6WB4::LISTNAME:[COLORwhite]Smokey And The Bandit 3[/COLOR]::#   
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/516B9D1MY0L._AC_SY445_.jpg</thumbnail>
+<fanart></fanart>
+
 <item>
 <title>[COLORwhite]The Coming (2020)[/COLOR]</title>
 <link>

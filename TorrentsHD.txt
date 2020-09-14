@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Choir Girl (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XE4N4MTYTDICS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctHstjW0SPhlquu3KbER8d8Nrfc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sinfidelity (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2EFA3B2KZLGOE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M14prD8sjo3lHc43sylEAOUewd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bloodsuckers (2005)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/K66T2CWOSSUPY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

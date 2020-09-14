@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Vampire Virus (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://clicknupload.co/clh070tiv076::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/uaev0dEzgn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cult Girls (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/L2F7LVFSQOMJC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihTc1YqrNvT3DJK13WDi44pAnzo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Super Monsters: The New Class (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/4PNJPLIL2IJES::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cats & Dogs 3: Paws Unite (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JHSUPYAXD5XR2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmaDht41xVngHDQA8nOGUIC80v6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Welcome to the Circle (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/4A27LQTEPK6IG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

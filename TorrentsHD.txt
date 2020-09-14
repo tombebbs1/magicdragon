@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bloodsuckers (2005)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/K66T2CWOSSUPY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvcTgJIGNtDTUo4Rks2LMKd8EdC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Vampire Virus (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/PN2PDYMVANZH2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

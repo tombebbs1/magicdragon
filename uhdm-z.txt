@@ -487,6 +487,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:0f73208ab4d4943c85cce87d8f4f5c3e5ef079c5&
 </item>
 
 <item>
+<title>[COLORwhite]Pandas (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/G6W5TV2XZFIKM::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://dyncdn.me/mimages/328616/poster_opt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Parasite (2019)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:1288fd53174fed47744df5e8ed3209521a27b64a&dn=Parasite.2019.2160p.UHD.BluRay.X265-IAMABLE&xl=38432165857&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2720/announce&tr=udp%3A%2F%2F9.rarbg.to:2790/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

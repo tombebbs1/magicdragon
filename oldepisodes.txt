@@ -1,5 +1,14 @@
 
 <item>
+<title>[COLORwhite]Des (2020) SO1E01 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://clicknupload.co/fa1mhi77my26::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqdmPdb9BXGj3t9gKYw5pScZyhh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Third Day (2020) SO1E01 RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YHTRL7CQK3GZI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

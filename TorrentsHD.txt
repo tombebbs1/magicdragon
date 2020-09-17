@@ -39,7 +39,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ZIZDEGP2KHDLI::LISTNAME:[COLORorchi
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VCDCL24HORYJY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEZOutr4GYDG2iNNtXh2i2JZAP5.jpg</thumbnail>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo3JXQyyz5Zupwoo_CdBwXctJHWBGaqr2136rP_DrkSv0mTZ_k</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -49,7 +49,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/VCDCL24HORYJY::LISTNAME:[COLORorchi
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/DP2ON5QLQGXXM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b5/V_%28film%29.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEZOutr4GYDG2iNNtXh2i2JZAP5.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

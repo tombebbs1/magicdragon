@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Lost Okoroshi (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DP2ON5QLQGXXM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEZOutr4GYDG2iNNtXh2i2JZAP5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Paramedic (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/DP2ON5QLQGXXM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -73,7 +82,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SRWLFWE43NC6I::LISTNAME:[COLORorchi
 <item>
 <title>[COLORwhite]Ticking Clock (2011)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/HVF4V535PA3IO::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UI7E7EZPH3UVC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHBeLWuTLozNLAXFnbeG0P89h0.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

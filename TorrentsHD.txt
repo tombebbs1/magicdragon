@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Air America (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/QKQPCJ7OW5B64::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMRDHjFPVSf3BbVpVe8KNMb7sPM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Long Good Friday (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YWRE3OAEMYXNG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXS667me5Jfoj1b0xuxgjEMKunF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Debt Collector 2 (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/ZIZDEGP2KHDLI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -56,7 +74,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/DP2ON5QLQGXXM::LISTNAME:[COLORorchi
 <item>
 <title>[COLORwhite]The Paramedic (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/DP2ON5QLQGXXM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FGY45RYU55YN4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9ruFmHoUws4A45s8FBZuMNC6Mu.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

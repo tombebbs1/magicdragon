@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Debt Collector 2 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZIZDEGP2KHDLI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/HxQP6Y9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]V (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VCDCL24HORYJY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

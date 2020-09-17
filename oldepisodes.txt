@@ -141,18 +141,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TZIPTHWTVL3L4::LISTNAME:[COLORorchi
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item> 
-<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HQWP2BVOXAWCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
-sublink:LISTSOURCE:https://real-debrid.com/d/UEC5SSK6QL4I2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2FBNXKFHOJTCC::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLORwhite]WWE Monday Night Raw 07/08/21 RD Only[/COLOR]</title>

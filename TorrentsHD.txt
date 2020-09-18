@@ -73,7 +73,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QWDLAYUGUWZK2::LISTNAME:[COLORorchi
 <item>
 <title>[COLORwhite]Residue (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/YA4JLZZ4ERSFW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EGALOC3FXLIN4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cNcZhZl2GvJ7WLmXvrYgcpiKUU.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

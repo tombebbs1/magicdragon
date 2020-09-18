@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Alone (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/K6XYO76JI6XUE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRT074j1SK26LUNqH29JOnOoI0Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blackbird (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/O6NC5UYUAWM54::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -25,10 +25,10 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]The Racer (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/SKHJG6GMLR3JQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CXEKE46Z42UTS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXfDANHBNiWbMvut5ezt9h71yXC.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

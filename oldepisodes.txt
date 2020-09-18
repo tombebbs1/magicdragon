@@ -1,5 +1,21 @@
 
 <item> 
+<title>[B][COLORwhite]Ratched (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7LNWUPFOZGMYK::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C7YJZ7KAAX6SM::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SHZSBBJAHKNYO::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/CAW5LFTLEOIH2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7I3HDVBBK56MQ::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EDPVHWLKX4PFY::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/25DZUNC5J3XXG::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PLYWXGKZVT4UE::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/N3D69wOpiKqQegp4j5hOGoTTG6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Boys (2019) Season 2 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/G5LZPMRCG7TMO::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

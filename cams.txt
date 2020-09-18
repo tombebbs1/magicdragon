@@ -1,4 +1,13 @@
 <item>
+<title>[COLORwhite]The Secrets We Keep (2020) HDCAM UPDATED 18/09 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XBI75OYYUYFK4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ2zmWy8YK7ca3go1L124S8xjIM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Broken Hearts Gallery (2020) HDCAM UPDATED 12/09 RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/4GVSM4LO5FEOC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -34,14 +43,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/DEUE5QOCHEHG2::LISTNAME:[COLORorchi
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Follow Me 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/JOQU7FBKZYJBY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/AGEgSaki9.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Unhinged 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>

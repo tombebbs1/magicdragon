@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rot (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SKHJG6GMLR3JQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjk1YWQ5NjItNjYzMy00ODgwLWFkYjYtZjM0M2Q2YTA4MTJjXkEyXkFqcGdeQXVyNjgyOTg1MTQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alone (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/K6XYO76JI6XUE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

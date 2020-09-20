@@ -43,6 +43,15 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Blur: New World Towers (2015) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MQ2M3ERIJF2Y6::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOGE5ZjgxNDYtYjNkNS00ZWM0LWExMDUtMDhiNGZmYTY0M2U2XkEyXkFqcGdeQXVyNDUwNzc3MTg@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Becoming (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>

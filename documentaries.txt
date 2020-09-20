@@ -44,6 +44,24 @@
 </item>
 
 <item> 
+<title>[B][COLORwhite]Becoming (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/LM6QDTATHY6SA::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/55WB7XCPUTFWS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C7DET4HPXR6WK::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/UUKQXI2YQUN34::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NRHF77OE4MPSA::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PE2ZDDD5HJ7XC::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WFLDHLYIWLQIY::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OALBJZ7F7YGH4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZCJ2BLUZTOY3A::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5RJMK3PUGXF2M::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0gA36Bmm3bijhP2rYsAW8zYcDY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Europe From Above (2019) Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/7ZEMOF5ORFXX2::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

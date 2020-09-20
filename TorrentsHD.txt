@@ -26,6 +26,33 @@
 </item>
 
 <item>
+<title>[COLORwhite]Marionette (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/X6HLI7I5HIKWG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDYwZTM0YWUtNTVhZS00ODllLWI4NmUtNjJmODY5NTAzYzMxXkEyXkFqcGdeQXVyMTQ0OTIwMjk@._V1_SX700_CR0,0,700,999_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]In Other Words (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/Z5WRAD4EJFAO4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf9wIi5fz91LMu3uwFb98UqLgAj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Mongolian Connection (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/677HCQWPEDHYI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjh2xNeW3gFeRD0npNtZqIuAPw4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Racer (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/CXEKE46Z42UTS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

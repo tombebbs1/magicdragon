@@ -1,3 +1,12 @@
+<item>
+<title>[COLORwhite]UFC Fight Night 178 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/QGHUD4FHGFD2K::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://g.espncdn.com/lm-static/challenges/2020-09-11-UFC-Fight-Night/PR_Fantasy_UFC_091120_16x9_19841.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item> 
 <title>[B][COLORwhite]Ratched (2020) Season 1 Debrid Only[/COLOR][/B]</title> 

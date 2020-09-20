@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Secret Life of a Celebrity Surrogate (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IPBF45YSIIHFO::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2VjZmI5NmYtZWY3Yi00MWUzLTlmMDgtZmQwNDMyMTE2ODEyXkEyXkFqcGdeQXVyMTc0MDIyMg@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Most Wanted (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NWILBA7M6KN4A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDgwNmU1NzItYWM5MS00YWUzLTk1ZDctODBjYTQ0NDg0NjQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Coyote Lake (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VRPJSUQ7EWNDE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

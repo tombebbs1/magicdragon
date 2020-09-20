@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Alligator (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FLAS5AR66JEIA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAQ2t9Djd3CPtdYCQb9ZEK5tiYm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Secret Life of a Celebrity Surrogate (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/IPBF45YSIIHFO::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

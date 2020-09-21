@@ -44,6 +44,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bloody Nose, Empty Pockets (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/R47I3YMHMFVJU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTQ1MzQwNzEtYTM0OC00YWFiLTg1ZjUtMzhlMTU5NWFkYTc5XkEyXkFqcGdeQXVyNjE4OTU2MzY@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Endgame 2050 (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YLH2V32PC4IB2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTA4M2NjMGUtNzJlOS00NTUzLTkyOTYtZTY2ZGM3M2Q4M2E0XkEyXkFqcGdeQXVyNzU4NzkzNzE@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Cold Blue (2018) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/YLH2V32PC4IB2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

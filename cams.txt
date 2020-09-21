@@ -1,4 +1,13 @@
 <item>
+<title>[COLORwhite]The Nest (2020) HDCAM UPDATED 21/09 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AEBRQ2DPJMUPS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGRjYzI5ZGUtZGJjYy00ZTYyLWJlNzItNWM0MDc0ZDVmM2IwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Secrets We Keep (2020) HDCAM UPDATED 18/09 RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/XBI75OYYUYFK4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Barbie & Kendra Save the Tiger King (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/E6JKYWSH4FAFE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2RiMDdmNGMtNmNmZS00MmI0LThkMmUtMDI2ZDM1NDc5NzNjXkEyXkFqcGdeQXVyNTY4MzQzMTM@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alligator (1980)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/FLAS5AR66JEIA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

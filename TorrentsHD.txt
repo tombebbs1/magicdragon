@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Dead Ones (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/X2V7HMAX2QERM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ZJXASxzPMqo45AK4HTOFWzDZD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Barbie & Kendra Save the Tiger King (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/E6JKYWSH4FAFE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

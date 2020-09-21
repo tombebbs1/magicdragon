@@ -35,6 +35,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/X2V7HMAX2QERM::LISTNAME:[COLORorchi
 </item>
 
 <item>
+<title>[COLORwhite]Scathing (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UV7RPVKLY4W4A::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTFmY2EwMTMtOTFjMy00ZTQ1LWJmMTctNzdhZTU0MjE5N2JkXkEyXkFqcGdeQXVyMzEyMzg4MDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Saving Leningrad (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/M6ZHLCILHCY26::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

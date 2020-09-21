@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Cold Blue (2018) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YLH2V32PC4IB2::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGQ1M2QwYjMtZjEyZS00Y2UxLWJlNzMtN2U2NmIzNDgxYzc5XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]El Pantera (2018) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://clicknupload.co/1u4joft2srng::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

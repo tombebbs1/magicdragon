@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Drop Dead Fred (1991)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/V6Y3V3C4JPYRE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDNkZWIzZjktYWNkMi00MTQ2LWIyMTgtMmJhOGRiZDZlNmU4XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jesus Shows You the Way to the Highway (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/XRAWZFSOFU7ZC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

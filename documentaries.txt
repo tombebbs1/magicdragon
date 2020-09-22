@@ -52,14 +52,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SALAPBK6X3NZ2::LISTNAME:[COLORgreen
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Driven To The Edge (2020) Debrid Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/RPGBVKX34T7QW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://i.ytimg.com/vi/Kb_-Ogeo2dQ/maxresdefault.jpg</thumbnail>
-<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Standard (2020) Debrid Only[/COLOR]</title>

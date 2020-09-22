@@ -44,6 +44,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Standard (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AYNAJIIN5HWFA::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTBlYTJjMDItMzgxYS00M2Q2LWIyYTQtNzUxMTE1YjczYTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kiss the Ground (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RZBSSY7KKIRVI::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmJkOWRhZWUtZmNlZC00NWYwLThiMmEtZjZkMTI4N2Y1NDMxXkEyXkFqcGdeQXVyMTE5NTc0NzY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bloody Nose, Empty Pockets (2020) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/R47I3YMHMFVJU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

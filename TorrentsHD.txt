@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Beckman (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/P7RVXLP4WREZW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjc3M2YxMWItYzA5Yy00NDkwLTg1NzQtMjQ1OGEyODcwY2UzXkEyXkFqcGdeQXVyMTAxOTkyMTI@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Iceland Is Best (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/NHV6ZTINUBP6I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

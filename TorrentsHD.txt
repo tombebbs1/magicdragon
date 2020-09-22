@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Iceland Is Best (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NHV6ZTINUBP6I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjNhMjY2YTQtYmU1YS00OTVhLTg4OTMtNmE5NTg0YzgxYjFjXkEyXkFqcGdeQXVyNTM2MTIwODg@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Feral World (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/WSX7Z5RB3RUEQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

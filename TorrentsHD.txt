@@ -39,7 +39,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/RXNEKULYEIH4G::LISTNAME:[COLORgreen
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/RPGBVKX34T7QW::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
 </link>
-<thumbnail>https://i.ytimg.com/vi/Kb_-Ogeo2dQ/maxresdefault.jpg</thumbnail>
+<thumbnail>http://img.rlsbb.to/images/ELMF.jpg</thumbnail>
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 

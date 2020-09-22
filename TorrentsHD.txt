@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jesus Shows You the Way to the Highway (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XRAWZFSOFU7ZC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjMwMjI1NDMtM2I3Mi00YjgwLTgzZWQtYTZjN2QzZDVhM2FjXkEyXkFqcGdeQXVyMjM3ODMxOTQ@._V1_SY1000_SX700_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Extra Innings (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/IDK2ZNBEVRFGS::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -33,7 +42,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/IDK2ZNBEVRFGS::LISTNAME:[COLORorchi
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmY5ODIwOTMtYTJmMy00NWNiLWE1MzUtNDkyMzQzODk2NGM4XkEyXkFqcGdeQXVyMjAwMTA1NTI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLORwhite]Beckman (2020)[/COLOR]</title>

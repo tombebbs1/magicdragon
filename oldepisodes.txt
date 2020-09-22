@@ -8,6 +8,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/XQUQ2NPSNOGWS::LISTNAME:[COLORorchi
 </item>
 
 <item>
+<title>[COLORwhite]WWE Monday Night Raw 21/09/20 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/D47CTQPEQEOZM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://www.barclayscenter.com/assets/img/BC_2020_EV_WWE_MondayNightRAW_910x350-30d9bb4dab.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]UFC Fight Night 178 RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/QGHUD4FHGFD2K::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

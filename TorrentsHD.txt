@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Deadly Sugar Daddy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5IFUNDYJZG7IE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGZlNDc0OTgtZDFmMy00NzA3LWE0NTctN2QzZTIwODIzYzJhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Drop Dead Fred (1991)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/V6Y3V3C4JPYRE::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -3209,6 +3209,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:75c61e1aec00caa6e761ffbb836c5f1d6e14eefb&
 </item>
 
 <item>
+<title>[COLORwhite]World War Z (2013)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/HNJ5IG6JC4TZO::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX650_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]X-Men (2000)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:bdced42cd1b2a0506c4a4e7789de80a52c52156d&dn=X-Men+%282000%29++%5B2160p+x265+10bit+FS82+Joy%5D&xl=5471835060&tr=::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

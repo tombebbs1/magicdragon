@@ -43,6 +43,15 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Safeguard: An Electoral College Story (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://clicknupload.co/55cx0ec32qxl::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuHnN1DlI3cKhRjKRj0NbVb7wb6.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Playbook Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>

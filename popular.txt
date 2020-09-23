@@ -15,6 +15,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Enola Holmes (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e7bvgylsnusw/enola_holmes__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OFBKI3FA6GFHO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIaS3T2MJuiKsBOFuhA5C7CGElH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Follow Me (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/44C3736KKW47Q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

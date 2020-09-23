@@ -43,6 +43,19 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item> 
+<title>[B][COLORwhite]The Playbook Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/zp1xxn69bgrgg0::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/n0l66kepulqndlp::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/84lrrep8b1w6ll::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://mixdrop.co/f/vnk99x9ntv3epo::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/9nwppmklf3qoddw::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzdlMTY2YzktOTM2Yy00MTdiLThjNDMtMzg1N2RmODhhZjZlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The 72nd Annual Primetime Emmy Awards 2020 Debrid Only[/COLOR]</title>
 <link>

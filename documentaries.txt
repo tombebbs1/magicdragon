@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Love Song for Latasha (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/QQQSAVA3FPI5W::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzBlOGE3Y2QtMDMyZS00NTg2LTk1MzUtMmFhMTFmODBlNDc0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Console Wars (2020) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/RLXDGSK5HFUIM::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

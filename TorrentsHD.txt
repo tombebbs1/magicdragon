@@ -26,6 +26,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Let It Snow (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XZVW4EZUAAD3W::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/460doZm2hDlu1Av8Nbn8V35k6oG.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gladiator (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DVZ2QNJDU7TFE::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2U0NWE2ZDMtOGMzZS00MjRlLTgyNTItMTgwNTFjNjcyNDk2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cape Fear (1962)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/Q35THWU5LODZU::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#

@@ -1,3 +1,41 @@
+<item> 
+<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HQWP2BVOXAWCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/UEC5SSK6QL4I2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2FBNXKFHOJTCC::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NCERVXRYKELVE::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3WFBRGIT7HCDS::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YSBPTN2TPR5NS::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GYPR4QXZXJXIS::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Us (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NEZHL2BBRK2Y4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DCMUSV7T3NQ5U::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6OE2D3DV473O4::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/DBSFKJUBM7JKU::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGE0OGY1ODgtNDc2NS00MDFkLTlkNTktZDdmNTRkMjE2MGUyXkEyXkFqcGdeQXVyMTE2MDE3ODY@._V1_SX1777_CR0,0,1777,999_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Third Day (2020) SO1E02 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YHTRL7CQK3GZI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNx7hgp3Cs6YPeBgvE6enNmR1Xz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Power Book II: Ghost (2020) SO1E03 RD Only[/COLOR]</title>
 <link>
@@ -67,20 +105,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FN73WONMPPIJM::LISTNAME:[COLORwhite
 <fanart></fanart>
 </item>
 
-<item> 
-<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HQWP2BVOXAWCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
-sublink:LISTSOURCE:https://real-debrid.com/d/UEC5SSK6QL4I2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2FBNXKFHOJTCC::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NCERVXRYKELVE::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/3WFBRGIT7HCDS::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Des (2020) SO1E03 RD Only[/COLOR]</title>

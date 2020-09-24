@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]Amanda Knox (2016) Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/dttdwuw5udz1/the_fandom_2020_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EKSAIQFN6GBVE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTY5NjE4MTQyNF5BMl5BanBnXkFtZTgwMzg1NjEwMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cooper and Hemingway: The True Gen (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9mpix7zorrup/cooper_and_hemingway_the_true_gen_2013_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OH4QHG5YOYL5E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE4MDExMzIzOV5BMl5BanBnXkFtZTgwNjczMjY4NTE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Agents of Chaos (2020) Season 1[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mf0zbqozg2hc/agents_of_chaos_s01e01_webrip_x264-ion10::LISTNAME:[COLORgold]Ep01 HD FREE LINK[/COLOR]::#

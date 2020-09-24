@@ -44,6 +44,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Agents of Chaos (2020) Season 1[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mf0zbqozg2hc/agents_of_chaos_s01e01_webrip_x264-ion10::LISTNAME:[COLORgold]Ep01 HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4N3V3N47EFL42::LISTNAME:[COLORgold]Ep01 HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/apwv81ssqdvq/agents_of_chaos_s01e02_webrip_x264-ion10::LISTNAME:[COLORgold]Ep02 HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/63ZNRVLE3JIPG::LISTNAME:[COLORgold]Ep02 HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNGY3NmMwNDktMTRhNC00MTkzLWE0NjgtOTY4YTA4NTVlNWUyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Fandom (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dttdwuw5udz1/the_fandom_2020_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -62,6 +62,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hail Mary! (2018)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/xjddhbvi45oz/lingua_franca_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7dcuedi1j22e/hail_mary_2018_1080p_amzn_webrip_ddp2_0_x264-nogrp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VCRLHCPG6DGAI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzJiYmZlODItZDZjMi00YTFhLTg5OWYtYjdhNTViZjMxYTMzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lingua Franca (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xjddhbvi45oz/lingua_franca_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

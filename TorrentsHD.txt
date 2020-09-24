@@ -3,7 +3,7 @@
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
 </item>
 
 <item>

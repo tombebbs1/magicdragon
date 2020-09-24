@@ -13,7 +13,7 @@
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
 <thumbnail>http://pngimg.com/uploads/paypal/paypal_PNG22.png</thumbnail>
-<fanart></fanart>
+<fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
 </item>
 
 <item>

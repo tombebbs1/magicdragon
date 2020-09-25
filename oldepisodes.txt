@@ -1,16 +1,14 @@
-item> 
+<item> 
 <title>[B][COLORwhite]Utopia (2020) Season 1 Debrid[/COLOR][/B]</title> 
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/D35CUE3BUJ6G4::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4C2G7L6MTVA4I::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GLH2CAUTEBMCG::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/WIVL22DQH4FHM::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/JYMUK26FWHBKE::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/QDVTU7LZ7YBFS::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2VPLFKTBUDLAU::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2PHX4VZVMWEPE::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/LL6VYRC4PHXHQ::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/TJITLRCBFB4DQ::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+sublink:LISTSOURCE:https://real-debrid.com/d/45YCT34Y3KOMK::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M2D2ZTNEVXZ5I::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JTJPGCBDK2LSG::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OHX7X4QHICJD6::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IQ2WYQ5E7DH64::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BG25YJ4EDVGZ6::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2ZW3ORMN3OTWI::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C7P5IKGY54PIA::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#    
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYWE4Y2M4YzItNWQzMy00YzA0LThjYTQtNDhlZDBkMjYzOGRmXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>

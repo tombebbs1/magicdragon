@@ -83,7 +83,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]Misc Episodes[/B][/I][/COLOR]</name>
+<name>[B][I][COLORwhite]Latest Episodes / Seasons[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oldepisodes.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

@@ -62,6 +62,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Gremlins (1984)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/eiichyxop3u9/gremlins_1984_official_trailer_1_horror_comedy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gea9p0nbzeip/gremlins_1984_1080p_brrip_x264_yify::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TNESCDCJXWMQY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDVjN2FkYTQtNTBlOC00MjM5LTgzMWEtZWRlNGUyYmNiOTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Northwood Pie (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vnybq332j54c/northwood_pie_official_romantic_comedyie_trailer_2020__vagueie_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

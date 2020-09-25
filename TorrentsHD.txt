@@ -26,6 +26,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]All Roads to Pearla (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s5dldgbzmxjr/all_roads_to_pearla_trailer_2020::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/k97vjpsguh2h/all_roads_to_pearla_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B3K4YHIY5OLCY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTJiNTg4ZWUtMzZjYS00OGE5LWExOTMtMWY1ZjZhMWI4YzYwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Monsoon (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s0ywvf94zlpf/monsoon_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6wiib13fyovt/monsoon_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PSDJYYPXUCFXK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTBhM2Q1NmMtYWFkMi00ZjA2LTlmNzYtYWNhN2JiYzlhYmVhXkEyXkFqcGdeQXVyMjcxNzQ4MTc@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pistolera (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/5vr7n2kkbyj2/2020_pistolera_official_trailer_stars_romina_di_lella_robert_damian_chapa_and_danny_trejo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3xz8u73nrh1f/pistolera_2020_720p_amzn_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2SLWRJJVN5CSA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjE4MjNmNDEtOGM5MC00ZGU5LWI5NzEtZjg5MTllOGVjMWMwXkEyXkFqcGdeQXVyMjA3MjM1NTQ@._V1_SY1000_CR0,0,707,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Squirrels (2018)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/xjddhbvi45oz/lingua_franca_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

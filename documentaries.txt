@@ -44,10 +44,20 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mountain of Storms (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/g5nvb5zbsi4n/mountain_of_storms_2018_1080p_web-dl_aac2_0_h_264-tux::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/J2OIRIVFGVENE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/uKilS.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strong: The Destry Abbott Story (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9zyyhc6uj1q5/strong_the_destry_abbott_story_2019_1080p_web-dl_aac_2_0_h_264-tux::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://clicknupload.co/1xww4ckmn11p::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XA46GLXNOEB32::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixsmcusXDMWpncDD2VxdeAtHLHD.jpg</thumbnail>
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>

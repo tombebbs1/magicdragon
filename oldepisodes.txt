@@ -1,3 +1,17 @@
+<item> 
+<title>[B][COLORwhite]The School Nurse Files (2020) Dubbed Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ugd4pllcommz/the_school_nurse_files_s01e01_webrip_x264-ion10::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/796ssfi1w0ki/the_school_nurse_files_s01e02_webrip_x264-ion10::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xulkh4ffkyoc/the_school_nurse_files_s01e03_webrip_x264-ion10::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://vidoza.net/2e9zp2sah7j4/the_school_nurse_files_s01e04_webrip_x264-ion10::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rwg4xbi0gcrr/the_school_nurse_files_s01e05_webrip_x264-ion10::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xc9orm9ngk7g/the_school_nurse_files_s01e06_webrip_x264-ion10::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjJhODM2YWYtYTM3Yi00OTFhLWEwZWMtOGEwZDY1MjE3YTg0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Seth Meyers 2020.09.24 Alicia Vikander[/COLOR]</title>
 <link>

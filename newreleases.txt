@@ -61,6 +61,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]A Fire in the Cold Season (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tgux3m54ao3v/a_fire_in_the_cold_season_teaser_trailer_2020__fandangonow_extras::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/r6od2dwejuji/a_fire_in_the_cold_season_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X6ZCBL35E54BA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q64FnnFRWcliFuhnmeA9TmO02H5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Collision Earth (2020)[/COLOR]</title>
 <link>

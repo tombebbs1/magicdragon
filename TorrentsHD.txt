@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Happy Halloween, Scooby-Doo! (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6uxnwitggctc/happy_halloween%2C_scooby-doo%21__trailer__warner_bros__entertainment::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/i6rwsg2xt1dc/happy_halloween_scooby_doo_2020_dvdrip_ac3_x264-cmrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OORQ64NIKZ7ZI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Gremlins (1984)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/eiichyxop3u9/gremlins_1984_official_trailer_1_horror_comedy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

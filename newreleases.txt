@@ -61,6 +61,49 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]She Never Died (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vwo6zghnglfm/she_never_died_official_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rhkicfv7jrec/she_never_died_2019_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PG6Q23BQQAM2K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYBmZJHctNZnmRfQhY1yA2Bhrnz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dead Life: Wormwood's End (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0nuli2rblxi0/wormwoods_end_trailer_web::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/6jb5x8xwosd1/wormwoods_end_2014_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7OC377WDULH76::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBPAqkvMOL6hlBvzR4mozuODCcA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Silencing (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6p7lfav3wght/the_silencing_trailer_2020_serial_killer_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w6sgj29gzadn/the_silencing_2020_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KXUSRL3IUYOSI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Checkmate (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/99grkoj5vxu8/checkmate_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/t1uwqg1g10of/checkmate_2020_1080p_amzn_web-dl_ddp2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4RICNKXAFE4ZI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Happy Halloween, Scooby-Doo! (2020)[/COLOR]</title>

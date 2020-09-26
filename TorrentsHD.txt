@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Collision Earth (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vp3yr4w3swap/collision_earth_2020_sci-fi_l_official_trailer_l_nextlevel_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/27zwbdgepudq/collision_earth_2020_720p_bluray_x264-getit::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TCGD3KSQ3PV7O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPBsWwPfULWUR5b4DAxWQBn4dI5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]She Never Died (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vwo6zghnglfm/she_never_died_official_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Myth (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fsehldq9qh1m/myth_official_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/jn5dz7k40ug0/myth_2020_720p_web-dl_tubi_x264_aac-babytorrent::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CO2WDOLMJ2HWW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/euoWnSYvERJpfeSppVSAl5rjnOo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Canadian Strain (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dw7ttpm3ef0d/canadian_strain_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

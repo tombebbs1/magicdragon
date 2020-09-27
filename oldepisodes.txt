@@ -1,3 +1,13 @@
+<item>
+<title>[COLORwhite]UFC 253 Adesanya Vs Costa[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8junwjbcxg1n/ufc_253_ppv_720p_hdtv_x264-verum::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UHWV2JAGW4UE6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/lmo3xw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The School Nurse Files (2020) Dubbed Season 1[/COLOR][/B]</title> 
 <link>

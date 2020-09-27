@@ -1,3 +1,15 @@
+<item> 
+<title>[B][COLORwhite]The Comey Rule Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RTGRVG3YRNVRA::LISTNAME:[COLORwhite]Ep 01 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UTM27RRB6BEHE::LISTNAME:[COLORwhite]Ep 02 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/a0yp2mn2vkwq/the_comey_rule_s01e01_1080p_web_h264-videohole::LISTNAME:[COLORwhite]Ep 01 Free Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cta2jgezzcba/the_comey_rule_s01e02_1080p_web_h264-videohole::LISTNAME:[COLORwhite]Ep 02 Free Link[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wftjHCpgqziAw42JZWdFWhro3km.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Power Book II: Ghost (2020) SO1E04 RD Only[/COLOR]</title>
 <link>

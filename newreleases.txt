@@ -62,6 +62,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Stakeout (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ib1seqp7q0tz/stakeout_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/uqlq2ut6xjlg/stakeout_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EE64WMOOBMVPQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIDQ2ufjxhlrDbuohQWLYOU3ECE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hollyweird (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6nkby6mehawd/hollyweird_2020_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3ffu7822rzop/hollyweird_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JQDGYBBOBJ7FG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1unimeTDhHxIXnHjRY7vROv2dT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Werewolf in England (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xktvpekd1inw/a_werewolf_in_england_2020_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

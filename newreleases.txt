@@ -62,6 +62,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sno Babies (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2dfs4lomsnxv/sno_babies_officialie_trailer_hd__letssavelives::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/aztry7qbwgrj/sno_babies_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QHIXJUKW6CBGQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpwfqJLAWJy3t3aQemNnj6j5l5M.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Max and Me (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kucncrz81gfs/max_and_me_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3mi0sz9jw6uz/max_and_me_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LFLJJMGHCVRNW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/vE2JjYcP6D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Scientist (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pw7jx85u2wnb/the_scientist_official_trailer_2020_sci-fi_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

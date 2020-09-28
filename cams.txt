@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Infidel (2020) HDCAM UPDATED 28/09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kejnjl9r67g0/infidel_official_trailer_2020_jim_ezelie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/sqhknn59uqfl/infidel_2020_720p_hdcam::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BJBYBUODNY266::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vglivF7KG7YcojCsqWkkRwad0VE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Savage (2020) HDCAM UPDATED 23/09 RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9ma1q85tppkn/savage_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

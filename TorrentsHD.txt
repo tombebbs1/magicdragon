@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Swerve (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/88yz4227c7ua/the_swerve_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1nz52zlzxfqs/the_swerve_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TJXIW24B4SGEQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ijShIEmS5Vn55VWrmi0OhBmBy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deep Impact (1998)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2zpw54mus2y4/deep_impact_official_trailer_1_%5Bhd%5D_1998::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,25 @@
+<item>
+<title>[COLORwhite]Family Guy (1999) S19E01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lmmqy814rnw1/family_guy_s19e01_1080p_web_h264-videohole::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AYZSP2C3JGBDU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Fargo (2020) Season 4[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WYDZ3OPIVQNS6::LISTNAME:[COLORwhite]Ep 01 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IKZU4MZJMUEO2::LISTNAME:[COLORwhite]Ep 02 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ss4ng9n9s98x/fargo_s04e01_1080p_web_h264-videohole::LISTNAME:[COLORwhite]Ep 01 Free Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/aiorpov3gqfb/fargo_s04e02_1080p_web_h264-videohole::LISTNAME:[COLORwhite]Ep 02 Free Link[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Comey Rule Season 1[/COLOR][/B]</title> 
 <link>
@@ -11,7 +33,7 @@ sublink:LISTSOURCE:https://vidoza.net/cta2jgezzcba/the_comey_rule_s01e02_1080p_w
 </item>
 
 <item>
-<title>[COLORwhite]Power Book II: Ghost (2020) SO1E04 RD Only[/COLOR]</title>
+<title>[COLORwhite]Power Book II: Ghost (2020) SO1E04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/70t3u6qn69hs/power_book_ii_ghost_s01e04_2160p_web_h265-videohole::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/KGSGLIC4C7B4S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#

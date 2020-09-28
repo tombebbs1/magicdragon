@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Last Shift (2020) HDCAM UPDATED 28/09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0iuzk3c0qliy/the_last_shift_official_trailer_hd_only_in_theaters_9_25::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/90fo4h10o0rm/the_last_shift_2020_720p_hdcam::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3KM43AI7EL3SK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx5ZImFNcOn3muAf4jF1AYlFbN0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Infidel (2020) HDCAM UPDATED 28/09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kejnjl9r67g0/infidel_official_trailer_2020_jim_ezelie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

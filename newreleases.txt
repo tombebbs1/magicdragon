@@ -62,6 +62,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Werewolf in England (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xktvpekd1inw/a_werewolf_in_england_2020_official_trailer_%5Bhd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bo46nq0woyha/a_werewolf_in_england_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VFQ5MPUKYREWA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c5a6Q4ZBTAYV7JZvRBbKMJWbvs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Brassed Off (1996)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/iec21hyljf11/brassed_off_1996_official_trailer_1_ewan_mcgregorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

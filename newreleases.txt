@@ -62,6 +62,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Stranger Among The Living (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/le0p6wp89wlr/a_stranger_among_the_living_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/229wsixjrprl/a_stranger_among_the_living_2019_1080p_amzn_webrip_ddp5_1_x264-bobdobbs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5RNETIG7IKJY4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIDQ2ufjxhlrDbuohQWLYOU3ECE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stakeout (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ib1seqp7q0tz/stakeout_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

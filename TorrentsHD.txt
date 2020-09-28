@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Scientist (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pw7jx85u2wnb/the_scientist_official_trailer_2020_sci-fi_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3pbvdbzz9mc3/the_scientist_2020_webrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PKAP2QXUQXDCE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNmdo1SEJ9JEWze0u6iRPVwHb0c.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Breaker! Breaker! (1977) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/as2o7gv9nyaf/breaker%21_breaker%21_1977_hd_trailer_%5B1080p%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]In Cold Blood (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7ba91f5xltkf/itv_exposure_2020_in_cold_blood_1080p_hdtv_x265_aac_mvgroup_org::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PBKWQJWSNLIV4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://img.picturegalaxy.org/data/cover/k/p/kp2GG8hz5Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Big Wave Project: A Band of Brothers (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/99eoanh8y3b4/the_big_wave_project_2017_1080p_webrip_aac2_0_x264-nogrp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

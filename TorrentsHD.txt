@@ -26,6 +26,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Inez & Doug & Kira (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rj20at8wuima/inez_%26_doug_%26_kira_2020__official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/k4e22utt8fkv/inez_and_doug_and_kira_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5HUUQUNS6RPBC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyR0lbQRe3dmMRWWQbhRnsgog7Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cover Me (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/cmdy7ri0z1aq/cover_me_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/pzwb5j9s7jbf/cover_me_2020_amzn_1080p_web-dl_h264_ddp5_1-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R4M6HEWSGTFLS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRl9OFdPzyMuus7E7tgno3JdJaZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sightless (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2bfxsbkys8nq/sightless_trailer_featuring_madelaine_petsch_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bl8ncpb3z5dz/sightless_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7UQBI463REJAO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/Yuz0l.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Swerve (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/88yz4227c7ua/the_swerve_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

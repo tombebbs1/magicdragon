@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pathfinder (2007) Unrated[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sb8imtad97yc/%3Dpathfinder%3D_trailer_hd%21_1080p_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kigo4qw5535t/pathfinder_2007_unrated_1080p_brrip_x265_hevcbay_com::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CGGSTA56A667A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS9SmTVNewO1TIt9FTMo2kkh3RH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Glorias (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/77l96wcbhzbx/the_glorias_official_trailer_2020_alicia_vikanderie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

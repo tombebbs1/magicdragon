@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Reaptown (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qut68kgbms73/reaptown_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cm3to1e69j53/reaptown_2020_1080p_webrip_x265-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GRRP3VNQNVTKG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNKf0hdZAntXyLghIDQN8hclV0x.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Self-Storage (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gqpsfgokwnvd/self-storage_2019_teaser_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

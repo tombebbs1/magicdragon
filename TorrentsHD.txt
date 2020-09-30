@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Santamaria (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qjpaip3qb2gd/santamaria_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bhxjazki8y62/santamaria_2019_hdrip_x264_shadow::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NKN4QAQY6YFUE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2s2cD6VwwWEsuBTGI0zqpQefzh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Boys in the Band (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xl5iyk443rdu/the_boys_in_the_band__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -2897,6 +2897,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:54ce7ffa6fbd8265dc84f395f2ade3705ea88259&
 </item>
 
 <item>
+<title>[COLORwhite]London Has Fallen (2016)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7XONV2NRQ7LF6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEbLkYzyiUdOKNK4WNBFyGH7r2Y.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lone Survivor 4K [/COLOR]</title>
 <link>http://uptobox.com/vh1ze0m5gfik</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NTgwOTk5Ml5BMl5BanBnXkFtZTcwMjE3NDc5OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>

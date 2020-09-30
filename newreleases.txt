@@ -52,12 +52,22 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
 <item>
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Yield (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lbbf6o67p4nt/yield_2020_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/hb7nwm7dfnfw/yield_2020_1080p_web-dl_aac_h_264-bobdobbs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WV3RNJ64AJ5SI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/YxOszKqWig.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

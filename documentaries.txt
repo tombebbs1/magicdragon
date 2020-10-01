@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Fallen Astronaut (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/uszek98opao3/the_fallen_astronaut_2020_1080p_amzn_web-dl_ddp2_0_h_264-pd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R53BF3RB4S74C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kumXbYrNqMz38Ty1lSdkbWwsqX.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Murder: The Family Next Door (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ncnsd2yiqud9/american_murder_the_family_next_door_2020_720p_nf_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

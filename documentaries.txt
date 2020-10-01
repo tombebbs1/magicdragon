@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Money Machine (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zxlsk4xoo5ys/money_machine_2020_1080p_amzn_webrip_aac2_0_x264-tars::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2RU4QSWRFGFD2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBAFTOGNxTKd3OdIJVsQyzBAWJK.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pizza, a Love Story (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pe9faujn1si8/pizza_a_love_story_2019_1080p_web-dl_aac2_0_x264-ptp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

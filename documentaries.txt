@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Couch Connections (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p11rijiu5mrb/couch_connections_2020_1080p_amzn_webrip_ddp2_0_x264-candial::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OPAT7IJBTGZ2S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccPI537nD5W6UHxkaabXTMdPhyZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Fallen Astronaut (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/uszek98opao3/the_fallen_astronaut_2020_1080p_amzn_web-dl_ddp2_0_h_264-pd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

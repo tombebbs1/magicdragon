@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Super Bear (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fcagsc7kw4en/super_bear_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/revgcwmym2jl/super_bear_2019_1080p_web-dl_dd2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FJSHCTQTCT5LQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt64XxEgb38ZIPh45Y3ZddFYfOq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Secret: Dare to Dream (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xsro72g5b8a6/the_secret_dare_to_dream_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Beast by Night (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kq7t1anwo6z6/beast_by_night_horror_trailer_available_on_prime_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rgflb92mxp8q/beast_by_night_2020_hdrip_x264_shadow::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YPGLWBLEQUQUM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MAWrGHKX5zekHAi7p63Gw2mMfG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Super Bear (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fcagsc7kw4en/super_bear_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

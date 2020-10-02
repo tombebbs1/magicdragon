@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Halloween Party (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/56szptwt2jpw/halloween_party_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dj5q9a0vswgl/halloween_party_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/F6432S4VOTYI2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMWGCghDVr3x9zGvyQFRZn8pIsX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hosts (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3uh1jblw0clg/hosts_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

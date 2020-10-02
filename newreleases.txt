@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]12 Hour Shift (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/myed46w5xcd2/12_hour_shift_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/34esuqyzif52/12_hour_shift_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VQMWK6DPABDGY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDo6t0cgFVof4Pvu9BnkhGfDT79.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Beast by Night (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kq7t1anwo6z6/beast_by_night_horror_trailer_available_on_prime_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

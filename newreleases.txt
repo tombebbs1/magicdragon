@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Death of Me (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/14goe8bvwlht/death_of_me_trailer_2020_maggie_q%2C_luke_hemsworth_horrorie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/9oz077xikxd3/death_of_me_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NOOVGJ3UBVSKU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Angrily Ever After (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/a4q87hnse44b/angrily_ever_after_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

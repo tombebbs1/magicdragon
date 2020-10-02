@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Copper Bill (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/w1tiklpnzvug/copper_billie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/dzczyxk6g3wh/copper_bill_2020_hdrip_xvid_ac3-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DS25NNDINDGSW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSZnvJ0olvAss77b01Vf68or8xr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]12 Hour Shift (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/myed46w5xcd2/12_hour_shift_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

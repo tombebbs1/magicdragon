@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hosts (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3uh1jblw0clg/hosts_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7ogxd3i9trb7/hosts_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QEA3RPGVEAMOA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufTv4VkttiFrfIyuwGXQ5VV4XF2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Then Came You (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/eoqjpx8ldxcr/then_came_you_trailer_2020_elizabeth_hurley%2C_craig_ferguson_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

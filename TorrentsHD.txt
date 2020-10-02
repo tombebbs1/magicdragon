@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Let's Scare Julie (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ths4mantojkl/let%27s_scare_julie_2020_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/10zi8shjwygt/lets_scare_julie_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EWJALNOOG75IY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU6DoFSHEpFAmGIPhRwGCWTe9tU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Halloween Party (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/56szptwt2jpw/halloween_party_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

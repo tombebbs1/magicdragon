@@ -26,6 +26,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Angrily Ever After (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/a4q87hnse44b/angrily_ever_after_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/4k70oaqm3msc/angrily_ever_after_2019_1080p_amzn_webrip_ddp2_0_x264-isa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NE7AAQMS2S53G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAUYrDEp5oLt1dlNL2gB98b5wUr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]2067 (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9fqwok1h3i0u/2067_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

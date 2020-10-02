@@ -1,4 +1,32 @@
 <item> 
+<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HQWP2BVOXAWCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/UEC5SSK6QL4I2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2FBNXKFHOJTCC::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NCERVXRYKELVE::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3WFBRGIT7HCDS::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YSBPTN2TPR5NS::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GYPR4QXZXJXIS::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2XJXZCHDALBSG::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Walking Dead SE10 E16[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xyhi16hsqjyq/the_walking_dead_s10e16_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SRYQKNJRQTTAM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Boys (2019) Season 2 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/G5LZPMRCG7TMO::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
@@ -205,22 +233,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/CJQODDXZHVQAO::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item> 
-<title>[B][COLORwhite]Raised by Wolves Debrid Only[/COLOR][/B]</title> 
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/EVKUJJUHNI6OC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/UNK2X2RJSZSXS::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HQWP2BVOXAWCY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
-sublink:LISTSOURCE:https://real-debrid.com/d/UEC5SSK6QL4I2::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2FBNXKFHOJTCC::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NCERVXRYKELVE::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/3WFBRGIT7HCDS::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/YSBPTN2TPR5NS::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GYPR4QXZXJXIS::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/SeG54n.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item> 
 <title>[B][COLORwhite]Us (2020) Season 1 Debrid Only[/COLOR][/B]</title> 

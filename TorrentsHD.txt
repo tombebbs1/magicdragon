@@ -26,6 +26,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Doorman (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jb1cmz43fzhz/the_doorman_exclusive_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ceznxiewt1bz/the_doorman_2020_1080p_brrip_dd_5_1_x_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DQLC53U4OZJGE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/128pRXOcDrlto7F5WrbOpDePHkr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Android Uprising (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6rn1jnb6h4l3/android_uprising::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xqzqhqykj0ms/android_uprising_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SX4TZZ5EZ7DDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/7GgbT5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Seized (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/08lbekw88upo/seized_official_trailer_2020_scott_adkinsie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

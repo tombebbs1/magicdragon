@@ -26,6 +26,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Are We Dead Yet? (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9070iwgpigg1/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rqsnjmzw7nnn/are_we_dead_yet_2019_720p_bluray_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KE5NWTZ2SO7M6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9D7y1J5cManK9gYXT1B3UFLKhr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Save Yourselves (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/opdw16p27ilj/save_yourselves_trailer_2020_sunita_mani%2C_comedy%2C_sci-fiie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ucdcrc3cotqi/save_yourselves_2020_720p_bluray_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XOLA7DT5X6YPI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/za0KbrYRWsfwL2lPGMG9GXHQNpU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Vampires vs. the Bronx (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tc8aydlwnrcw/vampires_vs_the_bronx__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -48,6 +48,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6IAH2HOJTU2VA::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Doorman (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jb1cmz43fzhz/the_doorman_exclusive_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ceznxiewt1bz/the_doorman_2020_1080p_brrip_dd_5_1_x_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DQLC53U4OZJGE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/128pRXOcDrlto7F5WrbOpDePHkr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Boys in the Band (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xl5iyk443rdu/the_boys_in_the_band__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

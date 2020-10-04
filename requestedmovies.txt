@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Meteor Man (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/m7r285l37y8f/the_meteor_man_official_trailer_1_james_earl_jonesie_1993_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/i3vi5r42zsod/the_meteor_man_1993_proper_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UWVMLQCGPTOFY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]They Came from Beyond Space (1967)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0xqmzeo7741f/they_came_from_beyond_space_1967_trailer_s_t_fr__optional_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

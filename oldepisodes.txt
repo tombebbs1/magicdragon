@@ -1,3 +1,22 @@
+<item>
+<title>[COLORwhite]Spitting Image SO1E01 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://clicknupload.co/0i9puya22b28::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/5WLem7yrA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Power Book II: Ghost (2020) SO1E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/50wnctxxfc2q/power_book_ii_ghost_s01e05_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/27JDGDXME6HJO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN8HcetzKsNliez2xo4ymWOl8bd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Monsterland (2020) Debrid Only[/COLOR][/B]</title> 
 <link>

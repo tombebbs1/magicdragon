@@ -1,3 +1,17 @@
+<item> 
+<title>[B][COLORwhite]Who Is America? (2018) Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IHEVNO2I4ZCWW::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VN7Z6NQKJVKFI::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z3IVKV6XXLP34::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/OKW5UP7PDRBMW::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TOBP7IACAB5YS::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TPV3FS7DH34FG::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9mfeInTpaaft7FzbeAdTj1eCAt.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]WWE NXT Takeover 31[/COLOR]</title>
 <link>

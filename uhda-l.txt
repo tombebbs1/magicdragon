@@ -1559,6 +1559,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:e991b2a2faa387c356417104638c47bcb02e704d&
 </item>
 
 <item>
+<title>[COLORwhite]Enola Holmes (2020) 4K RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SEUXUXSMBL3UC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Escape from New York (1981)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/fyxearaq86un::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

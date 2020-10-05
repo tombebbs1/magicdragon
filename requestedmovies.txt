@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]King Kong (1933)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1862c1ntrnfb/king_kong_trailer_1933_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/xi5gh31n9xd2/king_kong_1933_1080p_bluray_x264-%5Byts_lt%5D::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/46TPTJY5VCRE6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://i.ebayimg.com/images/g/sM0AAOSwZQxW5pkE/s-l400.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]King Kong (1976)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7hysn03rphzd/king_kong_theatrical_trailer_remastered_in_high_definition_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

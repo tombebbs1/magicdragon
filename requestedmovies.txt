@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]King Kong (1976)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7hysn03rphzd/king_kong_theatrical_trailer_remastered_in_high_definition_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/rgy6sqsu3e37/king_kong_1976_720p_bluray_x264_yify::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/W4F6TVO2SHSNA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://media.s-bol.com/mK2Nvgwo733/550x693.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Kong: Skull Island (2017)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/0lzcfj7d5n6h/kong_skull_island_rise_of_the_king_%5Bofficial_final_trailer%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

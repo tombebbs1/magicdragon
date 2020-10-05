@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Shutter Island (2010)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/v4c5h0wpqxy1/shutter_island_2010_trailer_1_ieclips_classic_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/5uq2cmy8cp15/www_hdsector_com_shutter_island_2010_bluray_1080p_x264_aac_5_1_-_hon3y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G7PGEZ4B7TXB2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://images.static-bluray.com/movies/covers/10981_large.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Meteor Man (1993)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/m7r285l37y8f/the_meteor_man_official_trailer_1_james_earl_jonesie_1993_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

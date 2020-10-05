@@ -1,3 +1,13 @@
+<item>
+<title>[COLORwhite]WWE NXT Takeover 31[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kh3zp669n5ak/wwe_nxt_takeover_31_2020_720p_web_h264-heel::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6SQPNHSCKPXGE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.ewrestlingnews.com/wp-content/uploads/2020/09/wwe-nxt-takeover-31.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Fargo (2020) Season 4[/COLOR][/B]</title> 
 <link>

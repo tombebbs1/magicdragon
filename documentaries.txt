@@ -54,6 +54,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BCENKRAJXBB5M::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]David Attenborough: A Life on Our Planet (2020) 4K RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/I2BDJDASYC42Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqoNTbCiM9FiXBwA0yrSbRnlVpf.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]David Attenborough: A Life on Our Planet (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h52pbew0l1di/d_attenborough_a_life_on_our_planet_2020_1080p_webrip_x265-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

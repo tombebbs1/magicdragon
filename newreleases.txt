@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]They Live Inside Us (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kx6dlhti0i68/they_live_inside_us_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/49vwyluvnnx7/they_live_inside_us_2020_1080p_web-dl_dd2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DJDHLXMWA34FU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GJLLFlUaPEok4y8TXk5erbryt9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Cuban (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/niftndabwski/the_cuban_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1a5hds6ods8a/the_cuban_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R2ID5RUARHU62::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2Sr6grnoj1fzMQCCs1nkRk1ZeB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Living Dead (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/xosjgq5nx1b2/interviewing_monsters_and_bigfoot_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bxj57dnfs7yq/the_living_dead_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SASPRS4F3MTXG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/4gEwODb3a.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]On Halloween (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/xosjgq5nx1b2/interviewing_monsters_and_bigfoot_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,13 @@
+<item>
+<title>[COLORwhite]The Third Day (2020) SO1E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8mckcetmqe65/the_third_day_s01e04_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ETBLXMQQQUGMW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNx7hgp3Cs6YPeBgvE6enNmR1Xz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Who Is America? (2018) Debrid Only[/COLOR][/B]</title> 
 <link>

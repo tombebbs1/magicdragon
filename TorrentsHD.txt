@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]On Halloween (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/xosjgq5nx1b2/interviewing_monsters_and_bigfoot_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/cjz710euftes/on_halloween_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C6FNVOXWKDQFG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzJiZTQ2ZTktZTJhMi00ZjdiLWEwNmMtZTY4YzJlNTUyYTc1XkEyXkFqcGdeQXVyMTIxOTA0OTA@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Interviewing Monsters and Bigfoot (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/xosjgq5nx1b2/interviewing_monsters_and_bigfoot_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/mdlcn5lwthk5/interviewing_monsters_and_bigfoot_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GBCWFY4NR2TN4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf0EjVmzR3u8sdTzo2aYkzDhCuv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ms. White Light (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gtpdxczw2reg/ms__white_light_trailer__2020::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/85jk2qi9bogn/ms_white_light_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SIRRIWQ2UMC74::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fluWy2N5iFMWpCChdMsoX2VISta.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Solum (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ajttxq9b8r1s/solum_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

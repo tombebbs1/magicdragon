@@ -61,6 +61,51 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Devil to Pay (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/l5l6rqybxjwa/the_devil_to_pay_trailer_2020_revenge_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/g6dfqyzdkiza/the_devil_to_pay_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IMK5DOSZPEIRA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tO1xcrm7646GGyszLs2cUb6HZa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spontaneous (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/37c9dvx5lgzw/spontaneous_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3vy1mzvajfl8/spontaneous_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/35P4MSXIIFVX6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DRfoa1AgCvB3H0R8vu1UPg2RL1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Black Box (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1h8k9md84a0j/black_box_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ykvna5bde95b/black_box_2020_720p_amzn_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GUFCAM7HV3Y6E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiAMeTBGB6ENqopAood5U5PY4vK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Cut Throat City (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/me4kr33xu4m5/cut_throat_city_exclusive_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m3a5b882z6qb/cut_throat_city_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5OTBIVWWSBV5E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/ofdbDcl1P.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cheer Squad Secrets (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dltwa5kiuwb8/cheer_squad_secrets_2020_lifetime_promo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

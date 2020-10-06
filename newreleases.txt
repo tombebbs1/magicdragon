@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tales from the Hood 3 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/00sg3cyoyruc/tales_from_the_hood_3_trailer_2020_horror_anthology::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3h4b5ygiau6a/tales_from_the_hood_3_2020_amzn_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RMZOHWQ6PSNUQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCfSv5nvL1rmySqOetXD97rDGtl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Lie (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zda5ck1u6ps6/the_lie_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

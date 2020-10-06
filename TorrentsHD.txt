@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Solum (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ajttxq9b8r1s/solum_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ydgbdx43is2h/solum_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SIRRIWQ2UMC74::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bxpPZGCHOIk6JlINDp5kpumTtt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Devil to Pay (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/l5l6rqybxjwa/the_devil_to_pay_trailer_2020_revenge_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Batman: Death in the Family (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/akek4pb1ykr9/batman_death_in_the_family__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vv7oedk0jd45/batman_death_in_the_family_2020_repack_720p_bluray_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2AM2C2J6TOAN2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWsVFZgpKEmWNrpmv832c0KdvNk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Under ConTroll (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qazke1crh1ds/under_controll_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

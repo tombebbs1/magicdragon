@@ -26,6 +26,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ORUNJYD2RHFJC::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Curse of Audrey Earnshaw (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/sjteb0uuhg6e/the_curse_of_audrey_earnshaw_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fggrkcvjzgwg/the_curse_of_audrey_earnshaw_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NQZLGHMX7XVBM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x9k5jPx4112Bytu4ckUIEfiBCb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Enola Holmes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e7bvgylsnusw/enola_holmes__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

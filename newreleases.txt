@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hubie Halloween (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/b5sc80n1vtjo/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/542kwx8yh64a/hubie_halloween_2020_1080p_nf_web-dl_ddp5_1_atmos_x264-cmrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ARTTSJYVXLY64::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVFr8PBWt9m3ZHV70knYrm7LVPp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Batman: Death in the Family (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/akek4pb1ykr9/batman_death_in_the_family__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

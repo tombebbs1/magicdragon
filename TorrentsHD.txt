@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Under ConTroll (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qazke1crh1ds/under_controll_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qq7zols0p9nu/under_controll_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GPRGR5Q2K7V7M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/13oIif2IxCyhwHxXkLIkZKRSD3b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ouija Craft (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ft7xpv1qzpen/ouija_craft_trailer_2020_ouija_horror::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qgyj5obowxcy/ouija_craft_2020_1080p_web-dl_dd2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HSGNU63WFMPZC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BwPmBSmj2cuYxyihOxXc4DFFXC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The World Is Full of Secrets (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/60hzuot3s3va/the_world_is_full_of_secrets_trailer_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bkr2mw8do881/the_world_is_full_of_secrets_2019_1080p_web-dl_dd2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CTIV6H4OIVNEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/llbEOPs3adtMqnU0EUL2ecKadsz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]World War Four (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/yhhiwq84vezp/world_war_four__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

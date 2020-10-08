@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]StarBeam: Halloween Hero (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/x1810ez0vvy6/starbeam_halloween_hero_trailer__netflix_jr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/yst97k2kb6rl/starbeam_halloween_hero_2020_1080p_nf_web-dl_ddp5_1_x264-lazy-%5Bbabytorrent%5D::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/47LSPXEW2JYLO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNKqblrUjbGXtqGmf1upqFWx3ww.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alone (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3zzy564aqp7p/alone_2020_official_trailer_hd_zombies__donald_sutherland::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

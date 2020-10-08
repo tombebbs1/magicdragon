@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Charm City Kings (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8zaxdl0wz188/charm_city_kings__official_trailer__hbomax::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gdgdy7fa6jbd/charm_city_kings_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Q3EK55UKBLVRM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcHiL6QNfgM77lqkLhVFpbNhcnv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Secrets We Keep (2020) DVD Rip[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hvon8mhgm3qb/the_secrets_we_keep_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

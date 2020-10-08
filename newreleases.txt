@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Alone (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3zzy564aqp7p/alone_2020_official_trailer_hd_zombies__donald_sutherland::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/qhmz0zdcm2yv/alone_2020_720p_bluray_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DPQFGEZDM23JO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbaLJjdm1cKxqBAtnz7qirNuM45.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Amityville Harvest (2020) DVD Rip[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/wx8mpba5ntn9/the_amityville_harvest_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

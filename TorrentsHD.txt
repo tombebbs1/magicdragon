@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Amityville Harvest (2020) DVD Rip[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wx8mpba5ntn9/the_amityville_harvest_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/vdyre6ulkz0d/the_amityville_harvest_2020_dvdrip_ac3_x264-cmrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LFOB3T4NSGWEM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/luBPZjYEIALVs5AKp95OI9aCX9M.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Charm City Kings (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8zaxdl0wz188/charm_city_kings__official_trailer__hbomax::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

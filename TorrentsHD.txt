@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wolf of Snow Hollow (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/m6jp4nc6ztk7/the_wolf_of_snow_hollow_official_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/fadw0ynwc8wb/the_wolf_of_snow_hollow_2020_1080p_web-dl_h264_ac3-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/63MICUKNJCYNE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zt88gcq6oFjcivNXcCvd7DTtss1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bad President (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hg8z8wwaakpr/bad_president_official_trailer_with_the_real_stormy_daniels::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

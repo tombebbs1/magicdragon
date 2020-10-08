@@ -14,6 +14,8 @@
 <fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>
 </item>
 
+
+
 <item>
 <title>[COLORwhite]Books of Blood (2020)[/COLOR]</title>
 <link>
@@ -33,6 +35,17 @@ sublink:LISTSOURCE:https://vidoza.net/fggrkcvjzgwg/the_curse_of_audrey_earnshaw_
 sublink:LISTSOURCE:https://real-debrid.com/d/NQZLGHMX7XVBM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x9k5jPx4112Bytu4ckUIEfiBCb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Secrets We Keep (2020) DVD Rip[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hvon8mhgm3qb/the_secrets_we_keep_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/azri7qd6p45m/the_secrets_we_keep_2020_dvdrip_ac3_x264-cmrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VXCKLDQ6RS2UE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ2zmWy8YK7ca3go1L124S8xjIM.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

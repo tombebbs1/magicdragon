@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cagefighter: Worlds Collide (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/akad1tttxnis/cagefighter_worlds_collide_2020_trailer__fite_tv_premiereie_event::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/zd0nagqwertg/cagefighter_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MUATXCBW37SEA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDBfN1h4yVrIEgoTxmFn4eKapOb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Faith Based (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/68lp11f6ckzt/faith_based_trailer_1_2020__ieclips_indie_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/kdtlyu370zpu/faith_based_2020_1080p_web-dl_dd5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A4GJN7XGJ5PXO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EobXh41lnhIo9RPoH3Sf2exxu2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dark October (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/hfkvrrn1d7s4/dark_october_official_trailer_2020_new_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

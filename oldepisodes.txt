@@ -1,3 +1,19 @@
+<item> 
+<title>[B][COLORwhite]The Boys (2019) Season 2 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/G5LZPMRCG7TMO::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QRNHYA6KWRLLG::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LTUBQY7U6O7IM::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/LW5BULIUBMZOU::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2OA7W642EEV2Q::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IWDW3GYGGBEHE::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DIHLJV4XDIQLO::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VIMLCKEDS2DQK::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The Third Day (2020) SO1E04[/COLOR]</title>
 <link>
@@ -179,20 +195,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SRYQKNJRQTTAM::LISTNAME:[COLORgold]
 <fanart></fanart>
 </item>
 
-<item> 
-<title>[B][COLORwhite]The Boys (2019) Season 2 Debrid Only[/COLOR][/B]</title> 
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/G5LZPMRCG7TMO::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/QRNHYA6KWRLLG::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/LTUBQY7U6O7IM::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
-sublink:LISTSOURCE:https://real-debrid.com/d/LW5BULIUBMZOU::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2OA7W642EEV2Q::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/IWDW3GYGGBEHE::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/DIHLJV4XDIQLO::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]First Presidential Debate 2020[/COLOR]</title>

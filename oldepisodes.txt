@@ -1,4 +1,31 @@
 <item> 
+<title>[B][COLORwhite]The Haunting of Bly Manor (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YR5FPM3ODWCOK::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TWH2NBH7ESBSM::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XTD45ZDOMFOWA::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/ZENILBG4WBEVW::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MVPR22A3OBGSA::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7MSKWTLZ2AMAK::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NAH6JMOPQQOWC::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BDN2QPHA6335U::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/53ND6X2RWSZ76::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIXQ8UymmQ7zJEPrKJP3s3fSbhR.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spitting Image SO1E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8pn2z4k6w4j8/spitting_image_2020_s01e02_web_x264-phoenix::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I636WQHWNPJAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/5WLem7yrA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Boys (2019) Season 2 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/G5LZPMRCG7TMO::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

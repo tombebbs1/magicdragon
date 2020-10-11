@@ -1,3 +1,23 @@
+<item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/b7h16md2boxc/fear_the_walking_dead_s06e01_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PLEJOTR7X3RUG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Good Lord Bird (2020) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wnjxtlz7zffa/the_good_lord_bird_s01e02_720p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/45UXFATZ4OBEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNFcWrxlnFXvrjJezId6bAoePzT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Haunting of Bly Manor (2020) Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>

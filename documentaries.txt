@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]Kingdom of Silence (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/79f40z7itgo5/kingdom_of_silence_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RNQLZ5IMSNB2U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDnXKb6rL3BJChC9L0pk6RUHMro.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]City Hall (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/93mdmljvhha9/city_hall_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QDVDIAEILBUQ6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrceDN6PudVB8AfsqrGcTwjZymm.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Where Does a Body End? (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/cldv388tikzv/swans_where_does_a_body_end_2019_extended_1080p_bluray_h264_aac-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

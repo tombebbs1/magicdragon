@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E03 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/5592uzop1efq/the_simpsons_s32e02_1080p_web_h264-bae::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VMGWVVQLCV3CO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Family Guy S19E03 Debrid Only[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/kgxxj7565f25/family_guy_s19e02_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

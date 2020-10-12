@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Aberdeen (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vup.to/v/lz0zc2hd32kp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://vidoza.net/gaqdrk7c1tki/ben_10_vs_the_universe_theie_2020_1080p_web-dl_aac2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZHSQ6C52WTCX4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMWFlMjIzZDktZjcwMy00NTI3LWE0MzUtM2EzZGFkODVlYzM1XkEyXkFqcGdeQXVyNjQxODIwODE@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]House of Shadows (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vup.to/v/8baonh74nxuc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

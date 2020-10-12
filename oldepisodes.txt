@@ -1,3 +1,18 @@
+<item> 
+<title>[B][COLORwhite]Fargo (2020) Season 4[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WYDZ3OPIVQNS6::LISTNAME:[COLORwhite]Ep 01 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IKZU4MZJMUEO2::LISTNAME:[COLORwhite]Ep 02 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KX35RYMQFEKGM::LISTNAME:[COLORwhite]Ep 03 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2G7SEGXBISJ3E::LISTNAME:[COLORwhite]Ep 04 Debrid Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ss4ng9n9s98x/fargo_s04e01_1080p_web_h264-videohole::LISTNAME:[COLORwhite]Ep 01 Free Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/aiorpov3gqfb/fargo_s04e02_1080p_web_h264-videohole::LISTNAME:[COLORwhite]Ep 02 Free Link[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/bixwehjs1yo0/fargo_s04e03_1080p_web_h264-cakes::LISTNAME:[COLORwhite]Ep 03 Free Link[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]UFC Fight Night 180[/COLOR]</title>
 <link>

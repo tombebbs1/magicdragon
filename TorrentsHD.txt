@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Devil's Familiar (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/rjpmboi1bibx/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/0dvdlayrajhf/the_devils_familiar_2020_webrip_x264-ion10::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ESTUAJRGTOMTK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDE4NGUyMDUtZTNhYi00ODdlLWI4OWEtNjRkOWE4NzM3ZTBmXkEyXkFqcGdeQXVyMzI2NDY3NA@@._V1_SY1000_CR0,0,686,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Truth Will Out (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pwt94bogxsaz/the_truth_will_out_trailer_1_horror%2C2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -43,7 +54,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/KK6ZUHEKWB6QQ::LISTNAME:[COLORgold]
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjU5NDI0MTItNjFhMy00YzFiLTllODctNDE4YmFiM2UzNWRjXkEyXkFqcGdeQXVyMTI4NDU5MTg@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLORwhite]Creature from Cannibal Creek (2019)[/COLOR]</title>
@@ -55,7 +65,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6IWXOHKLJ3IUA::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9FDJsQNp7Ot5QpfvumBQwmVAJi.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLORwhite]BLACKPINK: Light Up the Sky (2020)[/COLOR]</title>

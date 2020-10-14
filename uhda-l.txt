@@ -1371,6 +1371,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:d33926859580e3d2848599c6641e48e1c4186a98&
 </item>
 
 <item>
+<title>[COLORwhite]District 9 (2009)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TG2VNQEXA3QMU::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Django Unchained 4K [/COLOR]</title>
 <link>http://uptobox.com/oqttq5q9684c</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
@@ -1752,6 +1761,15 @@ sublink:LISTSOURCE:https://1fichier.com/?mfxzeg6idxi5p493wu92::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Force of Nature (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/E42NTMWQK5OZO::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -2309,6 +2327,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4b816142a7a13416a7b5a7cf2f45f040835bf563&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Hubie Halloween (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZVOJC4EYJBD6C::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQnqhfxWaw2fN3bgpDbO0RVFHLF.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Hunter Killer (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
@@ -2332,6 +2358,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:6e0d046f4c88c741688b67906e34e3b2eeb36ff8&
 <title>[COLORwhite]I Am Legend 4K [/COLOR]</title>
 <link>http://uptobox.com/nlnw3x3lvuou</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]I Am Woman (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MU3MQYELAJMK4::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpAkNeMzrSTJX2YIYcuwfqBrEqS.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -2728,6 +2763,15 @@ sublink:LISTSOURCE:https://1fichier.com/?scruvxo60f::LISTNAME:[COLORgold]HD  LIN
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTMyMjgyMDIyM15BMl5BanBnXkFtZTcwNjg3MjAyMg@@._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kingdom of Silence (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KD7V6DKWPQRG2::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDnXKb6rL3BJChC9L0pk6RUHMro.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

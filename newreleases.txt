@@ -61,13 +61,24 @@
 </item>
 
 <item>
-<title>[COLORwhite]Ben 10 vs. the Universe: The Movie (2020)[/COLOR]</title>
+<title>[COLORwhite]Killer Weekend (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/mnef3v1a9o66/ben_10_versus_the_universe_officialie_trailer__cartoon_network::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/gaqdrk7c1tki/ben_10_vs_the_universe_theie_2020_1080p_web-dl_aac2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/FKPJUW2REW52C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/d9e3fw4slflw/killer_weekend_officialie_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3lh4b3yfhc5s/killer_weekend_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6ZALYDA3MKTGY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE5NmEyYjctNzNhMi00YjI2LTgwZTctZWZjODgwNjA4M2E4XkEyXkFqcGdeQXVyODcxOTE0Mzc@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyzMeofrUVYyiPoItBcKjRgxlIh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Wall of Mexico (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s6q7bq6pi7wt/%27the_wall_of_mexico%27_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/67uih7juw933/the_wall_of_mexico_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VGOTUAVUVKQAG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCyUlesH5NjAudviOE2xaRM40G6.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -630,6 +641,17 @@ sublink:LISTSOURCE:https://vidoza.net/3vy1mzvajfl8/spontaneous_2020_1080p_web-dl
 sublink:LISTSOURCE:https://real-debrid.com/d/35P4MSXIIFVX6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DRfoa1AgCvB3H0R8vu1UPg2RL1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ben 10 vs. the Universe: The Movie (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mnef3v1a9o66/ben_10_versus_the_universe_officialie_trailer__cartoon_network::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gaqdrk7c1tki/ben_10_vs_the_universe_theie_2020_1080p_web-dl_aac2_0_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FKPJUW2REW52C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTE5NmEyYjctNzNhMi00YjI2LTgwZTctZWZjODgwNjA4M2E4XkEyXkFqcGdeQXVyODcxOTE0Mzc@._V1_SY1000_SX750_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Killer Weekend (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/d9e3fw4slflw/killer_weekend_officialie_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/3lh4b3yfhc5s/killer_weekend_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6ZALYDA3MKTGY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyzMeofrUVYyiPoItBcKjRgxlIh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Wall of Mexico (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s6q7bq6pi7wt/%27the_wall_of_mexico%27_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/67uih7juw933/the_wall_of_mexico_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VGOTUAVUVKQAG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCyUlesH5NjAudviOE2xaRM40G6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Scary Bride (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ode0hqxxg8xe/scary_bride_2020_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

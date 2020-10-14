@@ -72,6 +72,39 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FKPJUW2REW52C::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Scary Bride (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ode0hqxxg8xe/scary_bride_2020_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/m468a1i2bzx7/scary_bride_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XF6EXR4EHUNBY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iBSger558zoEoWCCEwGj9XIo8C.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Painter (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/1xfp6n1b3eyk/painter_trailer_1_2020__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/oouep74e0tgg/painter_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N6AEQEY6US6HE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsLTWH7fjXRsTAmlzwUJSfNH0OJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Carmilla (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zwblarkb9dtd/carmilla_trailer_1_2020__ieclips_indie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/7ab44l0l5njc/carmilla_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M7DFSICZMPOSA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iafFNHXYknS6DeVBVPBizVikM1S.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Special (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/yl7xv7f7ju6o/the_special_2020_trailer__horror_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

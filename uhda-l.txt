@@ -707,6 +707,33 @@ sublink:LISTSOURCE:https://1fichier.com/?3kpkddsjgp6fkitjai5y::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Back to the Future (1985) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WR4A2OZ6LFTSS::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Back to the Future Part II (1989) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3EBAQZQ2KR3TI::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Back to the Future Part III (1990) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7HCPNEWATZ5H2::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bad Santa 2 4K [/COLOR]</title>
 <link>https://uptobox.com/rs1hwx6ffsj5</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MjE5Mzc4OF5BMl5BanBnXkFtZTgwMjc3NjEyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>

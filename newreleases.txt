@@ -72,6 +72,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FKPJUW2REW52C::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Nocturne (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vbkoayalh22a/nocturne_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/nz7ond775br0/nocturne_2020_1080p_amzn_web-dl_ddp5_1_h_264-evo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6PETUOGDECZOM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJNFiWBGYSMbfTAk6Ygqdj6Rahq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nobody Dies (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/q69kfw36f823/nobody_dies_official_trailer_2020_actionie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

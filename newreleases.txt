@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Super Monsters: Dia de los Monsters (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/97ea4iixka8a/super_monsters_dia_de_los_monsters_releasing_on_netflix%21%2C_release_date%2C_cast_%26_plot-_premiere_next::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/99iqhryqeuo2/super_monsters_dia_de_los_monsters_2020_1080p_nf_web-dl_ddp5_1_x264-lazy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BEPEHWZPADMWU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPjZGbGtWlwRb8Fvujz7yYCuVw1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]PAW Patrol: Jet to the Rescue (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/k7ubjh82v8mj/paw_patrol_jet_to_the_rescue__official_trailer__paramount_pictures_australia::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/f9p3qjc69fsl/paw_patrol_jet_to_the_rescue_2020_1080p_nick_web-dl_aac2_0_h_264-lazy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IZQK6577LXBTK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZOk2iCX9gmToO66pjWBB0oVbRD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]This Was America (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/rnxnmgk7tgn1/the_missing_sister_trailer_2019_drama%2C_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

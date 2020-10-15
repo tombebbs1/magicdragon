@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Star Trek: Discovery (2017) SO3E01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wvp5vsuz0ye1/star_trek_discovery_s03e01_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K4WWTYOKQXFUI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Third Day (2020) SO1E05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/y603ni566ald/the_third_day_s01e05_tuesday_the_daughter_1080p_10bit_webrip_6ch_x265_hevc-psa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

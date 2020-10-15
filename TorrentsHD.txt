@@ -33,6 +33,16 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Bullets of Justice (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/u5szkypi6yio/bullets_of_justice_official_trailer_2019_danny_trejo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/x69cu681o51m/bullets_of_justice_2019_1080p_amzn_web-dl_ddp5_1_h_264-ntg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5STOZN5FI3SYG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIVqlqhEefl8vVgZGMFfyYNICrP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Don't Look Back (2020)[/COLOR]</title>

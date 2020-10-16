@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Murmur (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2z7b7ycbv2d1/murmur_trailer__tiff_2019::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/w0wzrqkh6gue/murmur_2019_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BDFDVT4V6SHAA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7nPKmXXpCNwTi4rFRUIUFjtCTy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love and Monsters (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/p702tpw2kpvh/love_and_monsters_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -70,6 +81,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/N4DZ4MS3IJ6VK::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
+
 
 <item>
 <title>[COLORwhite]The Devil Has a Name (2019)[/COLOR]</title>

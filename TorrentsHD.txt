@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love and Monsters (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p702tpw2kpvh/love_and_monsters_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/o65bcfnrxqn5/love_and_monsters_2020_1080p_webrip_dd5_1_x264-cm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N4DZ4MS3IJ6VK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Devil Has a Name (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/mgz87v01yjb9/the_devil_has_a_name_official_trailer_2020_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/gklizn1c2v8q/the_devil_has_a_name_2020_720p_webrip_800mb_x264-galaxyrg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4RKGMWHLZ3ZPC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qfJI2RTMPsCn75ngWQMVrUcWZm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kajillionaire (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/4pbzpv383c32/kajillionaire_trailer_2020_evan_rachel_wood%2C_gina_rodriguez_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/iw5auuslqdg3/kajillionaire_2020_1080p_webrip_dd5_1_x264-cm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H64ERKWN4OV5G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]36 Husbands (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/89faur45atnv/36_husbands_trailer_love_potion_number_36::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

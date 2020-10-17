@@ -89,16 +89,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/Q4VAR566NVJ3G::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Kajillionaire (2020) HDCAM UPDATED 02/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/4pbzpv383c32/kajillionaire_trailer_2020_evan_rachel_wood%2C_gina_rodriguez_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/1apbp4t4jw0o/kajillionaire_2020_720p_hdcam::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/SP6RCALOO5LDQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Last Shift (2020) HDCAM UPDATED 28/09[/COLOR]</title>

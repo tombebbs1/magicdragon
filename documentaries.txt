@@ -44,6 +44,27 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Perfect Weapon (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pb93o5cjansf/the_perfect_weapon_2020_webrip_x264-ion10::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DSTXMYE724NN6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXphpQgetq4FZJN1cNnX1FpGcS5.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Totally Under Control (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gvkxiv08wat5/totally_under_control_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KXHCYQY3RQWNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/29esh0BYdmSmOQastklQg8rhuw4.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Renegade The Life Story of David Icke 2019 Debrid Only[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/79f40z7itgo5/kingdom_of_silence_2020_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

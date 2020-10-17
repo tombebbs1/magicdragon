@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Secrets We Keep (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hvon8mhgm3qb/the_secrets_we_keep_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/p5r4n4gxc999/the_secrets_we_keep_2020_1080p_webrip_dd5_1_x264-cm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4ODAM2IKZ6FX6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ2zmWy8YK7ca3go1L124S8xjIM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]On Halloween (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h0tew9avvde2/on_halloween_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]The Oxford Murders (2008)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/d16s8l92cic2/%27the_oxford_murders%27_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/v20twlg8xgzv/the_oxford_murders_2008_1080p_bluray_x265-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BK7ROOEKJ7LZO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPGyZg44eCxccfoaNNbJwTJj66J.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Texas Death Trippin' (2019) Extended[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/n7un1jlllm22/texas_death_trippin%27_2019_official_redbandie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/q2chgnfij812/texas_death_trippin_2019_extended_1080p_webrip_x264-rarbg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LEYUNFKY4KJ2S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2AVjIDshikdaSyBewGAhYAvcgm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]King Kong (1933)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1862c1ntrnfb/king_kong_trailer_1933_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

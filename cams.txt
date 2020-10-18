@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Kid Detective (2020) HDCAM UPDATED 18/10 Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ba7rusec3sdn/the_kid_detective_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1jvifzk75dy4/the_kid_detective_2020_720p_hdcam_slotslights::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IUUNMPZZFSOEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WrT8AZUcDicvf5m8KVgspQEHK3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rifkin's Festival (2020) HDCAM UPDATED 16/10 Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tyuyaq0pby15/rifkin%27s_festival_official_trailer_woody_allenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,33 @@
+item>
+<title>[COLORwhite]UFC Fight Night 181[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gxtmkqwrjyn1/ufc_fight_night_180_web-dl_h264_fight-bb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CML5NT4E4MGPC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Good Lord Bird (2020) SE01EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8ggcfqng9gwv/the_good_lord_bird_s01e03_hdr_2160p_web_h265-cakes-sample::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/44G3D7WGVOIGM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNFcWrxlnFXvrjJezId6bAoePzT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Newcastle Vs Man United 17/10/20[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/aq2swkzvd81x/newcastle_united_vs_manchester_united::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BGBLQKKUGAETO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://i.pinimg.com/originals/b7/72/37/b77237dba2704795ae1c444af7762e18.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP02[/COLOR]</title>
 <link>

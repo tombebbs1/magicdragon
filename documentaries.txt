@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Napoleon: Life of an Outlaw (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/17djg21loac5/napoleon_life_of_an_outlaw_2019_webrip_x264-ion10::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2JQCYNOQP7MAS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbGZnf03RNNarHFOLIL15BIxzhu.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Flying Monsters (2011)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8tkjfwa3437x/flying_monsters_2011_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

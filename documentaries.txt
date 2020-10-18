@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Flying Monsters (2011)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8tkjfwa3437x/flying_monsters_2011_brrip_xvid_mp3-xvid::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DCBLLG3EHTSIE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezZMWSmJH7bkvJFLD5iNL1B7lkZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Perfect Weapon (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pb93o5cjansf/the_perfect_weapon_2020_webrip_x264-ion10::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

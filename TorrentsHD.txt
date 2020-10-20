@@ -34,9 +34,9 @@
 </item>
 
 <item>
-<title>[COLORwhite]Blue Ridge (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]Blue Ridge (2020)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidlox.me/rsjs9je66q4j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/u8kaa2cu8fx4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/NMJZ44G265NXC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDViNmFhNzYtMjgwYS00ODM1LWI2YjgtN2Q2M2ZlZmUxZGRiXkEyXkFqcGdeQXVyNjAxMTI1Mzk@._V1_.jpg</thumbnail>
@@ -44,9 +44,9 @@ sublink:LISTSOURCE:https://real-debrid.com/d/NMJZ44G265NXC::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Expulsion (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]Expulsion (2020)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidlox.me/rsjs9je66q4j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/upzq2mrtq2ox::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/ZXPF763SPAJXY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDllYTZjNTQtMjk0Mi00ODA4LWFiZmEtNjhlMGZmMGRhZGQ2XkEyXkFqcGdeQXVyNjA2NTc4MTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>

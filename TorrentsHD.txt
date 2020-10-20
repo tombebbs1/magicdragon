@@ -34,6 +34,96 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wristwatch (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/KD3KMJ2QPMGXQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODhjNzE2NzEtNmZhMS00MWFiLTg4YTYtNDdhMTdhYzI1YjAzXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rialto (2019) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2NW4C63M65FC4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTY4ZmJiM2EtNjYxMi00Mjg2LWIyNWQtM2NjMTU3MTQyYWJhXkEyXkFqcGdeQXVyMTMzODQ4NzQ@._V1_SY1000_CR0,0,689,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Skydog (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JQFX5EW5RAHFI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzRhMzQ4NDgtMmI4My00OTZhLWE5OGEtOWI2YWI1NTAyNDExXkEyXkFqcGdeQXVyNzY3NzAyMg@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Chop Chop (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XBVCUT2NZL7TY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTEyZGE0ZWEtNjJiOC00ZDdiLTk0MWEtNDhkYjQ4OGFiYWNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rumble Strip (2019) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JXEMOKQWV6YLY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2IzZDI2MTQtMWY3MC00YmEzLWE3NmQtZGQ5YWI2OWRlOGQyXkEyXkFqcGdeQXVyMTE5MzY3NDQ0._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tar (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/P5HY7JQGPVKGM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjU2N2I3MzctMWUwOC00MTQwLTljYWEtOTVkYzU4MmM3NjkzXkEyXkFqcGdeQXVyMzUxMzczMDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dino Dana: The Movie (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/BMGVUOEKZAN6S::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA2Y2NjNTktNjRhOC00NzQzLTgxYTgtMzMzNWQyN2M2MTQxXkEyXkFqcGdeQXVyNTY0NzUxNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Death by 1000 Cuts (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UPSB4ZOUDX3TG::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDZmNDI3YzQtNjU0NC00MGY4LTkzYjUtNDk4YmU1NzcwZjAwXkEyXkFqcGdeQXVyMjg0OTAyMTY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Daughter (2019) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YVT3ONO3FMURA::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/Ybt4V.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Aurora Teagarden Mysteries: Reunited and it Feels So Deadly (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/P5O7MQ5V5JWFQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDY0YjkyMGUtYTcyMC00YWE1LWIyM2ItOGE0YzkwMjliMTJjXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Redwood Massacre: Annihilation (2020) RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/W6RZ7MTSFTYTQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

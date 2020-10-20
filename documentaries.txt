@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Brewmaster (2018) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GEEOQK2JFVTDM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmViOGIwYmEtZmI2MC00NjFmLTk4MTEtZjdlOTFiOGQzOTUzXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Planet FIFA (2016) RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/2AQJVISW3WNA6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

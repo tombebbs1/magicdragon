@@ -34,6 +34,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Unhinged (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GFEHGQMNSXVWK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/fB1Dovkg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wrong Cheerleader Coach (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/c1k7gd3ad61k/vivica_a__fox_on_her_new_lifetime_film_%27the_wrong_cheerleader_coach%2C%27_%27soul_train%27_%26_more::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

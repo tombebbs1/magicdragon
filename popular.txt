@@ -15,6 +15,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Unhinged (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GFEHGQMNSXVWK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/fB1Dovkg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Kajillionaire (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/4pbzpv383c32/kajillionaire_trailer_2020_evan_rachel_wood%2C_gina_rodriguez_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

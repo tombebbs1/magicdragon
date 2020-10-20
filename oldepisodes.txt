@@ -9,9 +9,9 @@ sublink:LISTSOURCE:https://clicknupload.co/fulnxret4v2h::LISTNAME:[COLORgold]HD 
 </item>
 
 <item>
-<title>[COLORwhite]Top Gear SE29EP03 Debrid Only[/COLOR]</title>
+<title>[COLORwhite]Top Gear SE29EP03[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidoza.net/iw3cb0ndj829/top_gear_s29e01_720p_hdtv_x264-pvr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3h5yu98bi73e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/5BO7PSZ3A64SG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg</thumbnail>
@@ -19,9 +19,9 @@ sublink:LISTSOURCE:https://real-debrid.com/d/5BO7PSZ3A64SG::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Fargo SO4E05 Debrid Only[/COLOR]</title>
+<title>[COLORwhite]Fargo SO4E05[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidoza.net/8mckcetmqe65/the_third_day_s01e04_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sjyggyimjiw5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/LEIG6CAHDY4PQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
@@ -29,9 +29,9 @@ sublink:LISTSOURCE:https://real-debrid.com/d/LEIG6CAHDY4PQ::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]The Third Day (2020) SO1E06 Debrid Only[/COLOR]</title>
+<title>[COLORwhite]The Third Day (2020) SO1E06[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidoza.net/8mckcetmqe65/the_third_day_s01e04_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/csvls7qoslr4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/MAUOTDVXLSBR6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNx7hgp3Cs6YPeBgvE6enNmR1Xz.jpg</thumbnail>

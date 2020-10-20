@@ -84,45 +84,50 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2NW4C63M65FC4::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Skydog (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]Skydog (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/JQFX5EW5RAHFI::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7zhyfp477tzd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JQFX5EW5RAHFI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzRhMzQ4NDgtMmI4My00OTZhLWE5OGEtOWI2YWI1NTAyNDExXkEyXkFqcGdeQXVyNzY3NzAyMg@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLORwhite]Chop Chop (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]Chop Chop (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/XBVCUT2NZL7TY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/q604h648xzpa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XBVCUT2NZL7TY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTEyZGE0ZWEtNjJiOC00ZDdiLTk0MWEtNDhkYjQ4OGFiYWNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLORwhite]Rumble Strip (2019) RD Only[/COLOR]</title>
+<title>[COLORwhite]Rumble Strip (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/JXEMOKQWV6YLY::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/f050kjic4oj2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JXEMOKQWV6YLY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BM2IzZDI2MTQtMWY3MC00YmEzLWE3NmQtZGQ5YWI2OWRlOGQyXkEyXkFqcGdeQXVyMTE5MzY3NDQ0._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLORwhite]Tar (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]Tar (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/P5HY7JQGPVKGM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/nxxuzbxojirx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P5HY7JQGPVKGM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjU2N2I3MzctMWUwOC00MTQwLTljYWEtOTVkYzU4MmM3NjkzXkEyXkFqcGdeQXVyMzUxMzczMDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLORwhite]Dino Dana: The Movie (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]Dino Dana: The Movie (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/BMGVUOEKZAN6S::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/qxkepxofighn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BMGVUOEKZAN6S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA2Y2NjNTktNjRhOC00NzQzLTgxYTgtMzMzNWQyN2M2MTQxXkEyXkFqcGdeQXVyNTY0NzUxNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

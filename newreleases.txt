@@ -71,6 +71,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GFEHGQMNSXVWK::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Dedalus (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/awflr45fo8qj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YW7SD53CJ6H6I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzNlZGJlOTUtM2E0OS00ODE5LTk5ZGEtY2VlYzY2MzI0ODBlXkEyXkFqcGdeQXVyMTkyMTE3NDY@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Wrong Cheerleader Coach (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/c1k7gd3ad61k/vivica_a__fox_on_her_new_lifetime_film_%27the_wrong_cheerleader_coach%2C%27_%27soul_train%27_%26_more::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

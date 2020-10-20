@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Planet FIFA (2016) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/2AQJVISW3WNA6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzE0ZDBlNDAtNTdhZi00MDY0LWI4NGQtODE0NGJkZWZjYmQ1XkEyXkFqcGdeQXVyODg3MjA4MDY@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Diana The Interview That Shocked the World 2020[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h4ujpfgiels4/diana_the_interview_that_shocked_the_world_2020_hdtv_x264-darkflix::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

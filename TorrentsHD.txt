@@ -34,6 +34,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Redwood Massacre: Annihilation (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/W6RZ7MTSFTYTQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZGU4YjFlZGEtYTcyZi00ODE4LTg4ZDEtOTM0NmVkZDAyNDhmXkEyXkFqcGdeQXVyNTY2OTgxNQ@@._V1_SY1000_CR0,0,692,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Who Is Killing the Cheerleaders? (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ATEEL2FAXCAHQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjQ0MThmZmQtODY1Mi00YThmLWJhMGYtOTViN2RiZDU3OTlmXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unhinged (2020) RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/GFEHGQMNSXVWK::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

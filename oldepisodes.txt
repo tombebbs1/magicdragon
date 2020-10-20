@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E04 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/5592uzop1efq/the_simpsons_s32e02_1080p_web_h264-bae::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://clicknupload.co/fulnxret4v2h::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Top Gear SE29EP03 Debrid Only[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/iw3cb0ndj829/top_gear_s29e01_720p_hdtv_x264-pvr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -64,18 +64,20 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TQK6WEGI4CKOQ::LISTNAME:[COLORorchi
 </item>
 
 <item>
-<title>[COLORwhite]The Wristwatch (2020) RD Only[/COLOR]</title>
+<title>[COLORwhite]The Wristwatch (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/KD3KMJ2QPMGXQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7w83vhyhdqqb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KD3KMJ2QPMGXQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODhjNzE2NzEtNmZhMS00MWFiLTg4YTYtNDdhMTdhYzI1YjAzXkEyXkFqcGdeQXVyMjY2NDc0OTQ@._V1_SY1000_SX750_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLORwhite]Rialto (2019) RD Only[/COLOR]</title>
+<title>[COLORwhite]Rialto (2019)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/2NW4C63M65FC4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/pc8wrk8fc7ku::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2NW4C63M65FC4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTY4ZmJiM2EtNjYxMi00Mjg2LWIyNWQtM2NjMTU3MTQyYWJhXkEyXkFqcGdeQXVyMTMzODQ4NzQ@._V1_SY1000_CR0,0,689,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

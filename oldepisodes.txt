@@ -1,4 +1,44 @@
 <item>
+<title>[COLORwhite]Top Gear SE29EP03 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/iw3cb0ndj829/top_gear_s29e01_720p_hdtv_x264-pvr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5BO7PSZ3A64SG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fargo SO4E05 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/8mckcetmqe65/the_third_day_s01e04_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LEIG6CAHDY4PQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Third Day (2020) SO1E06 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/8mckcetmqe65/the_third_day_s01e04_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MAUOTDVXLSBR6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNx7hgp3Cs6YPeBgvE6enNmR1Xz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Third Day (2020) SO1E05 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/8mckcetmqe65/the_third_day_s01e04_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M3PSI3ODRMTV4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNx7hgp3Cs6YPeBgvE6enNmR1Xz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Good Lord Bird (2020) SE01EP03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8uuvc3wwfhdi/the_good_lord_bird_s01e03_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -34,6 +34,25 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dedalus (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YW7SD53CJ6H6I::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzNlZGJlOTUtM2E0OS00ODE5LTk5ZGEtY2VlYzY2MzI0ODBlXkEyXkFqcGdeQXVyMTkyMTE3NDY@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Drowning (2019) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TQK6WEGI4CKOQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTk0ZDRhN2MtNmYwOC00MGMwLWEyN2QtNjFhZjk2OTlhYWQ3XkEyXkFqcGdeQXVyNzQyNzk2NTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wristwatch (2020) RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/KD3KMJ2QPMGXQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

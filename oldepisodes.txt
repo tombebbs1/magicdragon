@@ -1,4 +1,13 @@
 <item>
+<title>[COLORwhite]WWE Monday Night Raw 19/10/20 RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NVXKWYAV434OW::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://www.barclayscenter.com/assets/img/BC_2020_EV_WWE_MondayNightRAW_910x350-30d9bb4dab.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Simpsons SE32E04 Debrid Only[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/5592uzop1efq/the_simpsons_s32e02_1080p_web_h264-bae::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

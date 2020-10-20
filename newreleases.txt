@@ -61,6 +61,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]On the Arm (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/snqmp6hh1qlq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7OOBHNDFNAIZY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2YwYWNlMDgtMTg1YS00NjQyLWE5M2EtOTk2YzZkMmY5ZWNmXkEyXkFqcGdeQXVyNjcwNzg5MDg@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unhinged (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/rsjs9je66q4j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -117,6 +127,16 @@ sublink:LISTSOURCE:https://vidlox.me/qxkepxofighn::LISTNAME:[COLORgold]HD FREE L
 sublink:LISTSOURCE:https://real-debrid.com/d/BMGVUOEKZAN6S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA2Y2NjNTktNjRhOC00NzQzLTgxYTgtMzMzNWQyN2M2MTQxXkEyXkFqcGdeQXVyNTY0NzUxNA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Death by 1000 Cuts (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/1volxycu3oi0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UPSB4ZOUDX3TG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDZmNDI3YzQtNjU0NC00MGY4LTkzYjUtNDk4YmU1NzcwZjAwXkEyXkFqcGdeQXVyMjg0OTAyMTY@._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

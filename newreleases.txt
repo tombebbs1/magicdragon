@@ -61,6 +61,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rebecca (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/gi2kp1olwxl5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XGNRM54BNJUNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8HpKxRwKsn6UfD21sW6Pep4uJz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turn of the Cheek (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/fmyzp9y27lfk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

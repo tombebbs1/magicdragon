@@ -44,6 +44,15 @@
 </item>
 
 <item>
+<title>[COLORwhite]Liverpool FC: The 30-Year Wait (2020) RD Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/RQ7LFEFWHG36S::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld30Hm0dQT3cAoQQqljv5pZypz0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Brewmaster (2018) RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/GEEOQK2JFVTDM::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

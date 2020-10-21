@@ -143,17 +143,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/AEBRQ2DPJMUPS::LISTNAME:[COLORorchi
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-<item>
-<title>[COLORwhite]The Broken Hearts Gallery (2020) HDCAM UPDATED 12/09 RD Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/4GVSM4LO5FEOC::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]After We Collided 2020 HDCAM UPDATED 07/09 RD Only[/COLOR]</title>
 <link>
@@ -174,16 +163,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/DEUE5QOCHEHG2::LISTNAME:[COLORorchi
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-<item>
-<title>[COLORwhite]Unhinged 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/BPZSEMRFRGQ7U::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/fB1Dovkg.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]Greenland 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
 <link>
@@ -201,12 +180,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/UQFZI6R7NKLQQ::LISTNAME:[COLORorchi
 <thumbnail>http://img.rlsbb.to/images/3s7uW2DO.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]First Lady (2020) HDCAM UPDATED 18/02[/COLOR]</title>

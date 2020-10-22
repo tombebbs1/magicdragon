@@ -1,4 +1,23 @@
 <item> 
+<title>[B][COLORwhite]The Expecting (2020) Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FUU3Q54MPTPES::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IWAS2EMZFTDJY::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ULUXI56LSBHVS::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DTGIIG6WDUNES::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RVIGNYB32CQ5K::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SPLALMBE277HS::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5XVP2DA6BKFME::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6CILLSLABEZG4::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YOIHFQTBLKUEQ::LISTNAME:[COLORwhite]Ep 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EVUI5FC6MQ524::LISTNAME:[COLORwhite]Ep 10[/COLOR]::#    
+sublink:LISTSOURCE:https://real-debrid.com/d/5YKXFZ6OAEWZG::LISTNAME:[COLORwhite]Ep 11[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSKTMHXDAcxTa5mPRa7HONSwoM9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Wireless (2020) Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/J6OAFTVV46ZQC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

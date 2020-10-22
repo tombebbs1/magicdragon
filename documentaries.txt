@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]What Killed Michael Brown? (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ui87csjjczv6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YDBCL24ZSUWPO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfPr1chNBCPN8ol0uPbztuxEbtv.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Officer Involved (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/aw05qafozqs2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NQSZTOSOCDNOW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyfnt391eC9EAp6NqFhgdHFzChh.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Liverpool FC: The 30-Year Wait (2020) RD Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/RQ7LFEFWHG36S::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

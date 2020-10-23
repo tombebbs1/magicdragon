@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Curious George: Go West, Go Wild (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kr8r4hcqu5wi/curious_george_go_west%2C_go_wild_trailer_1_2020__fandango_family::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xf7gaht1yxzv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PPVXB6YTCCNXG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Once Upon a Snowman (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/5brzqovprwxq/once_upon_a_snowman__official_trailer__disney%2B::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

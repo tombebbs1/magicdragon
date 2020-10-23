@@ -143,14 +143,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/AEBRQ2DPJMUPS::LISTNAME:[COLORorchi
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]After We Collided 2020 HDCAM UPDATED 07/09 RD Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/IPYCEO4IEMYA6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM4hht0LdY06UbuxGR4LjK6adCD.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

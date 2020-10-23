@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Haunting of the Mary Celeste (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dym92cckre9d/haunting_of_the_mary_celeste_2020_exclusive_official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/zcu6b1l6qd1d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EP5TYLH2SRZTC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y68VXSeurf9i1Et0KLKFTY3Xf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Place of No Words (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/aehea3b9dm9y/the_place_of_no_words_2019_official_trailer_%5Bfantasy%5D_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

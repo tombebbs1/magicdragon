@@ -18,14 +18,13 @@
 <item>
 <title>[COLORwhite]On the Rocks (2020)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidoza.net/06dvqhe1y3xx/on_the_rocks_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/elnxwe94wrwj/on_the_rocks__official_trailer_hd__a24_%26_apple_tv%2B::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/zajnvxre2f3b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/TNA2VROJJVW7S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
 <item>
 <title>[COLORwhite]The Witches (2020)[/COLOR]</title>
 <link>

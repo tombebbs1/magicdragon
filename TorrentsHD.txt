@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bad Hair (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s7zbouejm701/bad_hair_trailer_official_%E2%80%A2_a_hulu_original::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cb0273qw4bt2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QUEIFP6GWVYYW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/979LvAwRGCkVFgJ04uyPcsPaPF2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Haunting of the Mary Celeste (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dym92cckre9d/haunting_of_the_mary_celeste_2020_exclusive_official_trailer_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

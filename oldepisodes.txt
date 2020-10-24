@@ -1,3 +1,23 @@
+<item>
+<title>[COLORwhite]Family Guy S19E04 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/kgxxj7565f25/family_guy_s19e02_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YI4AXYVHX6EFG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spitting Image SO1E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/i8o9qmol3k4h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FEIKPRF52MZ56::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/5WLem7yrA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Expecting (2020) Season 1 Debrid[/COLOR][/B]</title> 
 <link>

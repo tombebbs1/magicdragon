@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Schism (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/c58spewnjpj7/schism_2020_teaser_trailer_sd_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/kn00m8o6c3pplv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CRPWKAS65VCX2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRqQT0yLvfYHXVafOgpsSEvMAbA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Curious George: Go West, Go Wild (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kr8r4hcqu5wi/curious_george_go_west%2C_go_wild_trailer_1_2020__fandango_family::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

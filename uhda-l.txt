@@ -2729,6 +2729,15 @@ sublink:LISTSOURCE:https://1fichier.com/?02wr8ajhkt::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]Kajillionaire (2020))[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TM6AQ4MD2YQ6G::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Keeping Up With The Jones 4K [/COLOR]</title>
 <link>http://uptobox.com/oxed5qvs3elm</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM0MjE4OTA2MF5BMl5BanBnXkFtZTgwMDMyNTMwMTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>

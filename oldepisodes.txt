@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Good Lord Bird (2020) SE01EP04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kwbry2oc3uv1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OBG2OLVBTCXQO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNFcWrxlnFXvrjJezId6bAoePzT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/kn00x6gqb3rx9j8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UDZKJZDMMXZ6C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Family Guy S19E04 Debrid Only[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/kgxxj7565f25/family_guy_s19e02_1080p_web_h264-cakes::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

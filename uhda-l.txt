@@ -2737,7 +2737,7 @@ sublink:LISTSOURCE:https://1fichier.com/?02wr8ajhkt::LISTNAME:[COLORgold]HD  LIN
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLORwhite]Kajillionaire (2020))[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/TM6AQ4MD2YQ6G::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

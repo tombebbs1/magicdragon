@@ -957,6 +957,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5f56cbe42e10e993880e320c9555d01e3dc0fe23&
 </item>
 
 <item>
+<title>[COLORwhite]Borat Subsequent Moviefilm (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/K7YMYFVLEN5HU::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6agKYU5IQFpuDyUYPu39w7UCRrJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Boyz n the Hood (1991)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:b14504733571f84640af6c536f12f41ae6585a76&dn=Boyz.n.the.Hood.1991.2160p.UHD.BluRay.X265-IAMABLE&xl=33752586091&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2790/announce&tr=udp%3A%2F%2F9.rarbg.to:2780/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

@@ -69,6 +69,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OOMPFXC6X3VOO::LISTNAME:[COLORgold]
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBmMqg4dQZfLy3AkTRWAk9xftFI.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item
+
+<item>
+<title>[COLORwhite]Christmas Tree Lane (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/feghov1nhv1p/first_look_christmas_tree_lane_starring_alicia_witt_%26_andrew_walker_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/br7gybhbckzm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D2MLUXPDXZUNO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs5yakgP0dmgi5WjbyfgkegF0V6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

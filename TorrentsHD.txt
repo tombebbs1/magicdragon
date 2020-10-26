@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Paradise Z (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/82mm2opo731p/paradise_z_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/pnlvnmf7b320::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2TO2AXNIAV6T6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsIgIJx3qMaAV0fEVFthTvVGmqx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jingle Bell Bride (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/yhgft14ga5c5/jingle_bell_bride_--_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

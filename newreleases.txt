@@ -72,6 +72,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OOMPFXC6X3VOO::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Paradise Z (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/82mm2opo731p/paradise_z_hd_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/pnlvnmf7b320::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2TO2AXNIAV6T6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsIgIJx3qMaAV0fEVFthTvVGmqx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas Unwrapped (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/00voxa5plv1x/christmas_unwrapped_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

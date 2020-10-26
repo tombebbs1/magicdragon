@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Undoing (2020) SE01EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/22fg9lqc7zl4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XT5OQAQE43MVW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NcqyQG30U5MgzUzmxr31xi3ws5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Top Gear SE29EP04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/0bkfd3yqwqeb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

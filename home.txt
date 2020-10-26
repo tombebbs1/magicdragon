@@ -59,6 +59,14 @@
 </channel>
 
 <channel>
+<name>[B][I][COLORlime]Christmas 2020[/B][/I][/COLOR]</name>
+<thumbnail>https://c.files.bbci.co.uk/6682/production/_112924262_greatgrottos-01royaltunbridgewells.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2020.txt</externallink>
+<fanart>https://c.files.bbci.co.uk/6682/production/_112924262_greatgrottos-01royaltunbridgewells.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][I][COLORblue]Cams/HDTS Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>

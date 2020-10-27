@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Fishbowl (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kkb6oreoeigw/fishbowl_trailer_2020_drama_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7sgw5p4rln5q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SDRME5ASRMYFU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbqIoG8G896XLgMMZ0HHSz5NdQs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]No Such Thing As Monsters (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/p9hmt9tjjsou/no_such_thing_as_monsters_official_teaser_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

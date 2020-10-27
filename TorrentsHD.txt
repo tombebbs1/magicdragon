@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Whittler (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8375tb7fip56/the_whittler_2020_%5Bofficial_trailer%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/h0algs9n6ga3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6Z5Q6SCLBK2K4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/QPOZcSs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Wreck (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0298uhhxnge5/wreck_2020_trailer_hd_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/289obdrdriig::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4YFL3RMR37GES::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/y3t9ZhmdWK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jaeger (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/a8dp0nt0umny/jaeger_2020_trailer_hd_actionie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

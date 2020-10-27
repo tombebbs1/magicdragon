@@ -44,9 +44,9 @@
 </item>
 
 <item>
-<title>[COLORwhite]Lennox Lewis: The Untold Story (2020) Debrid Only[/COLOR]</title>
+<title>[COLORwhite]Lennox Lewis: The Untold Story (2020)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidlox.me/wn8pfpnqasnn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/r0pwh4c91ck9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/E4WBP3FEXMGDG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBr99Qi2i6f3IABnt6ou2VH4KUt.jpg</thumbnail>

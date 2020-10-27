@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Toys of Terror (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/z5oewques0ox/toys_of_terror__official_trailer__warner_bros__entertainment::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/w1nx6727efbw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LZ54ZWX2BYMT4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6hmAgPVXxZHwMHfS9z3W2n9Gz9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fishbowl (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kkb6oreoeigw/fishbowl_trailer_2020_drama_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

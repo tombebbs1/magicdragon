@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]No Such Thing As Monsters (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/p9hmt9tjjsou/no_such_thing_as_monsters_official_teaser_trailer_2019_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/046xhlbyq8r7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YQ4VKBKCO7D4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF9e8v8jQHY2u01UUtp8sUaIhWl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deliver by Christmas (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mxttlwi0lfya/first_look_deliver_by_christmas_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

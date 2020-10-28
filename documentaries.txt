@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Secrets of the Saqqara Tomb (2020) Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/s06pv30feuov::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DJ7HKBZDATTAU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaaET8EGa6mkBmCfA6yZ2xEmR2A.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mighty Ira (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/s06pv30feuov::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

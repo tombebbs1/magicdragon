@@ -10,6 +10,14 @@
 </channel>
 
 <channel>
+<name>[B][I][COLORred]Catch Up TV[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][I][COLORwhite]********************************************************[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>

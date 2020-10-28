@@ -3074,10 +3074,10 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:c4e5f57beaee70b865ad07a6fbaa4f119f632c68&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]Unhinged (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/DWIJRLAFNB5BU::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6VVBO5DYAYDRC::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WC3cIhuaLZSq3SbtdOp2ZTSTe.jpg</thumbnail>
 <fanart></fanart>

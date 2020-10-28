@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Holidate (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/h16ci6iojvi5/holidate_official_trailer_2020_emma_roberts_romanceie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://vidlox.me/6oy2oujdu9h1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N66TWSIK6WT5A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nobody Sleeps in the Woods Tonight (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gsx8dhwwsaof/nobody_sleeps_in_the_woods_tonight_trailer_1_2020__playon_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://vidlox.me/6oy2oujdu9h1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z23IPZ656ZOFY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Craft: Legacy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/56xfpn2pmiyk/the_craft_legacy_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

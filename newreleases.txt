@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Craft: Legacy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/56xfpn2pmiyk/the_craft_legacy_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6oy2oujdu9h1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CY5CZG3XMC3RK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]23 Walks (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/oiwhhiwle7ob/23_walks_official_trailer_2020_alison_steadman::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

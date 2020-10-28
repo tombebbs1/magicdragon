@@ -67,6 +67,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/B6ST2I5WM5KLI::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Holidate (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/h16ci6iojvi5/holidate_official_trailer_2020_emma_roberts_romanceie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/e2dsony6svl0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N66TWSIK6WT5A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]My Salinger Year (2020) Screener [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6ys3sl0v48bv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

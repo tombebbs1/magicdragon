@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Voices (2020) HC[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://vidlox.me/octnt9a1r247::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/COBZHME34HKDC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Duy7T08HeQ8tHXBGlKgcBHaNL1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Key Lime Voodoo (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

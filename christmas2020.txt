@@ -65,7 +65,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/5QBAZBLFSMSF6::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Middleton Christmas (2020)[/COLOR]</title>
+<title>[COLORwhite]Middleton Christmas (2020)[/COLOR]</title> 
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i0u7z2aciycb/middleton_christmas_trailer_2020_kennedy_tucker%2C_michael_par%C3%A9_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/5rfz287p4b8y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

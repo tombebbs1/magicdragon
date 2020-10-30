@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]The True Adventures of Wolfboy (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/gp8udqw3zla8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2ISDXVPR3PEBO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blackjack: The Jackie Ryan Story (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/zhl5ltfr5v2v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MNUBPBJCUOCUC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/ZF1U5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Call (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/nhv26tfdl064::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NAHNAC54VV524::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHkGdJtpInd08ruSUrxMnBjjmbr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]His House (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/zp3t1xa23isd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4Q4W63NIO36SA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zclAVFRxS63ygKBNWT98Wk8ITKR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Goblin (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

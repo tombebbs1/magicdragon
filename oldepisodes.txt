@@ -1,4 +1,17 @@
 <item> 
+<title>[B][COLORwhite]The Walking Dead: World Beyond (2020) Season 1 Ep 01-Ep05 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FIABV6BNZROZ2::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TKFJSPANAI4JK::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P6OKUA7RYNDWI::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MU7WWSW65PQQM::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CNZ3TBLQ5WAEM::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z31GxpVgDsFAF4paZR8PRsiP16D.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Truth Seekers (2020) Season 1 Debrid[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/LSJVYBOQSGRI2::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

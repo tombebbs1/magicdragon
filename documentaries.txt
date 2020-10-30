@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Citizen Bio (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/7snc3k0wetbs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HXH53FMKOTEXS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/48KhY6KPBnx2Dnnk7kmNHJQWzMn.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Finding Sally (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/76zj30269km6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

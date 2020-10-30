@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Nostradamus: Future Tense (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/iaz54jzmebli::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U4EVHNDKBM4I2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzF6aydR4CPvPRiVygAg3iRoVSJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Slay the Dragon (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/k5h8tkz1gvt9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,0 +1,19 @@
+<item>
+<title>[COLORwhite]Indiana Jones and the Last Crusade (1989)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/yj150r8u3aah::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CB3HYDYLTUTYS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Hunt for Red October (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/1vnq1jxehdzp99::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KJG7C33VKZG6I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>

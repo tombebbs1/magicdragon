@@ -1,3 +1,13 @@
+<item>
+<title>[COLORwhite]Creepshow 2020 Special[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/e6iqerfe0tpa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BI62VZLWF36HC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xj6VP2kCrAIHeUNveAniL2h2sWE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]The Walking Dead: World Beyond (2020) Season 1 Ep 01-Ep05 Debrid[/COLOR][/B]</title> 
 <link>

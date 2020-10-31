@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Finding Forrester (2000)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/6q76mjnou9ek3n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KWJRQ2JFOZ2UW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/heHi6n68fDiQoUc7SMletM9Adjz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The League of Extraordinary Gentlemen (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/d4jxia9j5aga::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CTYIPGRLTY76K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7aMiYT3ptbmH4pK4mR1uzVt4mK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Indiana Jones and the Last Crusade (1989)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/yj150r8u3aah::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

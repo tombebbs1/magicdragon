@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Meteor (1979)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/7rkdwvkzfo7lv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RBF7NKFWGKOYE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFtbaENozPXPzEWMODLJcuypT4f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Never Say Never Again (1983)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/b6rvxpbh52tv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H56YL2D5U57A4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGF7Kcq4aRA8p69IN3rKMA4onDG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Highlander II: The Quickening (1991)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/kn0x867whjnww8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,3 +1,25 @@
+
+
+<item>
+<title>[COLORwhite]Dr. No (1962)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/q4x1uq68juy7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/q4x1uq68juy7::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/E0J8HxoDFA8f9TS5c6e6thsszz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]From Russia with Love (1963)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/eekq59xvnld1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SDIVBSF4FV4ZK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTle7ThbHKQgQYKcyKZ02gfSYIe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Goldfinger (1964)[/COLOR]</title>
 <link>

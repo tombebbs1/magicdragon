@@ -1,9 +1,20 @@
 <item>
+<title>[COLORwhite]Synchronic (2020) HDCAM UPDATED 31/10[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/18ythqwxntjw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KME7U2WF6OFBQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN1QOOF93KtLPekUEIZ529TrGxl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Empty Man (2020) HDCAM UPDATED 26/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/9aswbdpnwhha::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-ublink:LISTSOURCE:https://real-debrid.com/d/IUUNMPZZFSOEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZM6I3KV4FOWUK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBRM1EgfslcxcZCSf6Vp89VYCmP.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -14,7 +25,7 @@ ublink:LISTSOURCE:https://real-debrid.com/d/IUUNMPZZFSOEO::LISTNAME:[COLORgold]H
 <link>
 sublink:LISTSOURCE:https://vidoza.net/mp1ip0s54mg2/official_trailer__2_hearts__only_in_theaters_oct_16::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/c4c86653qdx1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-ublink:LISTSOURCE:https://real-debrid.com/d/IUUNMPZZFSOEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SX24X6FLDKYHE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7bW3uKOMPBnmHs8gnlpfhTD8YQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -25,7 +36,7 @@ ublink:LISTSOURCE:https://real-debrid.com/d/IUUNMPZZFSOEO::LISTNAME:[COLORgold]H
 <link>
 sublink:LISTSOURCE:https://vidoza.net/juz5hio9ix1s/las_hijas_del_reich_trailer_en_espan%CC%83ol_judi_dench_%27six_minutes_to_midnight%27_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/x85o7rm0irdd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-ublink:LISTSOURCE:https://real-debrid.com/d/IUUNMPZZFSOEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6FL2EZ3JZSMYG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiqIX082gzTLR6oJ1LgfFsoJXTC.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

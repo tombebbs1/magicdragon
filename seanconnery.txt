@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Goldfinger (1964)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/e5kkpr6ne0wm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G6FQCWXANANI2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/laYAUz0xtIHpDYnE4fjUWpvaeX0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Thunderball (1965)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/k2q4uwi4x0ff::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QZVGALJW4PTBA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ5ybB57eidPLqZUltrVjshqwcs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]You Only Live Twice (1967)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/2oert4ohhky3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

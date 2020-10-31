@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Rising Sun (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/k8qjvncp334i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I53UUZJR5B7RK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVWEeZ383peKxwE284AdyHqq6GH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]First Knight (1995)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/dqk0x6qjf7xgdxw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3YAGKB327BVB6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/72KqEnxqsW8cT9oUNAkJI4czJ3c.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Rock (1996)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/4xz1b5k3orrs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

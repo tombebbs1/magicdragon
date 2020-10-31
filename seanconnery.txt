@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Rock (1996)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/4xz1b5k3orrs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XJ6AKYWHEUY7I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6WuCykIy8GAsitJOTk1DEga1ML.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Entrapment (1999)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/x96794ld03dz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Y44BEKAWEOVRO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/onEHQY4M22CluNfocJRGsVg0dK6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Finding Forrester (2000)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/6q76mjnou9ek3n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

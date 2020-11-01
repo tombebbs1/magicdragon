@@ -9,8 +9,8 @@
 <info></info>
 </channel>
 
-channel>
-<name>[B][I][COLORorange]Catch Up TV VPN ADVISED[/B][/I][/COLOR]</name>
+<channel>
+<name>[B][I][COLORorange]Catch Up TV VPN ADVISED TESTING[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/klD0wtv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/latesttv.txt</externallink>
 <fanart>https://kodiapps.com/how-to-install-the-magic-dragon-on-kodi</fanart>

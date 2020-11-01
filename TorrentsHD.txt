@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]In Search of the Sanderson Sisters: A Hocus Pocus Hulaween Takeover (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://image.tmdb.org/t/p/w600_and_h900_bestv2/py5f8qrq2sovVNnB0YtfzsJcGuL.jpg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://image.tmdb.org/t/p/w600_and_h900_bestv2/py5f8qrq2sovVNnB0YtfzsJcGuL.jpg::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSpmhdaslwYH2fn2mj7cRcrN5Vi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cosmoball (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

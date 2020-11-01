@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Home Fries (1998)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3q3g2kt0rzq2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZYBUROOXL6OSG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZlQVyzw3PurMYJjC4a6qkWqxB5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Big Bully (1996)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

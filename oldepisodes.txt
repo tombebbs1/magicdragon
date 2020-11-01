@@ -1,3 +1,14 @@
+
+<item>
+<title>[COLORwhite]UFC Fight Night 31/10/2020[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/7vqzeo596sux::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RSP7PXKVR5X3S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The Good Lord Bird (2020) SE01EP05[/COLOR]</title>
 <link>

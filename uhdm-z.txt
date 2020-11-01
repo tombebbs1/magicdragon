@@ -1036,6 +1036,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:849c958e309aba395353e741921469596cda5973&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Showgirls (1995)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/C3UXSEI7KAG2M::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIHiWN7kCELUZzbCMpMcxNC8HlS.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Shutter Island (2010) 4K[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
@@ -1753,6 +1762,15 @@ sublink:LISTSOURCE:https://1fichier.com/?m0sov12usf::LISTNAME:[COLORgold]4K  LIN
 </link>
 <thumbnail>https://ia.media-imdb.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+item>
+<title>[COLORwhite]The Craft: Legacy (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5NS6DTKYKAR3M::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

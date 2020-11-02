@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Holly & Ivy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/w6ucfze8u5ix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3ycda80w4bp1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UCCB2LYPBCHSI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BTjwJbLrFfgsJyEmq5zLTQEPCA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Very Country Christmas Homecoming (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/gz4u0rb9ri2n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

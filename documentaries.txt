@@ -44,12 +44,12 @@
 </item>
 
 <item>
-<title>[COLORwhite]Test[/COLOR]</title>
+<title>[COLORwhite]All Its Name Implies 2020[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://abcvideo.cc/x0q5abwca9rq.html::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://abcvideo.cc/x0q5abwca9rq.html::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7rkd816mh43x0k::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7rkd816mh43x0k::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/48KhY6KPBnx2Dnnk7kmNHJQWzMn.jpg</thumbnail>
+<thumbnail>http://img.rlsbb.to/images/fODjNZedI.jpg</thumbnail>
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 

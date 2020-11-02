@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hanukkah (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/mbwnx62ru3ru::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7utm6v3q3lqz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BL3UPDXHQWE7Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/23s3I313fejhFbLQ50RiwYLBYz0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ctrl Alt Rick Treat (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/snyycvx8dgcx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,22 @@
+<item>
+<title>[COLORwhite]The Undoing (2020) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/k6rscmw4zfv5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3JN6TN2VXL44E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NcqyQG30U5MgzUzmxr31xi3ws5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fargo SO4E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/k8mfahuvqj9s::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MJDNZ5BHVI3WU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP04[/COLOR]</title>

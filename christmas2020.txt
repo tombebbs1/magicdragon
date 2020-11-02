@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Nights Before Christmas (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/5fasqwcf5idq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bx6zjl2l2dlf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NKR7SIP5IEYIY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/twOgsA5jROMpy0hG0GWxeiuACP4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]On the 12th Date of Christmas (2020)[/COLOR]</title> 
 <link>
 ublink:LISTSOURCE:https://vidoza.net/i0u7z2aciycb/middleton_christmas_trailer_2020_kennedy_tucker%2C_michael_par%C3%A9_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

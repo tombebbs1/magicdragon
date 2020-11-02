@@ -77,6 +77,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TNA2VROJJVW7S::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
 <item>
 <title>[COLORwhite]The Witches (2020)[/COLOR]</title>
 <link>
@@ -100,7 +101,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2E3QC5WGAFIBY::LISTNAME:[COLORgold]
 <item>
 <title>[COLORwhite]His House (2020)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ugy99hyq1qx3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/zp3t1xa23isd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/4Q4W63NIO36SA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>

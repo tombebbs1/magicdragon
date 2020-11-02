@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]South of the River (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ykirgw4y8vfu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZVE22AX7PU4QQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/86uEO5vIMZjPIlFiPiD1cEh1CBH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Broken Law (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/r6j0eker5t0r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MWDZ25VWPL6XS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x2ewZDsvTxLAnVlhBqvkjx2MwC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Vengeance (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -73,7 +95,7 @@ ublink:LISTSOURCE:https://vidoza.net/l5sin6569gdp/the_crumbs_trailer::LISTNAME:[
 sublink:LISTSOURCE:https://vidlox.me/p4rczqjjbob3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/p4rczqjjbob3::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSpmhdaslwYH2fn2mj7cRcrN5Vi.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/py5f8qrq2sovVNnB0YtfzsJcGuL.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

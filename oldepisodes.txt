@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]WWE Monday Night Raw 02/11/20[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2atq0o8wfh17::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X4LEOMEGQTK7Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.barclayscenter.com/assets/img/BC_2020_EV_WWE_MondayNightRAW_910x350-30d9bb4dab.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Top Gear SE29EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/jh31a8bphpno::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

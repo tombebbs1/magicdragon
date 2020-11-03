@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Haven's End (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/rvmpt7737s2f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/h4gwiqss2erx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZXW7BFEN5LJZE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/36K759uLjEOPFjOHyTsbfbSMbdK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Final Voyage (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidlox.me/jazj0lzhi48s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

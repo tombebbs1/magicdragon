@@ -89,6 +89,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PZKHXHM7NBGD6::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Possessor Uncut (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/xg3duols8tun::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/zv77lwzmej9a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LEBR6H6GRPGME::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNAMpYf8UjNrFUJfQ11oNJSH1rD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Highlander (1986)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/4ndxk3ewuq1888::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

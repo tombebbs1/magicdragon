@@ -34,13 +34,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Combat Wombat (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/obyhrlf8vz0t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/qjil3im19mqm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4FZHPLFYEGZIS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Possessor Uncut (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/xg3duols8tun::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/zv77lwzmej9a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/LEBR6H6GRPGME::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNAMpYf8UjNrFUJfQ11oNJSH1rD.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tell Me I Love You (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/np3qg8b5ys6a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ctgx1cemf8ei::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3QQQC7TW2LFYG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWYsXxwZMw67pLuj3G8fGqLwuFo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Crawl to Me Darling (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/69nf18j89p3y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/d14nhpyhl61l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AHJQN6ZZB5D2I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmb3ZfoLEWWtYwceSvhpxOCeoaI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Friend Request (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/hoe4mmjvor5l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

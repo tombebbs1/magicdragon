@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Waiting for the Barbarians (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/48m2o45bdhjb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/aefneuj892f9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HTPLHTJD7G3O4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k50gYFDfpAyxcIGjWjnXAaOM81e.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shuttlecock Director's Cut (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/zozhruurvy9c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/zi9962ig6z5o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6F4STGOXQWTC4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLEbKG9tcpkwX5o2nJKQbIDcmzd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tell Me I Love You (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/np3qg8b5ys6a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

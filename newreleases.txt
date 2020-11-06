@@ -83,6 +83,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/N2OU6THIFOK76::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Kindred (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2i3pe7wbpy8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ll58btcagpmo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QQBGKZQCSO6V6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Wr5z6AuUrNEzDyeGtHA4RxQ2qW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The New Mutants (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/30ybddvhtyq9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

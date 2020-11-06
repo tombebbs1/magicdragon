@@ -83,6 +83,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/N2OU6THIFOK76::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]A Christmas Gift from Bob (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/19tif0bksaei::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4kxdqday2th5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PAUNGK2CTMTGI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/soZ6XPBxp3LPPbYhJSerbzw5ReC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bigfoot Family (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/980gapm9jlif::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

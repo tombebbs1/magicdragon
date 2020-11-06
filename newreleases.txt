@@ -83,6 +83,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/N2OU6THIFOK76::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Bigfoot Family (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/980gapm9jlif::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/59fxsggf8loo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KARF43PUMMWRQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Citation (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/fksepgdumc9d::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

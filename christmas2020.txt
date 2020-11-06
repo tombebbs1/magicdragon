@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]My Dad's Christmas Date (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ox4gtezq06te::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/yhgu1cdp79en::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OFES32G3V6GD6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Operation Christmas Drop (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/r5k02d90dym7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

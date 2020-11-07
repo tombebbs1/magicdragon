@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Christmas Yule Blog (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/19tif0bksaei::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/qpdc79pai3wd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OAVU7IB7V324Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/VYLkBI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Christmas Gift from Bob (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/19tif0bksaei::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

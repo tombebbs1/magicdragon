@@ -1857,6 +1857,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:79cc4560cf83408490f99ae79c98336eeaeda163&
 </item>
 
 <item>
+<title>[COLORwhite]Full Metal Jacket (1987)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CSXXD6VYAV6IO::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fury 4K [/COLOR]</title>
 <link>http://uptobox.com/ud7tdl43s3sf</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

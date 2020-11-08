@@ -2691,6 +2691,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:4d584edb69b55bdca660d3e4463fd6994c32c259&
 </item>
 
 <item>
+<title>[COLORwhite]The SpongeBob Movie: Sponge on the Run (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/Z6RT4KEOKF4X6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Spy Who Dumped Me (2018)[COLORred]4K[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/7dob1omf81sx::LISTNAME:[COLORgold]4K  LINK 1[/COLOR]::#

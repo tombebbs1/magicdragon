@@ -541,6 +541,15 @@ sublink:LISTSOURCE:https://1fichier.com/?zqi5vmicrx::LISTNAME:[COLORgold]HD  LIN
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Antebellum (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TDFUWAAQZKKEE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Ant-Man (2015)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
@@ -2282,6 +2291,15 @@ sublink:LISTSOURCE:https://1fichier.com/?pi4de0s79buce3bnihdj::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU3NjMxNTYwOV5BMl5BanBnXkFtZTgwMzM5NzAzNjM@._V1_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Holidate (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6GKGPOPI4Z7I6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

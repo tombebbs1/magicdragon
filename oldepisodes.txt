@@ -1,3 +1,17 @@
+<item> 
+<title>[B][COLORwhite]Moonbase 8 (2020) Season 1 Debrid[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/X3SPZDHZQX5UA::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NEGSKY6I5PUDG::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/24DU24UB3YZUY::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HVYPA4BOBCHRY::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EEVKELGSCSC2Y::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2QDW4IJDJIENO::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaKYtbkozOUFs83cKayXYu3ikrh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]UFC Fight Night 07/11/2020[/COLOR]</title>
 <link>

@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas with the Darlings (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/uk3ttlw01ch8/preview_%2B_sneak_peek_christmas_with_the_darlings_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3siovzbxh36i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3QZHIVPOKU2LU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtFKTSStlh3i38e2awrVk44tsTI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Christmas Ring (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/my0qwuaqw3zf/preview_%2B_sneak_peek_the_christmas_ring_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

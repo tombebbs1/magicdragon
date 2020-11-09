@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]America's Forgotten (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ji7d3anjm46m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JTUHJJ2DKC6Q2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nrvSJrYu3JOc7i4uCuNZQTB5yL.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Between Musk and Mars (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/6q7gqv6mh6d6r3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

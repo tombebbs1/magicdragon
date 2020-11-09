@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Very Charming Christmas Town (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6rd0nfgcehod/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/p564m22ei48r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/p564m22ei48r::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5MKfpPpHbzhGqEItqBXegv4b7g.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Christmas Bow (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ctnhxj3so5ei/preview_%2B_sneak_peek_the_christmas_bow_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

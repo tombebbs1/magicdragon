@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Family Guy S19E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/dr25jndstfuc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZSI67KO2U7QXQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fargo SO4E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/rxbbxm854mxb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QE2NT6SBH6S4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/3rct9xoh913h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

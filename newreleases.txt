@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Listen (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/12b657girh8e/listen_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3ec4pxysr92u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YUIUJBGE47ITO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqWqVxAxLPEmV90URLjvMTviLsn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Dark and the Wicked (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/47fb5rc0r8ou::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

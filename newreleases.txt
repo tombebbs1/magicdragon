@@ -61,13 +61,13 @@
 </item>
 
 <item>
-<title>[COLORwhite]The Dark Divide (2020)[/COLOR]</title>
+<title>[COLORwhite]Horrid Henry's Gross Day Out (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/jcw6iwjmad42/the_dark_divide_official_trailer_2020_comedyie_l_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/6qm3ossacgi2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ZB67OKDY5H7BS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/1ly47snupju8/horrid_henry%27s_gross_day_out_the_trailer__coming_soon_to_netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/crfurli19uzt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/crfurli19uzt::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYiHYaLYpEYbqamm7NgJXa89q4t.jpg</thumbnail>
+<thumbnail>https://www.primewire.li/poster/medium/1369521-horrid-henrys-gross-day-out-jcQcD.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

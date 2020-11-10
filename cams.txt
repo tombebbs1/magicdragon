@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Saint Maud (2020) HDCAM UPDATED 10/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3b3dx6e7myzo/saint_maud__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/e51x3p7grbq0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FZL2YLDRVI5RK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQjxpEYktu36ZiWKfn0t0FySmXl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Synchronic (2020) HDCAM UPDATED 31/10[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

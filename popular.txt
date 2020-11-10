@@ -25,6 +25,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YFEXRSGWCN57C::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Jungleland (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/epxjl3w9nvlc/jungleland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bgd3bpae9nmb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FIAU5JHLHHL2Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D9t0eGvncfBP6OgWApzZiRFoA1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Citation (2020)[/COLOR]</title>
 <link>

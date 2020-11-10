@@ -83,6 +83,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/XQ7R3TRDATXVU::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Retreat (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/096zlzizrve9/official_trailer_the_retreat_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/c1lswgg4vv1y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M57IC3HZZEZOW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EMiiOZgw0CtcFOoTIcdExb70lu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Words on Bathroom Walls (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1taf2q0rvhkj/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

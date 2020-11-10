@@ -34,6 +34,51 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Dark Divide (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jcw6iwjmad42/the_dark_divide_official_trailer_2020_comedyie_l_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6qm3ossacgi2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZB67OKDY5H7BS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYiHYaLYpEYbqamm7NgJXa89q4t.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Contracts (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/us3i9ofufzxy/contracts_teaser_trailer_crime_action_thriller_assassins_tadff_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6qm3ossacgi2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XQ7R3TRDATXVU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9xA6ZiselK7vapMLTyLHJeqIFJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Still Today (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/epxjl3w9nvlc/jungleland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/t1l5ik6gedr8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VKX3YYP5YZBWO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/zgXCTGR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Safeguard (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/epxjl3w9nvlc/jungleland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8u2n19r541ow::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DMXZRGFA2BZWQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lAQ7ai6zcjCSHek5O5ZI14XEtx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jungleland (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/epxjl3w9nvlc/jungleland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

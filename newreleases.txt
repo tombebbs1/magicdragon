@@ -98,7 +98,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/JP6HHRVTVA6AK::LISTNAME:[COLORgold]
 <link>
 sublink:LISTSOURCE:https://vidoza.net/1ly47snupju8/horrid_henry%27s_gross_day_out_the_trailer__coming_soon_to_netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/crfurli19uzt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/crfurli19uzt::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GHJVH5SPU24I4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.primewire.li/poster/medium/1369521-horrid-henrys-gross-day-out-jcQcD.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

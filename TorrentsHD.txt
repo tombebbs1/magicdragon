@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Beyond Hell (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ae8mvyldox6x/beyond_hell_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/twff6qc80fte::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I3QE5UBPP2RCC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ5U2C7AUam2fWH57k0RGDcyHCM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Resilience and the Last Spike (2019)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/ewnvbg4e45gq/tales_from_the_hood_3_2020_official_trailer_hd_tony_todd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

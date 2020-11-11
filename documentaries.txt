@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Breaking the Chain (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bw106e9d241g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z6G665K7YSXPO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D1UyhTASRnmC4PecXhxeY94ljL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rom Boys: 40 Years of Rad (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/metdanfpj5cn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

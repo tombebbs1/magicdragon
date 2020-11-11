@@ -1,3 +1,15 @@
+<item> 
+<title>[B][COLORwhite]The Liberator (2020) Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/985rehs0gf5k::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ifkqcxujmlyz::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sb39w52gmvq1::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ob0dga5er642::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]WWE Monday Night Raw 09/11/20[/COLOR]</title>
 <link>

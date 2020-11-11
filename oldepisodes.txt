@@ -1,4 +1,20 @@
 <item> 
+<title>[B][COLORwhite]Trial 4 (2020) Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ni85m4n00rp1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2d7cluz2twfi::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vrsmnpqgw26o::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ompy9wrkx3yv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wg30ihkqbx75::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/oymizufh5v3j::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/igddyugi6zxz::LISTNAME:[COLORwhite]Ep 07[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7sl13k8ajdog::LISTNAME:[COLORwhite]Ep 08[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wXyLkp2a82DMQ2KvsrdCCmKtwR.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Liberator (2020) Season 1[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vidlox.me/985rehs0gf5k::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

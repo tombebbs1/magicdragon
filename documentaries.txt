@@ -44,6 +44,36 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blood on the Wall (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/1u5a95nkwua2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VHNM675UF6X2O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e81UaWxmml7BJIw28UchhxMhhlV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rebuilding Paradise (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/6ffh1xky9lb9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/27A3NYW7HVSOK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwCTmCHLwSmjJTFdWZz6JyqofYB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Last Ice (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/njn1vtifrd5x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EQ67Y5Q45LN7S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qW2KP5LWuImervhWCrFjESHpmZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Breaking the Chain (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/bw106e9d241g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

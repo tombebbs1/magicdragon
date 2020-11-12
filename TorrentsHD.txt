@@ -33,16 +33,7 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Jack & Yaya (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/m6tg4s4ax0d6/jack_and_yaya_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/m1p5eihg0uib::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/UM2PJDFHFSUPA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD2b6eg7tGceHVYdK4V8jlAhXd4.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Asking For It (2020)[/COLOR]</title>

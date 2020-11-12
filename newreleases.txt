@@ -60,7 +60,16 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]One Summer Night (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s81yatsz7kiw/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/re85jozph9el::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VQYCMITHRBZGK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1350116-one-summer-night-j4VI8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Asking For It (2020)[/COLOR]</title>

@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Game of Honor (2011)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/yn2m2stemji6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z4LQMNVDQOND2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdyqkwRm05bdf5PhPo6pVWMZvdc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bipolar Rock 'N Roller (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/jpc32njnuf3x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X5Z2DTHZEW5Z4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgWcUFJsBJEwyMzGE6Bfs38IVC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dean Smith (2015)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/nej0580l2e94::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

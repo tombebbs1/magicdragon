@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jack & Yaya (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/m6tg4s4ax0d6/jack_and_yaya_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/m1p5eihg0uib::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UM2PJDFHFSUPA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD2b6eg7tGceHVYdK4V8jlAhXd4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Asking For It (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/wow2766vsqtr/asking_for_it_trailer_cinequest_2020::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vp6p7x1tiqko::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6DATBQWO4AAZA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UawUpZiz9FzZ6d7CtPt55x9Ng4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Light Between Us (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/48gvitrgw91n/freshman_friday_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

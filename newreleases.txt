@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jingle Jangle: A Christmas Journey (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ow1970z269lz/jingle_jangle_a_christmas_journey__everything_is_possible__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/q8eik9to9ng1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M7NKHKPEOXV5I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBAhfSnXZFMrVhoVoD9MSjmeuUa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]It Cuts Deep (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ixufk8xrl0vh/it_cuts_deep_officialie_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

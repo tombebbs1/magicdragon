@@ -15,6 +15,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Greenland (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bo61q9gs8ali/greenland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/66l56l9midr1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PTUWGKL4HXSRW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA154deR0X51EcR2lm2FfDczryg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The New Mutants (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/30ybddvhtyq9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

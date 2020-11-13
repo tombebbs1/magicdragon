@@ -187,14 +187,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/DEUE5QOCHEHG2::LISTNAME:[COLORorchi
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Greenland 2020 HDCAM UPDATED 02/09 RD Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/NVGTMXSVYB2SU::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/96ba4Nj.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

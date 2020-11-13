@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dead Reckoning (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hszzd5da8fyh/dead_reckoning_official_trailer_2020_k_j__apa%2C_scott_adkinsie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ed02o7q3fbr2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4PYAOYGUYCI5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/toLbNIw0knMJ6Q0MUIAozxAghu2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Chick Fight (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/lr93cfpl01jk/chick_fight_official_trailer_2020_bella_thorne%2C_comedyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sp4g6jmh0wbl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FMWSCWWKCPGP6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Echo Boomers (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/a7bgn8dqfuf5/echo_boomers_trailer_2020_michael_shannon%2C_alex_pettyfer%2C_heist_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/70yz0uac5f8n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HT2TOJDF5SHJY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCy18SAeO5Ey70sZCyDkUvhIphB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Come Away (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fio7tkj57v7j/come_away_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dhlo3anbn9i0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7QK3WK3XSWS22::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwa0DgR2tHMouIDTJWje2k7Pp30.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Greenland (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bo61q9gs8ali/greenland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

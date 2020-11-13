@@ -83,6 +83,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FMWSCWWKCPGP6::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Giant (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/aaaosgwqf6kv/the_giant_official_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/43trkfyq46u8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6NBU763EORQP6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nsckncd6KF4P7sNKtNhsTwhmzw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Echo Boomers (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/a7bgn8dqfuf5/echo_boomers_trailer_2020_michael_shannon%2C_alex_pettyfer%2C_heist_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

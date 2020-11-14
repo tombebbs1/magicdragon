@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]My Summer as a Goth (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/v8byq5ddvz7o/my_summer_as_a_goth_trailer_2020_rachelle_henry%2C_natalie_shershow_teenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ro8w5931smmz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WLQ7QCK7EFQOU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9q2eZFIRDzBfA9oR8znTrdeHA6b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Airliner Sky Battle (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/k6ynnmcbf5rp/airliner_sky_battle_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

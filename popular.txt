@@ -47,6 +47,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2H44PC76J4EEE::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]The Buddy Games (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jdfrmyvrr69m/buddy_games_official_trailer_2020_olivia_munn%2C_josh_duhamel_comedyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/igqzhht4bdxg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HYA3SMC7B36BW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK56ahbY4382N0kKMIf1ypqf99j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Dead Reckoning (2020)[/COLOR]</title>
 <link>

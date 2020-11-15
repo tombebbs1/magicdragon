@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas on the Vine (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ow1970z269lz/jingle_jangle_a_christmas_journey__everything_is_possible__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xw5fcmbbmkj4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HRT52GOOLKLNQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/F8qtXGnb4jMji4GBHmTQMh6avk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Bennett Song Holiday (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ow1970z269lz/jingle_jangle_a_christmas_journey__everything_is_possible__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Astronauts (2020) SE01EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kbhdxmm4m52b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/kbhdxmm4m52b::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/adnc6gSSbqHEGcYVWFisye0ev7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/x0vlt8x4hwzi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/x0vlt8x4hwzi::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Reagans (2020) SE01EP01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/wksztagbb0vk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

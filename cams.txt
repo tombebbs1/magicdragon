@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Fatman (2020) HDCAM UPDATED 15/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pe4xarmy8f68/fatman_official_trailer_2020_mel_gibsonie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/4ndlgqo3tlqmkq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M4IESPXHARKXW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZR3dm2wdKEFWJrqIVFnNyjhAQX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Freaky (2020) HDCAM UPDATED 14/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3m9vpc6ksyva/freaky_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

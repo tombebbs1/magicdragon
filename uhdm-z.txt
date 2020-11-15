@@ -2435,6 +2435,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:20b57ebe89f9264a0de90e3073d0cda488c2a253&
 </item>
 
 <item>
+<title>[COLORwhite]The New Mutants (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/OOFV4T4QECS4I::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Nice Guys (2016) 4K RD Only [/COLOR]</title>
 <link>https://1fichier.com/?t1tsizc2gmq40pgcnvsn</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjcwNDA5MDYyNl5BMl5BanBnXkFtZTgwNjg0NDkzNzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

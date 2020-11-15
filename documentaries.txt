@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Romantic Comedy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/b9h394vhajos::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QZMJYBHJCL7AQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1342187-romantic-comedy-U6hiC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Man in Camo (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/gsig0frbhpc4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

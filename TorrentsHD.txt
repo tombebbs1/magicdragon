@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Vanguard (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/hky2qko349j2/%5Btrailer%5D_vanguard_%5Beng_sub%5D_hong_kong%2C_china_2020_action_jackie_chan::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bprpu9xcxgwi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2H44PC76J4EEE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYvppZMvXYheYTWVd8Rnn9nsmNp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Attack of the Unknown (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h87hw8c9eg82/attack_of_the_unknown_official_trailer_2020_alien%2C_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

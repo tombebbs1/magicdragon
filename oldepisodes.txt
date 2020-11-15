@@ -1,8 +1,18 @@
 <item>
+<title>[COLORwhite]The Astronauts (2020) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gii8f9vuhmn1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DJQN3FXJ54VCO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/adnc6gSSbqHEGcYVWFisye0ev7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Astronauts (2020) SE01EP01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/kbhdxmm4m52b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/kbhdxmm4m52b::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NFJJOXPIFNRUO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/adnc6gSSbqHEGcYVWFisye0ev7v.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

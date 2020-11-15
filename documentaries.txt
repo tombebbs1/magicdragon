@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]Accidental Anarchist (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/a4s68aezwhsv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OKCNKZQY47W5M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH3HdDwZT96rDDGPF36UkyhC7vD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]After Selma (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/djqawrw7x4f2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6SB27BAPEC6ZY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yweebLmBpWMfZGbDCAjWeZzEcGG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fertile Floods: Croatia's Wetlands (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/nytl2jb3lv0r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

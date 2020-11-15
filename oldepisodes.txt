@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Spitting Image SO1E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/3du3rqhv73k3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7VVATTDHYNMYW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/5WLem7yrA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]UFC Fight Night 14/11/2020[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/n0ljd10zaloenvp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TJ5O5SA4S56SI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Blacklist (2013) SO8E01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/5yoksib0uffm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

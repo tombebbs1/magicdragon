@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]One Little Finger (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9gdr8ltwxmi5/one_little_finger__trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/x84v9e91rul5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WOQP4OQFJFO4U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw7ik9i8w8MK1BtO7id5f6vLP3L.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deathcember (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xhfqvh28rjay/deathcember_2020_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

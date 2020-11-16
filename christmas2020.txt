@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Christmas on Wheels (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tb2ghzvighsi/christmas_on_wheels_official_trailer__it%27s_a_wonderful_lifetime::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lo869mss2fye::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lo869mss2fye::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQK213phhkWSgznb6a6ZppkQDvt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Meet Me at Christmas (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bqn29c4hyqm1/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/kwflr1jmvcno::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SXFYGTUR5ILYO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXNhtKZsvz23eo9GeNwMRNbvmaG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Last Christmas Party (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qexj0zeszcr5/the_last_christmas_party_2020_trailer__anna_clare_kerr%2C_james_williams%2C_samantha_brooks::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

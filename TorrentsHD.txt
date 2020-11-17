@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Lego Star Wars Holiday Special (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kf6msc5eyrm4/lego_star_wars_holiday_special__official_trailer__disney%2B::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/446x6ru9oqqo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UYFMOHCCJCIQY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0wf8oFcSuLoMbcC7OqQk2CmnRk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]1 Night In San Diego (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3bqdbm2crzve/1_night_in_san_diego_official_trailer_2020_alexandra_daddarioie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

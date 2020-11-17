@@ -33,6 +33,17 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+item>
+<title>[COLORwhite]Dreamland (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/l7kt2lebf4sq/dreamland__official_trailer_%5Bhd%5D__paramounties::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://vidlox.me/sksaa9a1kcex::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XISU5EA4VMKXI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjbSunt4sZnIExToniQnGn3CUiW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Kevin Hart: Zero F**ks Given (2020)[/COLOR]</title>
 <link>
@@ -142,17 +153,6 @@ sublink:LISTSOURCE:https://vidlox.me/bfp8ewpv21ms::LISTNAME:[COLORgold]HD FREE L
 sublink:LISTSOURCE:https://real-debrid.com/d/6KC36HRDMCPW4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGRjYzI5ZGUtZGJjYy00ZTYyLWJlNzItNWM0MDc0ZDVmM2IwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-item>
-<title>[COLORwhite]Dreamland (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/l7kt2lebf4sq/dreamland__official_trailer_%5Bhd%5D__paramounties::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/sksaa9a1kcex::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/XISU5EA4VMKXI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjbSunt4sZnIExToniQnGn3CUiW.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

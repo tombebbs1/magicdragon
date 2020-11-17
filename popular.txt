@@ -26,13 +26,35 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PTUWGKL4HXSRW::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Jingle Jangle: A Christmas Journey (2020)[/COLOR]</title>
+<title>[COLORwhite]Borat Subsequent Moviefilm (2020)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://vidoza.net/ow1970z269lz/jingle_jangle_a_christmas_journey__everything_is_possible__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/q8eik9to9ng1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/M7NKHKPEOXV5I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidoza.net/ip3ri3s9w1xg/borat_subsequentiefilm_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wj9f461019jh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QGZYNEHUAXFOW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBAhfSnXZFMrVhoVoD9MSjmeuUa.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6agKYU5IQFpuDyUYPu39w7UCRrJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The New Mutants (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/30ybddvhtyq9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1dcd56mm3qbr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YFEXRSGWCN57C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/3s7uW2DO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jungleland (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/epxjl3w9nvlc/jungleland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bgd3bpae9nmb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FIAU5JHLHHL2Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D9t0eGvncfBP6OgWApzZiRFoA1.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -46,6 +68,19 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2H44PC76J4EEE::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYvppZMvXYheYTWVd8Rnn9nsmNp.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
+<item>
+<title>[COLORwhite]Jingle Jangle: A Christmas Journey (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ow1970z269lz/jingle_jangle_a_christmas_journey__everything_is_possible__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/q8eik9to9ng1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M7NKHKPEOXV5I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBAhfSnXZFMrVhoVoD9MSjmeuUa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
 
 <item>
 <title>[COLORwhite]The Runaways (2019)[/COLOR]</title>
@@ -125,28 +160,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/7QK3WK3XSWS22::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The New Mutants (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/30ybddvhtyq9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/1dcd56mm3qbr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/YFEXRSGWCN57C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/3s7uW2DO.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-
-<item>
-<title>[COLORwhite]Jungleland (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/epxjl3w9nvlc/jungleland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/bgd3bpae9nmb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/FIAU5JHLHHL2Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D9t0eGvncfBP6OgWApzZiRFoA1.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Citation (2020)[/COLOR]</title>
@@ -202,16 +216,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/KJG7C33VKZG6I::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Borat Subsequent Moviefilm (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/ip3ri3s9w1xg/borat_subsequentiefilm_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/wj9f461019jh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/QGZYNEHUAXFOW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6agKYU5IQFpuDyUYPu39w7UCRrJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Unhinged (2020)[/COLOR]</title>

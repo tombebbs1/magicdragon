@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Runaways (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/pjmpsoydw8mi/the_runaways_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/c4esj21h4cz9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/54NFODMMLQT5C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m64EnV319vgCfbKT5KJu3jNZrRX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Nest (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jyjrz4ebehmb/the_nest_official_trailer_2020_jude_law::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bfp8ewpv21ms::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6KC36HRDMCPW4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGRjYzI5ZGUtZGJjYy00ZTYyLWJlNzItNWM0MDc0ZDVmM2IwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jiu Jitsu (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6ql0y5tdohio/jiu_jitsu_exclusive_official_trailer_2020_nicolas_cage%2C_tony_jaa%2C_frank_grillo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

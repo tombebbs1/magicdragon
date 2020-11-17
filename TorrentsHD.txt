@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jiu Jitsu (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/6ql0y5tdohio/jiu_jitsu_exclusive_official_trailer_2020_nicolas_cage%2C_tony_jaa%2C_frank_grillo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sksaa9a1kcex::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZJEH6GYOUQ3JK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Lego Star Wars Holiday Special (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kf6msc5eyrm4/lego_star_wars_holiday_special__official_trailer__disney%2B::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]WWE Monday Night Raw 16/11/20[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/peevp55jz29f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5BYDJIWRXTCVE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.barclayscenter.com/assets/img/BC_2020_EV_WWE_MondayNightRAW_910x350-30d9bb4dab.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/8e98wsp5fz18::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

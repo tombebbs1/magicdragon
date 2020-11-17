@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]ASYLUM: Twisted Horror and Fantasy Tales (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/vz7hngyh2te7/asylum_twisted_horror_and_fantasy_tales_2020__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bjcswtxbockq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WJHSEKBU2SB5Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rxKic2PDrheSXMCG82vm9LAm8e.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Playhouse (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gs6s4p88ckkl/playhouse_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

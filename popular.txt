@@ -37,6 +37,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QGZYNEHUAXFOW::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Kevin Hart: Zero F**ks Given (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/uhgvutoji0m4/fourteen__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vj1v7caojm8o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vj1v7caojm8o::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBM4tUFJXkaFNj90x1AdKHkM8YZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The New Mutants (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/30ybddvhtyq9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

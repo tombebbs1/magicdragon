@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Playhouse (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gs6s4p88ckkl/playhouse_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vzdgq1aencnb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NNT5N6PKAZ3OG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1361198-playhouse-pZRio.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Deadly Place (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/endp1a4znz17/a_deadly_place__trailer__cassandra_ebner__iain_belcher__douglas_chapman::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

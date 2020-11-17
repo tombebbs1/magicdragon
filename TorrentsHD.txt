@@ -33,7 +33,7 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-item>
+<item>
 <title>[COLORwhite]Dreamland (2020) Debrid Only[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/l7kt2lebf4sq/dreamland__official_trailer_%5Bhd%5D__paramounties::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

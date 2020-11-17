@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Deadly Place (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/endp1a4znz17/a_deadly_place__trailer__cassandra_ebner__iain_belcher__douglas_chapman::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1tgi72g5p04e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FLRYD422QZO3K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uw3oHChST4iAd4FIHygRmGVBEJT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Runaways (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/pjmpsoydw8mi/the_runaways_2020_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

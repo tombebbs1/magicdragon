@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Out of Time (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/8l91gxwmnr8d/neon_detroit_knightsie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sn5vs047fvun::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sn5vs047fvun::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1135905-out-of-time-yGqSV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Neon Detroit Knights (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/8l91gxwmnr8d/neon_detroit_knightsie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

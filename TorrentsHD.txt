@@ -33,6 +33,30 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+
+
+<item>
+<title>[COLORwhite]Gilda Sue Rosenstern: The Motion Picture! (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/owm1nm47ost8/gilda_sue_rosenstern_the_motion_picture%21_official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/p7wvl33aabb7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5DVXK5U42RLJ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1090412-gilda-sue-rosenstern-the-motion-picture-G4Z2_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Gold Coast Lounge (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/7tf6p48rhtgf/gold_coast_lounge_teaser_trailer_2020__shurume_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/asgvnte54ihb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3F6XEFYZZCAP2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3CDtQwVC7wm4wkHi3bW6JUE1pm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Active Shooter (2020)[/COLOR]</title>
 <link>

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Neon Detroit Knights (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8l91gxwmnr8d/neon_detroit_knightsie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/7tz0rx5lkfku::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WW32ZQS3GHEWG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1351093-neon-detroit-knights-egb09.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Homesitters (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/66t2o2g5ijho/homesitters__official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

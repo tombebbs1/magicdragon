@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]69: The Saga of Danny Hernandez (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/wnl66z44h1eddj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L546JNBLCGHJY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvN3WgpoGKklvtoojgaNTmMElUC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Iron Cowboy (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/n0logz7rtll9ppl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

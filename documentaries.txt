@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Phenomenon (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/j1xa5k061ghp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QXYT23JN3KSCA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2WWRtyYKrmLjtXhm53GMsGQQ2T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cannabis VS Cancer (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/ikiu3nro0t86::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -33,6 +33,16 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]One Life at A Time (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/clhhmw89oone/one_life_at_a_time_trailer__mel_trotter_ministries__jc_films::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/u3ytimnfe530::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z5WP2OSAYCDWM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/1370331-one-life-at-a-time-QxRC1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Midnight at the Magnolia (2020)[/COLOR]</title>

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Star Trek: Discovery (2017) SO3E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/9zzt7bnwahdk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AQB6IFLIAPCXS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stephen Colbert - Lewis Hamilton[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/p2cx5qu9hx3x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

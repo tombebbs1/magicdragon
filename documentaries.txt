@@ -43,6 +43,15 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Crazy, Not Insane (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/scsanhegp3d4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GZ73LMMUQJAYM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIEo1yQ2LzBa3WGWgOs3JEb7TyP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Orange Years: The Nickelodeon Story (2020)[/COLOR]</title>

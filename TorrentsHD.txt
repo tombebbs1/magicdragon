@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ashens and the Polybius Heist (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/okvmxfhe1iy3/ashens_and_the_polybius_heist_main_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/b7em7k00qfcc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z3RDNCEHIKEAW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJLOB8RSBIfjNwZsxRxJ9bZCf3K.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Standing Up, Falling Down (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/sriofb14d1k0/standing_up%2C_falling_down_2020_official_trailer_hd_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

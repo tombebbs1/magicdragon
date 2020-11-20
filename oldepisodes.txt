@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/pl1ryalswv2o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Walking Dead: World Beyond (2020) SO1E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2j65t31yuyro::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZYVMFFEUIGG6U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z31GxpVgDsFAF4paZR8PRsiP16D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/3q8vxyl9uy12::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Mandalorian (2019) SO2E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/shk7uijsbs7v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NUTAHEDWCD4IO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/pl1ryalswv2o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

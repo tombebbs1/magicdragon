@@ -473,6 +473,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:875b35070543f40901ef6d2ed853853737642d2b&
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]An American Werewolf in London (1981)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZKQADI6URKWGE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlnccJQuRQuxnpDdDtmFlW7MKH1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Angel Has Fallen (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>

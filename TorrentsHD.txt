@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]S'ids Lake (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/qzbstgpe2dkq/come_play_2020_trailer_1_%5B4k_ultra_hd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/khf75how4519::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6OKFJCJKSXSG6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/QC0NA8i.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Come Play (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/qzbstgpe2dkq/come_play_2020_trailer_1_%5B4k_ultra_hd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

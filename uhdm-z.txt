@@ -902,6 +902,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:d5606b8edbddd22e82f3f2701f26fed8bb25bddc&
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Run (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UIBTPI6ZXIXTK::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ducK4LxP6csEHqRv2VeXgvfS10m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Terminator 2: Judgment Day (1991)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
@@ -1726,6 +1735,15 @@ sublink:LISTSOURCE:https://1fichier.com/?24ig0gf32wduiouw88da::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTA3NjU3OTM2MV5BMl5BanBnXkFtZTgwNjQ2MzE1NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Croods (2013)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/I7PYQGUGENLNK::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -2914,6 +2932,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8c8b614b610cd977c02cf2c1dd423a42176e2313&
 <title>[COLORwhite]Tomb Raider (2018) 4K RD Only [/COLOR]</title>
 <link>https://1fichier.com/?8jp5thhlobib6hzky3fs</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Total Recall (1990)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NDIJ64CEVEJOE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

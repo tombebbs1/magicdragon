@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/8m0v46wyu84n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Blacklist (2013) SO8E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kjopxidgwbdx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7SPWEERNEFVIM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/htJzeRcYI2ewMm4PTrg98UMXShe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mandalorian (2019) SO2E04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/shk7uijsbs7v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

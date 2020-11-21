@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Yummy (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/o2fdi47t8tuc/yummy_2019_official_trailer__horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/vnk4vm7janokz0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H54W76M7IIAPU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Z2Dud9injPWtXa2igYNK60E28.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Relic (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/j1m1r1bzghks/relic_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tejzraxzisl3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6YCX2HVR7BFIE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]S'ids Lake (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/qzbstgpe2dkq/come_play_2020_trailer_1_%5B4k_ultra_hd%5D::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

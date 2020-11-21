@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Real Right Stuff (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/17jq8tvkpork::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2RCKA3HEVFR5E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaonNMYv8HhrtNyKS81bRaBU1w7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Antidote (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/67xy6fydk2ez::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

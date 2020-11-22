@@ -43,6 +43,26 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+item>
+<title>[COLORwhite]Belushi (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/jlr9iqinkl7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TYPWOLYDLRSMK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/85yNzqsGBdqRclEZEW0BKRAcrR8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Between the World and Me (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/jlr9iqinkl7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MIYB7VAYPPP6M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJDNVRHEAw9khWssOBVjoXB2pL9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The Real Right Stuff (2020)[/COLOR]</title>
 <link>

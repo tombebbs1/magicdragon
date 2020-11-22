@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/6hauyz0ii9u8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NZLPPMHSK7G7S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Match Of The Day 21/11/2020[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/qrzqoju1g3fr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

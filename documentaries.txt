@@ -57,7 +57,7 @@ sublink:LISTSOURCE:https://vidlox.me/dy1b8l22wwia::LISTNAME:[COLORgold]HD REAL D
 <title>[COLORwhite]The Nine Lives of Ozzy Osbourne (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/2n5c91kn7lvp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/2n5c91kn7lvp::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YZX33WNR3E5X2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2S895qJVovLUpT6u2u0ajQl8M0.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

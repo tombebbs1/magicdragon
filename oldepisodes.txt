@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Reagans (2020) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2gbyy8pgdkd2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TV2QOOCTSD2ZY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5M0rEx9Wvcz6kO03UWT6UmrgYGg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Astronauts (2020) SE01EP03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/znb4z19oydsn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

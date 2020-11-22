@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Artist's Wife (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/gdzmotbgqpnm/the_artist%27s_wife_trailer_2020_lena_olin%2C_bruce_dern%2C_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dmd649dr5fpf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EC5GBRSSLGN3E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0GLJ7hRTMwBAbFq5Zkm90kUByz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Yummy (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/o2fdi47t8tuc/yummy_2019_official_trailer__horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

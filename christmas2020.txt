@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Dolly Parton’s Christmas on the Square (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/snmcf5pero6p/dolly_parton%27s_christmas_on_the_square_starring_christine_baranski__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3xsrjt2k6kop::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6R7BFIGFI4CCM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMdAewl9XJMxDFZH9SSDWPeTO00.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Angel Tree (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/jertk41aqz10/preview_the_angel_tree_hallmarkies_%26_mysteries::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Christmas House (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/w1s0gtfbtfw5/preview_%2B_sneak_peek_the_christmas_house_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/m54rmvpa8lqb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3SYPV3JFZOJTE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jDe1ExYjyCSpRNRpk9fFvh5SWC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Homemade Christmas (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kuugu9is5bgw/homemade_christmas_trailer_2020::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

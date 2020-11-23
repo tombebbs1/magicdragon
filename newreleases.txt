@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Looted (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/i8haqik55yr5/looted_official_trailer_2020_british_urban_crime_drama::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/i54r1h6b7l1o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/i54r1h6b7l1o::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkGtm6ga6VdAb0kZs34SL3utk5G.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pretty Cheaters, Deadly Lies (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/gdzmotbgqpnm/the_artist%27s_wife_trailer_2020_lena_olin%2C_bruce_dern%2C_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bkaugnj8h17y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OAHKEHFUR4FVM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypcwPDXCOtFcgj0PRx6guZk8w61.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Artist's Wife (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/gdzmotbgqpnm/the_artist%27s_wife_trailer_2020_lena_olin%2C_bruce_dern%2C_dramaie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

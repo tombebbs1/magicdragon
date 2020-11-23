@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Shawn Mendes: In Wonder (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/3ko77jncnvka::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KJVRFWWOYN3PG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSs7V3ryvxCSpcXcxf9NY8YBtGC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mr. Toilet: The World's no2 Man (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/dy1b8l22wwia::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

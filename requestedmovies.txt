@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Moonstruck (1987) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fn8t2w59ftbn/moonstruck_official_trailer_1_nicolas_cageie_1987_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/r0zffue4iyud::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CZAOG5WZSCSGQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i79T0cT0w7CBSR36oRXw6iBJbtF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Six Million Dollar Man (1973)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e672xvfiqpry/the_six_million_dollar_man_opening_and_closing_theme_with_intro_hd_surround::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

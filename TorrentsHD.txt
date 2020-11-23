@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Concrete Plans (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/r7qu38ozu8zg/concrete_plans_official_trailer_2020_thrillerie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/jn4w4bed6mv2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EGUHC3EVPZZYG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6oewWeJCVWHgjjg3KLG5vF5uf1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Looted (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/i8haqik55yr5/looted_official_trailer_2020_british_urban_crime_drama::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

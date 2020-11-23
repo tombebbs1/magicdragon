@@ -1,4 +1,53 @@
 <item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/jlzpnbty9jdh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Simpsons SE32E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ekx470d1mor4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7U5UXMQARRVAS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Undoing (2020) SE01EP05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/0fzbgo9vky6c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PNCZSJDJLJLF6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NcqyQG30U5MgzUzmxr31xi3ws5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Guy S19E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ec7sg7b2h9jx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7TVVUWK5MXXPE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fargo SO4E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/6k046k6qkmbf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/254OEH4RKQ4LO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZIhl17uFlXCNUputSEDHwZYIEJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/w17upjk6rf3q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -221,7 +270,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/UQVBZLMRTMADS::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Fargo SO4E08[/COLOR]</title>
+<title>[COLORwhite]Fargo SO4E09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/vei2uwnjwpws::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/KSMAPQTTTC5K6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#

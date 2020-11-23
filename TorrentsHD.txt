@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Martin and Margot (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/o2m3kvsfdkja/mart%C3%ADn_y_margot_official_trailer_2019_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ue6w1lva917b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ELYQI4S2R2S3G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hFjhyOFAmbm1AZFzmvHXo8NPEh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Talking to God (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/9iwmwd18waru/skyfire_trailer_2019_action%2C_adventureie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/gyfxmzlabc53::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UVWXBMRJIVEQU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMx3hDQ3O9sKpAYUhU62lRsvZTf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Skyfire (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9iwmwd18waru/skyfire_trailer_2019_action%2C_adventureie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

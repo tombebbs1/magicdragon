@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Skyfire (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/9iwmwd18waru/skyfire_trailer_2019_action%2C_adventureie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/mdk0jeqju97klr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KQ2QLCCMJVUDK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDf8M1yMwvBVe8VtOKxCpOog8CF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Voices (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xsruaezdripw/the_voices_official_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

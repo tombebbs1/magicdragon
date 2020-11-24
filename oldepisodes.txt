@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]WWE Monday Night Raw 23/11/20[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/dh7yn1dk4e13::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3LN4O2OQR5DSS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.barclayscenter.com/assets/img/BC_2020_EV_WWE_MondayNightRAW_910x350-30d9bb4dab.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spitting Image SO1E09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/tg7zbaog5yex::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

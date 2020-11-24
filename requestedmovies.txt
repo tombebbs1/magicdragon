@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Pledge (2001)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/c7xmhgv7g104/the_pledge_trailer_hq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/i19o3vii632s::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VIXOF3VVYNWME::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSZrgDd2clNcity14EDtPu9Wwyz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Moonstruck (1987) Remastered[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fn8t2w59ftbn/moonstruck_official_trailer_1_nicolas_cageie_1987_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

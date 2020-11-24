@@ -116,6 +116,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YFEXRSGWCN57C::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Buddy Games (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jdfrmyvrr69m/buddy_games_official_trailer_2020_olivia_munn%2C_josh_duhamel_comedyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/igqzhht4bdxg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G3BSWTVYJLADQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK56ahbY4382N0kKMIf1ypqf99j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Run (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ft92kp8w7mfa/run_2020ie_official_trailer_sarah_paulson%2C_kiera_allen::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -180,18 +191,6 @@ sublink:LISTSOURCE:https://vidlox.me/bfp8ewpv21ms::LISTNAME:[COLORgold]HD FREE L
 sublink:LISTSOURCE:https://real-debrid.com/d/6KC36HRDMCPW4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGRjYzI5ZGUtZGJjYy00ZTYyLWJlNzItNWM0MDc0ZDVmM2IwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLORwhite]The Buddy Games (2019)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/jdfrmyvrr69m/buddy_games_official_trailer_2020_olivia_munn%2C_josh_duhamel_comedyie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/igqzhht4bdxg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HYA3SMC7B36BW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK56ahbY4382N0kKMIf1ypqf99j.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

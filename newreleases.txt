@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Last Thanksgiving (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/02qlzro4pegq/the_last_thanksgiving_2020ie_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1gvmcmym5ar5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HM63VZVD254YE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bC1wDC5c2FoDUvqQjJUfPas0WOn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Greenland (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/bo61q9gs8ali/greenland_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

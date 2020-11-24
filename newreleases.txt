@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Man in the Woods (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/efzqh0mccjlm/getting_to_know_you_2020_trailer__comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/u9obflar9fgq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GOPP4GEBVNUQQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/K34vhZu0hAm8m38oE6mk0SBQg8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Getting to Know You (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/efzqh0mccjlm/getting_to_know_you_2020_trailer__comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ee09tsvbvnxo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DRUYW2LV5PKNM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJbi3z32Rgt0LOlgZvqNm9vvCqw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I Propose We Never See Each Other Again After Tonight (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/vhnvqnus68uf/i_propose_we_never_see_each_other_after_tonight_trailer_2020_romance%2C_comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

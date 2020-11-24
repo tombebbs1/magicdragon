@@ -1,20 +1,20 @@
 <item>
 <title>[COLOR blue]Back To The Future[/COLOR]</title>
-<link>https://streamango.com/f/nlpoknrntrsnaaen/Back_to_the_Future_1985_1080p_Brrip_x264_Deceit_YIFY_mp4</link>
+<link>https://30.download.real-debrid.com/d/YIVCR7MMISJLS/Back.to.the.Future.1985.2160p.UHD.BluRay.x265.HDR.DD%2B7.1-Pahe.in.mkv</link>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT9d_lBBx0xxB7_d4RP82MlRcK82lzT2W1ZavxhV39SSTZOofDX</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Back To The Future II[/COLOR]</title>
-<link>https://streamango.com/f/apdpackdffdfbdeo/Back_To_The_Future_Part_II_1989_BluRay_anoXmous_mp4</link>
+<link>https://33.download.real-debrid.com/d/ATMWVOJIAUS6Y/Back.to.the.Future.Part.II.1989.2160p.UHD.BluRay.x265.HDR.DD%2B7.1-Pahe.in.mkv</link>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcSDgQpO-33jUQt7QWqBrugZo3sPmL90jmz7vSzwaEBoxrT_11jS</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Back To The Future III[/COLOR]</title>
-<link>https://streamango.com/f/mdnccokccqpmpkkn/Back_to_the_Future_Part_3_1990_1080p_Brrip_x264_Deceit_YIFY_mp4</link>
+<link>https://33.download.real-debrid.com/d/NAR4DWWDUGKPS/Back.to.the.Future.Part.III.1990.2160p.UHD.BluRay.x265.HDR.DD%2B7.1-Pahe.in.mkv</link>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRXxyMPWDwDvKC1hj_7THjiiLJ_eyC7_BuY8-r_AvTDOnmNy2l5</thumbnail>
 <fanart></fanart>
 </item>

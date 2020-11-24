@@ -1,4 +1,13 @@
 <item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/e3gebzpgx56j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]WWE Monday Night Raw 23/11/20[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/dh7yn1dk4e13::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

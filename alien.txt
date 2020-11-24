@@ -3,7 +3,7 @@
 <item>
 <title>[COLORblue]Alien 1979[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://48.download.real-debrid.com/d/MXD5K2RXWWOX6/01%20Alien%20Directors%20Cut%20-%20Sci-Fi%201979%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+ublink:LISTSOURCE:https://48.download.real-debrid.com/d/MXD5K2RXWWOX6/01%20Alien%20Directors%20Cut%20-%20Sci-Fi%201979%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://s3.thcdn.com/productimg/600/600/10227029-3354306787412876.jpg</thumbnail>
 <fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
@@ -12,7 +12,7 @@ sublink:LISTSOURCE:https://48.download.real-debrid.com/d/MXD5K2RXWWOX6/01%20Alie
 <item>
 <title>[COLORblue]Aliens 1986[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://48.download.real-debrid.com/d/6DSZIGUFQSOQ6/02%20Aliens%20Special%20Edition%20-%20Sci-Fi%201986%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+ublink:LISTSOURCE:https://48.download.real-debrid.com/d/6DSZIGUFQSOQ6/02%20Aliens%20Special%20Edition%20-%20Sci-Fi%201986%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://s3.thcdn.com/productimg/600/600/10227029-3354306787412876.jpg</thumbnail>
 <fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
@@ -21,7 +21,7 @@ sublink:LISTSOURCE:https://48.download.real-debrid.com/d/6DSZIGUFQSOQ6/02%20Alie
 <item>
 <title>[COLORblue]Alien 3 1992[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://48.download.real-debrid.com/d/XXT2S7EPSCAOQ/03%20Alien%203%20Assembly%20Cut%20-%20Sci-Fi%201992%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+ublink:LISTSOURCE:https://48.download.real-debrid.com/d/XXT2S7EPSCAOQ/03%20Alien%203%20Assembly%20Cut%20-%20Sci-Fi%201992%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://s3.thcdn.com/productimg/600/600/10227029-3354306787412876.jpg</thumbnail>
 <fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
@@ -30,7 +30,7 @@ sublink:LISTSOURCE:https://48.download.real-debrid.com/d/XXT2S7EPSCAOQ/03%20Alie
 <item>
 <title>[COLORblue]Alien Vs Predator 2004[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://44.download.real-debrid.com/d/MCWSNU2YVG6QI/05%20Alien%20Verses%20Predator%20Unrated%20-%20Sci-Fi%202004%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+ublink:LISTSOURCE:https://44.download.real-debrid.com/d/MCWSNU2YVG6QI/05%20Alien%20Verses%20Predator%20Unrated%20-%20Sci-Fi%202004%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://s3.thcdn.com/productimg/600/600/10227029-3354306787412876.jpg</thumbnail>
 <fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
@@ -39,7 +39,7 @@ sublink:LISTSOURCE:https://44.download.real-debrid.com/d/MCWSNU2YVG6QI/05%20Alie
 <item>
 <title>[COLORblue]Alien: Resurrection (1997)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://20.download.real-debrid.com/d/KW7I7GTOVK7QW/04%20Alien%20Resurrection%20Special%20Edition%20-%20Sci-Fi%201997%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+ublink:LISTSOURCE:https://20.download.real-debrid.com/d/KW7I7GTOVK7QW/04%20Alien%20Resurrection%20Special%20Edition%20-%20Sci-Fi%201997%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://s3.thcdn.com/productimg/600/600/10227029-3354306787412876.jpg</thumbnail>
 <fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>
@@ -48,21 +48,21 @@ sublink:LISTSOURCE:https://20.download.real-debrid.com/d/KW7I7GTOVK7QW/04%20Alie
 
 <item>
 <title>[COLOR blue]Alien Vs Predator 2004[/COLOR]</title>
-<link>https://44.download.real-debrid.com/d/MCWSNU2YVG6QI/05%20Alien%20Verses%20Predator%20Unrated%20-%20Sci-Fi%202004%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
+link>https://44.download.real-debrid.com/d/MCWSNU2YVG6QI/05%20Alien%20Verses%20Predator%20Unrated%20-%20Sci-Fi%202004%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTI5NDY2NDUwM15BMl5BanBnXkFtZTYwNzQxMTA3._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Alien Vs Predator Requiem 2007[/COLOR]</title>
-<link>https://44.download.real-debrid.com/d/36CZV6QR5J7ZE/06%20Alien%20Verses%20Predator%20Requiem%20Unrated%20-%20Sci-Fi%202007%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
+link>https://44.download.real-debrid.com/d/36CZV6QR5J7ZE/06%20Alien%20Verses%20Predator%20Requiem%20Unrated%20-%20Sci-Fi%202007%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTI5NDY2NDUwM15BMl5BanBnXkFtZTYwNzQxMTA3._V1_.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR blue]Prometheus 2012[/COLOR]</title>
-<link>https://48.download.real-debrid.com/d/FCCTEDE6OSXTK/07%20Prometheus%20-%20Sci-Fi%202012%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
+link>https://48.download.real-debrid.com/d/FCCTEDE6OSXTK/07%20Prometheus%20-%20Sci-Fi%202012%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -71,7 +71,7 @@ sublink:LISTSOURCE:https://20.download.real-debrid.com/d/KW7I7GTOVK7QW/04%20Alie
 <item>
 <title>[COLORblue]Alien: Covenant (2017)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://48.download.real-debrid.com/d/RAPWYLOFO6EZI/09%20Alien%20Covenant%20-%20Sci-Fi%202017%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
+ublink:LISTSOURCE:https://48.download.real-debrid.com/d/RAPWYLOFO6EZI/09%20Alien%20Covenant%20-%20Sci-Fi%202017%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4::LISTNAME:[COLORwhite]SD PYRAMID STREAM LINK 1[/COLOR]::#
 </link>
 <thumbnail>https://s3.thcdn.com/productimg/600/600/10227029-3354306787412876.jpg</thumbnail>
 <fanart>https://archive.org/download/movies_201706/TombRaiderMoviesBackground.jpg</fanart>

@@ -1,21 +1,12 @@
 <item>
 <title>[COLOR blue]Bad Boys 1995[/COLOR]</title>
-<link>https://real-debrid.com/d/FZWZUQAVN2RHE</link>
+<link>https://streamango.com/f/tsfbocctoonksdqc/Bad_Boys_1995_720p_BRRip_550mb_mt_mp4</link>
 <thumbnail>http://i.imgur.com/rXcMOTg.jpg</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>[COLOR blue]Bad Boys 2 2003[/COLOR]</title>
-<link>https://real-debrid.com/d/NSIKLJXTMZGP2</link>
+<link>https://streamango.com/f/aoroqamofscotdbb/Bad_Boys_II_2003_720p_BluRay_X264_YIFY_mp4</link>
 <thumbnail>http://i.imgur.com/egLmMN5.jpg</thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Bad Boys for Life (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/FZEA5MPR2UCQQ::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>

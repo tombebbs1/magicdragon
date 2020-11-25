@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Happiest Season (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3rzf5tczqv6z/happiest_season_trailer_official_%E2%80%A2_a_hulu_original::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tfigqw3fzas4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UFG3WU6G5DGTE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzec9kkOSE93tygyfOktedkeOQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Wrestling Christmas Miracle (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/to6k4ak2vqha/a_wrestling_christmas_miracle_trailer_ext_version::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

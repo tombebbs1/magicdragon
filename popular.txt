@@ -82,6 +82,28 @@ sublink:LISTSOURCE:https://real-debrid.com/d/NIJY7B6Q63PHC::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Uncle Frank (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/13utfqjrvaxh/uncle_frank_official_trailer__prime_video::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/36qmwfvktl3w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ETCC3JUTVHQPU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3yozs3oGY0ubwf4cKQKOMWqNx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Happiest Season (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/3rzf5tczqv6z/happiest_season_trailer_official_%E2%80%A2_a_hulu_original::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tfigqw3fzas4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UFG3WU6G5DGTE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzec9kkOSE93tygyfOktedkeOQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Borat Subsequent Moviefilm (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ip3ri3s9w1xg/borat_subsequentiefilm_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

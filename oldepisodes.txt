@@ -1,4 +1,13 @@
 <item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2ij0aj0ndmvo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/e3gebzpgx56j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

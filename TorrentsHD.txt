@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Christmas Chronicles: Part Two (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e8de1la4pvrv/the_christmas_chronicles_2_starring_kurt_russell_%26_goldie_hawn__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1ucas7vhw4h1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B35MQIO5MM3LI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mav31d99Oq3QKRhxexU8jasgO6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stardust (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/purp3mnbwlyb/stardust_official_trailer_i_hd_i_ifc_films::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -41,18 +52,6 @@ sublink:LISTSOURCE:https://vidlox.me/wbc6tmcxoonx::LISTNAME:[COLORgold]HD FREE L
 sublink:LISTSOURCE:https://real-debrid.com/d/EUASPAMGI7MZK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/woOQx1s4mNVAprRpky3ntRgdlf4.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLORwhite]The Christmas Chronicles: Part Two (2020) Debrid Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/e8de1la4pvrv/the_christmas_chronicles_2_starring_kurt_russell_%26_goldie_hawn__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://vidlox.me/7owvqupdu8x6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/B35MQIO5MM3LI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mav31d99Oq3QKRhxexU8jasgO6.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

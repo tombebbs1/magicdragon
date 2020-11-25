@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Christmas Chronicles: Part Two (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/e8de1la4pvrv/the_christmas_chronicles_2_starring_kurt_russell_%26_goldie_hawn__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/1ucas7vhw4h1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B35MQIO5MM3LI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mav31d99Oq3QKRhxexU8jasgO6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Christmas Tree Grows in Colorado (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xwcy3hei3xco/preview_%2B_sneak_peek_a_christmas_tree_grows_in_colorado_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

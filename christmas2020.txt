@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Good Morning Christmas! (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/ox97nl7va2ko/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mxq1gjz8oln1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S7FPW3LSONBAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1ysZYB2o6eKcNJnlPg2LgAlHbn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Christmas Chronicles: Part Two (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/e8de1la4pvrv/the_christmas_chronicles_2_starring_kurt_russell_%26_goldie_hawn__official_trailer__netflix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

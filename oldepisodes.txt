@@ -1,4 +1,63 @@
 <item>
+<title>[COLORwhite]The Walking Dead: World Beyond (2020) SO1E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/rcp21odzoykk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZPCNGDACTZZZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z31GxpVgDsFAF4paZR8PRsiP16D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Walking Dead: World Beyond (2020) SO1E09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/spyexkmq6tvu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YCEHOHUWSIWAO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z31GxpVgDsFAF4paZR8PRsiP16D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bjk4divz7kx9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D2JHNLTEWLN4U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ineczir49mul::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3NOOKPZ7FV5A4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Star Trek: Discovery (2017) SO3E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/e3q7dui1pnxk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JDHDJECWFPF64::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/jio0sab4emga::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/2ij0aj0ndmvo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

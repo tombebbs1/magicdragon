@@ -43,6 +43,36 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Vaxxed: From Cover-Up to Catastrophe (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/171pfesqb5qn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H4TXOCDMVIMUU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdqNinmNNXnwpDgygoD5XBmYuGC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Taylor Swift – Folklore: The Long Pond Studio Sessions (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/dnqcu3hlue7b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PWDEP5MS64SIW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iroJUn8YuQBekDwGy7r61YHXiu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Mystery of D.B. Cooper (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/k3v71jp4sira::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EWFI6Q2TR5CPY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDdt8w5RUYZSV6eDShpaFLucZ9X.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Keane And Vierra Best Of Enemies[/COLOR]</title>

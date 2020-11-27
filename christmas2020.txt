@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]The Santa Squad (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/zp0215t3d9kf/the_santa_squad_trailer_2020_christmas%2C_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xbuauqtruj6m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/42VSRYZMD46OI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wa7oQJbADqNjnDoqrOOxKLv0NB1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A Christmas Break (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/8chw5yzdhomo/a_christmas_break_official_trailer_new_2020_romance%2C_christmasie_hd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/60nrfxtfsl2x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/J6MBK4BFJTGDQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqhVOFKe9zK231HAfyfPO2AAh4V.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Good Morning Christmas! (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/ox97nl7va2ko/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

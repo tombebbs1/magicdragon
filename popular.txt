@@ -37,6 +37,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SZFJAP46TCQOA::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Black Beauty (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bz55rabn9mgr/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/djd2ld426onx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EP32DAON4FNNY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/su6XRWgHDyg3fosiXdodCHFfZwu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hillbilly Elegy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/kb9689xgipbw/hillbilly_elegy_trailer_1_2020__ieclips_trailers::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

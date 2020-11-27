@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas by Starlight (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/2tx016asikyw/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/d0ojwxvbutl2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/65KIMJUP5R7CK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRuvtcSYOXPquba6p44KwFiNpd2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Santa Squad (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/zp0215t3d9kf/the_santa_squad_trailer_2020_christmas%2C_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

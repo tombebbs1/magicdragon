@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Miracle on Christmas (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/wl45tmlwfzji/a_go%21_go%21_cory_carson_christmas_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/zvy4gasfy4r3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Y65V7QOS3FO5Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3dqSoBUJp1i2YZC6fwbi5kLw4j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Go Go Cory Carson Christmas (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/wl45tmlwfzji/a_go%21_go%21_cory_carson_christmas_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

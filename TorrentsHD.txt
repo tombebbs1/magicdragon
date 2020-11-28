@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Riding With Sugar (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/jb7tynbk9lwu/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tyqjxb0o64xh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DMQDJE3PIPEBM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWlj8dskyS7ynyqJRpePJ6C6uS5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tenet (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fplmc6o81i10/tenet_new_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tenet (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/fplmc6o81i10/tenet_new_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0br4seozuaeb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GVCN6HVMPLS5E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/zkup7tE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Life in a Year (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/h79s2nc4w2y2/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

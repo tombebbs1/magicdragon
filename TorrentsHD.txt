@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cordelia (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/kqntlu2wo3cp/cordelia_official_trailer_2020_horror__thriller::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/no6wtuvbmkc6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6OO63WHQUWXSA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sd9A1eCo7Pm0JRvQgmdr0VxwKz9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stage Mother (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/6rp13s4v0a3y/stage_mother_trailer_2020_lucy_liu%2C_comedyie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

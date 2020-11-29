@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]USS Christmas (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/0qbcej4g7dg8/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mbqhfdxaq7l6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JAUXMTPPQVBYE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kio6inuU0xXbtacJE5NgPYDedlf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas Waltz (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/2x8p5z028344/preview_christmas_waltz_hallmark_channel::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

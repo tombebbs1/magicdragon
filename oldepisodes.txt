@@ -1,4 +1,13 @@
 <item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP14[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/cwipj1mjwgcy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP13[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/taxj2w98dtiy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -102,6 +111,26 @@ sublink:LISTSOURCE:https://vidlox.me/jio0sab4emga::LISTNAME:[COLORgold]HD FREE L
 sublink:LISTSOURCE:https://vidlox.me/2ij0aj0ndmvo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Boxing Tyson Vs Jones[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/92x3nolt7q2x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Y7HHQZSZNTI7A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://e2.365dm.com/20/11/768x432/skysports-mike-tyson-boxing_5188340.jpg?20201129064340</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spitting Image SO1E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/j38zs6am2eph::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6AFBAMHGNQIVW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/5WLem7yrA.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

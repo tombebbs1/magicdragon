@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]UFC Fight Night 28/11/2020[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/vimj4gax7xwm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JXIHTKLGNTASG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Match Of The Day 28/11/2020[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6hd8xndf9k4y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

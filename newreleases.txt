@@ -60,6 +60,16 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The Knight & The Princess (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/dhk5l1ds86od/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lb1xwb6sm37e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CNXNRMATS2OYM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS2uY0L5qbEcho1o4itvtZEroMy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Loss Adjuster (2020)[/COLOR]</title>

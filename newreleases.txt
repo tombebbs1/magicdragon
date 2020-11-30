@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Antarctica (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/bx0ey0oiffw7/antarctica_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9d4ovvtkn3fx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CWYEYMSXZM5FI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBWNJzNyE2chbDVcUzXqmbl8t13.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Knight & The Princess (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/dhk5l1ds86od/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

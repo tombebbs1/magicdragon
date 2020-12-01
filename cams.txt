@@ -228,18 +228,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/Z5HJ7UYA5VP3M::LISTNAME:[COLORgold]
 
 
 
-<item>
-<title>[COLORwhite]First Lady (2020) HDCAM UPDATED 18/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/qto23mw53slf/first_lady_2020_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
-sublink:LISTSOURCE:https://cloudvideo.tv/ubaulnc0j5o7::LISTNAME:[COLORwhite]SD  LINK 2[/COLOR]::#
-sublink:LISTSOURCE:https://uptobox.com/90zq3mk65654::LISTNAME:[COLORwhite]SD  LINK 3[/COLOR]::#
-sublink:LISTSOURCE:https://1fichier.com/?f303dqp1houzyek724m4::LISTNAME:[COLORwhite]SD  LINK 4 Debrid Only[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk5YzJmODQtMjA4MS00ZWQ0LWJlZmMtNjFhMDIwZWJhYzUzXkEyXkFqcGdeQXVyMTA3MzQ4MTg0._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 
 

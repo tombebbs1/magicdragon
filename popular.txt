@@ -327,6 +327,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HT2TOJDF5SHJY::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]First Lady (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/pkjvp47rcg16z98::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SXUC6PRUMNFT2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk5YzJmODQtMjA4MS00ZWQ0LWJlZmMtNjFhMDIwZWJhYzUzXkEyXkFqcGdeQXVyMTA3MzQ4MTg0._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Come Away (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/fio7tkj57v7j/come_away_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

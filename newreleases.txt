@@ -86,7 +86,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/74KL3F3UMTW7A::LISTNAME:[COLORgold]
 <title>[COLORwhite]Beast Mode (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/bx0ey0oiffw7/antarctica_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/skq3l9ph9jqt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/j9dx8om3azx17x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/7PF3KYDFZJZBC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfwtlayvpMCz4Kr4WTpotfxhiE8.jpg</thumbnail>
@@ -108,7 +108,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WBHEH5ZS2YQ6I::LISTNAME:[COLORgold]
 <title>[COLORwhite]Deadlocked (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/bx0ey0oiffw7/antarctica_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/mgyaf6ftba82::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/ql1n8kq6fxk9emw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/SVAG4TYUA6ZXE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr1XKBcjLDDMexm3bIIRtlJoTwl.jpg</thumbnail>
@@ -119,7 +119,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SVAG4TYUA6ZXE::LISTNAME:[COLORgold]
 <title>[COLORwhite]Break Even (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/bx0ey0oiffw7/antarctica_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/jajrngb4k0lj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/9nwrpm8va8q0zz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/YSSKA7Y347FKC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijwUja8ignGUEQKvdAg9TpqO8ei.jpg</thumbnail>
@@ -141,7 +141,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PKTXP3JEEAU6M::LISTNAME:[COLORgold]
 <title>[COLORwhite]Dune Drifter (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/bx0ey0oiffw7/antarctica_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/36p2wq19dgso::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/dqk7xglefpwnnx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/LNAX37A4FKPCO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBLJzYriF9zZAHc2Gjb3KTQGTGT.jpg</thumbnail>
@@ -163,7 +163,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/3IUGRC3DWJ3AW::LISTNAME:[COLORgold]
 <title>[COLORwhite]Infidel (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/bx0ey0oiffw7/antarctica_official_trailer_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/vmeo5o8od0i9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/4ndqkw87b7r61m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/VKGFHXR3SKO2M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>http://img.rlsbb.to/images/SvM8.jpg</thumbnail>

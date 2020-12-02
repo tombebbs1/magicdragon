@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]The Holiday Movies That Made Us 2020[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/f39hk3vma97c::LISTNAME:[COLORgold]EP 01 HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FNR2K5K6EEERA::LISTNAME:[COLORgold]EP 01 HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vc13b870pwpf::LISTNAME:[COLORgold]EP 01 HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SIF7TJIVNJPVM::LISTNAME:[COLORgold]EP 01 HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://static.wikia.nocookie.net/christmasspecials/images/7/7c/TheHolidayMoviesThatMadeUs.jpg/revision/latest?cb=20201114124323</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Angela's Christmas Wish (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/plnszoazdghl/the_loss_adjuster_official_trailer_pink_flamingo_films_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

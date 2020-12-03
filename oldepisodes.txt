@@ -1,4 +1,34 @@
 <item>
+<title>[COLORwhite]Star Trek: Discovery (2017) SO3E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/zc3geii8oa88::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5OH6DURTQ4SGK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/zz2ppnj061uz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XPEQUNTIG7O3E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/0vwltev3k62z::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UFASA6XVRP53A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP18[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/808mxqsown04::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

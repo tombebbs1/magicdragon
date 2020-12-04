@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Luxor (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xyoavh5y08j1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XMJYMNEH6DDHA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFpBftJimBOhsFy18jv3KSN0h8c.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Love, Weddings and Other Disasters (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vkn1xnvemeh0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A2K5ZGBZY2YV6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/imoS1NXDoKzfMEy7ySPh7CQJVoL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Minor Premise (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

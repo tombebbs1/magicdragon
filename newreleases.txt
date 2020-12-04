@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mank (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wxaaq3zlej99::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K7NRDMPYC2DQK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsMrWKY4ltL6tNrMapjp6z2KBPl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Survival Skills (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vjomioqwqnt8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E6GK32UEKNPCK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fijLp6vU0AqvSXtQOPrFXb8ebuV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Luxor (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

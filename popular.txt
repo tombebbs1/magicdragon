@@ -48,6 +48,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WJAYCYD6KFUX2::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Godmothered (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wobahmsa4gqi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7BRVOOZ3HLLR6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ir8Qqi90mENhH7CDxEpdeCcm6UL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mank (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

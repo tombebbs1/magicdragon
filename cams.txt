@@ -178,16 +178,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GFVY2LA4EGXIM::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Honest Thief (2020) HDCAM UPDATED 12/10 Debrid Only[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://vidoza.net/wj2hvv3he2f7/the_call_2020_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/6365AYR352K72::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjEwNjYyMTMtODc5Yi00NTg5LTkwMzAtZTkyOTcyNTFkMGIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Streltsov (2020) HDCAM UPDATED 02/10[/COLOR]</title>

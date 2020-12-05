@@ -1,4 +1,23 @@
 <item>
+<title>[COLORwhite]The Astronauts (2020) SE01EP05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/nynfdfth2g73::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UFMU6OTMWXJRK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/adnc6gSSbqHEGcYVWFisye0ev7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]I'm a Celebrity, Get Me Out of Here! SE20EP20[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/3cdvnjide8j0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.primewire.li/poster/medium/16191-im-a-celebrity-get-me-out-of-here-jkazf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mandalorian (2019) SO2E06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/m0p62lhbwkdy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

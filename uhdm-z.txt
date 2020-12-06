@@ -2065,6 +2065,33 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:fb61ec2887c4930b2ad95e8071094c698cd3aec4&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The Hobbit: An Unexpected Journey (2012) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NZWPHQEE6BX6Q::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Hobbit: The Desolation of Smaug (2013) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/R2VUWVFYMJGG6::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Hobbit: The Battle of the Five Armies (2014) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SILWRAIU24DBE::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]The House (2017) 4K[/COLOR]</title>

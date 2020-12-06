@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]UFC Fight Night 05/12/2020[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/6o8fkbdjjrmu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QHTSC2C6S7MVI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Astronauts (2020) SE01EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/nynfdfth2g73::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

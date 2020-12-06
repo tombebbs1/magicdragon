@@ -1,8 +1,8 @@
 <item>
-<title>[COLORwhite]Time for Us to Come Home for Christmas (2020) Debrid Only[/COLOR]</title>
+<title>[COLORwhite]Time for Us to Come Home for Christmas (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/plnszoazdghl/the_loss_adjuster_official_trailer_pink_flamingo_films_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://vidlox.me/ue4j2j1znhh4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8bqawt3vooeh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/JV4H5743FUXX4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/he6XKUtiiaUE58BZ4DswlcgHwth.jpg</thumbnail>
@@ -10,11 +10,11 @@ sublink:LISTSOURCE:https://real-debrid.com/d/JV4H5743FUXX4::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Christmas in Evergreen: Bells Are Ringing (2020) Debrid Only[/COLOR]</title>
+<title>[COLORwhite]Christmas in Evergreen: Bells Are Ringing (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/plnszoazdghl/the_loss_adjuster_official_trailer_pink_flamingo_films_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://vidlox.me/ue4j2j1znhh4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/DOTQ3KTVHLKAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ue4j2j1znhh4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2gchef0ausbq::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQnHUSeELBLvKjt07KU314XEak3.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

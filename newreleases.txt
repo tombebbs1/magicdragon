@@ -61,6 +61,61 @@
 </item>
 
 <item>
+<title>[COLORwhite]Magic Arch (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/s3z0fbcafccb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7TFVCDHC435B2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOyuQvgyakZABLrl4oXRamBGEI6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]My Day (2019)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/jb1f77396rp9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SRGLP664FZX6K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGDehJduPUwTm85TCwoUIGsRp3A.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Fairy Princess and the Unicorn (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/milgj2an41r5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/65FW54UREEY5G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/ArpqBFV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spare Parts (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/nv48472z5tpv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PP3HDKSCD5EQA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ih3ZHVQMV59fSOxLYpSQuCKC3I2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pinocchio (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/84le6ljph6dw901::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VDDIU3D6K65G2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w1ItwCJCTtSi9nPfJC1vU6NIVg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Honest Thief (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

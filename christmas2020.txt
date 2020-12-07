@@ -1,8 +1,8 @@
 <item>
-<title>[COLORwhite]Christmas She Wrote (2020) Debrid Only[/COLOR]</title>
+<title>[COLORwhite]Christmas She Wrote (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/plnszoazdghl/the_loss_adjuster_official_trailer_pink_flamingo_films_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://vidlox.me/041016tcagh7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6cr2exs36l6d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/QIXQHUAGHEJSY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kAp3J46pwJCzFQYZvjFLSNhGqx.jpg</thumbnail>

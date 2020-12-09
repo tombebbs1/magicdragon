@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rose Island (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kzkgpma554pq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tqhryaqo5k54::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tqhryaqo5k54::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yePO1PrRfrVMGqwJ3EzKhVvQXBX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bobbleheads The Movie (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

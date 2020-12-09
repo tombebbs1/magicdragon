@@ -48,6 +48,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ESJ5PYS6QK542::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Monsters of Man (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/ixloxpowpddn/the_call_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9hq2cxtp1ng2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ORNV2LZSZECMC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f3qspv64L5FXrRy0MF8X92ieuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wander (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/232s7gjqin70/first_lady_trailer_2020_romanceie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

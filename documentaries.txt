@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]40 Years a Prisoner (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/qjlil2dm1rmo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/65YDMZAUYMJ7E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAj0W7HO7JRTDT2XGNGVWs0uBDm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]TINSEL: The Lost Movie About Hollywood (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/evmn2660wz3q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

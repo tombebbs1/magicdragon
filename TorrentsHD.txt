@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Savage (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/k04x7sf864r4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/19098u4sjkm7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QRWXO4YANRIAW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWNhZWM0NjQtYzM4My00ZGY1LWJhM2MtZTkwMmMwNDEyODYxXkEyXkFqcGdeQXVyMTQ1MjQyOTI@._V1_SY1000_CR0,0,667,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Into The Flames (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/e6yi03n7r5jh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4ciaakwm5xpt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7H74VBKYY3HTK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/UyAbak.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wild Mountain Thyme (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/e6yi03n7r5jh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

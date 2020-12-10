@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/j29e3r6wf1ea::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H73WGHYEDA2S2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Flight Attendant (2020) SE01EP06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/f9e5ut2bsbux::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DRQE3H4YPNNDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mX7AYmQxQTGevmP8nDV99diqkO7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Star Trek: Discovery (2017) SO3E09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/q49d5tiyaixm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

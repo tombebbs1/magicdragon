@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Let Them All Talk (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/uvp68jvn37qq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/cl6b8e3qtty5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3BAWBZL2YZRF4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6otlzQ4rIIqoWS8u9Vi88ya2FD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rose Island (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/kzkgpma554pq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

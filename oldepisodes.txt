@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Star Trek: Discovery (2017) SO3E09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/q49d5tiyaixm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JP3RGBVJTZMSS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]WWE Monday Night Raw 07/12/20[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6i5zf5yl9ut2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

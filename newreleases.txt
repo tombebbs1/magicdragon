@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Songbird (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ytjatocnsbzg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0v30np0li7n8gd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MJBKG57T5HUTU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1IyqmWVZIwVGGNyoh6H2x1nbWU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I'm Your Woman (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/bipvcd4pn181::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

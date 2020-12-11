@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Stand In (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/9ekq8q42hybm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2jpn2c83t5zc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MYN4LKL62BPRW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8ZaUny5Stxxsmc02ECOEQan1il.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Very Excellent Mr. Dundee (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/80w2n1842y1f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -92,6 +103,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/CXBLSAOCQCE5K::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTcJAxIV8BzNXuvcViBSibQSBid.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
+
 
 <item>
 <title>[COLORwhite]Savage (2020)[/COLOR]</title>

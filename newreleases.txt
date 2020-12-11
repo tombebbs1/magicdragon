@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Farewell Amor (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/x3c63duag856::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3jbrfe2m3vuf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G4D4UWO7NYZSS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQWliAANYnyRsgec29k64HHiAdb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't Click (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/31c6dihaopkt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

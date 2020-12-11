@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Very Excellent Mr. Dundee (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/80w2n1842y1f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/luyyb87u20xj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DXWFIFSXV6Z7O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDn0NvZlT2rRS8QTozjdYeFjJV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Songbird (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/ytjatocnsbzg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Finding Jack Charlton (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2sjand6n8xy5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6ET26I7F4SJZC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FVSlzrosTSx6qogYeKGdE4aCqM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alabama Snake (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/hff9eailohcx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

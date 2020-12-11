@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]We Still Say Grace (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bii1af8j3s76::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ryg4t5kj7w7g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NW3VPMZC24WLE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRNkVOrQzU1H0pGnLrwvQIQHIf1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wander Darkly (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/gdkvm57kcqyi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

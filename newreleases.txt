@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Prom (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/wrq4w1oy2nco::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xnqqjszh5ss0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OFWT35VXH26KE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/46lfQv3o4iSafQaVbEEF6pUvZ6W.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Wheels of Fortune (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/acs45l3g85a6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/78yqnbkfysks::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LDULUKXWBJHLY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0zNr2XUZN8jb37bwpEx6AnDdy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Farewell Amor (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/x3c63duag856::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

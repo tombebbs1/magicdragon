@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Joshua Vs Pulev 12/12/2020 Debrid Only[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/mwd92mueahxd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BJ4GXS6YPEBQE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]UFC Fight Night 12/12/2020[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/mwd92mueahxd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MJZH3UJQ4YLRS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Astronauts (2020) SE01EP06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/a5ti8icnw5e0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]The Christmas Setup (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/feltv2ovii9h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/g3kv2tc1q9x9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P3WQG43Z72H6M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7uXILhYY9jWn08i3w4bC5Ksb5r.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Beaus of Holly (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/d05ziq65xdre::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/uz89j6pett8q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YMQUKTEQZHNZE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsacO7i5xgqlIg0sIG56Jn0sEUS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Glenbrooke Christmas (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/0zad7lm8j1ae::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]My Gift: A Christmas Special From Carrie Underwood (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/7o8vr57oh9vo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dear3jxl1ncp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/76E7SQRJKA6GA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfy01Q9fcZHUUP5XqioWG1ekwH7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A California Christmas (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/7o8vr57oh9vo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

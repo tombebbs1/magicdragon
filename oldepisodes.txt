@@ -1,3 +1,44 @@
+
+<item>
+<title>[COLORwhite]Family Guy S19E09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bzc8uuc2tqg7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QCR3ZJW5ZS4VA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Simpsons SE32E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ds4bl2s6rvks::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HBOJUGWJIMJUE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Walking Dead Holiday Special[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/tmiacs6pzv7s::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2W7W6S3UDNJYS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgjP2OrrX9gc6M270xdPnEmE9tC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pennyworth (2020) SE02EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/yhsldupx5nha::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D44IYT3TONYRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF14a0UUhdLmDMv5vQ3QudoM31w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Your Honor (2020 SE01EP02[/COLOR]</title>
 <link>

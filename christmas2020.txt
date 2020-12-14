@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Sugar & Spice Holiday (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/agxxhx2lpvuv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/78cy7jpjy5uv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OSX5UWPAIIDF6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6wDDaBOpWQNfYCG7jVAlrodC2F.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Christmas Setup (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/feltv2ovii9h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

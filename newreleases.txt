@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Rodeo Thief (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/sq4uy6dxtwpz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ipsw6fsg2feb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AMRKOXWOGSNOC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/dsw9R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Robo (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/sq4uy6dxtwpz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

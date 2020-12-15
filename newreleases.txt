@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Robo (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/sq4uy6dxtwpz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ct9xn62qjdqk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O7KC65IHNG4P2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbg3gVnI2PLxgMmWFwWH21set6h.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Kid Detective (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/fv77by790xv9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

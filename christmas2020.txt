@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Lonestar Christmas (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/9heviv2kqx15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/vg7fdu1me06i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A3KR25CTNGCSE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSEy66dobhwITfkEHhud5JtqyOu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cooking Up Christmas (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/gd1a9cc5x93e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/kzog629cen4t::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FZUPLSPW4RBS2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/25Gqz8SYE9PBUAfKGZFZkTqb1KL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unwrapping Christmas (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidlox.me/7o8vr57oh9vo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

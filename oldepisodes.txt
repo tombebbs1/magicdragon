@@ -1,4 +1,16 @@
 
+<item> 
+<title>[B][COLORwhite]The Ripper (2020) Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/FC4A43SEXKDYU::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4XMRDFUETXX74::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KWBFJTHAHIHVE::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/ERUXTLMLESGC4::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEgCNz0BMWTjuAVIGeK3PV5jIt6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Family Guy S19E09[/COLOR]</title>
 <link>

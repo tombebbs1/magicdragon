@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Another Round (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/43rpxfj8t8w5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/5cu39duikpcj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/J4TX42K7TWS3Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Reason (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/hh8god8wimap::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

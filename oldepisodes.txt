@@ -14,7 +14,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/CGFW2VLJ2WUHM::LISTNAME:[COLORgold]
 sublink:LISTSOURCE:https://vidlox.me/8xla1o8s88yl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/EB4JWMDRSS5EA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98RYSYsRNKWgrAAFBn0WfploUG7.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

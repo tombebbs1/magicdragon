@@ -1,5 +1,33 @@
 
 <item> 
+<title>[B][COLORwhite]Tin Star (2017) Season 3[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/fanksa9o5r59::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/do9txfaqhlad::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dh3nila2n9av::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://vidlox.me/tet93n1gpl6q::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3xg6ecot6diy::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/qherc22173ye::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFHZBtugqDiLtjVP9GC3Ig5GfwU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>[B][COLORwhite]Tin Star (2017) Season 3 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/R2W2FXQEC4GJK::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MDAHWD77UEXZ4::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YXMT6MCIVELCQ::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/5HV2XB7HFXAJM::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OD6KF5RICPWGO::LISTNAME:[COLORwhite]Ep 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QD2E523JAAOOY::LISTNAME:[COLORwhite]Ep 06[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFHZBtugqDiLtjVP9GC3Ig5GfwU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]The Ripper (2020) Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/FC4A43SEXKDYU::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

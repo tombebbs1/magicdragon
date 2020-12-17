@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Art of Political Murder (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/wuhs8h9oxnas::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CLI4A6O3SUMXA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybe9eyjxa8j9FCJdPNLDV5FGOyt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hurdle (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ngw95zml1l16::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H6KGUHFAGU3VK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xglhGapvktpVjCaYPyt8d8LbTbC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bee Gees: How Can You Mend a Broken Heart (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/n0lemlkpuz6dqz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

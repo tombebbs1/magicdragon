@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Going 4 Broke (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/igy082nbhujs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/kphpzh0omg6b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4LXCN4IBFH4UU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/Kl7uDI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/igy082nbhujs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

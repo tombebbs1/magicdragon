@@ -1,3 +1,13 @@
+<item>
+<title>[COLORwhite]The Mandalorian (2019) SO2E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/0vz25xgx706a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0vz25xgx706a::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Tin Star (2017) 4K Season 3 Debrid Only[/COLOR][/B]</title> 
 <link>

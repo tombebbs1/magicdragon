@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Swept Up by Christmas (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/9heviv2kqx15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4qxaur3zzh6q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3XHI347A23DUU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/efOT08XBZE1HMCPCtNsaRgRtDh5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A Christmas Carousel (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/9heviv2kqx15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3qfmem71lhc8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LIK5JHCWNYBZY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Qay9bw9hxYLcZkL3xNZsokfpFm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas Dilemma (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidlox.me/9heviv2kqx15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

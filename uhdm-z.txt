@@ -1621,6 +1621,16 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:1559F0D5E9E8A78A9EB6F1B778AC60FAFE89784F&
 </item>
 
 <item>
+<title>[COLORwhite]The Beastmaster (1982) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/743YSPRUPROWE::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FPZwHaJoiLfSvg37UdfVYjroM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Big Boss (1971)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:335da92358aaa7d52858a5faa6fd63a1726538f9&dn=Bruce+Lee+-Big+Boss+1971.Multi.2160p.UHD.Bluray.SDR.DTS-HDMA.5.1-DTOne&xl=21380682146&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -3260,6 +3270,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:39CA7C85FC2C61F30BD5B8E180F2A897AD571EC6&
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BODA5MDc2NDI5OF5BMl5BanBnXkFtZTgwNDYzMTA2NjE@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Vigilante (1983) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6HS7ADK4ZSZ6M::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQbPH4IixIU65xAqkplGekLz8qk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 

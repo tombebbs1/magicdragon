@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Loves Spell (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/cf1u5o3p54dp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tp0b6nk41amv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NOF632DMP2HV6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hn7w76XjHDQMvxzAeLqDMB05wd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Empty Man (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Empty Man (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3s3fnlg06ic8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/STAA2YBVMZNOC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBRM1EgfslcxcZCSf6Vp89VYCmP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shortcut (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xonxl1k8r47h/shortcut_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

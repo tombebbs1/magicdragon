@@ -73,16 +73,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/KME7U2WF6OFBQ::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Empty Man (2020) HDCAM UPDATED 26/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/9aswbdpnwhha::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ZM6I3KV4FOWUK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBRM1EgfslcxcZCSf6Vp89VYCmP.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]2 Hearts (2020) HDCAM UPDATED 26/10[/COLOR]</title>
@@ -130,16 +121,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4QLCFR67VAUGI::LISTNAME:[COLORgold]
 </item>
 
 
-<item>
-<title>[COLORwhite]Shortcut (2020) HDTS UPDATED 14/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/xonxl1k8r47h/shortcut_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/aivwwgy8dcl1/shortcut_2020_1080p_webrip_hqmic_audio-slotslights::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GFVY2LA4EGXIM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFI9M7PSFannh0ArzZ8Tf4WN3Nt.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

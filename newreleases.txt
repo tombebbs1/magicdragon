@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Getaway (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/77xljt34ycg2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/j8izgkkaryhk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/42VXTPBJWMNRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLG7btEIAoQOA3eaFK8xiADsuew.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Love, Repeat (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/z5kyib9w2cwg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/k704krcuz9c7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4ZC6O3D5CDAQQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1bY1xeoZAlggibRcVUwd5OTQGt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Penitent Thief (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/r8aiyhzi0q9i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/gwoc5n6288bu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Q5WAJIYVDE7TO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IHmKFzWDkUVqbLfy01M2eSQM5e.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Loves Spell (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/cf1u5o3p54dp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

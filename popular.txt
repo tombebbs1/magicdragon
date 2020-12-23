@@ -37,6 +37,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GVCN6HVMPLS5E::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Sylvie's Love (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/7ttoj7co5uf9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lyhtr9m542ng::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AXKOLIGMJYXCW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y7AZ1HGy1lzvOpr8CpTdfvmr5T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shortcut (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/xonxl1k8r47h/shortcut_official_trailer_2020_horrorie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

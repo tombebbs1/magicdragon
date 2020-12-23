@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Last Shift (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/08zii7sni6ts::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tqhy4j8sm0wa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ORSJWUIGD2CPO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/76x4TVjygz9t0GG9YLcrmiRck95.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sylvie's Love (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/7ttoj7co5uf9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

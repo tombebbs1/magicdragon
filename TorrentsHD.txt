@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Half Brothers (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/zho8gfxh4t3n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8ws2ut677qgt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6PVSNFHIHIPWS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dd9LuYRheOEd1KQfodkPl9nnC9l.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Climb (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/50vkw3p8nurs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

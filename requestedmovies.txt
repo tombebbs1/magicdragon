@@ -1,3 +1,5 @@
+
+
 <item>
 <title>[COLORwhite]Saturday Night Fever (1977)[/COLOR]</title>
 <link>
@@ -5,7 +7,7 @@ ublink:LISTSOURCE:https://vidoza.net/45dqf4gg9h00/::LISTNAME:[COLORorchid]SHOW M
 sublink:LISTSOURCE:https://vidlox.me/709sswhqg777::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/6MWNUBC257UTA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/551l8ybr8TPIZozSteGVTs0si34.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

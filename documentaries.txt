@@ -44,6 +44,27 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dear Santa (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/gm1wxtzobrxo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E74YLWT25S25S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAjWEE2edtMuGKfFZHgwr8M0MMn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Jimmy Carter Rock & Roll President (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kwa9gpoxsu3g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WCQD24DMZWFXS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKLQDMq907rjlcKcoh6ZQjS3hnp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lennon's Last Weekend (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/zpq93xjrajxqvo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

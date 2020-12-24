@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Baggage Red (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/3r9wweep294c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3wkastso6r4u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GDJOMZOSXDV2W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/yqG84H6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strain 100 (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6uefkgjp7nk5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

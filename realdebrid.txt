@@ -26,6 +26,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Golden Child (1986)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/fx41mb0rnitz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YSIKFVZYSA334::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spenser Confidential (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/9e4mzcx1yg7v/spenser_confidential_trailer_2020_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

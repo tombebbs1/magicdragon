@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Yellow Rose (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/t6o7vc04x5md.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/szhhl45rjgts::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SI5FELH57JZXM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/kmnH8KmoiM7VpHZAADiTPWbpFGl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]We Can Be Heroes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6m8lccixk0x9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

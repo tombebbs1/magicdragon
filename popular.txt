@@ -15,6 +15,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wonder Woman 1984 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/9rtp74jo2j55::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/j89f6nk2d8ci::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/j89f6nk2d8ci::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/lNVHB85FUDZqLzvug3k6FA07RIr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]We Can Be Heroes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6m8lccixk0x9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

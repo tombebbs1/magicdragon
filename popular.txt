@@ -15,6 +15,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Soul (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/oieq96xolylk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/hmreu8itzjx0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WYXII4U3MMN5A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Midnight Sky (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/smylsj5els7c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

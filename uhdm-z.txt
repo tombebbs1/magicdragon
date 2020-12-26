@@ -3378,7 +3378,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:95967c1d7a571753ece2a73b6704a14be122db0b&
 <item>
 <title>[COLORwhite]Wonder Woman 1984 (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://real-debrid.com/d/GWR5S6MWAGWNE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O247IE7BO74QU::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/lNVHB85FUDZqLzvug3k6FA07RIr.jpg</thumbnail>
 <fanart></fanart>

@@ -65,7 +65,7 @@
 <link>
 sublink:LISTSOURCE:https://vidlox.me/opdrlzh1vo9e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/sl9npnv9midt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/VCOYA2Q7D2QFC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sl9npnv9midt::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/7jjZCit8ML0sEESGGq6UX8UuQDC.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jazz: The Only Way of Life (2017)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/5y21q96rxlbm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/5y21q96rxlbm::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/iG0QXqkAA2yXU4MXAdhwuKGiMPm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Gulf of Silence (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/pgtas32w6x9n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

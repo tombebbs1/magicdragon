@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ride Scare (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/s9ea2yy4zv5r.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/hlo5q352e6fr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OE56J4UWX3FMY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ryzrJg0wTudEkCRpGdDhSRwbY7Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Last Earth Girl (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/7q7fsj8vgw3f.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

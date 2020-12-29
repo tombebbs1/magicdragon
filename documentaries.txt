@@ -43,6 +43,17 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+
+<item>
+<title>[COLORwhite]Crock of Gold: A Few Rounds with Shane MacGowan (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/zpqgp4g0t41dj4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/zpqgp4g0t41dj4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/qvA887EE1XGPcBE5gtRs4zNp15f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Get Back Up (2020)[/COLOR]</title>
 <link>

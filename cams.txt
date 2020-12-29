@@ -1,5 +1,3 @@
-
-
 <item>
 <title>[COLORwhite]The Dig (2021) HDCAM UPDATED 05/12[/COLOR]</title>
 <link>
@@ -10,8 +8,6 @@ sublink:LISTSOURCE:https://vidlox.me/e8llwfk6q4hi::LISTNAME:[COLORgold]HD REAL D
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/20nmI69ezUHIcg2NEfIQjL2HrKg.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Blithe Spirit (2020) HDCAM UPDATED 26/11[/COLOR]</title>
@@ -35,9 +31,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QN7YLFAUJRRCQ::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
 <item>
 <title>[COLORwhite]Horizon Line (2020) HDCAM UPDATED 13/11[/COLOR]</title>
 <link>
@@ -48,8 +41,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/E5Z2GQP36JFXM::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Saint Maud (2020) HDCAM UPDATED 10/11[/COLOR]</title>
@@ -73,8 +64,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/KME7U2WF6OFBQ::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]2 Hearts (2020) HDCAM UPDATED 26/10[/COLOR]</title>
 <link>
@@ -96,7 +85,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6FL2EZ3JZSMYG::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiqIX082gzTLR6oJ1LgfFsoJXTC.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLORwhite]Rifkin's Festival (2020) HDCAM UPDATED 16/10[/COLOR]</title>
@@ -120,11 +108,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4QLCFR67VAUGI::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
-
 <item>
 <title>[COLORwhite]Streltsov (2020) HDCAM UPDATED 02/10[/COLOR]</title>
 <link>
@@ -135,13 +118,3 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FQMFZZXTQWHAY::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/es4THLD8X0fDdxn4W9T45H4RREx.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-

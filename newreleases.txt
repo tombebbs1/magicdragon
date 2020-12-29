@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Corona Depression (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/1gpvikcfzqzl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0ev64ash5iq9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2GZ6YIQOWLM3M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/42irtU30Tdb2bTbmZYNXpHnlBJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Two Ways Home (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/idwty7nqnu9t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/i94d8ksag3pw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5JPPDTXLLBG2U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/gJks1FBinCWY0Ugt77Lwqrjptyx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The One You Feed (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kk639vd2zxf1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6gsyuvd880ga::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UJSM4CDRZ3L2M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/vjHqSDOe1cWeLb5Xe626HCOUH6i.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ride Scare (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/s9ea2yy4zv5r.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

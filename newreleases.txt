@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]All My Friends Are Dead (2020) Eng Subbed[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/rhidx0m0fymn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wr7lc6t37aql::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wr7lc6t37aql::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/fYsgNphEYGdAAuDM2TUMCpC0Q1v.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Yearly Departed (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/rhidx0m0fymn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

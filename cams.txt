@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]The Father (2020) HDCAM UPDATED 30/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/x9w4bhechipw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8b0nxhwfx5lr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8b0nxhwfx5lr::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/gkZW7lSpqiDBtv6EE66hg7KHUmr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nomadland (2020) HDCAM UPDATED 30/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/h830tb3let34::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mcmik6s9ddx5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/mcmik6s9ddx5::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eYMeV0DQuAkugB3TVBZBe2rEXka.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Promising Young Woman (2020) HDCAM UPDATED 30/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

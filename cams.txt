@@ -1,7 +1,18 @@
 <item>
+<title>[COLORwhite]Promising Young Woman (2020) HDCAM UPDATED 30/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/knglk340c3rel1m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/knglk340c3rel1m::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/cjzU4g6SlScnP4MdkleyI25KGlR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Dig (2021) HDCAM UPDATED 05/12[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://vidoza.net/hoimec7ecmz5/the_croods_a_new_age__official_trailer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/xgkrqjoyfbuy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/e8llwfk6q4hi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/e8llwfk6q4hi::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>

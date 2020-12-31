@@ -1,3 +1,13 @@
+<item>
+<title>[COLORwhite]Your Honor (2020) SE01EP05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/wlheynf1i6p4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M75QRGWJFWIVI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEIh0kQ656fObMtOoj1itTMGrZn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item> 
 <title>[B][COLORwhite]Celebrity A 21st Century Story[/COLOR][/B]</title> 
 <link>

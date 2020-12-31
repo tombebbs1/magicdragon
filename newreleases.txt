@@ -61,6 +61,16 @@
 </item>
 
 <item> 
+<title>[B][COLORwhite]Petes Dragon Movies[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ci7s4ihrxw0o::LISTNAME:[COLORwhite]Petes Dragon 1977[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/en4xg9e8u6xddq::LISTNAME:[COLORwhite]Petes Dragon 2016[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/A9x4Ogk8KUXTfU649NS6lS9TCmu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Home Alone Movies[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vidlox.me/2hspr4wv0ybi::LISTNAME:[COLORwhite]Home Alone 1[/COLOR]::#

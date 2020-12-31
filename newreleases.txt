@@ -60,6 +60,19 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Home Alone Movies[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/2hspr4wv0ybi::LISTNAME:[COLORwhite]Home Alone 1[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/uknthxh5ckq1::LISTNAME:[COLORwhite]Home Alone 2 Lost In NY[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tlenlutssiub::LISTNAME:[COLORwhite]Home Alone 3[/COLOR]::#   
+sublink:LISTSOURCE:https://mixdrop.co/f/rwgk76ngbxj9ln::LISTNAME:[COLORwhite]Home Alone 4 Taking ack The House[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/xopgxw9ltwde14::LISTNAME:[COLORwhite]Home Alone 5 Holiday Heist[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Homeschool Musical Class Of 2020 (2020)[/COLOR]</title>
 <link>

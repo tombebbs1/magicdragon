@@ -1,3 +1,15 @@
+<item> 
+<title>[B][COLORwhite]Celebrity A 21st Century Story[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/4n4pwr9pb460q3::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/9n6kmvxkb1zeel::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/zpqg3zj6i4ngkg::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://mixdrop.co/f/gn4gvkdru4krmv::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/zEmDKYwZ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]The Stand (2020) SO1E03[/COLOR]</title>
 <link>

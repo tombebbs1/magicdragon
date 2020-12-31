@@ -27,6 +27,28 @@ sublink:LISTSOURCE:https://real-debrid.com/d/O247IE7BO74QU::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Nomadland (2020) Screener[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/h830tb3let34::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/k11pijbumb5d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EO4TWLBW52ZBY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eYMeV0DQuAkugB3TVBZBe2rEXka.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Promising Young Woman (2020) Screener[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tvfwmhec032r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UVAQK3GSV3M66::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/cjzU4g6SlScnP4MdkleyI25KGlR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]We Can Be Heroes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/6m8lccixk0x9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

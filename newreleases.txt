@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Nomadland (2020) Screener[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/h830tb3let34::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/k11pijbumb5d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EO4TWLBW52ZBY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eYMeV0DQuAkugB3TVBZBe2rEXka.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Promising Young Woman (2020) Screener[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/tvfwmhec032r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UVAQK3GSV3M66::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/cjzU4g6SlScnP4MdkleyI25KGlR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]All My Friends Are Dead (2020) Eng Subbed[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidlox.me/rhidx0m0fymn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

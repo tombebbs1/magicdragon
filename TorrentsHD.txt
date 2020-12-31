@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pixie (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/qzbw08faa1kq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/wyv28ooltlbw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GFDC7V2SKNG7U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/pOg8XNAuqXdE7VcAlVo2VdpOuej.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nomadland (2020) Screener[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/h830tb3let34::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

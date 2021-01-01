@@ -60,6 +60,17 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item> 
+<title>[B][COLORwhite]Lord Of The Rings Trilogy Extended Versions[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/tzqalt5ft8pa::LISTNAME:[COLORwhite]Fellowship Of The Ring[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ukzz215osmog::LISTNAME:[COLORwhite]The Two Towers[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/b4ssi9hefvqj::LISTNAME:[COLORwhite]Return Of The King[/COLOR]::#   
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Meteor Moon (2020)[/COLOR]</title>
 <link>

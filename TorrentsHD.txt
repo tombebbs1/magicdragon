@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Meteor Moon (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/cmv40phyxqzi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dqu5ydzp5ze4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FW3HB4VXCM6QO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/aWjThx6MV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shadow in the Cloud (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/40p0fw51x1za.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/3mpuvn827jf3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IWHO7MKVFEWIU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Homeschool Musical Class Of 2020 (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/1vycp56kxot7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

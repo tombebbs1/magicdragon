@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Minimalists: Less Is Now (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/6q3ld8vkiddzgx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/6q3ld8vkiddzgx::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/9Dd0MeKXA0doqEiV73xgGz9Bk5r.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Heroes On The Front Line (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/pknpd9nlfmdrj9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

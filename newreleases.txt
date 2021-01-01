@@ -61,6 +61,17 @@
 </item>
 
 <item> 
+<title>[B][COLORwhite]The Hobbit Trilogy[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://vidlox.me/uitt52q2vvxg::LISTNAME:[COLORwhite]An Unexpected Journey[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/pknzzwl7bxedoj::LISTNAME:[COLORwhite]The Desolation Of Smaug[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/wn8dd37wc31og7::LISTNAME:[COLORwhite]Battle Of The Five Armies[/COLOR]::#   
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]Lord Of The Rings Trilogy Extended Versions[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://vidlox.me/tzqalt5ft8pa::LISTNAME:[COLORwhite]Fellowship Of The Ring[/COLOR]::#

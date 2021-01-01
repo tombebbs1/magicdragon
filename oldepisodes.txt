@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Cobra Kai Season 3 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/I6QI2BH52LWDS::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZK4ODW7RKJKOW::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I2DZDXJV5MKIW::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KWCC2ACNI7PFY::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HYDM6ZLAVMS7S::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5FDISGUDSG2A6::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KVZZKM4TXFPVW::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/44UFSBRXBBVW4::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EF6BJP2OABVIC::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GIPVBCNN7K32U::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/obLBdhLxheKg8Li1qO11r2SwmYO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Cobra Kai Season 3[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/pk7yonopeahq::LISTNAME:[COLORwhite]01[/COLOR]::#

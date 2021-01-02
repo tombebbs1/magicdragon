@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Thor: End of Days (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/sf0j9fg5tgev::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/z37g9lteuqny::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JS67LIZXDODVC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/lxC8I.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bloody Nun 2: The Curse (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/be6vadtqjink::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

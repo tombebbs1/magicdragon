@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Taking a Shot at Love (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/i9rasealixxp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8m6bxq6f8h9q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BQOAL4UYTU6HE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFl5lpsCa5sd85y6FCiUfTt8OIL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blade: The Iron Cross (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/jmkz1auox8sg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Name: Human (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidoza.net/95syrb3ar2d8.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/4n4r1lnmamxped::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BU7EVWKLBU27K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppX6Pt3SFyBPfbUfmT0A9V00PLC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lil Ceasar (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/95syrb3ar2d8.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/6q3lzj9rik3on8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BEPONLTU3TTF2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6kYcd8OH2bQnHfZRUU9drA4ZcV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Thor: End of Days (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/sf0j9fg5tgev::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

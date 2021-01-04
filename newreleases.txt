@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]COVID-21: Lethal Virus (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/git18zqysphd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sm4jy8dkmupv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CK476WJR474BS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z8wVwHtFXbRWP2dwVPTj9906HS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]SARS-29 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bxgoisrmlwib::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ivafyl1e7d84::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PBLC4IJ5DXHAW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0emjDjOoqINtoFrtPnJ3g0RJHb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Taking a Shot at Love (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/i9rasealixxp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Chasing the Rain (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/hohgtgqcf2u7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/n0gpevqwh9lnl4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LYZSRTZ3VQLW4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1Fo6ccx0nJOUONYLIIP7RwCws.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]COVID-21: Lethal Virus (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/git18zqysphd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

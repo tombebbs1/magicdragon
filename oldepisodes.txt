@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Watch (2021) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/0zjsxin5yz7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VJJ35Y6P4JM3E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/y1AWUlJUxsnwEiC0gTfP2nUZ9c5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Power Book II: Ghost (2020) SO1E10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/n0gpz6kqtl1zlwv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love is a Piece of Cake (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/aenc77dp0pl7.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/j943zxozu7774rv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S24ZOMRWH2IJ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hFs07dWsTWKFBKuECblMSScu2FV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Algorithm: BLISS (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/qpy5xbr21htq.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/1vg64xxrs3po16::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6PVJOSRHHAVMI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oX1jdRvgTWniLQBRfJ9ei9G0IJc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Flood (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/sofoakpo97y3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

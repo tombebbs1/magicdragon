@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/hxaymfztlr2b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5M5MV3JRXQJHK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Watch (2021) SE01EP02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/0zjsxin5yz7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

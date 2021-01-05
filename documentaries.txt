@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Robin's Wish (2020) Debrid Only[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/ygahu51b9one::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QPMWGI3FIIQWS::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLmuW6tlMbTDnOOYJB94AOnf1GI.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Trumphobia: What Both Sides Fear (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/md4qzdg9s878mq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -1961,14 +1971,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SZQDKNIJLRC5O::LISTNAME:[COLORgreen
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Robin's Wish (2020) Debrid Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://real-debrid.com/d/QPMWGI3FIIQWS::LISTNAME:[COLORgreen]HD  LINK 10[COLORred] TORRENT Real Debrid Only[/COLOR][/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLmuW6tlMbTDnOOYJB94AOnf1GI.jpg</thumbnail>
-<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]From Bedrooms to Billions: The PlayStation Revolution (2020) Debrid Only[/COLOR]</title>

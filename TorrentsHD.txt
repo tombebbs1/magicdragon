@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lena and Snowball (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bgf76zpeg7w5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/lehjmeg13z2f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZUVOZPNVNPUDK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Llw9iGzmObrbdv5CAeb3DYVXdv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]American Dream (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/utnnadeh41n9.html::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/klpvrhhbx6jw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OYO3EF54GEA4G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mriIrIbBJb9JtwhLf48MzvvQr6h.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ben 10 Versus the Universe: The Movie (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/cggw10n9s70k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/bhix6t08h428::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KO5LJSYQUOGQG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Chasing the Rain (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/hohgtgqcf2u7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

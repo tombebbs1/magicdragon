@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sangre (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/5uibvs1mohzk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/4e68f031uun8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2ZCUZEE5ZQTZE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/Leh4F.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Serpent (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/5uibvs1mohzk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Stand (2020) SO1E04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/q786toemefer::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E2DVLORVOQSCM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Simpsons SE32E11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/hxaymfztlr2b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

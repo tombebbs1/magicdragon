@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Thousand Cuts (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/4uzfyfwcjvc8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4QAK74RL3TX4Y::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lRIFueMLf8aDgtrsVCYIxFrhYSI.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]4 Presidents (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/tmakjc59iyks::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

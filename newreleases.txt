@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]To: Gerard (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/dukd6xg131ex::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/359d624klzqk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4WKCRMT5C72NC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8tcZ1jNgXHUHfo8PuJdqIhxTYNf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]HERO Inspired by the Extraordinary Life & Times of Mr. Ulric Cross (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/b8e1fk7q59o5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

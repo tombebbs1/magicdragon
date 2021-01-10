@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Marvel Studios: Legends (2021) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/qc4hn6yc3p70::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RF73ZP6IPBA3Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Marvel Studios: Legends (2021) SE01EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/g6r21xla645i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3SDHWJZPMG6DY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Gods SE03EP01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/xuhkjfaxffef::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

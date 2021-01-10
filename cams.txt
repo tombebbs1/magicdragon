@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Dry (2021) HDCAM UPDATED 10/01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kh1lu0zb88pp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/k2chuf445am5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0vozd9wzb6lz30::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YPPWRco8dTSmtj3LkVdSbyuQvK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Monster Hunter (2020) HDCAM UPDATED 10/01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/ynyg5shk1hni::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

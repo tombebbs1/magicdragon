@@ -38,6 +38,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OY2QCSVRYQU4K::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Meteor Man (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bswlc2wq5dog::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0711x1jbzzby::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RBMBHC3UUVEEG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fatale (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/2dwyovdyhbb6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

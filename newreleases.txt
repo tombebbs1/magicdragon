@@ -61,6 +61,36 @@
 </item>
 
 <item>
+<title>[COLORwhite]Star Wars Movies In Chronological Order[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/4f14vu2y3rwb::LISTNAME:[COLORgold]The Phantom Menace[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/nqnc4a60oakx::LISTNAME:[COLORgold]Attack Of The Clones[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/evkxdxs4kq0x::LISTNAME:[COLORgold]Revenge Of The Sith[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/oi3aqeggauhq::LISTNAME:[COLORgold]Solo A Star Wars Story[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/6afrkvbcylok::LISTNAME:[COLORgold]Rogue One[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vo188th6benr::LISTNAME:[COLORgold]A New Hope[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/c4z7d9512ct5::LISTNAME:[COLORgold]Empire Strikes Back[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wfzsn5kyxvzz::LISTNAME:[COLORgold]Return Of The Jedi[/COLOR]
+sublink:LISTSOURCE:https://vidlox.me/9l46xle1s3re::LISTNAME:[COLORgold]The Force Awakens[/COLOR]
+sublink:LISTSOURCE:https://vidlox.me/thixcxo5d8b4::LISTNAME:[COLORgold]The Last Jedi[/COLOR]
+sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Rise Of Skywalker[/COLOR]
+</link>
+<thumbnail>https://static.wikia.nocookie.net/starwars/images/d/d5/TCSBluRayBox.jpg/revision/latest/scale-to-width-down/500?cb=20110707065133</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Meteor Man (1993)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/bswlc2wq5dog::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0711x1jbzzby::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RBMBHC3UUVEEG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d30mZVOrY8n5KCvwaPkiQEFv1tc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Intergalactic Adventures of Max Cloud (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/vhyavujdq4gv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

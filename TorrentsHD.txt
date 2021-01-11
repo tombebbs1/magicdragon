@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Darkness Waits (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/nwua84pfi4es::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/in86sep66f9i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AQDGQLZNYWEC2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7ENSPKbRUjpWGoKwMZ87BwYY97P.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Let's Not Meet in the Woods (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/c2amx2mdw3kj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q41e9650wrn6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q41e9650wrn6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rPxfnJ2eQt9J218U1ZYC7VQ2NW8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Peace (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/ydh6vsjuu1pd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -24,10 +24,10 @@ sublink:LISTSOURCE:https://vidlox.me/oi3aqeggauhq::LISTNAME:[COLORgold]Solo A St
 sublink:LISTSOURCE:https://vidlox.me/6afrkvbcylok::LISTNAME:[COLORgold]Rogue One[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/vo188th6benr::LISTNAME:[COLORgold]A New Hope[/COLOR]::#
 sublink:LISTSOURCE:https://vidlox.me/c4z7d9512ct5::LISTNAME:[COLORgold]Empire Strikes Back[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/wfzsn5kyxvzz::LISTNAME:[COLORgold]Return Of The Jedi[/COLOR]
-sublink:LISTSOURCE:https://vidlox.me/9l46xle1s3re::LISTNAME:[COLORgold]The Force Awakens[/COLOR]
-sublink:LISTSOURCE:https://vidlox.me/thixcxo5d8b4::LISTNAME:[COLORgold]The Last Jedi[/COLOR]
-sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Rise Of Skywalker[/COLOR]
+sublink:LISTSOURCE:https://upstream.to/wfzsn5kyxvzz::LISTNAME:[COLORgold]Return Of The Jedi[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/9l46xle1s3re::LISTNAME:[COLORgold]The Force Awakens[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/thixcxo5d8b4::LISTNAME:[COLORgold]The Last Jedi[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Rise Of Skywalker[/COLOR]::#
 </link>
 <thumbnail>https://static.wikia.nocookie.net/starwars/images/d/d5/TCSBluRayBox.jpg/revision/latest/scale-to-width-down/500?cb=20110707065133</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

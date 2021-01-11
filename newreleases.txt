@@ -60,6 +60,8 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+
 <item>
 <title>[COLORwhite]Star Wars Movies In Chronological Order[/COLOR]</title>
 <link>
@@ -76,6 +78,28 @@ sublink:LISTSOURCE:https://vidlox.me/thixcxo5d8b4::LISTNAME:[COLORgold]The Last 
 sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Rise Of Skywalker[/COLOR]::#
 </link>
 <thumbnail>https://static.wikia.nocookie.net/starwars/images/d/d5/TCSBluRayBox.jpg/revision/latest/scale-to-width-down/500?cb=20110707065133</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blueprint to the Heart (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/svmd21kuz3os::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/p8v37sipsyh0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2XJDUWKZBWZGM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmfatN6QZiDbPGi4uuRyEqz6x66.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Matthew Bourne's Romeo and Juliet (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/0gswz9v3pnrp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/12ym9r3ygmxc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WZSHR4YHCG3EM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmfatN6QZiDbPGi4uuRyEqz6x66.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

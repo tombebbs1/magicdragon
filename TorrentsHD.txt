@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Intergalactic Adventures of Max Cloud (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/vhyavujdq4gv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cbktekx3xzg4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7HVZKBZCSJLOU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/usCakos3dls4LVJ00kP6YzVmIyI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Body of Water (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/8hjqi0a6q5rm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

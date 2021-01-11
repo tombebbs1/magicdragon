@@ -45,10 +45,10 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FJNOSCVNJMVHC::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Blueprint to the Heart (2020)[/COLOR]</title>
+<title>[COLORwhite]Blueprint to the Heart (2020).[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/svmd21kuz3os::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/p8v37sipsyh0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/embed-p8v37sipsyh0.html::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/2XJDUWKZBWZGM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/riK3cYyQFMctJbTQ8NgZH7F5UhZ.jpg</thumbnail>

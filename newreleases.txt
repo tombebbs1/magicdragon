@@ -82,6 +82,17 @@ sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Ris
 </item>
 
 <item>
+<title>[COLORwhite]Batman: Soul of the Dragon (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vyuscnzrto1q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0obvbbpd1vtx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JDSNW3XKN5VIQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xQKQVPD0oCMUTNLqswhR8BqaxeU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bright Hill Road (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/p2042kfcmocx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

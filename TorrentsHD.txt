@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Battle in Space The Armada Attacks (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ery8d0oidd5p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vngdwkn9015q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CPNF2YQPSDEWM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2gM5PP0EAGz4iKN1AcuOzSBumC1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Horizon Line (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/9xjyap0k5bzw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

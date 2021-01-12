@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Bid (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/4i1k0mz5f490::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y6fbqts1nb3b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3I6NM44SAOOHY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tqKXR9WGCkYz2nQLLDJKwJC8Oa8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Thief (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/67svrg00p2va::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

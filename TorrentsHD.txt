@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Butchers (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/btmw0e82qvvy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yyh97n9x6h8i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HH5ZM5ZN3DGGQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/UpkndL5f4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bid (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/4i1k0mz5f490::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

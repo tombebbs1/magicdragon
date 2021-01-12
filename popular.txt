@@ -79,6 +79,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/7XXEAWVDWMIVI::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Redemption Day (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/q2s4s461lhnp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xnu2wbp9btfr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JISHVR6X4HWDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nrWxtM9YbW74PPStSScd5V0lhBM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nomadland (2020) Screener[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/h830tb3let34::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

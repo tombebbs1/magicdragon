@@ -124,17 +124,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QN7YLFAUJRRCQ::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Horizon Line (2020) HDCAM UPDATED 13/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/p1zat33ooxgu/horizon_line__official_trailer_%5Bhd%5D__coming_soon::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/6trbkco9yyhs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/E5Z2GQP36JFXM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Saint Maud (2020) HDCAM UPDATED 10/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/3b3dx6e7myzo/saint_maud__official_trailer_hd__a24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -145,16 +134,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FZL2YLDRVI5RK::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Synchronic (2020) HDCAM UPDATED 31/10[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://vidoza.net/tf0j83wyoklo/the_empty_man__official_trailer__20th_century_studios::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/18ythqwxntjw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/KME7U2WF6OFBQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN1QOOF93KtLPekUEIZ529TrGxl.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]2 Hearts (2020) HDCAM UPDATED 26/10[/COLOR]</title>

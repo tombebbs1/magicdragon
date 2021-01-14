@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Promising Young Woman (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/49wlbwyqigms::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ECL4C47XAEU2A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/cjzU4g6SlScnP4MdkleyI25KGlR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]News of the World (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/nzxlqh7xpwxi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -794,16 +805,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/EO4TWLBW52ZBY::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Promising Young Woman (2020) Screener[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/tvfwmhec032r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/UVAQK3GSV3M66::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w1280/cjzU4g6SlScnP4MdkleyI25KGlR.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]All My Friends Are Dead (2020) Eng Subbed[/COLOR]</title>

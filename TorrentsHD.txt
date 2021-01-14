@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Locked Down (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/oq7qgl8htl4l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q5dp5d3ly5p7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PKXMPEY5DKI74::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://image.rlsbb.to/images/6158a2a25ca99947ec1067521d1f700b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Hunted (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/g9rmjqqzz6f8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bkgyyh2g7jhl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CJGV6TMCVXIMY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xaBQtD77FeD6JmFFckzJpLHGxsx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Promising Young Woman (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/kc81or0pwa3i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -82,6 +82,39 @@ sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Ris
 </item>
 
 <item>
+<title>[COLORwhite]Outside the Wire (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9cltsnera0kz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/90oygv2ag2sn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M4WEM4OVBHBDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yPUXrxTFYV7nShGQPXzjXHHP4lF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Lost (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/js2q30ugq5bj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/s0rvb9moi6i6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3LZOIHFNAGEUK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/fUQDOmeh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Goodbye, Butterfly (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/z0hrzr8bed0g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/2d1xq8h5jky0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WW7LNJJC76YRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iT6vO2BeI15psH8LiLiBVI9nZAK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't Tell a Soul (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cgntmtw0h3wy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

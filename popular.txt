@@ -90,6 +90,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PKXMPEY5DKI74::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Outside the Wire (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9cltsnera0kz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/90oygv2ag2sn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M4WEM4OVBHBDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yPUXrxTFYV7nShGQPXzjXHHP4lF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]One Night in Miami... (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/a0i5lepdcqm2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

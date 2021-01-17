@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]American Gods SE03EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/37slvmb81sup::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4C42IUMVHXL66::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Your Honor (2020) SE01EP07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pqh3rgn97csv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RZSCQQ5UU7JUA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEIh0kQ656fObMtOoj1itTMGrZn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]WandaVision (2021) SO1E02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iv5owf01wtva::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Celebration of the Music from Coco (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/rhistp9spxsc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CTCZXFNAO27AQ::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxSdUi8OZZYerwjBRbbFT3cRZ3T.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Marvel Studios: Expanding the Universe (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/t0bcd97viiwg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EZ5OCCCGAQ3CS::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dU7qXzttvOUvSlwwpEFQDsLnThK.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Healing From Hate: Battle for the Soul of a Nation (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/4n4vvg0xuqkd1nq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

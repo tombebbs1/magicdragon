@@ -52,6 +52,15 @@
 </item>
 
 <item>
+<title>[B][COLORblue]Christmas Movies Updated 2020[/COLOR][/B]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2020.txt</externallink>
+<thumbnail>https://c.files.bbci.co.uk/6682/production/_112924262_greatgrottos-01royaltunbridgewells.jpg</thumbnail>
+<fanart>https://c.files.bbci.co.uk/6682/production/_112924262_greatgrottos-01royaltunbridgewells.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]24/7 Movies[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>

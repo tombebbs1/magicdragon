@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The House in Sherwood (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x8m62m2c9iet::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/371tlxei9uxg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/55MYPVAJ3UCNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e9uDnoDsqeVuEpuJBtaYh0GGMQo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wrong Mr. Right (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/y4z7icb0ad6y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

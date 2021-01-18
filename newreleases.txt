@@ -82,6 +82,28 @@ sublink:LISTSOURCE:https://upstream.to/i6wtmqono5uv::LISTNAME:[COLORgold]The Ris
 </item>
 
 <item>
+<title>[COLORwhite]The Midas Touch (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/e4f8a5rfcgiw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zb6z1baakegu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2JE74U77IJY7Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPl4CrT7hcJAZUavAMKauZRrW0I.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bigfoot: The Conspiracy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/p98t9xpkkuw0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/ggx6cyctlnap::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HDDMZ7XPZ2AQG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/agyzONY8w931Yh2ZqXziK0Vui1I.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blithe Spirit (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/15s7ab3ngebj/blithe_spirit_trailer_2020_judi_dench%2C_isla_fisherie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

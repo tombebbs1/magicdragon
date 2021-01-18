@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Tiger (2021) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/s1g6vbxlc9rc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2IF56T66S4TEW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pXXBiCt4MjlSeXUjU8VP7X9LAUF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Family Guy S19E10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5kdwoy9j9qh0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

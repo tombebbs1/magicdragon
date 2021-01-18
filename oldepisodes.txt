@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/o0zc9t0ubd0n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YODKD3ZS3CQ4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tiger (2021) SE01EP02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/s1g6vbxlc9rc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

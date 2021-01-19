@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bring Me a Dream (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x81q1efr8pcn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2kkn65vb8j9i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FGMEKCZZAYRMW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oWHNhAQBT47cAX2TSIeDRbVmrob.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ten Minutes to Midnight (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gqf3slygx44g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/glax3zw7k6fp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AJ42B4CTDQLPY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t5BHQG4t1MncTyMH1yLV1YDNnTb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Council (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kdsoxp7an4me::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/6q3p1qv8sgx609::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CAIALOK675ZMA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jpejpREBcyJrgoaGHoGtR93DhU1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]32 Weeks (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/q6wq3al02qp6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/v22u0u27bbwg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ABBSY2C4QO32U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKXAnLdy32IPilze5pFNdDeeulx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Midas Touch (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/e4f8a5rfcgiw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

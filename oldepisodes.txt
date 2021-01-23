@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Pixar Popcorn (2021) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6AFMGSCOW27VK::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N3PXKFR5IBCAM::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SQ4ZVMODTA5VS::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GEZNDAUEW3F3W::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CP7IAOFSKQ5ZS::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K6QJRPYNDGRQG::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WAATLJWEORITA::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IF5RPOY3GTP6Y::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UXSOBH3J4PJLI::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/75CBHPRQIOWHA::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pRpwcEKPvsj0WKbhrowQbyy4bIg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]WandaVision (2021) SO1E03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9df3e4z564cn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

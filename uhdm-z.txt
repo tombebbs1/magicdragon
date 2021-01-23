@@ -332,6 +332,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:7436b62bff8a41173b9186d4f2fd8564fb31122c&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]News of the World (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IUO6BCU2N4ZHQ::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Night School (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
@@ -462,6 +470,15 @@ sublink:LISTSOURCE:https://1fichier.com/?5cg19bakqaxgns2boltv::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc4MTU4YzEtODBiNC00NzA4LTg0NGItM2ZhZjZlNDFiNjJjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Outside the Wire (2021)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MQBOPFUR6OMWE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e6SK2CAbO3ENy52UTzP3lv32peC.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -596,6 +613,15 @@ sublink:LISTSOURCE:https://1fichier.com/?ffdca43lxtgk5jfwglzb::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDE0MWE1ZTMtOWFkMS00YjdiLTkwZTItMDljYjY3MjM0NTk5XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pieces of a Woman (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/L6Y5LJYIYAQWK::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -1911,6 +1937,15 @@ sublink:LISTSOURCE:https://1fichier.com/?1nd0uuqwioa62os68fui::LISTNAME:[COLORgo
 <title>[COLORwhite]The Do Over 4K [/COLOR]</title>
 <link>http://uptobox.com/ae5p61b1h93t</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyNDY2NzAxNV5BMl5BanBnXkFtZTgwOTMxMzg2ODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Empty Man (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AOP5EFG3DPSZQ::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukUS2Qh4SxrwYdSk0fvDsI61dqB.jpg</thumbnail>
 <fanart></fanart>
 </item>
 

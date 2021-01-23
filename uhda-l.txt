@@ -1771,6 +1771,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:2dbf9508422a5a7cb029c80100d76c2800bc0c75&
 </item>
 
 <item>
+<title>[COLORwhite]Fatale (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/O7Q5GCIMP6VBW::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9v43jAAfCYcQEgeMJ1H0rghN0of.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ferdinand (2017)4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://uptobox.com/sb41d01p2kg0::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

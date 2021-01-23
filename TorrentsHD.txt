@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Get Luke Lowe (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/de752zpeo9nw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/sh311muc7j3e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ONYWQFVZLR5OY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/blcwvM1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blind Truth (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/de752zpeo9nw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

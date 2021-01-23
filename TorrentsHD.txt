@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blind Truth (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/de752zpeo9nw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/c05xku0revei::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HEKTXZAMDO43M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44dRhjMOzj0tmOiDnpR0SRbNaJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wrong Prince Charming (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/xehs9ts4cts5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

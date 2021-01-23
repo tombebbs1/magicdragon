@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Pixar Popcorn (2021) Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/miab5d2hyr2r::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/a3qumafbkhmh::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uoewrycduzhx::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cznlmelhpq15::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dg9i3r0entsb::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h5aj9cwcn7ga::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h7jdqhdj0tfd::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pnst9n13lgyt::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0u4gn1ox7qus::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/27mg3t6sfkow::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pRpwcEKPvsj0WKbhrowQbyy4bIg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Pixar Popcorn (2021) Season 1 Debrid Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/6AFMGSCOW27VK::LISTNAME:[COLORwhite]01[/COLOR]::#

@@ -3127,6 +3127,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:a7cd6aeea7443a075197034fdda8ce8a26287f88&
 </item>
 
 <item>
+<title>[COLORwhite]Love and Monsters (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/SZ5ZIWLGFTDDG::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love, Simon (2018) 4K [COLORred]4K[/COLOR][/COLOR]</title>
 <link>https://1fichier.com/?5gj4khhvakk0m348voiw</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTMyZDdiMzUtZjcxNS00Mjc3LTljY2UtYjI4YmY5NzJlYjc1XkEyXkFqcGdeQXVyMTA5OTkwNTc@._V1_SY1000_CR0,0,677,1000_AL_.jpg</thumbnail>

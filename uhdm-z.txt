@@ -436,6 +436,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:d59df505961f707ce1b9cc1e629272ff12c301d3&
 </item>
 
 <item>
+<title>[COLORwhite]One Night in Miami... (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/IDQT7OASZ64LO::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rfIOzedY6LFzdWTeNnIkmxAiLCg.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Only the Brave (2017)[COLORred] Debrid Only 4K [/COLOR] [/COLOR]</title>
 <link>https://rapidgator.net/file/8fff2f52869502bfa09b994034a95f2f/Only.the.Brave.2017.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv.html</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYWFlOWI3YTMtYTk3NS00YWQ2LTlmYTMtZjk0ZDk4Y2NjODI0XkEyXkFqcGdeQXVyNTQxNTQ4Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>

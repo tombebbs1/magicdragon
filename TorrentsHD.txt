@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Winter Getaway (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/t8y1jcwah17z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q84cs4wm9a8h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SZRWGTMJZ3T4O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xmVjQkfaRn4D8M9g0PNyApuZy3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Get Luke Lowe (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/de752zpeo9nw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

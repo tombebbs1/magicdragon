@@ -57,7 +57,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/AVELKGE5O5DXQ::LISTNAME:[COLORgreen
 <title>[COLORwhite]David Byrne's American Utopia (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fe51dkzmk10n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/fe51dkzmk10n::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GFAKFVFXVSKIY::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sHVeVCNhlY2asvoGsSMP5HOLbCI.jpg</thumbnail>
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>

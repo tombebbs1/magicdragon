@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Circumstances 2: The Chase (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/19o4errj7lob::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/8tr5s80jsoiy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5WAPF6LYFBJOW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/1L7UeF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Winter Getaway (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/t8y1jcwah17z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

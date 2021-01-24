@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]American Gods SE03EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cyrlvi05zusb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EK5NW52NRGNQK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]UFC Poirier Vs McGregor[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xnv5pg7okyj3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XOFHK3GZZZLDW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/kiISjgKJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Pixar Popcorn (2021) Season 1[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/miab5d2hyr2r::LISTNAME:[COLORwhite]01[/COLOR]::#

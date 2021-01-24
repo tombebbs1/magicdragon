@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Troublemaker (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/nohvglfpwk14::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/nohvglfpwk14::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tfOSJsb0zwaPwdOqJQdyVtDszSr.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]David Byrne's American Utopia (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fe51dkzmk10n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

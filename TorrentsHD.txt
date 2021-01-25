@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dark Whispers - Volume 1 (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/lzm9bvvxcdzu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3hs8pb4d2wva::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FWPHFG3RVQEUQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4u7T30VqMof9Rv1f3gPv92dHMbV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Elfkins - Baking a Difference (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/lzm9bvvxcdzu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

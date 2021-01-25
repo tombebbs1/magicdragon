@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2wwzm7ljypjm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JYVMDMIH4XSLO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Gods SE03EP03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cyrlvi05zusb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

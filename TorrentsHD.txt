@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]In Sickness (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/p50hjgrk9u4x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZZHFWMPRVDJF2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/lrq8v0Omkz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dark Whispers - Volume 1 (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/lzm9bvvxcdzu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

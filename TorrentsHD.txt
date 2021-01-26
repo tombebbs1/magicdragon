@@ -34,6 +34,61 @@
 </item>
 
 <item>
+<title>[COLORwhite]Trafficked (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6w9mxx9ly3qv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XLW6VIHC2ELZA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l1Grilu98l7DoP4sP8FXXx47khl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Simmer (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/19sudclvs41i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KPAMX47IH7QWA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/ZeaQ4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Respite (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ihl478tfxaop::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QARUQSAVUTV5S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvXQ0Q0Tx4S8326yACe9GkZRsXm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Magic Max (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/dc4z25sc1e58::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AKKBE3ET63I7Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8YoJLEXcTRC3YvMTqpeajVLXCL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ghost Light (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://vidlox.me/0y7eh76vce8j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HYHQ3H2JWNMAO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/tc2EZAz0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Caged (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

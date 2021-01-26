@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Caged (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9twc9dco5auk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/433MSSLYSM3X4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3KNiO5m9LbhyaOhBY61RP9suYUl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Beware of Dog (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/l6g71q78smx469::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NRPROVTTCIBKO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lIC7J49YAvXON1pl9LWL0CuCRfj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Curse Of Denton Rose (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/92pk60ukvcrr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

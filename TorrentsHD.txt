@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Right One (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/416cwrj7i5br::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/roqr6kmd9b1y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D2DMNQ2B4XY64::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dAKqq0NKuWcQ2YnqVSb5RfGJA74.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Huey (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidlox.me/dc4zqng8uxsg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

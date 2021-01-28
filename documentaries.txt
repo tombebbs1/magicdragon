@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lost: MH 370 (2014)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/j0cq999ffo9j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LVAMBRNDYXGBC::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/prk8XTIQjo6XcQAqoAjb33Ha1Ld.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Creepy Line (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/16i3s46vqis5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

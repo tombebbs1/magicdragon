@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Creepy Line (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/16i3s46vqis5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QFSMEIA3AB7JU::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6QBIcUtWw6KiCt9noBLcFcDXL7j.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Rise of the Trolls (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/m2w1s2y62yvu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2NFE2C45MV4HY::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpzUIBtJH9aKZsaZMpzgPLsNc2M.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]UNFIT: The Psychology of Donald Trump (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/k9exjxocbojy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Haymaker (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c5bk61h0xuvc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/013ecwh8b3xb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WWYZNIOQTUU66::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s7PcoC8urEDpfgQfX4DBiIfOwnp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Palmer (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1nw6dj4up8yy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -522,6 +522,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:0f73208ab4d4943c85cce87d8f4f5c3e5ef079c5&
 </item>
 
 <item>
+<title>[COLORwhite]Palmer (2021)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/TR7OSW4DLEOVO::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pandas (2018)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/G6W5TV2XZFIKM::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -2392,6 +2401,15 @@ sublink:LISTSOURCE:https://1fichier.com/?h9au187zega917sq0ufa::LISTNAME:[COLORgo
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgzMjM1NDY5MV5BMl5BanBnXkFtZTgwNTkxNDk2NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+item>
+<title>[COLORwhite]The Little Things (2021)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YCPZK2TWTVMMK::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ihJ0yr7v6YqP6zvPVpPKUrOuQ3.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

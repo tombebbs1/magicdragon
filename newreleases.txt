@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Little Things (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n6x8akxkjwfg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/kngggwe4f3d1891::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I3R6C5YQRFPUS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ihJ0yr7v6YqP6zvPVpPKUrOuQ3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Haymaker (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/c5bk61h0xuvc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

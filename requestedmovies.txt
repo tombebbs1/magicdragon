@@ -1,8 +1,8 @@
 <item>
-<title>[COLORwhite]As the Gods Will (2014) Debrid Only[/COLOR]</title>
+<title>[COLORwhite]As the Gods Will (2014)y[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidoza.net/45dqf4gg9h00/::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://vidlox.me/709sswhqg777::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z4zonils7zmg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/LN7II7BB2OHVW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s1AClIF80ozU3ztbmrOG4pDbkaz.jpg</thumbnail>

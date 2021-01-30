@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cold Night (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/2mm5r4gqgr4u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/84vv6m0jtr9z96::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GT3KQRZU5SGXM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8jGrHZL4kuqOljCD3vqtwX6LWAg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Get Gone (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2mm5r4gqgr4u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/dq44z7kmcp1j9o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YGZYWT6MVXPHS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/lWZI4ns.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Black String (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ca71tqxp6yv9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

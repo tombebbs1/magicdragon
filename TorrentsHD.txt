@@ -45,6 +45,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BQFYSNETR7VPE::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Entity Project (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/u9bka3rsn92m::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0voonqdxuevjee::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7XQFSKO2NRSRO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/25l6rVUMX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Driftless (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/u9bka3rsn92m::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

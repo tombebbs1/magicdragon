@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Light Up The Night (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/2mm5r4gqgr4u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7rggljv3h94qm9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S2CLS2QTXG66C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/NWrzyBfIX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Ritual (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/2mm5r4gqgr4u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

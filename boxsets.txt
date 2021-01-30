@@ -20,7 +20,7 @@
 </channel>
 
 
-<channel>
+channel>
 <name>[COLORwhite]Alien Boxset[/COLOR]</name>
 <thumbnail>http://www.scene-stealers.com/wp-content/uploads/2011/10/Alien-Vault-cover-image.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/alien.txt</externallink>

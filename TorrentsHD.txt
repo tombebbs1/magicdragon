@@ -45,6 +45,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BQFYSNETR7VPE::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Mummy Resurgence (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u9bka3rsn92m::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/1vggro6phrnn3l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O6HMOCNF3T7IY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/FuKglMq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Light Up The Night (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/2mm5r4gqgr4u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

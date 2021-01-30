@@ -45,6 +45,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BQFYSNETR7VPE::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Black String (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ca71tqxp6yv9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ie10y4i9lx13::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RF3X7WR6HWDIQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AmRX8WLUIm2Lm0i6dQrwmBWjW9A.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rams (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rw7g05dbatvo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

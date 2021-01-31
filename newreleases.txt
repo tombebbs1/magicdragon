@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]E.14 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wbffzk1figvh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/z1kcjjgjegjv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SLHTGWH2G4PHW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/HOkTcZ7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lock Down Love (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/s3mng0701zk3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/0c1x5tc1jdth::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CT2HNH4HA5P5Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/pZRLd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Double Down (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/s3mng0701zk3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

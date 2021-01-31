@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Double Down (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/s3mng0701zk3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/kpq7401ev70d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L5M5DETHSQNNC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/qKPRuDj5Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alpine Lake (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/z7osgle3adzi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

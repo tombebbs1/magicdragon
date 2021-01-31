@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wendy Williams: The Movie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zgv9gqbmlrq5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/z5eblbu1y3tb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SEGZBBEHVOTR4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvzJPBJf87nX4o4FemDyKzAqdY2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dont Give Up (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/wbffzk1figvh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

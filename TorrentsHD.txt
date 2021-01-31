@@ -33,14 +33,15 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
-item>
-<title>[COLORwhite]Free Rein: Valentine's Day (2019)[/COLOR]</title>
+
+<item>
+<title>[COLORwhite]Wendy Williams: The Movie (2021)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://upstream.to/e80m3j3rh4kk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://voe.sx/kpq7401ev70d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/IOEAN3WGEMLJY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zgv9gqbmlrq5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/z5eblbu1y3tb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SEGZBBEHVOTR4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uRAWwdGqnhoi8eFCiHuipymELJR.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvzJPBJf87nX4o4FemDyKzAqdY2.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

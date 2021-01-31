@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Our Friend (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3raebhncygm3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/p3up78tmumzc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TL4B5WRLNPEYS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vg9C5LttsKBqoLuqeQvOXaeBGiD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Light from Light (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vchm048jblus::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

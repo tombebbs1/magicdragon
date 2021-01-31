@@ -45,6 +45,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/IOEAN3WGEMLJY::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Snowkissed (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wbffzk1figvh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/84oamnlf4d1l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EUBGUKILU4VVE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sIuHSfaYy4LDhOcdW6LNf0EZGzR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]E.14 (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/wbffzk1figvh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Great American Lie (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kqvug8f2g7cf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WU67LPWQQ2R66::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g4Mn52EvJCqno2LHsrybGXssbbs.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Life After The Navigator (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nm5lztclk1op::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

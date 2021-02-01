@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Life After The Navigator (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nm5lztclk1op::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OTH2XQ2XEO77S::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iYbYTR3o5H2m4L28U8hsZch7CRd.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fire on the Hill (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cg81i9h0yx30::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

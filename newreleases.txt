@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dead Again (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/urm86h0tkheq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/hc2wpnfc2tcy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BDVUKNW7SUJ36::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Bc7K7sXyEjm2C7Y9MdVQASUcDJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lost Treasure of Jesse James (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cm7ubcnhcnyf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

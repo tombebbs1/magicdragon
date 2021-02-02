@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Human Hibachi (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8y4vw3zva7ke::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/md4eexgwaol4q7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NCOWXR2QLLCDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://image.rlsbb.to/images/b0deba2a8421c2fa0454c55cb2ea273b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]2 Hearts (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nplyfk2hzjd8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

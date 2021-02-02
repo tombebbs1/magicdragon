@@ -63,7 +63,8 @@
 <item>
 <title>[COLORwhite]R.I.P Captain Tom Moore You,ll Never Walk Alone[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://upstream.to/asx12457d87c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/asx12457d87c::LISTNAME:[COLORorchid]Youll Never Walk Alone[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/84v0dg8mt0g8dx::LISTNAME:[COLORorchid]Life Stories With Piers Morgan[/COLOR]::#
 </link>
 <thumbnail>https://cf-images.eu-west-1.prod.boltdns.net/v1/static/4221396001/c354a4f4-2ad0-4b01-8f06-b4a83d7e9b21/c989d125-7aa7-4e53-baf9-3d8c7ba48fa2/1280x720/match/image.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

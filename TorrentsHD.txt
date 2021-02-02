@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]I’ll See You Around (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bk9ka28yuxyu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/dq404ppoan6w9x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GRX6QKKUIP2JC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oUOZRSvM2UeOw7Sr0nbKlbk1vvP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Brooklyn Love Stories (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/82xv1g1zxt45::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/gn4l4pj6sqnve0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4KOUUMEWGBJIE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/IpSCzNkWF2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tulsa (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2j4dn3xdhwnj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Horror Noire: A History of Black Horror (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/qlgeew9js097xn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G5EEHLLO7OFJM::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iTNvR1IwF9v3a7e9MVooT3ZR1GG.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Great American Lie (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kqvug8f2g7cf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

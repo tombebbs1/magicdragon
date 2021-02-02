@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Wrong Turn (2021) HDCAM UPDATED 02/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vbcvl4lccfgq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rz06v5ina3ce::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rz06v5ina3ce::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Marksman (2021) HDCAM UPDATED 17/01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/v9cgdkbm04a6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

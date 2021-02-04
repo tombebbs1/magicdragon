@@ -56,17 +56,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/I3R6C5YQRFPUS::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Outside the Wire (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/9cltsnera0kz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/90oygv2ag2sn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/M4WEM4OVBHBDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yPUXrxTFYV7nShGQPXzjXHHP4lF.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Redemption Day (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/q2s4s461lhnp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -77,7 +66,16 @@ sublink:LISTSOURCE:https://real-debrid.com/d/JISHVR6X4HWDS::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Outside the Wire (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9cltsnera0kz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/90oygv2ag2sn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M4WEM4OVBHBDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yPUXrxTFYV7nShGQPXzjXHHP4lF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]American Skin (2021)[/COLOR]</title>
@@ -112,7 +110,16 @@ sublink:LISTSOURCE:https://real-debrid.com/d/5W7Q2CZCM53GU::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Palmer (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1nw6dj4up8yy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/929tur8hhcq3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6NZOX46VSU4WI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]One Night in Miami... (2021)[/COLOR]</title>
@@ -182,16 +189,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TKALWCJXLZBBC::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Palmer (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/1nw6dj4up8yy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/929tur8hhcq3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/6NZOX46VSU4WI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Wonder Woman 1984 (2020)[/COLOR]</title>

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Stand (2020) SO1E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/p8ej2bny3fyy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2OWKKZ4TBKMVE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Snowpiercer (2019) SE02EP02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1ph216j71m2d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

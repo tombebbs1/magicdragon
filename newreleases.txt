@@ -71,6 +71,50 @@ sublink:LISTSOURCE:https://mixdrop.co/f/84v0dg8mt0g8dx::LISTNAME:[COLORorchid]Li
 </item>
 
 <item>
+<title>[COLORwhite]Bastard's Crossing (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ji4usqhu162r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/s2mfw6ifs0e0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TU3CDNDKKEI7G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2mYhnRxKNibeLNo8HCxjM9z04j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Norman (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bhay3vsajcdp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wrqzgj2ccxno::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JR7Q4KDQDDPQC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pKbLKIuot190XLfNCs9Z5kRx90e.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lena and Snowball (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/foon4m0xf1uo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/almu7xxu9zo8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/POBSAOU5WIKCY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Llw9iGzmObrbdv5CAeb3DYVXdv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Kilroy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cxczhi86vbiz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/kng383l1b4dpne::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B2GZD6GN3RKY2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/yO76x92h.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]All We Got (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/c6mwip17qknl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

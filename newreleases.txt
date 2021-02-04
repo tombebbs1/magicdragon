@@ -71,6 +71,17 @@ sublink:LISTSOURCE:https://mixdrop.co/f/84v0dg8mt0g8dx::LISTNAME:[COLORorchid]Li
 </item>
 
 <item>
+<title>[COLORwhite]A Nightmare Wakes (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/95fv78w4exu5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/j94m8npduqmw9j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JSHSEV54POKVY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fSHKt5CNp5jTitQBoU7HV0KWPKl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bastard's Crossing (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ji4usqhu162r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

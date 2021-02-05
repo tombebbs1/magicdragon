@@ -122,6 +122,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HUT5V23TVILZ4::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Space Sweepers (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/hcr4leai0jjd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/w9bf27tnv800::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MG2EGKR43ZYYY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hO3pz1wHkFveyfFQx8O5Yz8ErsK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bliss (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ui12pqoer0w2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

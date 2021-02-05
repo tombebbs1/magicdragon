@@ -111,6 +111,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/5W7Q2CZCM53GU::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Malcolm & Marie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g3sku1uco13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/wn8onxd0s0xgx1l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HUT5V23TVILZ4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdidDnAZwchN5vTenoNuhGPJTri.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bliss (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ui12pqoer0w2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

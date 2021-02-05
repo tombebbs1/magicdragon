@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Son of the South (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n5hoctpdebjo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/1vg89r86fkwkmdx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PSHGXYDOGC66E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gXVo9o9ho2Cn66ggzE6Ew8bPhtN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear of Rain (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iu4ly48pmggd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

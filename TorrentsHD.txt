@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Red Woods (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/em8gy99vbq57::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/nu2a3nn78sen::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZOTRLSIZLDS6Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmRXhJOcO3q6PgqkhnSLjaGA0RY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mimic (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/najcuk33it7z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

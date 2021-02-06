@@ -100,6 +100,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QPNWLJT3YPQVS::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Palmer (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1nw6dj4up8yy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/929tur8hhcq3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6NZOX46VSU4WI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Run Hide Fight (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rtepttcqpksb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -143,16 +154,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/A4NXTKF4QOTIC::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Palmer (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/1nw6dj4up8yy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/929tur8hhcq3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/6NZOX46VSU4WI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]One Night in Miami... (2021)[/COLOR]</title>

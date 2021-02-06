@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Triassic Hunt (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8u1bwr1fzm1h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/cyhs659xuvl2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HRMZ2I7U3LRD2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7e0mzA0OIHnLpkOfqnSV8ZN6j3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Space Sweepers (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hcr4leai0jjd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

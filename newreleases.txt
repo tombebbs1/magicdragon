@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Earwig and the Witch (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/60edhopy5b3q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lna3vmyk6bxn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CCKOW4DN5K4PE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kRnqqcGDyWyGBg52DnAQpWR4H7z.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Kill Plan (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3flykuawx5rc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

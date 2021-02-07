@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Life and Times of Captain Sir Tom (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ci1fh4aa8u80::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DGWENAOUVRC3E::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDViZGVjNmQtOWQ3ZC00OTg2LTlkMDItYzNlZDBiNDMzMjc0XkEyXkFqcGdeQXVyMjk3ODk1MzU@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Planet of the Humans (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/qlgqnvwnfx7wgxo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

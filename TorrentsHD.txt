@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dolapo is Fine (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/q4dsyxx3akqv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/43k19re57nal::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YVCD2PJOY3MQE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/acCKU75EQMGmuS1uri0lnmqNGYz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Storybook Ending (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/60edhopy5b3q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

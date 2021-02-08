@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wake of Light (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wcomb7ils6xo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/n0gr6q8duxn3m0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TFVHUAXXRIBLI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7zojN6Hqn74EfnPZoUoax9yuSz9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ooops! The Adventure Continues... (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/q9ptx92nhqlo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

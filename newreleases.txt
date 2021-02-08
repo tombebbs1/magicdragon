@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ooops! The Adventure Continues... (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/q9ptx92nhqlo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/l6grjggma8jjod::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4NQ7WLXQN22GA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckcn7tYzqVUABxMZhqHUbaSeLKf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]About Hope (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/s83yljn4aj4d::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Courting Mom and Dad (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/z942lpxvhkuk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/9n601d11cj7r8k::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TZHPXHBVSI37Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/TmGwp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Love You Right: An R&B Musical (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/poi32x0b9nfm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/6q3gp014a9e0nq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3Z444RFJULWP4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ciz43leu3ALrAyWfEQfY32cklhg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hal King (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/z942lpxvhkuk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

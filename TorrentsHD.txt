@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hal King (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/z942lpxvhkuk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hhcxtvjozf35::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P7OX4FC3ASFPQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A88WyVtKCIy35P7Jzu5vc5s2ju1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Expiry (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ejeaod3e8lnu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

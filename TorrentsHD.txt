@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Expiry (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ejeaod3e8lnu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/wn8rk0xohmnl9l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AE6L234HAQDA4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aX3C0CR3fnW2TwVLj5SvVWeDgXd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]PVT Chat (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/69927cim2ti8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/b6onq624dzrj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5NPGXTYTR2QZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGVKI6IrutfugzkztOIyExNigIs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]15 Killings (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g939kxbcgpnl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3qh4y64fdeh5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K4UCETTJHL37Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGVKI6IrutfugzkztOIyExNigIs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sacrifice (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/wxi138mcesmr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

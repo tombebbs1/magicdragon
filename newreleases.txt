@@ -60,7 +60,16 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Faceless (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/y73yc7ji716p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0rez1c3n81sw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/26X2VXFSYWHOI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d0uLZZ56clKhgyLY4dLDJ5ddGCp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Courting Mom and Dad (2021)[/COLOR]</title>

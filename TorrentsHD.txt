@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Godsend (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sauz6n8g2709::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/md4rg4r0i8rnnx:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZENXYUAMWOPIE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apz3l0QsOCJQa1jy8tqLYedPhGk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Breakdown (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/y73yc7ji716p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

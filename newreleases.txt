@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bad Cupid (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x2wcy120658b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/4n4lk8d0spnpng:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SD4JRUOYSXD5E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/0BQyNre.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]I'll Meet You There (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/43kdruiow417::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://upstream.to/8gvvp9so8dlq:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SBCBPSFO2TZRU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jaJtd7TIfo3VFWHFNpZU9I7fi8w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lapsis (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/shk8ada9hrnx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Paradise Cove (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/aoclfehpsn6a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/4n4lknezi8x4ke:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O2I76KURFQC6S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hQh7BZShO0o5odDkBAutTF7lrR9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]I Blame Society (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w4dmvg1jpmuj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+ublink:LISTSOURCE:https://upstream.to/956avkfneisp:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NDN5BKFURMEZI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yToSISAYSaZ9jpCIB9jF0wt7cN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Silk Road (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/f10omxg6jdv0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

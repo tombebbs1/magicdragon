@@ -75,7 +75,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/O2I76KURFQC6S::LISTNAME:[COLORgold]
 <title>[COLORwhite]I Blame Society (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w4dmvg1jpmuj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/956avkfneisp:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/rwgmxgx9uv8zo4j:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/NDN5BKFURMEZI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yToSISAYSaZ9jpCIB9jF0wt7cN.jpg</thumbnail>

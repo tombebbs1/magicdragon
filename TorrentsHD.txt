@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lapsis (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/shk8ada9hrnx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8gvvp9so8dlq:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NZFBLTMXKSBBS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5PL8KCM8MkDCKsaM5YnIsvZAk8p.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Me You Madness (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/29as9llv794t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/onoapppfikiz:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O4MJZODBDMN6W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l48b4R6m9VZ1ArvlFHtlDJnz7PE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Paradise Cove (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/aoclfehpsn6a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

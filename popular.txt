@@ -89,6 +89,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OGZYTBWYWSQOA::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Barb and Star Go to Vista Del Mar (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/laaty26vc831::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/62rjnbjc53z8:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SG4CJK4SZ46FQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0kQFuMSe6ImokuyG9xfRPtWLQ4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]No Man's Land (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/chg9y91sb3o9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

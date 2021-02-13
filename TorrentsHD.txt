@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wrong Turn (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vbcvl4lccfgq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xuvllk8dar87::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BFNVG3DA3CFJU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cowboys (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ixgym3m2ej2k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

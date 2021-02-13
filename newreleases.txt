@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cowboys (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ixgym3m2ej2k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/58ikaq5i9qua:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G2QQAHNXXA6C6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88ddT0lpefhVCwN0hNCA4dH2IKU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]First Date (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/d3tukb9wzkz9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

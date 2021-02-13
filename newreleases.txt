@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]First Date (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/d3tukb9wzkz9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fbp3ykec0wdq:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U5GK5LNXHHVNW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nHSYrkFxuBAJh3bq9UuRYuTu7r.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cry Me A River (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/jh4c9ya5h4wz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/7rg19ne4i8ke6j:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZOOSUVOL4IHJM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zYIZTqomHHOTRRTL13ab5fHEgmB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]To All the Boys: Always and Forever (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jh4c9ya5h4wz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

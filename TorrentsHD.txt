@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]School's Out Forever (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ov88g8kgbjac::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7l4mq37veqt7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B6WX5AMGLJ6RI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7oSb5tqGlKnb8foQYfx4g7vadEe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Galentine's Day Nightmare (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/vbcvl4lccfgq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

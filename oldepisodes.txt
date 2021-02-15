@@ -1,4 +1,34 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pwn5rwxoc0pt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pwn5rwxoc0pt::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Guy S19E11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kd2tao059e4p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kd2tao059e4p::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Batwoman (2020) SE02EP04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zzjrnj9crt5l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2WG55UCJCUDL2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Gods SE03EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ypzeouae9j97::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

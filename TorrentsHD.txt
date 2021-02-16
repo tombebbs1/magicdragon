@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Being Dead (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/ov88g8kgbjac::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/vnvol6zouxreok::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SAFSRMWAMJCAK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6HvEL5dzbv29E7ugQP5xWQyLn3w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]School's Out Forever (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ov88g8kgbjac::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

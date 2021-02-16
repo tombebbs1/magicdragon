@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Weekenders (2021) HDCAM UPDATED 16/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4wngy4wxcev0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qws6i521c19w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qws6i521c19w::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/CA0mgNR8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Land (2021) HDCAM UPDATED 15/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rh1jpp4xn678::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

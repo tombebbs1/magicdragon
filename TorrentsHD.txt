@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://upstream.to/r17gajim2i7h::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://mixdrop.co/f/kng91wnns3g7n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/DA3PV7DFPOQVM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bPY393a6ABPZfmQYrGfBc54vSqi.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIXWeKbKaBTNw2qem5JTaLDv7QK.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

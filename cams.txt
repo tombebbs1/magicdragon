@@ -53,16 +53,7 @@ sublink:LISTSOURCE:https://upstream.to/oxqq5jelhrsr::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Supernova (2020) HDCAM UPDATED 05/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/a9gidt5ubmt5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/g0qz8o3g1d1z::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/g0qz8o3g1d1z::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5n8Qb5Vm01s8UdqI6Brf0J4j6W.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

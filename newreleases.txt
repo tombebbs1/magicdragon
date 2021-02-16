@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Goodbye Seventies (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bx2acbjt9n20::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f9knsc1aui6n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I6LKFYN5I57HI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/126lXmftX2pf0DgzIGhJtTmhO7b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Honesty Weekend (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/sb5kj3pzp3he::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

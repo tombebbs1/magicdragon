@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Palm Springs (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/esf45hwmjv6k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y3khrdzbypdx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XJCW7XJXUKY4E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Return To Splatter Farm (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iap1tqvvmtqg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

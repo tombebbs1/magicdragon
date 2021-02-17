@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Noise in the Middle (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mve6bacbrzs9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h8jcv3mbulw5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UDD7D2CMA4BRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bRYpP4efrMdabr0c3UgBOjo0EdQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Things Don't Stay Fixed (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/stvpyjz8idjg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

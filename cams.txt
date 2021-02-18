@@ -154,16 +154,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/STC2AU45FF526::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Dragon Rider (2020) HDCAM UPDATED 16/10 Debrid Only[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/xnljo8capvyn/dragon_rider_trailer_2021_::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/y9ocxij35jaz/dragon_rider_2020_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4QLCFR67VAUGI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HFnV5JFTcOBr38zmxQjQQ8RATa.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Streltsov (2020) HDCAM UPDATED 02/10[/COLOR]</title>

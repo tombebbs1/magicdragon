@@ -33,6 +33,18 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]The Violent Heart (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/pejzelca3mbj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/pkno7n60ip03n8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U7X2DSLYHBRNE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwx3Fp5b1edsRFfHVVUHypnOOyv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Paranormal Prison (2021)[/COLOR]</title>
 <link>

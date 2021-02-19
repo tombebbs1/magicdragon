@@ -59,7 +59,16 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
+<item>
+<title>[COLORwhite]Dead Air (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/sabl4iw7egfh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ca8w1rqveotx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KYNG4SWZNLVDI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtNHAWUvQjYHvlVrjIuTGRmK8oM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Take Me to Tarzana (2021)[/COLOR]</title>

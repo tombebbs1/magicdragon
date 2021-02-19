@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Clarice (2021) SO1E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/eyc47w0ag9i5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3BQ6NH23G4BWW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Young Rock (2021) SE01EP01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vbbgyy0e00ox::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

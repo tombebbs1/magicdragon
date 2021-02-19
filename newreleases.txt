@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]I Care a Lot (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/vrc4d9as8c7t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/4n41w9d8b39e8e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/J7RAC2YLF7Y3W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Burn It All (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/sebrxq8p86bx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

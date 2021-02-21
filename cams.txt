@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Mauritanian (2021) HDCAM UPDATED 21/02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/lnnpu40zsccf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yqdu1r3gpfel::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yqdu1r3gpfel::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lIADEa6oH74uUapjsPbNRzxus8M.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tom & Jerry (2021) HDCAM UPDATED 17/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/or6y1kg4ygsp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]RAGE (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/gyvdr4w292hr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/3nrvz4l7umzvmq1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3GM2UQQKXTN6C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8CGob5vk8mAJqR2j5FAMDuruWB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dark Figures (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/6nyviyy8nu8v::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/dq46n1jxsqworp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SQIDXH5BYFKDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3uUM6LnBE0ileEuavWNfEn6qqhj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]To Olivia (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/lixfdd3xs36w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

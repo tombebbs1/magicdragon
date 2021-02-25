@@ -399,7 +399,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ECL4C47XAEU2A::LISTNAME:[COLORgold]
 <title>[COLORwhite]Minari (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/z03582sb9znh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/tbtdrps330q9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/wn8gemdec0qe1ve::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/ICN7LX6JB22ZE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/t5vPWN3NdfgexpiacqObfdTtJ5Z.jpg</thumbnail>

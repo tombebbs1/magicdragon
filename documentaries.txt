@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Purple Mountains (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.co/f/gn43x460cw4owwg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FXOBO5YQNHOIW::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l4PePFPgzKpw68wHDE3GsydXlR5.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Connor McDavid: Whatever it Takes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/9n6d8wkkc3q0dzk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

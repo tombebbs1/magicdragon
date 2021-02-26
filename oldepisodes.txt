@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]WandaVision (2021) SO1E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/52jvk0histrz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OZZ2VNM732ULE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glKDfE6btIRcVB5zrjspRIs4r52.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Clarice (2021) SO1E03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/jovmhxvsesxa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UCFHLAXPWURTY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Superman & Lois (2021) SE01EP01[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/8rkc88m3kdy1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

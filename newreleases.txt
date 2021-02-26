@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Little White Snowflake (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/glvw2euh5wv0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/a1ouddyysniz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YU5EQ25HND5TU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gU35JRmdRl40pIWefTCpFg3ZMjj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hard Plastic (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/z70opw3y4djd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tom & Jerry (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/ddxoo4poh9lr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/84v667z4hewnze::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IYK3S26SMBWYG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e06BpqZIxRSpvNSbItcGcgs0S5I.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Safer at Home (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/p1xn3r1gavye::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/oee0l2luab6x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OW6AMKKXUVOGK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/idSnYjtvDoryHU50M7pueqeFuQo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The United States vs. Billie Holiday (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/yaizuhyrwvv3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/a11dczf1tuit::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WQB42AXLZATS6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/35KyAa0MOU5Aepd4WZg288FTajz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Crimson (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://vidlox.me/z03582sb9znh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/zubi64ajd2qj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FUDXNYVE4MZKS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/T9cxf2pH8donlEVSB7fUG0AKNZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Minari (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/z03582sb9znh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

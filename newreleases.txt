@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cashing Out (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/a63pv26dqzv5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/n01pk8bsg028::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KMAOSY6H42G54::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/af1OMWVYtbg9BrcZNaghpi6dEza.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ice House (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/tb72fun8zwk3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/xcgmkrrnlhqw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZRLVAU226FU7C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUp8DZcTMxenoAYxYrHMKkb1J8f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sensation (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/3dqalqs6gz5n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

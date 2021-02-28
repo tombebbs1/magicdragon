@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Konga (1961)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/nllqprk7fwbz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/0vonzoneik7e9lo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IGOT6X7RLPRS4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o44fhVZ3539Brk66cGzrXyfrjfL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Soft Top Hard Shoulder (1993)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9359loc30rwr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

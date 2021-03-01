@@ -15,6 +15,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Judas and the Black Messiah (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kwvmt6k5sixr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/obprph3r871y:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NXOOKTMHZFT4W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbztaGbNFRoYTxmuEemIhseFr7x.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tom & Jerry (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/ddxoo4poh9lr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -102,16 +113,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/JISHVR6X4HWDS::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Judas and the Black Messiah (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/kwvmt6k5sixr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/obprph3r871y:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NXOOKTMHZFT4W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbztaGbNFRoYTxmuEemIhseFr7x.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Outside the Wire (2021)[/COLOR]</title>

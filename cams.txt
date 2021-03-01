@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Crisis (2021) HDCAM UPDATED 01/03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/s7sirqomx4l7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tzuekogpz6bu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tzuekogpz6bu::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPdctK6RgXoquWL4Q06DFm33JWP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mauritanian (2021) HDCAM UPDATED 21/02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/lnnpu40zsccf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

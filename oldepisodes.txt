@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The 78th Globe Awards 2021[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/19afqxxpqfoi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/19afqxxpqfoi::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://image.rlsbb.to/images/cb3c30a2d8dd0f004021022d44a4f510.md.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Guy S19E12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/v1v2jyzhoynf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7BL4XRQEA3KVK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Simpsons SE32E13[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/n9usme6stkg3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -168,15 +188,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GOYAEZNHQQKKG::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Family Guy S19E12[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/v1v2jyzhoynf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/7BL4XRQEA3KVK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Simpsons SE32E12[/COLOR]</title>

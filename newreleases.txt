@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Shadowland (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/3ezzoywklwwa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/97lfmn9346ro::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U33QO6M43HWHS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjub22JdJ1ouzMP86rXbbp48IK6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cosmic Sin (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/apy5ybs7qjbf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

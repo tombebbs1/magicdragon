@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E13[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n9usme6stkg3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZRXFRWMJEH4QK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Batwoman (2020) SE02EP06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/l5yi5jbxgs6c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZBFYVXCT5OT5M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]UFC Fight Night Rosenstruik Vs Gane[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.co/f/dq4prqwxtg3j8o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -145,6 +165,16 @@ sublink:LISTSOURCE:https://upstream.to/t4gtco915s8x::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/GOYAEZNHQQKKG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Guy S19E12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/v1v2jyzhoynf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7BL4XRQEA3KVK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

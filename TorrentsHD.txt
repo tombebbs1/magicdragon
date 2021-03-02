@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Don't Waste Your Pretty (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/46u2a85606r1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g89zm1pvqowr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6WDNKEUC24X2U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d2YURJhZIA8VBtqomGHYHgE4mYY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Aperture Kids and the Mysterious Neighbor (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/m5wx931o8aju::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/kaa51lfqgq3l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6BXKA3MHKFB5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d2YURJhZIA8VBtqomGHYHgE4mYY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deadly Promises (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/zdsa7vx7c9zd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

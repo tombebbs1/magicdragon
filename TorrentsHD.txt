@@ -34,13 +34,35 @@
 </item>
 
 <item>
+<title>[COLORwhite]My First Summer (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://voe.sx/8ohz1l8ucpg9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pkmumvxhlwuy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5MYGBHZNI5ORC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7GBMVO09clB7HUgfqbjZmOVAPOi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Dolphin Island (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/8ohz1l8ucpg9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ott79m1qdfko::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JOS7USNCMETPC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7e6s81zXN6YiM7AeFlZChITH4dc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't Waste Your Pretty (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/46u2a85606r1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/g89zm1pvqowr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/6WDNKEUC24X2U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d2YURJhZIA8VBtqomGHYHgE4mYY.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pSSadIN0eo7wzQGfS3chE8ZLO4s.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Dead of Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/7deflztzjoju::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6y90kg2ldtei::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SY7RTV7LJ53DY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdMS87gQymbIhFV4NdWGBcTkRbA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]After the Reign (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/rm9w4soxfehf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/feh389w83ykl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NU6OJLJTSFZJE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j7asOmHWpgMuSo6YzNj2GYZqcFm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The World to Come (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fjej9kdxdyt6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Buoyancy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/c0iyyv6rppdi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ib6py7act044::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GQVAV6ZDUTWSE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tkz7EDOwBNXIhdPaDlehBVihuh1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sophie Jones (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/opbls2vb4j3q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ierd73xitocz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K7UEV2DT34WTM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6Q7ih7jGxSLJwMtcp0vaM3Rx7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Dead of Night (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/7deflztzjoju::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

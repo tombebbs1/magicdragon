@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Debris S01E01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6i4s9zd9jeqc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GJZQQ5CS6MAK6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cILrZGHgsIEpZ6VKEB3VwC2CadB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The 78th Globe Awards 2021[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/19afqxxpqfoi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

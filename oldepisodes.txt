@@ -1,5 +1,25 @@
 
 <item>
+<title>[COLORwhite]Superman & Lois (2021) SE01EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2vjh8q4gz12d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4LL6VQIVI3XBE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Young Rock (2021) SE01EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/p9pbwd6vuv6o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/V7FCLXKCW7R6I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hUmSMg5KHJkgeOk9AvbTINYOuEf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Snowpiercer (2019) SE02EP06[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/u6m1m7k607tz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

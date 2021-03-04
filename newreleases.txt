@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Texas Red (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/wmmjq5pq56m9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/9isz01ffooyp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E46JQR2FCLYWU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://imagebb.org/b30e4bb52b17105cbfbfac173d7c061a.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Stylist (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/o2t2z5nr0o4x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

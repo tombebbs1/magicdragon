@@ -10,9 +10,6 @@ sublink:LISTSOURCE:https://upstream.to/tzuekogpz6bu::LISTNAME:[COLORgold]HD REAL
 </item>
 
 
-
-
-
 <item>
 <title>[COLORwhite]Weekenders (2021) HDCAM UPDATED 16/02[/COLOR]</title>
 <link>
@@ -24,27 +21,9 @@ sublink:LISTSOURCE:https://upstream.to/qws6i521c19w::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Land (2021) HDCAM UPDATED 15/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/rh1jpp4xn678::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/menvjird3ajo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/menvjird3ajo::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6pYhDPzYPGKvDYpxdf0IUE3RDAS.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]The World to Come (2021) HDCAM UPDATED 15/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/fjej9kdxdyt6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ojh849vtv75r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ojh849vtv75r::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j64CnpmbaKB90Cpprk5hM9kHyJI.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
+
 
 <item>
 <title>[COLORwhite]Long Story Short (2021) HDCAM UPDATED 09/02[/COLOR]</title>

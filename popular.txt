@@ -37,6 +37,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BNRGSMLBAJE5M::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Crisis (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/s7sirqomx4l7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pii9hw88zxuz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QOW36H423VBYI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPdctK6RgXoquWL4Q06DFm33JWP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The World to Come (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fjej9kdxdyt6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

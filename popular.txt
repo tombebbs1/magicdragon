@@ -48,6 +48,16 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BNRGSMLBAJE5M::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]My Salinger Year (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/6ys3sl0v48bv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KD7JGN22UU3P6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDEyNzY0OTUtYjk2MC00ZTc5LTkxZWYtYWExM2NiYTY0ZDg5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX692_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Crisis (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/s7sirqomx4l7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

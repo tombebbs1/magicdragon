@@ -1,14 +1,14 @@
+
 <item>
-<title>[COLORwhite]Crisis (2021) HDCAM UPDATED 01/03[/COLOR]</title>
+<title>[COLORwhite]Chaos Walking (2021) HDCAM UPDATED 05/03[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://voe.sx/s7sirqomx4l7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tzuekogpz6bu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tzuekogpz6bu::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/fs8k8mmrwu5k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mlkazyiyyt5l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mlkazyiyyt5l::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPdctK6RgXoquWL4Q06DFm33JWP.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLORwhite]Weekenders (2021) HDCAM UPDATED 16/02[/COLOR]</title>
@@ -20,10 +20,6 @@ sublink:LISTSOURCE:https://upstream.to/qws6i521c19w::LISTNAME:[COLORgold]HD REAL
 <thumbnail>http://img.rlsbb.to/images/CA0mgNR8.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]Long Story Short (2021) HDCAM UPDATED 09/02[/COLOR]</title>

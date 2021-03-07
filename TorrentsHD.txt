@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Circle of Deception (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://voe.sx/eenpww08uro7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3oxot04mp1ps::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OJS2IR6MU6CME::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://imagebb.org/806d82af774021f6d4860345dcd367cb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]My Salinger Year (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rtk7ro2edwrs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

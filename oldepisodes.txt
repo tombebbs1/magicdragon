@@ -1,5 +1,15 @@
 
 <item>
+<title>[COLORwhite]Family Guy S19E13[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/aufby5nc35jf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZSZOWIB5RV5CI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pennyworth (2020) SE02EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/lgp8e5m7dwmt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,3 +1,12 @@
+<item>
+<title>[COLORwhite]The Simpsons SE32E14[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/grgfdg1p7w1o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/72UCSG5LWDSP2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Family Guy S19E13[/COLOR]</title>

@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Canyonlands (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/urwlz7wlleme::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rq0aju0m44wn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UOPXMVA5RCKGU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYmh79O7rujbbGNJmsFU93LtpVe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Winter Lake (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/cmgtr62cawng::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/9n6e33d0c7z1r6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E6VSXTFYRHJ3Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wzHG3cRXNaola3xFj6oqf4AJEAS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Permanent Collection (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tyuyaq0pby15/rifkin%27s_festival_official_trailer_woody_allenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dstc3c6dax4u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KRQVKN3QUZS4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sjiAKM674mVS8Rxd1ExmYX3O2mf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rifkin's Festival (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidoza.net/tyuyaq0pby15/rifkin%27s_festival_official_trailer_woody_allenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rifkin's Festival (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidoza.net/tyuyaq0pby15/rifkin%27s_festival_official_trailer_woody_allenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2x3nfyzq8x3x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2x3nfyzq8x3x::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBqKBfyJZiLyxLyzKNm63no1KUg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]How to Stop a Recurring Dream (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/8mx16h31d7qd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

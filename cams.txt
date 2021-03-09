@@ -133,16 +133,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QN7YLFAUJRRCQ::LISTNAME:[COLORgold]
 </item>
 
 
-<item>
-<title>[COLORwhite]Rifkin's Festival (2020) HDCAM UPDATED 16/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidoza.net/tyuyaq0pby15/rifkin%27s_festival_official_trailer_woody_allenie::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidoza.net/n65uphizahb2/rifkins_festival_2020_hdcam_850mb_c1nem4_x264-sunscreen::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/STC2AU45FF526::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBqKBfyJZiLyxLyzKNm63no1KUg.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

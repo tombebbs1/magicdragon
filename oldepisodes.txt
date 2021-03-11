@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE10 E19[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/agf0b80irqq6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/34MPUFP6FOGHA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Debris S01E02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/r0vo4b5rjedy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

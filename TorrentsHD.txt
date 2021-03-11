@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wager (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/myiznsnctjfq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3dxp5agdwqw1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KLIBM2WTBEJES::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sqEwAOdYqqUMyZvMNfBNSKc0xMm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Know Fear (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/fc1z55twrl8y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xucrl4fz4vmw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D44LQ2P7HN2JQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqjEnkzQro5Mb0nBPLkYv3uW3dq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blood Brothers (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://vidlox.me/jsy2ffars931::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

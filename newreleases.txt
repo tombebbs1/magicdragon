@@ -71,13 +71,11 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WYEDSATZPAJ7E::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-item>
+<item>
 <title>[COLORwhite]Insight (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/g2r2zq6m3bro::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/qany4dkkrak7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2szryk8s2w86::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/3UF2IKJE4RUZ6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oyD5Fqesaw1h1B6OQEkaAONedj9.jpg</thumbnail>

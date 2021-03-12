@@ -37,6 +37,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/NXOOKTMHZFT4W::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Cherry (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/8evu6byqfo4j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hifxqb6txe66::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FYKS4L33HN4RK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mauritanian (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/lnnpu40zsccf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

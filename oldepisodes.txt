@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/my8swec3l4uf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2A3ILVDLBXSUG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Family Guy S19E14[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.sx/f/j94rkrjmiqkxzn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

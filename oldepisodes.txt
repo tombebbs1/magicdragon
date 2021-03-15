@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E15[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cy00swrk2kff::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7Y5XR43CCYXG6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Batwoman (2020) SE02EP07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/my8swec3l4uf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

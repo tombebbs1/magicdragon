@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Assault on VA-33 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/jamhag950uz6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/1vgkownds130e7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NZGTKU4KN44N4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJ18DP2Bcu4ZHigyGwFp36XKLwh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Bloodhound (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://vidlox.me/iustnunv6ktg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6b6zsr2gl8wo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FN66SM7W3HEKU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sNot4c5dTY7L2Mc9Q3Nk1fbKdKT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Letter Room (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/z88ub4xnbi4w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]60 Seconds to Die 3 (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://dood.so/d/4oj2wx85odah::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/l08sfz6a72pq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CIC6SUJYVEEA4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/545VZVm7OFCeO6H78EKZnAkHQbr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sentinelle (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/4oj2wx85odah::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

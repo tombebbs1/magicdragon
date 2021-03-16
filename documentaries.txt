@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Last Blockbuster (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/t7oc372gv9tk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E3LXMH4ETJFIM::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wnsryyae99q7YmbKaH4sqmZS2Qr.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Chasing the Present (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g0j2tx3xvx2v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LAGZECPWU45A2::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emQ2F2DgD3sEfLDZGDSy2LEtBrJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]kid 90 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hn9gnqd3e42a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

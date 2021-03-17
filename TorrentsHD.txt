@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Zack Snyder's Justice League (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/4wde9cgy3vfr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/pknd1joxfg1rg7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B7HMDS7SFBVYY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/55U9DKl3SN01M9iDUvMFddjAwvK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]60 Seconds to Die 3 (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://dood.so/d/4oj2wx85odah::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

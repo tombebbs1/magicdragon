@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Young Rock (2021) SE01EP04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0ijbomt34xk0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T4LH23YDZJBL4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hUmSMg5KHJkgeOk9AvbTINYOuEf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Superman & Lois (2021) SE01EP04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6bz5t6xz3mtp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

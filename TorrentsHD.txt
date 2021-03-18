@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Deadly Illusions (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/lysitmcj096h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4wapqatmgl9w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HGCG7CVEB4KFG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Konga TNT (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/y2xayv817cbs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

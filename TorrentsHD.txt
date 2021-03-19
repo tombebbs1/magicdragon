@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Happily (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/y4elb3y0l5th::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/o7gv4n97c8l1dl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JXVSIN6EOBGIA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLROpFdCk7Dlq3Lwf3lKh1rRYP8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deadly Illusions (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/lysitmcj096h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

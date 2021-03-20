@@ -353,6 +353,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:b371c5fccd56176f2cb296f46c40078d0b27fb46&
 </item>
 
 <item>
+<title>[COLORwhite]Adverse (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3WDKH2YHOS3GM::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wuBdMVXd5mUuNymzt2bUJrdxhBY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Aircraft Carrier: Guardian of the Seas (2016)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/PA3PIDF4X5NNM::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -1158,6 +1167,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2UYFKLZOAITZI::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Cherry (2021)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MUVHGZHVIKWZ6::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]CHIPS (2017) 4K [COLORred]4K[/COLOR][/COLOR]</title>
 <link>https://1fichier.com/?2z1u5twajc1f3g7hlqbc</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTliN2IyMTctYTliOS00ZTJiLTkxN2YtNDg1YTJiZTA4MTVlL2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</thumbnail>
@@ -1237,6 +1255,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:cc8eb4d8cdea6f8de32f8f5e45915ea7260dc069&
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjQ1YTM4M2UtMTQxNS00YjdjLTgwZGYtZTgzYmFiYjFkYzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Coming 2 America (2021) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/272FCLA3WXYFQ::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nWBPLkqNApY5pgrJFMiI9joSI30.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -2489,6 +2516,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/MU3MQYELAJMK4::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]I Care a Lot (2021) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/4M36PTPIQ3R66::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I Still Believe (2020)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:c25bd02712d3648ecb7ace94d95e09dbcabf0a2f&dn=I.Still.Believe.2020.2160p.HDR.WEBRip.TrueHD.Atmos.7.1.HEVC-DDR.mkv&xl=12538856152&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -2712,7 +2748,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:196a3db318ec2336cec94134f95e3fd137cea4ea&
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Judas and the Black Messiah (2021)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/XXSGZ6KREN4XE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Dredd (2012)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>

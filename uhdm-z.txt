@@ -986,6 +986,15 @@ sublink:LISTSOURCE:https://1fichier.com/?akpi0ta4bw::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]SAS: Red Notice (2021)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/6C4OS7Z3HNMAG::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sausage Party 4K [/COLOR]</title>
 <link>https://uptobox.com/dsd5ld4n95av</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
@@ -1183,7 +1192,14 @@ sublink:LISTSOURCE:https://1fichier.com/?wttlcyorpxfl753it5tu::LISTNAME:[COLORgo
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Soul (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5GLGEOSPQP4ZQ::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Spaceballs (1987)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
@@ -2472,7 +2488,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:ced63d719729e2a9fcbc422b92024036eabb1295&
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]The Mauritanian (2021)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/AENFJDD6A3UZW::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lIADEa6oH74uUapjsPbNRzxus8M.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Maze Runner 4K [/COLOR]</title>
@@ -2714,6 +2737,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:fb3956aa8037047435844e153760ba1e267c8ef6&
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]The Rental (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/PPKMFUDDTZWUG::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Report (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
@@ -3045,6 +3077,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8c8b614b610cd977c02cf2c1dd423a42176e2313&
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjJkYTc5N2UtMGRlMC00M2FmLTk0ZWMtOTYxNDUwNjI2YzljXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,678,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tom & Jerry (2021) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/JUBOPDXIUS4PW::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6KErczPBROQty7QoIsaa6wJYXZi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>
@@ -3517,6 +3558,15 @@ sublink:LISTSOURCE:https://real-debrid.com/d/DK3YPO4QU2EA4::LISTNAME:[COLORgold]
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Zack Snyder's Justice League (2021)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/MH4JON5YQ7UCE::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>

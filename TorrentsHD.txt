@@ -34,11 +34,22 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Little Italian Vacation (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/5l7fti99uu5h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zokyo60h4ed2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P3FGHOQEWXPJM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tRvvX4TzWaQKG5PavpZpcxSBuXu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Terrible Adventure (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/xln9rclhz4gq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/gdyz5hrdy6o8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/BOHGH6Q2Z56SS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DNVXJNWXYCFM6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lPu8o3366D3j06CK4PUcvqqeBH1.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Stray (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qccz55yqtljk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qccz55yqtljk::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mkAr4TIA6NW0Y31eGVVBcLTNkrB.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Creation Stories (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/7lgau21ozvwf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Chasing Waterfalls (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/7lgau21ozvwf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/w8eue952l7kv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BOHGH6Q2Z56SS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJxHoF3xqXIqamM0j9WlKxGKZ6a.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Infinitum: Subject Unknown (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/6fzfjjd3by12::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Pennyworth (2020) SE02EP07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/a0molw28dt7e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2MN5MICFWHMAE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF14a0UUhdLmDMv5vQ3QudoM31w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]American Gods SE03EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/qkmmkn31gstr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CTM2SHQL3NLI2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The Falcon and the Winter Soldier (2021) SE01 E01[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/22a1ng5738rs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

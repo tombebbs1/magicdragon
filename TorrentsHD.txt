@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wildcat (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/3ouepto5n0q3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/8c3fpaks0d48::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/33R5XFDNC3FZO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85Gg2hgZZ9EJhbN7DpR3FJwS8IZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Doors (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/5qinmlald2iq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

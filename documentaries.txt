@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]306 Hollywood (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/snwnn2qy0vvz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OVPR6UREHOHF2::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMA3BuUZkqy7sMgQ2BuORQJMaWS.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The New Juarez (2012)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.sx/f/en7rrjx8tqm7ok::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4XFR4SY3R2Y5Q::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/3816cc1f7acfe10d99c946420b975be5.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Who Put the Klan in the Ku Klux Klan? (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/4s562h7k6fkr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

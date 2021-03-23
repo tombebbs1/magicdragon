@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]One and the Same (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/tew17pvpbsog::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/1vqd9lzetlgowq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZHJPJLBZHSYCM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wo2IOn0CsKA5LxEGt6FExAN3sBI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Homesick (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/zmmp1q8y5e23::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/8amkl0mx346v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/72X4V6H5UVACA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUjP4DUz3WZvRsSb784OoCUT0sP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Toll (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/18x9ylbjb8sl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

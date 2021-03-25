@@ -33,6 +33,18 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Boogie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/7bbj44j7j20l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lafmiymiqb5f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DAQ2CULMPEVGG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nqukNKRw6KsE6X3SqyuzXaW8flQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Secret Magic Control Agency (2021)[/COLOR]</title>
 <link>

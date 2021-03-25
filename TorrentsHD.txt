@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Genesis Code (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/g99hxsqxpzbb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ems0hmr9d9uq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EYUQSPWAQ32YA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xj7VuN5dRhWe7FaP3SLuZQSZR00.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]One and the Same (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/tew17pvpbsog::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

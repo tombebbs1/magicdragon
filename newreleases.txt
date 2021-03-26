@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Banishing (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ipnmrvrujp5b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xga5ojrcpdpm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/44LMHJPFHFYLO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xD9mc8JCVXA8T8u4Od7qOUBuGH4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Boogie (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/7bbj44j7j20l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

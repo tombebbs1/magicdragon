@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]V.C. Andrews' All That Glitters (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/6ys7zcy2mbxs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2bzitq6xbasb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NRKERSJPVHYY4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kA2EPYf22tuj266N6TcA48NRprp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't Go Breaking My Heart (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6ys7zcy2mbxs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

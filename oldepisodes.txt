@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Boxing.2021.03.27.Dillian.Whyte.Vs.Alexander.Povetkin.PPV[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/619wyksjdir2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QXVC4FFICT5VK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://i.pinimg.com/736x/8b/7f/6d/8b7f6db87d4328a3647a249344a9f0ec.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Pennyworth (2020) SE02EP08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/a4gat2qz9vmi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ODT42YC2SCA5G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF14a0UUhdLmDMv5vQ3QudoM31w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E01[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/n3m938ywysy7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

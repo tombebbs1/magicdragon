@@ -56,6 +56,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/T6WHBEAHUNPHC::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]V.C. Andrews' Hidden Jewel (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/wn1j4o62tdz0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/m8p8l9qgmt7l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/m8p8l9qgmt7l::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65c4plEo9j59s0cVuAKIXpQRdML.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]V.C. Andrews' Ruby (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/wn1j4o62tdz0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

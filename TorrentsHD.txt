@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Women (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yegdz8ksbhco::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ub7npqa7jn5v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HDDJGLMRLXY22::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/doFIExzwIDzqpYxFSX0GBo14nHS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Honeydew (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/irztasnb2au3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/s4vd8us9kmxn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RQVIY2CUMYK5A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mIpeYbbwNquR2NbyvMepb20FA3J.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bram Stoker's Van Helsing (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gmr9qtjlsjvv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8lvdfr5icjke::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MZTT5334K2X5O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lO5m60w5C6xLdg4hA7ecDRjSvO6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]V.C. Andrews' All That Glitters (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/6ys7zcy2mbxs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

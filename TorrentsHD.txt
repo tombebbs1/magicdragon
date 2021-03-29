@@ -45,6 +45,39 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HDDJGLMRLXY22::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Resort (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wn1j4o62tdz0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7mc54zvi7y67::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T6WHBEAHUNPHC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49Bhas3zQCuTHEv5zDPA9lqfJX9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Nemesis (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ia9g774ecjh7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qqttq1h00pib::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A7LNHIJRRORTS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6EpzgJVo4H5KgRMjDauJmpObfS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Take Back (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/99ey3j79dv8u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xb9qpu0aoz1v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ARVUSV6SB6ZGY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/16JXKkATNiSKouOhxyg9lkHBag9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Honeydew (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/irztasnb2au3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

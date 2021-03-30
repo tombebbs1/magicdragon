@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Snowpiercer (2019) SE02EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zbt2w34l6y11::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2TD7AGHVNMJ6O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Snowpiercer (2019) SE02EP09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jpc1yqxo2ndj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/47FPCJQASKNFS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Family Guy S19E15[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iousgis3fcu9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

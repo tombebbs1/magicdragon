@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Last Cruise (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.sx/f/1vqp9o03ukqgo3e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ANUAC4WFJE7ZU::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iCEjIVwhthOI9kMPz5XkErgMTKr.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]TINA (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/1ru6yo49dwxr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,5 +1,25 @@
 
 <item>
+<title>[COLORwhite]Supergirl (2015) SE06EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w6wi3v64weae::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7ROFVPVVGS2I2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zsaiq8ZclPuneuN7loLEbsh1ANJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Young Rock (2021) SE01EP06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/hq7gxki9rps7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YTF2FHTH242XK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hUmSMg5KHJkgeOk9AvbTINYOuEf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Debris S01E05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pu40u4h56wgg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

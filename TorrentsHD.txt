@@ -33,6 +33,17 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Godzilla vs. Kong (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x4im8vz64jyi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ibynh651sxai::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RXOTSZA4QWYUS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+ublink:LISTSOURCE:https://dood.so/d/wst97unc8hk6::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5KYaB1CTAklQHm846mHTFkozgDN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]The Dry (2021)[/COLOR]</title>

@@ -1,3 +1,12 @@
+<item>
+<title>[B][COLORwhite]Walking Dead SE10 E22[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/36twuey3uh6i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X7LXKUDNR3232::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Supergirl (2015) SE06EP01[/COLOR]</title>

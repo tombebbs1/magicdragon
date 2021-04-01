@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Voyage Into the Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sma1hb6hgusb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/217sl858jwjk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ALE3QUB6Q5G52::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opmmjTz6AlXEIpThfeDEKgpaQqo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Chance (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://voe.sx/fs8k8mmrwu5k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

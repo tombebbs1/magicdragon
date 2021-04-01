@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Eggs (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/jtbzg00r8bxb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/a1x26y8k3cte::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CWBMAKZISK26S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/dacf1c35c79c4d2add07d153b960f28d.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Free Byrd (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jtbzg00r8bxb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

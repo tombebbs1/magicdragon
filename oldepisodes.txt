@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Manifest SO3E01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0zla3z6a176z::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DBTYXFKIJVPNW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Clarice (2021) SO1E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/603kns47e9kn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DGLZFSJXKOJTI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Walking Dead SE10 E22[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/36twuey3uh6i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

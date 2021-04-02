@@ -34,6 +34,61 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Oak Room (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9pa1epmelyut::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/d62jh8mnv5qs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AJ44AMVURLYGA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bVvNpT2D14K7nuweGzJpoUyfnKi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Roe v. Wade (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/q3kga22qgg26::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/rr6uo5zhport::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G2YAABOKEGJVE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/b48a8b955f6a2a7890af57f294d4cdf2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shiva Baby (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/v5jt8lug33ua::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/zcsr1lkg3261::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E665GT4MTXPES::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5IBJwMPSCS5XdRT7BO1ZMreFOis.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Every Breath You Take (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/5quthfc8qc0x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/9gde0wxd4vnt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B6QV66SGKHQTU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Believer (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g5b0bzvmzpe6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/5hm4s4vx1ftb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4KKCDPEPDBIS4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yjHmsQUlctMfucJg0n6MjDMYUPB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Eggs (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/jtbzg00r8bxb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

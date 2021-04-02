@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Concrete Cowboy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u82k4s4uc6z8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/dun0sczfjiqu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ACJUWJEACZGKE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aOBMaKVLsHcEPjTQ9sCth4aAyGo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Oak Room (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9pa1epmelyut::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

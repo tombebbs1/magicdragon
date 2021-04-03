@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Lion Returns (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/waipycy89gmn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ryu29n7im1kl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UEMXYK523BEOS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n10CQ7kSxKxghKOxbBzp0wgwP8l.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]It's What's on the Inside (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/z4pb0gxv501b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/wp3k56p7qlf9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LD2PNZQEIFFU2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l0VDGYKZqe0q9wkkpeuv7AR64zl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Haunted Hotel (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6q9jobbji2d2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

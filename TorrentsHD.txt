@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Being Grace (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/bhf2yse8oi7i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/x0r3ebp5q855::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/F5FU2O5V763YK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/c992e0a1cb15ddede7cc74ebf874c289.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Original Gangster (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bhf2yse8oi7i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/j7t21crcmss4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TEPO25TH37J4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pennyworth (2020) SE02EP09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5mcuepgjejky::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

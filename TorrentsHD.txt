@@ -33,6 +33,29 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Scorn (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/g95ry71oy655::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/t5t2dt9j9mqa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AH7FA4FYVJR2U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xAE9RhoRGWrup4ZmCWUgP9nIXVS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]It Snows in Benidorm (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/2jy4cgkyu5o1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tcb7q54cwv4w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2ZLAZBX3OLEVM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2KGRkTSRekgGbjWjrkJ11pr4uu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Under the Stadium Lights (2021)[/COLOR]</title>
 <link>

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Debris S01E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/arxo4flfwu93::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FMLG5HS3T6WAI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cILrZGHgsIEpZ6VKEB3VwC2CadB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/j7t21crcmss4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

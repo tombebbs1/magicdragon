@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Her Name Was Jo (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/um1tizj76z6y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cdk1u6vbghvs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3S5LRR4VQEODI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mLQvMSCc2kNODE1ZYSkHbyO3HRE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sugar daddy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8ota1bzfq2zb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

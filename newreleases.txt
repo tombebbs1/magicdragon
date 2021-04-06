@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lady of Guadalupe (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/h64kv2q33igb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/mlwt1ld42eot::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CVCSZ7JBK3DWC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itIjhwzELVcfIIrSKuon9iKtdFY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Forbidden Wish (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hf6nhmev16yl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Doll Face (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u4dp2gluixi7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dkj2dt5ca19k::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EWYH5ER3Q7MPO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pQjVcx6dF8GRKJziZayWWqYyroF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]LUZ (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cqik21t9562n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xoasgrocpjzp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DL2SLNFYJG54W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h1MkE9K1tMT5dGWCIjf1YhhHiIo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Her Name Was Jo (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/um1tizj76z6y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

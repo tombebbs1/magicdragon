@@ -139,7 +139,7 @@ sublink:LISTSOURCE:https://upstream.to/df10ea1fd4m2::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://dood.so/d/iva7tk7bd521::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/JTSSSJGO5YLCO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iDHuZ4sP96FjsMXnKUojMvs5XhT.jpg</thumbnail>
+<thumbnail>https://picimg.net/7bdc3099669ddb0c0bb5b067fdd123f6.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

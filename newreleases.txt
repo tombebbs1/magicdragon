@@ -61,11 +61,22 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sugar daddy (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8ota1bzfq2zb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wxdzpppfncz5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VQXHLJQW2MYRQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xbVeos6XE6ijLPIEqi7xywvAU8U.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Slaughterhouse Killer (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zu60h8mv8s5j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/4x9dy92r6mr4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/VQXHLJQW2MYRQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YBW5AEOZ52DKU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x8PqWrU1xHtCeaPzc3hMBg94MfN.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

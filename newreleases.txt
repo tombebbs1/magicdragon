@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Six Minutes to Midnight (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/iqueeraf212j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/nkdam511muwg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NHSE75NZSDDPE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hOdW30Yk3aAmiWGjbfeNJ316QQY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Doll Face (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/u4dp2gluixi7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

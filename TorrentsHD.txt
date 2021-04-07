@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Stay (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/idhhb9grggrh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ga28u6jdvsc4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ODCVAHKBWZ7DQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clhGYEY7aLNVpBlRlW3N5Cc9PnS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Howl (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/a5zi5bacsvzc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

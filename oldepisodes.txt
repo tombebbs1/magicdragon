@@ -1,5 +1,17 @@
 
 <item> 
+<title>[B][COLORwhite]This is a Robbery: The World's Biggest Art Heist (2021) Season 1[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://dood.so/d/y546czzy4tk1::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/lf11tyanzbcs::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/28p81zqrtg17::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://dood.so/d/3dvj5ehli8zs::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HxjWRCrNjQQ2oOr9fdsywxSZbo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
 <title>[B][COLORwhite]This is a Robbery: The World's Biggest Art Heist (2021) Season 1 Debrid Only[/COLOR][/B]</title> 
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/NBYY3NW3LYSTC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#

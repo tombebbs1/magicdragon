@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Making Sense (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/a5zi5bacsvzc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/uj5kb3j0co18::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DEWBSRRLLMSIC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8nJvOynriFVTjwCyKfTjNUOYLfw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]My Secret Billionaire (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/vbryy782ctm3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/qetf9mm2i2zc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HFIBX7KKZJ6VG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8BCDx4aaN7f7XMRl0Fi0CsEiiy7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]War Path (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vbryy782ctm3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/4i4n1j3zqhia::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4ENXXWYO6H2BK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hxYJAedUQqPnQDzjjRUYOHJXJCC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Wrong Path (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5j8te3gfider::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

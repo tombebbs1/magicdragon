@@ -1,3 +1,16 @@
+
+<item> 
+<title>[B][COLORwhite]This is a Robbery: The World's Biggest Art Heist (2021) Season 1 Debrid Only[/COLOR][/B]</title> 
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NBYY3NW3LYSTC::LISTNAME:[COLORwhite]Ep 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MY3NZSAJAL7B2::LISTNAME:[COLORwhite]Ep 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/537L7C25ZBVN2::LISTNAME:[COLORwhite]Ep 03[/COLOR]::#   
+sublink:LISTSOURCE:https://real-debrid.com/d/UYSU6C2Q5F37O::LISTNAME:[COLORwhite]Ep 04[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3HxjWRCrNjQQ2oOr9fdsywxSZbo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Supergirl (2015) SE06EP02[/COLOR]</title>
 <link>

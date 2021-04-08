@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Acts of Revenge (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7xjyp73d0a2l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/66ikwcl6ng6j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XJIO6RSUJVWZM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5CM3iSYdKWQOd8D2a66EXpuWvaA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Manipulated (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ej774yxm868b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

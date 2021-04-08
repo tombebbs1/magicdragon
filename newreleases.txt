@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Riders of Justice (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/715fr9kpkcb5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lv9i0n14lh2y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RH63LEYAKQKOA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3eE0HuQXH2q5wQilbm3c59gJOST.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Drought (2020)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/7xjyp73d0a2l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

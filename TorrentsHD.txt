@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]My True Fairytale (2021[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fjwggicgli55::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8xthtdfx8huv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TIW36JVBGRHX6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7rqyKk3Xj17LhlZDi2I6mc6JEUd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Taking the Fall (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/o4t4f8uc59hl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/1si2djss20oz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RBPOKSAMCHG6W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/825af97c80d27291f1912423e77b4400.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Held (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9jxhsmgetgo9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g2zwhxzdttiq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UPLM3TALBGTVQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tFaeztksfufY5uewvu7DbUeiSey.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Panda vs. Aliens (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8rdwzrn8pxwl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/62vtnnwsae2j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2N3FN2WDHYUWC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ieALn5VETmtmuFvN7NJ3icbnrvC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Power (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bub9341m3sus::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

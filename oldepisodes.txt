@@ -1,3 +1,22 @@
+<item>
+<title>[COLORwhite]Manifest SO3E02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/l5yrxl6kp7tk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AZDF3AZ2XPZ7C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Clarice (2021) SO1E07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/27euwletzmyn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/THD5QW5CLB7SO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item> 
 <title>[B][COLORwhite]This is a Robbery: The World's Biggest Art Heist (2021) Season 1[/COLOR][/B]</title> 

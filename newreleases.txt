@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Felix and the Hidden Treasure (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/698uu5h1oa5o::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/7k1kv1ab0pml::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AD6SZAV2GOOQI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/83c65d70455874e135e285b1c154545c.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Thunder Force (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0n31wdllvyd1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

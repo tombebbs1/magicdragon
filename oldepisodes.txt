@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]The Falcon and the Winter Soldier (2021) SE01 E04[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zl1y9hvgb4p8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/246LVPXCZJUGU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]THEM (2021) Season 1 Debrid Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/44EWEP62NAEXI::LISTNAME:[COLORwhite]01[/COLOR]::#

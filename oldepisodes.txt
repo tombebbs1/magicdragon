@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]THEM (2021) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/44EWEP62NAEXI::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XA7R6VSSEZC5A::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UK5O46TKDML7S::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XNU4NONWPMWTG::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I366WKZ52H64O::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ROBBXWDXWQJLQ::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AWGXNG244IMHW::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CDQBA36EEOCDC::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JJTBJVJE4KMJA::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OE4ERITAIIDHA::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mvsCr9nsp9VZptXavW2BKvlfwJ6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Manifest SO3E02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/l5yrxl6kp7tk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

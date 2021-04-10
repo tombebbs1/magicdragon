@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Navigate (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/49d4wd7eyfr9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/p7x9r84w6yal::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2KB6QTYKARB3O::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/de688c7125ddc7823c4b9e7b04173889.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Earth Mother (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/g1kxhmhh5m24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

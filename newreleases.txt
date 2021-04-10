@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Earth Mother (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g1kxhmhh5m24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ypbk5trvhbxh::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VKBASF43YZRY4::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/168c03fd6206e12678fef1934e707c75.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Still Got Joy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w6jpinhnzlfg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

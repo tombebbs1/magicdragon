@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Night in Paradise (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/94bvyibpfdiz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ilhagqlrgowa::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GV4IPQEP6HBOI::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYCWUAidqgakGETwZkfGxU7CWhL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]As Luck Would Have It (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kzu56x2j5y3y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

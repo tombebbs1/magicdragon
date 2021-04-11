@@ -64,8 +64,8 @@
 <title>[COLORwhite]As Luck Would Have It (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kzu56x2j5y3y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/wdpx8icqwlzh::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/RLUZWUJQDV3UK::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wdpx8icqwlzh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RLUZWUJQDV3UK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -75,8 +75,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/RLUZWUJQDV3UK::LISTNAME:[COLORgold]
 <title>[COLORwhite]Navigate (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/49d4wd7eyfr9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/p7x9r84w6yal::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2KB6QTYKARB3O::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/p7x9r84w6yal::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2KB6QTYKARB3O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://picimg.net/de688c7125ddc7823c4b9e7b04173889.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -86,8 +86,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2KB6QTYKARB3O::LISTNAME:[COLORgold]
 <title>[COLORwhite]Earth Mother (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/g1kxhmhh5m24::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/ypbk5trvhbxh::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/VKBASF43YZRY4::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ypbk5trvhbxh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VKBASF43YZRY4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://picimg.net/168c03fd6206e12678fef1934e707c75.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -97,8 +97,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/VKBASF43YZRY4::LISTNAME:[COLORgold]
 <title>[COLORwhite]Still Got Joy (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w6jpinhnzlfg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/1xdvqaseuv94::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/OLXMOBKBD7BG2::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/1xdvqaseuv94::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OLXMOBKBD7BG2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://picimg.net/9ffdce3d44976a336135a1ea10d4ef30.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -108,8 +108,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OLXMOBKBD7BG2::LISTNAME:[COLORgold]
 <title>[COLORwhite]The Grounds (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/j46aewdw48lj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/uih0dkfos1qb::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/QMYYIY2JHUZ2I::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/uih0dkfos1qb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QMYYIY2JHUZ2I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/40M8bnac4zvsHNjr0lWBZux8CMd.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

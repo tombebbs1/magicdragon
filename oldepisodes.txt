@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lq1ntv3fussd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z3LC564UHKPFC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Guy S19E16[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/arxuwa5i6jxd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MARMCTEWY4CIW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pennyworth (2020) SE02EP10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fecrttge66h4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

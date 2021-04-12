@@ -60,6 +60,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Night of the Sicario (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/i798jhpx8q12::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y0thse9frp2t::LISTNAME:[COLORgold]HD FREE LINK (Eng Subs)[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M5RBG5AKNEO5W::LISTNAME:[COLORgold]HD REAL DEBRID LINK (Eng Dubbed)[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgFewciOc5lFXVoUDuboN87vbwO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Night in Paradise (2021)[/COLOR]</title>
 <link>

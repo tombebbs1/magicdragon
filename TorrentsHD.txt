@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]My Brother's Keeper (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bgo6a7vjlc9l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/5nwxeux81kn4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4UNMDSSSXB4VO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4uOoqBPltPPmxNJbHESFEgeJiQc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Natural Disasters (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/j1vs07sk27ki::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Louis Theroux: Selling Sex (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mwemhrmj2ppy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R2MGCS5ACNJVQ::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vSXXsvNazcsjoGiqvmkDxiTLeuO.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Our Towns (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/hfyhz1dunsr9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]Wahl Street (2021) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/VMHMIYX3BIUUM::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BDZ64DFWQDIYA::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3GL3EYTZDNJNI::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WS5HOCFUXH3FW::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M5PS7WHECVSP6::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RB62ESHS2TL36::LISTNAME:[COLORwhite]06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVHYavKA25YiarTx65oEtatWoan.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Young Rock (2021) SE01EP08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/69gmam7cyxxs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

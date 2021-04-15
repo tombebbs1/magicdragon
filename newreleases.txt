@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Finding Jesus (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/1rasqk60nocx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2pk4itvuhm8c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FPFHV5EEQ5YN2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/5540199eb079640639f56a4cc9b8a0d5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Comeback Trail (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1rasqk60nocx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

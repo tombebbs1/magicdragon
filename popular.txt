@@ -49,6 +49,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BYXN66ZH4BYUI::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Jakob's Wife (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/5snu1uh0aai1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5fab64t6psyk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BD6HLUTSOFS6G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6aCQta0OumW92UcXxYSRbmCPB3T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nobody (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/a8hsyaujdgpn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

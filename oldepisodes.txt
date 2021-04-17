@@ -1,4 +1,35 @@
 <item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7rl38g2ucfe1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/56TZJUNBWAX7Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Manifest SO3E03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bik1tlg6yz3k::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T2NWERFJDJO2I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLORwhite]The Falcon and the Winter Soldier (2021) SE01 E05[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3adqsjdudzgz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O5UPWHZDJ5MTU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Wahl Street (2021) Season 1 Debrid Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/VMHMIYX3BIUUM::LISTNAME:[COLORwhite]01[/COLOR]::#

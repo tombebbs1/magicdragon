@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E04[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/t9uwtc4fhc3d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t9uwtc4fhc3d::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/625YZePh2KoSX61xVXt3JwuSq4m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7rl38g2ucfe1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

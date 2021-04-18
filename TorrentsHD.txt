@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Black Friday Subliminal (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gmdlr9mws572::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/om5tqi9uv1sw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZVIFX4TU4PFVS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Dq4UMuxAHlRH6z0Lv7GnAutxMH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Barbie & Chelsea the Lost Birthday (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vu5z5cfho9ns::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

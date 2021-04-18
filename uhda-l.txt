@@ -1140,6 +1140,14 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:ac930c5286fecbb63c988d61cbf7b19fb88c1b61&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Chaos Walking (2021) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/WHCKLGBUIRN7W::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Chappie 4K [/COLOR]</title>
@@ -2195,6 +2203,15 @@ ublink:LISTSOURCE:https://1fichier.com/?ctrj87o2lb::LISTNAME:[COLORgold]HD  LINK
 </item>
 
 <item>
+<title>[COLORwhite]Half Brothers (2020) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DD3RX2HJMY3NU::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Apl0WFx61trVOoxvc8Erd5cbP8X.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Halloween (1978)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://rapidgator.net/file/77cc9eb21d4aa547d640bf02f4033260/Halloween.1978.2160p.UHD.BluRay.X265-IAMABLE.mkv.html::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
@@ -3086,6 +3103,15 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:0a7bd615cacf2b443926f9900b89129021e0076a&
 <link>http://uptobox.com/n7m216e3ha4v</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Let Them All Talk (2020) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/3QU4J3KLPCLYO::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

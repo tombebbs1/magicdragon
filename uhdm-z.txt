@@ -351,6 +351,17 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:5951c7fd13298206fc7560db33dad56baaa8133c&
 </item>
 
 <item>
+<title>[COLORwhite]Nobody (2021)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/GM3I4XOTFCBD4::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
 <title>[COLORwhite]Nocturnal Animals 4K [/COLOR]</title>
 <link>http://uptobox.com/yv94bz64txuc</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
@@ -1815,6 +1826,15 @@ sublink:LISTSOURCE:https://uptobox.com/am5sq3gqwcb3::LISTNAME:[COLORgold]HD  LIN
 sublink:LISTSOURCE:https://1fichier.com/?24ig0gf32wduiouw88da::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTA3NjU3OTM2MV5BMl5BanBnXkFtZTgwNjQ2MzE1NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Courier (2021) 4K[COLORred] Debrid Only[/COLOR][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/PGFYPKGMPOUSO::LISTNAME:[COLORgold]HD  LINK 2[COLORred] Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

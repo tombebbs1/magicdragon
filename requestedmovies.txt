@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Dove (1974)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7mktn6eoih3q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/th44wgx2o0tn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MEH5HYHRRN6QU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vwbsaWrKnXuDXydtSZrh5rlX4LQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]It's in the Air (1935)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/k67raukd1je2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

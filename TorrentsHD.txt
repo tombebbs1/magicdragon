@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Forever Choice (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kvvc50u3fhdd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/g8yzp4w7eio6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/J3M3VGAALPA6A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A64jsEfAoRwTIWjOvy9coiISjdK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love Stories in Sunflower Valley (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/gmdlr9mws572::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

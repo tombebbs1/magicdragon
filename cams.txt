@@ -42,8 +42,6 @@ sublink:LISTSOURCE:https://upstream.to/3vqp6zhke965::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]The Unholy (2021) HDCAM UPDATED 02/04[/COLOR]</title>
 <link>
@@ -65,10 +63,6 @@ sublink:LISTSOURCE:https://upstream.to/uxhl48cx7hxg::LISTNAME:[COLORgold]HD REAL
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]Weekenders (2021) HDCAM UPDATED 16/02[/COLOR]</title>
@@ -102,23 +96,6 @@ sublink:LISTSOURCE:https://upstream.to/oxqq5jelhrsr::LISTNAME:[COLORgold]HD REAL
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ioTJaEpRw2Amw3001oO4KNZ3cXR.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-<item>
-<title>[COLORwhite]A Christmas Carol (2020) HDCAM UPDATED 10/01[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/tgpn56cdxk37::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://vidlox.me/70s9mfqhgvfc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/eeuapwas9rxi::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mcKDuxaFzKM3dajgyOT7wwZIWd.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]Streltsov (2020) HDCAM UPDATED 02/10[/COLOR]</title>

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Debris S01E08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/07k3gde2hv3c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JME3YGTMZXBAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cILrZGHgsIEpZ6VKEB3VwC2CadB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Simpsons SE32E19[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qq8pdj8i1mo0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

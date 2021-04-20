@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sideshow (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w8o8viy9nhr2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hm30y60cv6m1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S4POGZAJPKWJS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/thF6nSx4CKO2CuWECVbFOq1rZMA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]My Beautiful Bride (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/68o756wp1txu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yfm5qakjprre::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ESLRD4SLBY2UA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/2341de81de8f4f76387951792f53a5d4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]At Night Comes Wolves (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fwh4e04zyvjb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/km89jyjlomhx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LPSKVHSHWD3DK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dS59Rtq25BzAkHKVwmIbskP1yGD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]86 Melrose Avenue (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ez9ccohociw6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

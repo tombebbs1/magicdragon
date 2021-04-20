@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]86 Melrose Avenue (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ez9ccohociw6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ffhcumk0b5v8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/W5JZZRKQVOJVS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A1K71CC6DnEPduOZptEgPD2Idon.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Apocalypse of Ice (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xtdweth7p3ev::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

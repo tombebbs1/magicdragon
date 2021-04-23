@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Virtuoso (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/db9tbsajnzcl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/qql3a3vlf9w2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5PIN6OPKIEUDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8RIjjmWZi8tJf5lRxyHGErentsv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bloodthirsty (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3he6ma0izjut::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/6ikho93izemo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FNZ2IINMIEAUI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5bGQYPGE4Ndb98XDRUJW25h0LFC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stowaway (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/02bmkzxsoqbr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

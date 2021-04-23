@@ -9,16 +9,7 @@ sublink:LISTSOURCE:https://upstream.to/9cpr0830edfw::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Mortal Kombat (2021) HDCAM UPDATED 17/04[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/sa639hz17t1j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/13kep5l5jap1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/13kep5l5jap1::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yhtzsbBExY8mUct2GOk4LDDuGH.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Ascendant (2021) HDCAM UPDATED 13/04[/COLOR]</title>

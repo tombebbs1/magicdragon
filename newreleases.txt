@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Clockwork Girl (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/na31frg9u3j8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/2fafg6c56x8a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GCWTFXWUBPQ52::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95otYwtU4MZBHGSZIFPQN9lUkbm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]We Broke Up (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dtt97kxsd56a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/xoobltu86fep::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MGSWJUXDPJFIE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95otYwtU4MZBHGSZIFPQN9lUkbm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Trigger Point (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rct85s3kekar::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

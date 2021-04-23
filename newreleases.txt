@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Trigger Point (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rct85s3kekar::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cy0sa09x0un6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OXNRBWIQHWUBC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YlS6d7tBVUNstYGkjTv1JmHzF3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mortal Kombat (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/sa639hz17t1j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

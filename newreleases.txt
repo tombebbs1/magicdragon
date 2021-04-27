@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sharks of the Corn (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/29v6nnz7cn3r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/2kpr3qbbwjao::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PLWDOMXDR7E6O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qq6OGVDTjjQImvaFLU45WQsYvtg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Justice Society: World War II (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8rmkp8n65ecb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

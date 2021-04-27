@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Best Summer Ever (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tfw4ibkawre4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dmbd0wjgmov6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FYMZH3DU4KF26::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n8vp89TYz2MNbzwr83ErnQ7cuCn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Below the Fold (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/790m85rf1oer::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

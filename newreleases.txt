@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wait, Wait, Don't Kill Me (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/piv8y53vg3ar::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/z0nrsh4o4u7h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IMDCIRMOLD4QS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9PCH1absDwIN4qStUns0gFcoYHv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sharks of the Corn (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/29v6nnz7cn3r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

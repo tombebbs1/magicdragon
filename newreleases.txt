@@ -61,6 +61,29 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pipeline (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/26va7hfdcgj9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0gmxk11022m8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CR2ZAME7U63O6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vqZqO8u5IT7J9qKLf62zbS0ff3o.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]Attack of the Demons (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rdojvoxstgzt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/827fpdce5l29::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S2XZCPGBLXB5S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/og9z4jcHDMz5UTt5U0YrwLJrAqt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Insta Famous (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/v127g1n2kolu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cornered (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cdo6hamqjulz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/sikgd4cwlvuq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RN5JT5IR3OYIA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8kSaR54ODJVQFs9g4fr5kryxmu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Things Heard & Seen (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/f5udx4mt7yrs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/6c2mwaduzqns::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ULRVCLMW56KTW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Demon Slayer the Movie: Mugen Train (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/922j47vkugbd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

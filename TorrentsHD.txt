@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Demon Slayer the Movie: Mugen Train (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/922j47vkugbd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/k43dc7v0a39w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3U5BJ4SNRHX3E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pipeline (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/26va7hfdcgj9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

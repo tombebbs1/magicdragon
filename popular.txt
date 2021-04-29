@@ -50,6 +50,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ULRVCLMW56KTW::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Percy Vs Goliath (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2kc5gu3h6ivy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lttdg6umt0jo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OGU6G6MACAEIO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6ePQ8YqyyyVyr1ASkjs7heil7y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stowaway (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/02bmkzxsoqbr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

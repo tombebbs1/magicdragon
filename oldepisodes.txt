@@ -1,4 +1,34 @@
 <item>
+<title>[COLORwhite]The Handmaid's Tale (2017) SE04EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/i0cbicamy0eg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NO4FOCYJAUPTQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Handmaid's Tale (2017) SE04EP02[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zp0gqo7w96fu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OQQI63RUNGFDM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Handmaid's Tale (2017) SE04EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rfr5cw3jaadb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UBYE6SODAN5GU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Young Rock (2021) SE01EP10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pucrv0asbzss::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Outside Story (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0v24xkritw9r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/qywfwrcwg1ed::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6P6MHIM2RAQUC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/co1L3kI3T9PhGaar4EspuhDdUtw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Golden Arm (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tug83h0c23hc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/wh8ouyf7u562::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LBG4M45LCNX4K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4vwJK62cWhVFq6SZKHIcdHrh5T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bang! Bang! (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/di4f8tn824dn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4vgflhaecour::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K3L4H3M6JG5EM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK4gFQC46DLxjttqWU22WX5St32.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Voyagers (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/16opqbf3wtdw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

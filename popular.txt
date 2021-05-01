@@ -61,6 +61,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OGU6G6MACAEIO::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Mitchells vs. The Machines (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2d6z32buckcv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pohbkg3oh0dn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GLBNFHMIOFMRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Stowaway (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/02bmkzxsoqbr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

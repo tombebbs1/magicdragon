@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tom Clancy's Without Remorse (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nqmj3hmf6odq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/n0mgvteo4ydx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4AOT5DFLGXKSM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rEm96ib0sPiZBADNKBHKBv5bve9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Mitchells vs. The Machines (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2d6z32buckcv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

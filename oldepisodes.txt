@@ -1,4 +1,45 @@
 <item>
+<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E06[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6jx743ff1hcp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6jx743ff1hcp::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/625YZePh2KoSX61xVXt3JwuSq4m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/oetvw6w0va49::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HKUTZHXTN44V2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Manifest SO3E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2jxqfk0vp9q7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3OHUSNDTBKKXW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Manifest SO3E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zglu1sitzdf7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NVXEC37UCGLH6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Handmaid's Tale (2017) SE04EP03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/i0cbicamy0eg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Unchained (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8480341yhj22::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/28wk3acn6irz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LVNZ3NDXQKDIG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lC8k2Fq5KM5eVq5BnZ1zrL6ZFi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Daddys Perfect Little Girl (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/vvwb3wq929e0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

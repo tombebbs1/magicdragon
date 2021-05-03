@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Treasure Lies (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/yzeeptj85x5z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/kxj4pd6csmgz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YZEVGBUSK3KE4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/e8d14f686ab33a29a4f6798a581dabfe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wrong Place, Wrong Time (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yzeeptj85x5z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

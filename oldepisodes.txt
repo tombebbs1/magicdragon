@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Family Guy S19E18[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/77w4jt76mlxv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CXSQJT5L2QFA4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Batwoman (2020) SE02EP12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2wr0hv1tn918::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7P2QFD45NU7YE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Match Of The Day 01/05/2021[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/uvj04dlwmcda::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

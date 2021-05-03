@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dark State (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mf1kysy1a2bz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pzzoifc26rx6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MMTPP32OMK3P6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3kmbE3OeDqbhqxlyJIZflZSo37j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]How I Met Your Murderer (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/91funkyvj2rl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

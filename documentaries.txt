@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]Journey to Royal: A WWII Rescue Mission (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4t0nztwczdpb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YSMI2ECCFQHBW::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnvgcGX9JWN9lCFej52l9pV8vrA.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Volcanic UFO Mysteries (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/8zco1yl8i3i7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/STUPJNXGQ4LMC::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fm6robAG0wxbgYUcfXX1wqPc0vd.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Entangled: The Race to Save Right Whales from Extinction (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/wo2kvr6tlpkq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

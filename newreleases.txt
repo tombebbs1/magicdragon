@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Lockdown Hauntings (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/68cvcjw8be47::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gfx08czgaoih::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R2X6ZQQT7GXAI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c5jtJ7lYEwEOK7toVw9vWcVRPPQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bike Thief (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m5qsfpqgycjy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

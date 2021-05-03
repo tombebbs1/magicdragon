@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Darkness (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mxl2t6zgdevn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/yoo3e89kosb8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HN52AWD6N4QZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aBui2S9XPAYgEPBMJjHWkphLww3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Lockdown Hauntings (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/68cvcjw8be47::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

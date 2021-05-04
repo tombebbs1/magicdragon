@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Midwife (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fxvpnfix4ze1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/ui3iwmv672ef::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OVO3VXUORPNEG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gidguvUr9TiyjiWO8nctLN4nDvt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Painkiller (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ov06rc7eoin0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/m0ysaru4i48u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UQUSTBESK3BSS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YlkF8TxVCh06GDMrYTYTIjweo0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Treasure Lies (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/yzeeptj85x5z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

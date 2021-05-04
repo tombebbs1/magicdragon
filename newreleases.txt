@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Chinese Speaking Vampires (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/5s7yebfqfuv7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/6gg3yt0hmpxa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KQV3375NQCD2E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/fea8850dcfd461992a14a3e5e132454d.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cerebrum (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fffnv6uiltq4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/4um59bq331xr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NBLP3WM5MSF7G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r8F5EzTrjCwo4nptgfWVAm8RrZs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Midwife (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fxvpnfix4ze1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

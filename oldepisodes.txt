@@ -1,4 +1,36 @@
 <item>
+<title>[B][COLORwhite]Jupiter's Legacy (2021) Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/45zdw0ybg9ep::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/op9umh367e4a::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dgfvm5mqtno4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ncncbeyhanvz::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/s87vxn0hgfzf::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6o360t7yn5pc::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/042pyot7l7de::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g0gjcmz6grd7::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Jupiter's Legacy (2021) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/UOYJBEWH72RAA::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RUNNES4GQGJV2::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NHOBLEWNMWXKK::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/G7WF3THFMDZWU::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MHDXQ3WB7PBA6::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5GAUTKDTYBU6Q::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GPFG32ZEBKLAK::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AYZGJAHGKJPA4::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Handmaid's Tale (2017) SE04EP04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/058624gugq4m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

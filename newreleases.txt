@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mainstream (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/svxsbodf5fjk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3crxq3r6kg8a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AMC7ORRJNRDFA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9vTf02WXyldeKN4kfwZRwwI4XbG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]In the Earth (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/avcpcvm52o57::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

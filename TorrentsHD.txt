@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Time Sleeper (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nki0ajkbpoc4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/vhz562atwton::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GFD7N5IGAD2UY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wJTsmTJ4KjgO7z0z3BzOgbwEqpH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Super Me (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fthe7yvojxsp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

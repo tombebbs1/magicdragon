@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Those Who Wish Me Dead (2021) HDCAM UPDATED 09/05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6i1jxw9vt4b6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wb8p1b7r4htq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wb8p1b7r4htq::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Separation (2021) HDCAM UPDATED 02/05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/meru2r9stol5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -8,10 +19,6 @@ sublink:LISTSOURCE:https://dood.so/d/vwgt9mvqnrwe::LISTNAME:[COLORgold]HD REAL D
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u97rvkruZxoIUio3r3ZySFETHB7.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]Ascendant (2021) HDCAM UPDATED 13/04[/COLOR]</title>
@@ -23,8 +30,6 @@ sublink:LISTSOURCE:https://dood.so/d/sbgn53h2iin3::LISTNAME:[COLORgold]HD REAL D
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jip5YuuUxL8Wv510lLITiSgR27.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]The Unholy (2021) HDCAM UPDATED 02/04[/COLOR]</title>

@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Simpsons SE32E20[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rvmfysd2e3db::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4XJLD6J377KYM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcr9bBY6MVeLzriKCmJOv1562uY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Family Guy S19E19[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2osnwhi15qmx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O2BUIVA5BPCBE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Match Of The Day 2 09/05/2021[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yleefteydm50::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

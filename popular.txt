@@ -26,6 +26,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ZSB5SMQCNM2X6::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Together Together (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c0mjh4o65c9b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rsj1f2uxb8jt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PP2QLVUMLCKWI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9WtVYwBs3a5zIzuSc169VLBIiS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]In the Earth (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/avcpcvm52o57::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

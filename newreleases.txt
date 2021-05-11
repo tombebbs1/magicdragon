@@ -61,6 +61,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]Together Together (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c0mjh4o65c9b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rsj1f2uxb8jt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PP2QLVUMLCKWI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9WtVYwBs3a5zIzuSc169VLBIiS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Apex Predators (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pj02zyycuydb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lvfegajup0fw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PQO44ACSF4MSI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sHjjy6a7KCjnfTZTug9ne12N63T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Long Weekend (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8flvdkrrxkhq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ls3txqrngm4e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O6NVURPS5TUGA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mKFmeXWutzZQbTyToSw9S6nwAHN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Antidote (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3jrdtjibuwex::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jebbxo04hdsb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NSWJFA3HL75E4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ibfIRdgFPiQKmGUalcZUsoOd0Pu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]French Exit (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9pv2m9fjr9zi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

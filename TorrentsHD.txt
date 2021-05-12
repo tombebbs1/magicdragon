@@ -33,6 +33,28 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Killer Concept (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pfnh1zo7onit::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0actznz9z8wm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4BJRVNOHPQD2W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/99eBDoHnRu2ZrAAcq0L1TWf23Bn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Forbidden Fruit: First Bite (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/srvi68n2khe5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/nnqm5z2ihjgp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IMXAVDEAOLAIQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KIwqOCyMilt2Sr838ZU5X6Li4T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Seasoned With Love (2021)[/COLOR]</title>

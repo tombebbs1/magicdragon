@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Handmaid's Tale (2017) SE04EP05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vko1ik6fwvnx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BQRHNDMIKHCC6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Supergirl (2015) SE06EP07[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xmheehz7qd8l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SOK37TOMZ5WES::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zsaiq8ZclPuneuN7loLEbsh1ANJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Debris S01E11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/oi6vzoc5x4n9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

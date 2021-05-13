@@ -106,6 +106,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PP2QLVUMLCKWI::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Great White (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ymshd5sni9ew::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bqa5v8cl4p3t::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5YVYEV5TZQMJU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9ynoNz5TBx6w9MMGZDf1U9LktU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]In the Earth (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/avcpcvm52o57::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

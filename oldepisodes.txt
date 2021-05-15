@@ -1,4 +1,24 @@
 <item>
+<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E09[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1nidw3say6sg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1nidw3say6sg::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/625YZePh2KoSX61xVXt3JwuSq4m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Clarice (2021) SO1E09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/oa2d16neekun::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LQL2S5S2TE7YK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP13[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5w6ms7vfnt6g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

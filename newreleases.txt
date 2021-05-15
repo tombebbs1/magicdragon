@@ -62,6 +62,17 @@
 
 
 <item>
+<title>[COLORwhite]I Am All Girls (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4g64xyq21kzc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5d6bhac1qb3v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RSEERXJEL37B4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Djinn (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/q7b7eny5drha::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

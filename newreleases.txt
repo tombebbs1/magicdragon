@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mommy's Deadly Con Artist (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/fswltyccyrfc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/a55o66lvwncr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TZCNJ5B3Q4F6O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/45a4ebeb3fb8af61c19702948249b6a3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Killing of Two Lovers (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fswltyccyrfc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Four Good Days (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fo9pd8utuakj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6ev1rxbbxz2c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BV4HP2FITTUMG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oqb0JIXH2G5gG7vlmuyzGuqY5Gp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Retreat (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/y2gfkwwchxy0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

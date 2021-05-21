@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pink All I Know So Far (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6hptgpd4xwwx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KMK2HRQ7FMUVK::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3V5OGAgVuy8ugfJHwM5AlvFAky2.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sir Alex Ferguson: Never Give In (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.so/d/ueswvl5v9anx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

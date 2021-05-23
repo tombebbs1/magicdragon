@@ -44,6 +44,26 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sam Smith: Love Goes - Live at Abbey Road Studios (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mpna6xxl1dg9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7JA36VVBLYYF2::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MdUahtFN5461usx0EcGHrDJLx4.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]15 Things You Didn't Know About Bigfoot (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.so/d/vzivqodz07ja::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/URGJJSRVSKROO::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/poJrRk8B9w7lnuElexB0uON7DVg.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pink All I Know So Far (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6hptgpd4xwwx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

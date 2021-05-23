@@ -1,4 +1,24 @@
 <item>
+<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E09[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c6gsyegbkf17::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/c6gsyegbkf17::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/625YZePh2KoSX61xVXt3JwuSq4m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Manifest SO3E10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/d7uab759sczh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ED6J4VB74MDHI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bad Batch (2021) S01E03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/88oje4srqglo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -20,7 +40,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FHH3GDMU6UYCQ::LISTNAME:[COLORgold]
 
 
 <item>
-<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E09[/COLOR][/B]</title>
+<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E08[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1nidw3say6sg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/1nidw3say6sg::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#

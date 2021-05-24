@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Black Box (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3ud9hyd0tvqx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.so/d/nwonudo12kr8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NEVJOK3UWTVWO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4uE9pODBs3YAywu3Fl9mM1njuAV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Strain (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/1tx7l4engr6h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

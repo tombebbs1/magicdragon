@@ -81,16 +81,7 @@ sublink:LISTSOURCE:https://dood.so/d/sbgn53h2iin3::LISTNAME:[COLORgold]HD REAL D
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Unholy (2021) HDCAM UPDATED 02/04[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/46xvqmr1u7p5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/iwy9ug1hvbdw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/iwy9ug1hvbdw::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIr6xlGIePQ7JxIqc7jz7z5ql8y.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Peter Rabbit 2: The Runaway (2021) HDCAM UPDATED 31/03[/COLOR]</title>

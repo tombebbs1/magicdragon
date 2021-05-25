@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Unholy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/46xvqmr1u7p5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/he2px9q3g95w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PO6PVJ4VCA3EI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pIr6xlGIePQ7JxIqc7jz7z5ql8y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Endangered Species (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gvfj30kro3mx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

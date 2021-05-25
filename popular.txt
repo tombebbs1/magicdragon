@@ -38,6 +38,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PO6PVJ4VCA3EI::LISTNAME:[COLORgold]
 
 
 <item>
+<title>[COLORwhite]Wrath of Man (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gzzgngha616h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dhu4coxbue6h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CRX42OUPOZ5NU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/YxopfHpsCV1oF8CZaL4M3Eodqa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Woman in the Window (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/q7b7eny5drha::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

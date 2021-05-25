@@ -48,6 +48,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/CRX42OUPOZ5NU::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The Water Man (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/oeam01cfg08r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fhzepwbcqvj1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R6HS26PO7LZYM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7yxdEkfTIBtKF7JbGMq7Hp6KCKf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]The Woman in the Window (2021)[/COLOR]</title>

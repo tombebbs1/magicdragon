@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Debris S01E13[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1iz59volfixm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/475JCD464HV2I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cILrZGHgsIEpZ6VKEB3VwC2CadB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Debris S01E12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/lmxpdc08lyax::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

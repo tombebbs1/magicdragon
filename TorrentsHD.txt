@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blue Miracle (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c9y8ho820upq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gfcv83uz3hft::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4YGHWU666FE7C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Friends: The Reunion (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gm0x2fr7opna::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

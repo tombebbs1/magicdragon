@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]We All Think We're Special (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/t5ec6ypja33h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/aqc0j0b3vn9n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KATT74XZGKNMU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/48fCjX6YnBYa5ABbLASeRKuLh1t.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]It Snows in Benidorm (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w7f2ufu2i1bk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

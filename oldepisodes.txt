@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]The Bad Batch (2021) S01E05[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0aceb5od044v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/36PLMJMIGXKYI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/WjQmEWFrOf98nT5aEfUfVYz9N2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]The Mighty Ducks: Game Changers (2021) SE01 E10[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0tfxhv3iu4zv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0tfxhv3iu4zv::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/625YZePh2KoSX61xVXt3JwuSq4m.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Handmaid's Tale (2017) SE04EP07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vtzsmlmxjpf2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

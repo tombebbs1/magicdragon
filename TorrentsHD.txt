@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cruella (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/t513gwbubx4s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3ujjkfpdk24m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L4WAYJPSYIEJK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Riverdance: The Animated Adventure (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/o98z2c6hvwdx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

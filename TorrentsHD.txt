@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]American Traitor: The Trial of Axis Sally (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0c01izftqggu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/n7haa2umhm8p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SAPKMCIMS4QK2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6EpnabBKDEhcVVTeKIFLoYzjc4A.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Feral State (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/llnj1vevlms6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ux61qk9p4mr4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BMBEILUFHR73Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2t929VgFAnLzVmTaOYjlnTHdMzp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Open Your Eyes (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ooslcoel9n4d::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/k410efa8sb6v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UT6QRKE7WQNWY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7oC1psPf4ndEf1cxJFpBP1jlWef.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]We All Think We're Special (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/t5ec6ypja33h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

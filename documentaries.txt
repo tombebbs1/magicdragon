@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Apocalypse '45 (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8dehhcavmbdv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S3TVSGXQ5HDEW::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rcvjDn4Da24Diff1fNJxZ9NtM3q.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Meaning of Vanlife (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/utg8xt35di0p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

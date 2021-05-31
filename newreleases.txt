@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Zebra Girl (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/79uw0ob3yuzm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xhe2b4ur5q91::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/W4FJ7XDHZQLZE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7l6SgH2ef1Kv5sbNdksUxfBJDCT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Oslo (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3b8qfczljuwy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

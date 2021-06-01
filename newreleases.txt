@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Final Stop (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ble4boliryjt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3ato36qskabf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BQR34PC3NUEWA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzm157XGiISc9qP2BVAEMLrvzPK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bullied (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/e43nicwcmqak::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

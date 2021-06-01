@@ -61,9 +61,20 @@
 </item>
 
 <item>
+<title>[COLORwhite]Our Ladies (2019)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ro2srxup1meh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8zo3y3qr5w62::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CSBIKQ3JVKWXC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3WsNFUrOo8DeX0TClB2Gd7gxhI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Saltwater: The Battle for Ramree Island (2021)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://dood.cx/d/a6w3iysoj13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wzc5bhwdrbl8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.cx/d/py1c44kp1be3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/PEEWX7FBTDAK2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
@@ -74,7 +85,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PEEWX7FBTDAK2::LISTNAME:[COLORgold]
 <item>
 <title>[COLORwhite]Red Woods (2021)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://dood.cx/d/a6w3iysoj13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1w5f3huuvvvj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.cx/d/552hybrawi2y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/U6US7LR7PYN6K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
@@ -96,7 +107,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/OSFCH3FTXP5EC::LISTNAME:[COLORgold]
 <item>
 <title>[COLORwhite]Loves Match (2021)[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://dood.cx/d/a6w3iysoj13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yht1lbxpddil::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.cx/d/2fobnkfsl3oe::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/GZYE6ANVKHH3Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
@@ -107,7 +118,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GZYE6ANVKHH3Y::LISTNAME:[COLORgold]
 <item>
 <title>[COLORwhite]Blind Ghost (2021)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://dood.cx/d/a6w3iysoj13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jme0bvudve6g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.cx/d/b85n3hfusi8i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/BG3DMCK77CXQ6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
@@ -118,7 +129,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BG3DMCK77CXQ6::LISTNAME:[COLORgold]
 <item>
 <title>[COLORwhite]Max Bishop (2021)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://dood.cx/d/s59l8yxmyct8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/78e6zbx87v6w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.cx/d/9h2g6rflz03g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/DNZF6WUNZ7KP4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>

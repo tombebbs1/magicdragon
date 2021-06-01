@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Girl Who Believes in Miracles (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/e43nicwcmqak::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/92gn5yeprao4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DZI5IANFYEC6A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oFSr5josSDeOq3vl6NP8e5pghhQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dinner in America (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/e4jr04d7mxzz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

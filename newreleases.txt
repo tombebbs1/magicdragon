@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blind Ghost (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.cx/d/a6w3iysoj13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.cx/d/b85n3hfusi8i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BG3DMCK77CXQ6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fAPsKJDPc7JGJ7Wh9EgLaVYLmMW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Max Bishop (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://dood.cx/d/s59l8yxmyct8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

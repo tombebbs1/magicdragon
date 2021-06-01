@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Max Bishop (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://dood.cx/d/s59l8yxmyct8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.cx/d/9h2g6rflz03g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DNZF6WUNZ7KP4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHoOqGsM174m8xtXyrLrGtGiDiK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Call (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qwvtwhgkcphp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

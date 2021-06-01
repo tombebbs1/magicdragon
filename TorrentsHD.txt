@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Secrets She Keeps (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/zi1p5namgwa8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.cx/d/bs0bklurrv0v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6PTULL57BS3IE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODRkZmQzNDMtY2Y2OC00NzY3LWEyY2ItY2JjZmVhNDkyYjU3XkEyXkFqcGdeQXVyMTQyNDk2NzE@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Trapped Daughter (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zi1p5namgwa8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://dood.cx/d/vs0roq45pcsx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4ZJUUQBHSNFFU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/1181/_1200x630_fit_center-center_82_none/MVE_Trapped_Daughter_keyart_1027x1500.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Our Ladies (2019)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ro2srxup1meh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

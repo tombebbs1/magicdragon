@@ -61,6 +61,29 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dinner in America (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/e4jr04d7mxzz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cjs8a7tf7nyo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YCBYPH7G4D2VW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aZQFT4PW06XkxB0RztSSJOug7s6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Spiral: From the Book of Saw (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ho7dl0vtu3at::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ep1eajbvqkf2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YCDEEXTWTD3A6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YYCREMYNF7A4C::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lcyKve7nXRFgRyms9M1bndNkKOx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Travis Turner (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yqn1ott4l5tm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

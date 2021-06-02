@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP15[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/thvoxps9u8zg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HRXNFUWPSJDDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bad Batch (2021) S01E05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0aceb5od044v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

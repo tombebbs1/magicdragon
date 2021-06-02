@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Handmaid's Tale (2017) SE04EP08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/uwf055gv7ia5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U6SUX2DJB53GU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Superman & Lois (2021) SE01EP08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/240ddtqrhmkx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

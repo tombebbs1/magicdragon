@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Occupation: Rainfall (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/o8r3g0b0uu08::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0yhjegklawxf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PKSLTJXVRYQ6G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ioTJaEpRw2Amw3001oO4KNZ3cXR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Attraction to Paris (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vt8zji71737f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

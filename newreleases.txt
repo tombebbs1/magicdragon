@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Weekenders (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4wngy4wxcev0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/n5i652blubu0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FZG7PSIW7YZ6W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>http://img.rlsbb.to/images/CA0mgNR8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Death in Texas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9u2jxn2mdt6h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

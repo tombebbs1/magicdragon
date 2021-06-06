@@ -19,6 +19,16 @@ sublink:LISTSOURCE:https://real-debrid.com/d/GV5OTWODFV4JC::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Bad Batch (2021) S01E06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/43p01fyscoaz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GQTRF3U4AR5IK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/WjQmEWFrOf98nT5aEfUfVYz9N2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP15[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/thvoxps9u8zg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -61,6 +61,29 @@
 </item>
 
 <item>
+<title>[COLORwhite]Flashback (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nx578v25tcc7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j12e3cz9utf5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XTPB32IMGHUAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nc7szo7ChOknEk8qCkABJyNgl5y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Conjuring: The Devil Made Me Do It (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/50e43kbaw1yx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5yf5n4cr7plr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H6YCJWK2MJNLG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EH7DUKGVB6FLA::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ioTJaEpRw2Amw3001oO4KNZ3cXR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Occupation: Rainfall (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/o8r3g0b0uu08::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

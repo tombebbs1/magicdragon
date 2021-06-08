@@ -69,14 +69,5 @@ sublink:LISTSOURCE:https://upstream.to/uxhl48cx7hxg::LISTNAME:[COLORgold]HD REAL
 
 
 
-<item>
-<title>[COLORwhite]Long Story Short (2021) HDCAM UPDATED 09/02[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/0uigxs5j39rx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/psgw4yqyrumr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/psgw4yqyrumr::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19pReeL9VE1banX4JDNdmtwH7kv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 

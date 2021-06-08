@@ -38,6 +38,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TLOCXISUHX4K4::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Long Story Short (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0uigxs5j39rx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9kf7dhv02l03::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VSGYQAUQA72DG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19pReeL9VE1banX4JDNdmtwH7kv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Minamata (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cyiat9lsynhy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

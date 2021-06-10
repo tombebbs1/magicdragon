@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Gia (1998)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x6h2i5z1bckz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.co/f/rwq11qmxc7p08v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M7IHECBVVUZX6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alan Partridge on Open Books with Martin Bryce (2012)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/k8j0uxoae998::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

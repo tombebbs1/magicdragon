@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Loki (2021) SE01EP01[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vi0t5ujezpva::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LJEODP7QT76AE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear the Walking Dead SE06EP16[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tjo6mdn9jftv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -60,6 +60,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TLOCXISUHX4K4::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]In The Heights (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3fdycrwfz1tf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uo3t5wd7zsnu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/F3GXQ35HYJDU4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a1LtHXN7muEHNE4MezCT1waT32a.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Long Story Short (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0uigxs5j39rx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

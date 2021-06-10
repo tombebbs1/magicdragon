@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Basic Instinct (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/240k8szbse9j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/68th8uxl5q5l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M5C6BF77VCLRM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Gia (1998)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/x6h2i5z1bckz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Fear the Walking Dead SE06EP16[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tjo6mdn9jftv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NORXHGX2AJBSA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNmY2Y1NTgtYTExMS00NGUxLWIxYWQtMjU4MjNkZjZlZjQ3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Batwoman (2020) SE02EP15[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/h7ee42timpvo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

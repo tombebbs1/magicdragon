@@ -26,6 +26,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/UB6YZFJMESVV6::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Awake (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/eouxldqh9o7i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/najtnlek07ry::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ELUY7WUD4X5GM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Conjuring: The Devil Made Me Do It (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/50e43kbaw1yx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

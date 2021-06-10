@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Queen Bees (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/eeym9pg3g4kl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0ahwsnwomr4j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7DF6HKNNTRIOA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFP6jaw0Lkb5Id6s0OlSbYxZfzL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Carter's Family Reunion (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/f9wm9a3w932t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

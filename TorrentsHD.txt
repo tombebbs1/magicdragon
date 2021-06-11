@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hero Mode (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/i9c0ij27jsvu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ty04ez30e5bv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NS26N2R34HXHA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1j8tQFCnWQbZix2tiZDAysg4OgT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rogue Hostage (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jimp6jlpn519::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Manifest SO3E13[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bogp2covt5ko::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QTKRQOSSE3X5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Manifest SO3E12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bogp2covt5ko::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LRHTPN4PT4RN6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Clarice (2021) SO1E11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ttvahdfpcc4f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

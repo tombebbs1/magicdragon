@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Night Walk (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/48xc6u1ik4h5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/mde6861eh4exnd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KZJLWSRY7XDE6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9OPt32Q1B6iJtWuo0288QjUIvK7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hero Mode (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/i9c0ij27jsvu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

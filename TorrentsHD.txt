@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Akilla's Escape (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/micgmo4d9lhq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h5atp44jrp0u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E62GLUJGX3VKW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kiZVAKWExRdGzzn8GcjbjkCtR7h.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Gully (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mu47oxvc9qtp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

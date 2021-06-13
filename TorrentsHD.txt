@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dinosaur Hotel (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/08ib05nvnwex::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/pke7okzga9nwq1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NI76B3677UMYQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6dCPmtO7URN1HpqGO91hs9iOHHM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lethal Love Letter (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/08ib05nvnwex::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

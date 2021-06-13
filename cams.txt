@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Censor (2021) HDCAM UPDATED 13/06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w7u0hfvgxj8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/d57icvei6q9u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/v64t61wgadny::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hE1nQVUaPJYjyvtSVzaFx4sYWlS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Quiet Place Part II (2021) V2 HDCAM UPDATED 28/05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tt8raezugi2b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

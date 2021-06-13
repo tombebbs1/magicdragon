@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cannibal Troll (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/hjs3l642plaz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zo1ngqca3ll1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/43FTBQVI7RAG6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o1VO6eYoldYkHppaEbp3hYW701N.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Night Walk (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/48xc6u1ik4h5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

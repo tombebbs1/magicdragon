@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Buckskin (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9qe5yipvuwpi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y15zc5u7plxk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SNO7C3U67U2OU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/e7635ba01635bbac2139b23e6179d9f4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Untitled Horror Movie (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/uvbu4hb87ukt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

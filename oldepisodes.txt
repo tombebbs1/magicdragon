@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP16[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pgwqtt4zulch::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WYPP6WMHVDPRC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Manifest SO3E13[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bogp2covt5ko::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Horrific Evil Monsters (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/r5xegue1sx0h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xulk9gm3crjk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TC3TOVAHF6CFE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hC5iDR1OMpP1D02QOjnipw6DSZa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Queen of Spades (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/888i2qpzq2k3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6h90javp7fe7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MPNXXDAYGVL5S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nRj25lhFjQB0ssNMZjwJLORpK6D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Space Between (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4km8vh4bxcxy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

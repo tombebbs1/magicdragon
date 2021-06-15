@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Why We Breathe (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qzjwxmylumsk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/u2gbkaf8j8nl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ALWPLEVYE6TRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i1JIhIMRDQIazwEk0uw1YiGoiWf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Just Another Dream (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jp521tn5vhwc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/r5jpo6fdkmhr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XQTU5JWMUM64U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gbbSN8LibO791LIbKX95Ueisfih.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Songs for a Sloth (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ihw3z8o6ihz9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7kezwee2dnwg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DBJL67MGK75KE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gbbSN8LibO791LIbKX95Ueisfih.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Horrific Evil Monsters (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/r5xegue1sx0h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

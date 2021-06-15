@@ -68,8 +68,8 @@ sublink:LISTSOURCE:https://upstream.to/gl7k65yeqmc5::LISTNAME:[COLORgold]HD REAL
 <title>[COLORwhite]F9 (2021) HDCAM UPDATED 23/05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/l6j70t1y1ha3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/o1ub7kx5v39t::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/o1ub7kx5v39t::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jjh5fwhj0z02::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xj2t51g61anq::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

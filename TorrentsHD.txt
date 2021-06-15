@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Kung Fu Mulan (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/duppxmn4fvne::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qb9n92vaav5o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KO3LPVSY3FSI6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6CppgOnIXtpG7TI5SuNv5QQHbo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Aurora Teagarden Mysteries: Til Death Do Us Part (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m6eo8eszklmw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

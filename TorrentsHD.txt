@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love at the Ranch (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/51a2d55rr6qs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/o7e673l0cldlmz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/rwq7wdm0ivqpzo3::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xokzLAbzBKP50XRigg4CDrSGI2Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lights, Camera, Romance (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/51a2d55rr6qs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/gnl8n1wlbwdvmw8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/7rdzr8lxudejjkl::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wuI3KytRA1vwH25fXaZ7Twqg5UH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Misfits (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/51a2d55rr6qs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]9th Circuit Cowboy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/edd16cho8q6v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DL7DEY53IT3Y2::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ouIqic8IdbjDcUmXBOXl1wd4L8U.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Category III: The Untold Story of Hong Kong Exploitation Cinema (2018)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6s3cl1ucnn2a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

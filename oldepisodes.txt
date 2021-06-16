@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Superman & Lois (2021) SE01EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9hcqcd4pgjp5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Q3O64TTGUKEAK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Handmaid's Tale (2017) SE04EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/a566vx6wbye1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CLQ5KVMPGJLTS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Batwoman (2020) SE02EP16[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pgwqtt4zulch::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

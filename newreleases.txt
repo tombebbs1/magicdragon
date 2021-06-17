@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Triumph (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xnmo2f2m718i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6osmjgdp7x1p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N44WNEYVSEXK4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Y7R1mFvP1fLjlIZUA9W5z5Ekkr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love at the Ranch (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/51a2d55rr6qs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

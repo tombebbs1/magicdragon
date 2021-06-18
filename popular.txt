@@ -26,6 +26,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/UB6YZFJMESVV6::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Fatherhood (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/blc7ihw712c6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9un3bkqk32ua::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Y2RYVU6T7YD2C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pR2fzm82fl0giommpo310LBOMbV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Awake (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/eouxldqh9o7i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

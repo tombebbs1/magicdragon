@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Birthday Cake (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jmzwpkuh6jgo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wu9llqicen67::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N6BYSZ6U3D2L6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8IWmFBaEDu6nyYQd8zqyCh8SH8X.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Crypto Legacy (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/w7u0hfvgxj8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/snizrtaqwg9u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OED34SDHEEM7A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bE1weTpN8gm0PH1R5UY162oVsuk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Censor (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w7u0hfvgxj8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

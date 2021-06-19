@@ -86,7 +86,7 @@ sublink:LISTSOURCE:https://upstream.to/www49x8mghdi::LISTNAME:[COLORgold]HD REAL
 <link>
 sublink:LISTSOURCE:https://upstream.to/meru2r9stol5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.so/d/vwgt9mvqnrwe::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/vwgt9mvqnrwe::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/URHY3YY6SKCMG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u97rvkruZxoIUio3r3ZySFETHB7.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -97,7 +97,7 @@ sublink:LISTSOURCE:https://dood.so/d/vwgt9mvqnrwe::LISTNAME:[COLORgold]HD REAL D
 <link>
 sublink:LISTSOURCE:https://upstream.to/89bjzh6chdkz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://dood.so/d/sbgn53h2iin3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/sbgn53h2iin3::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GSPDDDE3MBTDC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jip5YuuUxL8Wv510lLITiSgR27.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
@@ -110,7 +110,7 @@ sublink:LISTSOURCE:https://dood.so/d/sbgn53h2iin3::LISTNAME:[COLORgold]HD REAL D
 <link>
 sublink:LISTSOURCE:https://upstream.to/z6trpmrid7uz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/uxhl48cx7hxg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/uxhl48cx7hxg::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R2VDMU6ZLMVFW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

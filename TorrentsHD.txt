@@ -45,7 +45,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YV72BDO6QUOOU::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]A Quiet Place Part II (2021) HDRIP WITH ADS 28/05[/COLOR]</title>
+<title>[COLORwhite]A Quiet Place Part II (2021) HDRIP WITH ADS[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tt8raezugi2b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/lioudnp9e8nq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

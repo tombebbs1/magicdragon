@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Let's Dream (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kyuwfg1tc3t6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6asb9vk3ezow::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WIVWXKZYZU3OO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/40cmHSe7ZMldVXHrwKI1bC9t8wu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]After Party Secrets (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/rfdfa6kd0z18::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

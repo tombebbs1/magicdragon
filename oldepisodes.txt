@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP17[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wky0xtecfrqt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L6JZGRWP5V2EM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Bad Batch (2021) S01E08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ukbvc30ek0i8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

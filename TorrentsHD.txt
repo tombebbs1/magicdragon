@@ -34,11 +34,22 @@
 </item>
 
 <item>
+<title>[COLORwhite]Entanglement (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/28a6sypuphk3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8r8fu3w3m5jq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MPXW5X6M37WX4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dFbsDDvDswgSYKGPsSD6sAiuy7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Her Pen Pal (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/28a6sypuphk3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://mixdrop.sx/f/j91l4pe0ivpjxl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.sx/f/j91l4pe0ivpjxl::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6HYA2WIGR3LFO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oz71mRn4UeiE7wr7KV5mUwsncA3.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

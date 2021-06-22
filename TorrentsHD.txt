@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]White Demise (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/uvazb18ezogi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/e359h3ju0t5r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JCTOINHL5TBAA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lmAAMFJU6EE8wL2E94zCafKBjCT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Babysitter Must Die (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/awlg0gufo6nx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/x66z9fdbkf9b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Q6WSQFTMDF6SI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Al6j2dL1ZJdDHS8x0QD2qNNZ9Y6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Only (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/j16rfcxk3617::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t2jvc4zekqmb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2BG5MC5GNW5IO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5IARW8Pc3vUlTNvp498yPUWBDE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cradle Did Fall (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/kyuwfg1tc3t6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

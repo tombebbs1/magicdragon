@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Superman & Lois (2021) SE01EP11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pcmwnmr8amo6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OV7BYFPTXVCLA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Loki (2021) SE01EP03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/r9sk9h5wvq1s::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

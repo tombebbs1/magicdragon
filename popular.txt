@@ -194,6 +194,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YYCREMYNF7A4C::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Spirit Untamed (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vxzsm59yh51x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/81u7lr0obg7j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JTOINO3SM5MIO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ALJC2LQ5HT2LO::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5cbGVDmRMYVzkq5cItZ7cYlDdDR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Unholy (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/46xvqmr1u7p5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

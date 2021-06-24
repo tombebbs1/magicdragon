@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Black Easter (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c8bde7rja7ni::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5erpdebsphms::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PIB72NPC3TLAC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ak3WXExyPIvh0oOeAlo2VIcJuvG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Behemoth (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/f05q0kygjimn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

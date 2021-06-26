@@ -194,6 +194,28 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YYCREMYNF7A4C::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Gaia (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/k581ly1hiwqi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7tnepb803px1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3VLRRIQ2G54EI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Wo1PcpiDIkXuGCUSPnYItKzTNj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Ice Road (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dp5zu4iovtdh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/452q2smf9hg7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5ABZD5EOTOE5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spirit Untamed (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vxzsm59yh51x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

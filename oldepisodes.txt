@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Batwoman (2020) SE02EP18[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/z0c78ffx57ig::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6FATTY5H3M7N4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Superman & Lois (2021) SE01EP11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pcmwnmr8amo6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blood Pageant (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mj3y22gl1bwp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zh3vwhz9atbv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SBU4YVFEPJSTC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8tOl2iaK5IRNkS7Bub5eWgrBMDX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]All Who Loved Her (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/26wlhmzj7ued::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

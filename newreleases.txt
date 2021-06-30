@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]America: The Motion Picture (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xxv4pph4pwn2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8g22rwhqdm07::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OPDDERWLPOME2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Boss Moves (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tt2q57lnpgfl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dp1c7d3im1lp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E4EVDH6JFPQNM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u1rPneODYRIYhLG18JaVOHT8X9H.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Extraction Point (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7m4yy8xmghy4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ta94kviz1563::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DGU5JX3KORSZC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u1rPneODYRIYhLG18JaVOHT8X9H.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sand Dollar Cove (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/ffrjkrlplvih::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

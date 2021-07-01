@@ -64,6 +64,16 @@ sublink:LISTSOURCE:https://real-debrid.com/d/DL7DEY53IT3Y2::LISTNAME:[COLORgreen
 </item>
 
 <item>
+<title>[COLORwhite]Tulsa Burning: The 1921 Race Massacre (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.sx/f/9n8kqq4ou3lkw3w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T7VVLWX7LR2A4::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cf0F5hDQtWg7evG4yi6sdr1knxH.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Audible (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m3hjhlgr4n9m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

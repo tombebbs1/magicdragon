@@ -53,16 +53,7 @@ sublink:LISTSOURCE:https://upstream.to/686vqrakrlfv::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Hitman's Wife's Bodyguard (2021) HDCAM UPDATED 13/06[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/n2wf3rellxez::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.sx/f/n09dj80puzxo9n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.sx/f/wnez09ljs8qjdk::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oht9CZHNDBEu5KitgxUsb0LhQ8v.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

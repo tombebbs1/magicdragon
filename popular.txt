@@ -26,7 +26,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HXOAJ5TQG6X4Y::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Hitman's Wife's Bodyguard (2021)[/COLOR]</title>
+<title>[COLORwhite]Hitman's Wife's Bodyguard (2021) Screener[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/n2wf3rellxez::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://mixdrop.co/f/7r8qr8m7adpq8r9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

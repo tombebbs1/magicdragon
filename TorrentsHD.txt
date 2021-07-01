@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Alien Conquest (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0fmbexscud5c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kcg4fy6xf0md::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WWA7RPCFRUEOC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rIqoCDvQMo5psY8SDUeSIvGmmeL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Separation (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/meru2r9stol5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

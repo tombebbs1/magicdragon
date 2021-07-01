@@ -34,6 +34,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Peter Rabbit 2: The Runaway (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/z6trpmrid7uz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/576e127d3f42/Peter.Rabbit.2.2021.HDRip.XviD.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KPQH6Q2GAAQFK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+ublink:LISTSOURCE:https://real-debrid.com/d/R2VDMU6ZLMVFW::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dynasty Warriors (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hyend86j1hyy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

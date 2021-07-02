@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Werewolves Within (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/r9yprhr3hcha::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zigvu3bbwqgb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IGIS7DOQWGPZY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Let Us In (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/zk7mglnd0081::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

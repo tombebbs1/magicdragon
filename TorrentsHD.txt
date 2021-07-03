@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Claw (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ap7evpfrr8bi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i3h3f2yrk1yx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4Y232K4ZMZ3DC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bOSYNXEKUSHcBLN5DuYpKJzwgqo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Till Death (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hm0un8ezl9qp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hatched (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gir90pbx4qkc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i0t7rq7c26kx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DWMS2KUXLDGLQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A9lmsF7LoU21ZVHlfsslmJlQ8Jm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Avocado Toast (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/94s6o5t9bpus::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

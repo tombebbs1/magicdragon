@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Danny Boy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/uk1lyh866039::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3ce6w0b2tqlx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ROB5E6JDNGPRY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x3PHQuITgtgU94sbSA80YC5pPcd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Claw (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ap7evpfrr8bi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

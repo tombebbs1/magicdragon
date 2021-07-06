@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]No Loss / No Gain (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/om1cu8bq4by6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ppxulodj19m8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QS2KSIAW3YGWC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aPqflUbxw0KEJyxQnaWBswkT8eG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Medusa (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ir3o85576tck::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

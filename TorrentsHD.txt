@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Gerri Curls (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ggwpqq7bpw0c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ifdu2d2x7zfl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PET5HMJBD5HTQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPB5SLIg7oDFqyonA1kSF2npNF9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Marathon (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/y9c07ty9cz7v::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

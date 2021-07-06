@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Blackout Experiment (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/l068fxyi3ehq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1ytkke7js7h1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VOFYV2LQTVR6S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lq2Rw1KSvquhFJ3rW7fQweGhufJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]No Loss / No Gain (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/om1cu8bq4by6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

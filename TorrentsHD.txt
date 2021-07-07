@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Simpsons: The Good, the Bart, and the Loki (2021) Short[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/zq1c8msrk621::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/o73plnqkup1nqm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M6JD3FV2GQC5C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n6zlWRaO2I8l4chAUypwkd7mxgL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mott Haven (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zq1c8msrk621::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

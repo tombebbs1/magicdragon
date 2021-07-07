@@ -60,6 +60,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Ainbo: Spirit of the Amazon (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ldghob8txvk9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/c5qi9akrzn7c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I552PUS5TN4HE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mHnKFqciQeaZASXHcr65NKfQp83.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Here Today (2021)[/COLOR]</title>
 <link>

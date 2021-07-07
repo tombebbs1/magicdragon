@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ride the Eagle (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/owbooc1zdbmn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g975r295nw6f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EKDGG2N2GJGV2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7nzBh88HZk4r0QqMSb9khCIYEXO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Tides (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/55fvavk4whxp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

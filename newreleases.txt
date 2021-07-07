@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Here Today (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/or6m71zzo6fw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/65cz2yb61cdb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LONQW2SFUVYGK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xp64qD0V9SRE3jU6sEtQufAzYRk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ride the Eagle (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/owbooc1zdbmn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

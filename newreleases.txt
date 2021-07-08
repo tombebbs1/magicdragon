@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]This Little Love of Mine (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/816yc9hzkjjp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7thlxc43rjsb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PEJWE36WNYTDA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZaXFQkLsyty136SBJJ2PKuTKEb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Simpsons: The Good, the Bart, and the Loki (2021) Short[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/zq1c8msrk621::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

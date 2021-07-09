@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The House Next Door: Meet the Blacks 2 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dleclqhzpv0c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0mee5dap3b0d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZJAZOGC4RVWQM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/57khcVRaYhqTHwlDTuUTUwQ9N8i.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Black Widow (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/wz39dqfng7br::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,3 +1,14 @@
+
+<item>
+<title>[COLORwhite]The Bad Batch (2021) S01E11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/megyu55aylc4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3QFCSQBXDMVGG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/WjQmEWFrOf98nT5aEfUfVYz9N2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Fear Street Part Two: 1978 (2021)[/COLOR]</title>
 <link>

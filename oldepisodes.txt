@@ -1,4 +1,24 @@
 <item>
+<title>[COLORwhite]Fear Street Part Two: 1978 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.sx/f/848740j9ck7pwq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BEY5S2D4WW52M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/moOnVK3xEWfzpXkrMUu8eWoKpj4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fear Street Part One: 1994 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://mixdrop.sx/f/848740j9ck7pwq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4H23HFFW64LE6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Loki (2021) SE01EP05[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jocnoahjgc0a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

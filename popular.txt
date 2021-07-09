@@ -19,7 +19,9 @@
 <link>
 sublink:LISTSOURCE:https://upstream.to/wz39dqfng7br::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/byqyon4v4nww::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/c5c64ea85ea8/Black.Widow.2021.HDRip.XviD.AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/QDCG5LZAEY6SE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4GVOPNUXHD6MA::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppiL13JJx2LkyoNb8JM0h7nxYmk.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

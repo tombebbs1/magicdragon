@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Rebels of PT-218 (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/u0x2t0jvvosi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ucqyiddy9e9d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/22HMKZ2MQH5IW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q25u0vtIEkCLsQPltb3gVbPgcPG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Black Medicine (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u0x2t0jvvosi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/euqs6xzhwaq5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EYMLWFRAW6S6Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8G0k9pY23hGrvHilKboNzhanSWK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nebulous Dark (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/hpi2gbdhpr4v::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

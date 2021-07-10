@@ -61,6 +61,19 @@
 </item>
 
 <item>
+<title>[COLORwhite]Settlers (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g4ui223zoeym::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/w63ik0e0m208::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/3n80kv3lsdpwox::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BXHVDAYRJIXNW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XTEM36RJX62DQ::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1CViA7W2ZQLodOBWU9bbxnacYY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Die in a Gunfight (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hpi2gbdhpr4v::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

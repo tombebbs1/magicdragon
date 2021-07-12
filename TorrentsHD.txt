@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Out of Death (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zym1a45kgprt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/2c70abb48c57/Out.Of.Death.2021.720p.WEBRip.x264.AAC-YTS.MX.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/2c70abb48c57/Out.Of.Death.2021.720p.WEBRip.x264.AAC-YTS.MX.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1fNQvEDu1iyjZ4FTQt14tf5CPWN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Skinwalker (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ju5bsep7duq8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

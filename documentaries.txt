@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Sleepless Unrest: The Real Conjuring Home (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jcq5hzu8vmp3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X5WMJFRTQPH2O::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qRsOiMPUqnZ9v21dlgQdrMaLwI3.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Chernobyl: The Invisible Enemy (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zjlmlbrtuvrn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

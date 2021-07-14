@@ -33,6 +33,16 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Gunpowder Milkshake (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/343fdikgrj6e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/f791c23a659d/Gunpowder.Milkshake.2021.1080p.WEB.H264-RUMOUR.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R77B7GDUWGPRK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5AaKulwpUtkscAokKWtLenGTfVS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]June Again (2021)[/COLOR]</title>

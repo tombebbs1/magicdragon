@@ -1,3 +1,12 @@
+<item>
+<title>[COLORwhite]Loki (2021) SE01EP06[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ytq0nev599ds::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SAQLRDAIQ6I42::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Poirier vs McGregor 3 PPV[/COLOR]</title>

@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Remote Control (1988)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1fdlzk3czgpu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/wnowgp1qi8vo6n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/o73zkzpgbj1lx3::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5jB44zLKtSrPA11LTPTEZH6mS0Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Squirm (1976)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zsdlmk3j0c7p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/6q4rvmj6alemd6q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DSBLKPNLIWMFE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TF55XXt9q3N8Cg8ON6m8zXfWWa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Silent Fall (1994)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vc6ezghux28x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -42,16 +42,6 @@ sublink:LISTSOURCE:https://upstream.to/xj2t51g61anq::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Ascendant (2021) HDCAM UPDATED 13/04[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/89bjzh6chdkz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/sbgn53h2iin3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GSPDDDE3MBTDC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jip5YuuUxL8Wv510lLITiSgR27.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 
 

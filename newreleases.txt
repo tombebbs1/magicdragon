@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]How I Became a Superhero (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yscdx36xd49z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/6a6d2c92c425/h.i.b.a.s.2020.720p.web.h264-naisu.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HJ24PXOBTQSNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d0wn9YtEnmbucx8ZUsT918ctoiK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deep (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/47z4eqe6mbb8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

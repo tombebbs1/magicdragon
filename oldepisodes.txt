@@ -1,8 +1,8 @@
-item>
+<item>
 <title>[COLORwhite]Fear Street Part 3 1666 (2021)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://mixdrop.sx/f/848740j9ck7pwq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/BEY5S2D4WW52M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3x0ofldwgoxs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BTOCHDVUQUG3E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

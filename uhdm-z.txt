@@ -1230,6 +1230,18 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:3a5c90bb480e617c6ca68398d16fe7fb1b5055e9&
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Space Jam: A New Legacy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4gqimsb21fs3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qtidmlf0ufuo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LRC3Q6SCLXP24::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D2KW5D7ECA6UW::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLORwhite]Spectre (2015)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>

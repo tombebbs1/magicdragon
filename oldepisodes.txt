@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]McCartney 3,2,1 (2021) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/DI2HLVNXVNBCQ::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PQ3M4IHWTTOFI::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FJ2TQQSNBCCTA::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7CTD46OSYSRAC::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GHEXZ2KVAWJRS::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IXQ4FPBXXH2X2::LISTNAME:[COLORwhite]06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oFLsac8ieC0qCjucFosdbgxpXkm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear Street Part 3 1666 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3x0ofldwgoxs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

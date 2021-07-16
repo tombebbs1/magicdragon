@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Deep (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/47z4eqe6mbb8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/9f289bcb2bae/Deep.2021.THAI.WEBRip.x264-VXT-ENGHC-AEF.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/637C5CKEV4SKS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/92f3565d6bc0f73d1757c06d0c49e49b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Space Jam: A New Legacy (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4gqimsb21fs3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

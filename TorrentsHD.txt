@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Joey and Ella (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0p6ncmip8mw5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/46858fe3c3c5/Joey.And.Ella.A.Kangaroo.Tail.2021.WEB.H.264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JSPVP4O4EK5JW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wkhS1w20DBSibWGIQaXZCptrZD5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Duke (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/btb0klgch45t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

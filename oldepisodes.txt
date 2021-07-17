@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]McCartney 3,2,1 (2021) Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/drbg847ehs5j::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t2jc4jp23p61::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qlbv29c57ieh::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j34zvwxbbypt::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5hr880yqy6f9::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/nbkmj9rqtz0l::LISTNAME:[COLORwhite]06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oFLsac8ieC0qCjucFosdbgxpXkm.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]McCartney 3,2,1 (2021) Season 1 Debrid Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/DI2HLVNXVNBCQ::LISTNAME:[COLORwhite]01[/COLOR]::#

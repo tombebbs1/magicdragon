@@ -9,16 +9,7 @@ sublink:LISTSOURCE:https://userload.co/f/e38a58d2a042/Escape.Room.Tournament.of.
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Forever Purge (2021) HDCAM UPDATED 04/07[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/dbej5r441pnn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/i40207btiqr7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/9z7q3gc6kpnw::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHA5COgDzcxjpYSHHulrKVl6ByL.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]12 Mighty Orphans (2021) HDCAM UPDATED 15/06[/COLOR]</title>

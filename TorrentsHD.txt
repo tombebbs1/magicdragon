@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dark Ritual (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/jt2qz0pfcfk0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hspxk5brdo83::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FUQV7LNW2CDA6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/b23ee16c9061915b37eb4b0a8cc4a2a5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bloomfield (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jt2qz0pfcfk0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/phfi5ukhbi7p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7ZPDME2UF5KOC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2E5zXSNZMjIKU13RKb6ON2bBV7W.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lorelei (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/c40biaomw7j2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

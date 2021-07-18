@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blood Born (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7m2u7a29n31c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/1b33aa7a7785/Blood.Born.2021.720p.WEBRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6XVHJCA5VNHEW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/08120a4f4d6793ae656dff17f87b082e.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]After The End (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rhg9f7lx1kx3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

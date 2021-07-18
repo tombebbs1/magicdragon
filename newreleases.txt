@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]After The End (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rhg9f7lx1kx3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gee29wlnvne6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AN3E66XO4ZSZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hjt6z9M3idg50Ithl3rI5p1lFoc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dark Ritual (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/jt2qz0pfcfk0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

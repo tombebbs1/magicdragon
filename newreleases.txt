@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Death Alley (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/5vnbfsjlxsl0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/69hyxnijeenz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/V3NTPAA4FDBUY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfTdoELaD1Pbr5rcvShKUVtKq6U.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nobody Will Believe You (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/68bp6t14uuiy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

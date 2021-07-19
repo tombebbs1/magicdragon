@@ -47,7 +47,7 @@
 <title>[COLORwhite]The Dark Hobby (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/my60jvmhutap::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/my60jvmhutap::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3GVWYOKPWPEXM::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9XewxXO3XSwMo8AycuPg2rxpqPn.jpg</thumbnail>
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>
@@ -77,7 +77,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TZG3YBAMSAFCC::LISTNAME:[COLORgreen
 <title>[COLORwhite]The Phantom (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tn6cupek5vg0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tn6cupek5vg0::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E47CSJ5TDNCWQ::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWGhOD4W8y0ZHFqaqpHARs37JdM.jpg</thumbnail>
 <fanart>https://i.imgur.com/dm1Tk83.png</fanart>

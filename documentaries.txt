@@ -44,6 +44,36 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sam & Mattie Make A Zombie Movie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wk5gdihzqh6m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wk5gdihzqh6m::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9N0DSJYIOPEp4MMTsDnCz9oAX1.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sky Blossom (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gnsuibw7k196::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gnsuibw7k196::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bIBPIxWXkuFirYA93myaXchf4tt.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Phantom (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tn6cupek5vg0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tn6cupek5vg0::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWGhOD4W8y0ZHFqaqpHARs37JdM.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Sleepless Unrest: The Real Conjuring Home (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jcq5hzu8vmp3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

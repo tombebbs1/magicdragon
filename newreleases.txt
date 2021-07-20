@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Coming For The King (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nsjlhes1bye9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0c13680mq1tp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IORKLU6NZE23E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r3p3KJOQ2hCMOOz4QrMvQmJ5KNv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Demon's Waltz (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mo5qzfmjjkhu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

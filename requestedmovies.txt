@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Logan's Run (1976)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fw1esi33t3y9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/8481qlo0i6jz446::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HVXZHC7RT236W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Black Dahlia (2006)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/51fwmmw9ppbc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

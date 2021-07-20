@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Jakob's Wife (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/j6ep80diqa6d::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8w0c3e2bjtu2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6RVCKJOHGFFCM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hsOSdY9ALwBLP41c6tAF5UXkpc0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]1480 Radio Pirates (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/dcsm9149u6db::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vs62wprxqmd2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z4SMV6FHJFODG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hpO3kD1ABr7MaqlUnTBZXH7QhMP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Room 9 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dcsm9149u6db::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/o241ogptq3h6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YKBJY2WBELEL4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hpO3kD1ABr7MaqlUnTBZXH7QhMP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]How It Ends (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kijdm3r4ihk4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

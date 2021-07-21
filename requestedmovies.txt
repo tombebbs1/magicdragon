@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Herbie Goes Bananas (1980)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pgz6qxh686gx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/8481dr6rs66vjge::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GEQVISVTRCUZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7cBOYLDhHMA351ndLthSxBCwO5N.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Herbie Goes to Monte Carlo (1977)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0lngga73d317::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/3n89x7xptdd36d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LU4NLDBWGZYS4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sid & Nancy (1986)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/lgvceohgyb5h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

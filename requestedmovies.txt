@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]You Only Live Twice (1967)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/htpibyq7p7li::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://abcvideo.cc/ai09cnunmrxb.html::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FDCRUEBUCTEOG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h3hhBplSHm0ZqaRJnLIIGioMglL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Suicide Squad (2016)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/18h0zya5dtcv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2p7rz1113stp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L6JCWLSZUOHUU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbsm0i2q2uqlUSFgUAHq3xCUO4j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]On Her Majesty's Secret Service (1969)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/wrjjsw3xo6cx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

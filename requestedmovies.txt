@@ -21,6 +21,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/LU4NLDBWGZYS4::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Herbie Rides Again (1974)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nytzeg2e7m12::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/rw3p4kl1ivqgd09::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BYGRKZWAAB7MC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gkR1HkVe1R8VogkP8jotyS3TY33.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sid & Nancy (1986)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/lgvceohgyb5h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

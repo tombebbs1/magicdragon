@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Zola (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/y84qb9vhnv8i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ottzge7p4qyc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6LOOSOQAHH7QW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMRh2dBOtrhlJGURNWjpLjHDuDR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rock Paper Scissors (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/glpj70tojvic::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

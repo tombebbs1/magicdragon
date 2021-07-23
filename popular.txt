@@ -51,6 +51,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/KRW4PEBN4GCZS::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Birthday Cake (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/b0ztfa1ap0qt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4aitxt1u33s7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GHZQLH5JYGNRC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kI3lTv3f24Fzl2kD0sYVCvCOZh2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Forever Purge (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dbej5r441pnn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

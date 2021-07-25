@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Stuntman (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tuhp147gxi55::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NPQ7Q4YSNYBKQ::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNVN5MyQOAOKoqWL9ClVVWbZbW1.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Woodstock 99: Peace, Love, and Rage (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://mixdrop.sx/f/dqlqdo4mczl1ze::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

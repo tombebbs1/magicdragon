@@ -61,6 +61,40 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blood Red Sky (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qr5yzsiv9rgv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/4fc7781326c3/Blood.Red.Sky.2021.HDRip.XviD.AC3-EVO-ENGHC-AEF.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GUEUQSKAQHFGC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ky8Fua6PD7FyyOA7JACh3GDETli.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lockdowners (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/iwvgzdulpjhj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/2d991604003f/Lockdowners.2021.WEB.h264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3ORNGWJLGFDGC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8JTYVJm2oLhMPUoNffQJZaJtny.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]CompleX (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/iwvgzdulpjhj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uwkhs2832mso::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uwkhs2832mso::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvvNmujQgCMuqvfKHDJIlEFtEYH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Last Call in the Dog House (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iwvgzdulpjhj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

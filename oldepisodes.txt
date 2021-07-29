@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Walking Dead: Origins (2021) SE01EP03[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/b2e1qbutk011::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XRMI536RS6ILC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6stEKYqgLBhSieTRnnZ5ShE5ZPS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Walking Dead: Origins (2021) SE01EP02[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zegml91o793u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

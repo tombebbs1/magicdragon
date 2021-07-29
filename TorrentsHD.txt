@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Boy Behind the Door (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/uiotjly6e7l7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xafnzdu6qtug::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QXBHZFODIADJS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cd0T7Wv9ek03iwYY0wsnkgoqImq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]F9 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/l6j70t1y1ha3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

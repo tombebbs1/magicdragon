@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]A Dark Foe (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qn2fl8pbd5v6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9w472ytmig98::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I4BKFPJGQSYWK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWigYSGO2MfB8vCQ3hXptAK9jpx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jungle Cruise (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/plvofcvxz6v8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

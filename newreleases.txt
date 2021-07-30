@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]2025 - The World enslaved by a Virus (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pplqs9itvyj3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/urukirbar6lf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R72NV7TL6ONWA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8S5IwaYOXMenqgW9PejoPjf4uXM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Last Mercenary (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/osv5fk7ijoxf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/dqlk8x70hd4ok6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JNKCOOFDHMHUS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nlCQAkIj2pfUEjCbPw61EMNX5Sb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Dark Foe (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qn2fl8pbd5v6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

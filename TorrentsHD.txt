@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Danny Doom (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u6pfdtyr2ybr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/sd7j4pimghci::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3E3VXHJQOVL7E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/is0ilx3JtVrDNjXw1Jfbw9jOfYC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Five Rules Of Success (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xypj0r3lgcbw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lt7trg4xnq11::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5UZ7F6UASJPIO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rm1u7epasCj4KcMXjbzfKltHrD7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]2025 - The World enslaved by a Virus (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pplqs9itvyj3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

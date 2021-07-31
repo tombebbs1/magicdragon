@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Krays (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nnwub3dwn6vx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/57vodgf1rep8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FQEWYYHBMFZBK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GqSR9oleHdglRG2KFP2twrTcCd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Time Machine (1960)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/odpm3dpg6bes::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

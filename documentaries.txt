@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wedding of the Century (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/266bwdl89sz2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QTMZC2PJJAYPG::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/77d3ff23f57cb8fa6500dea66660ebbd.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The United Way (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7iycofw8yblk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

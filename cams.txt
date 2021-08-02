@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Green Knight (2021) HDCAM UPDATED 02/08[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sk7yvof0hjsi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/6eeb21ba5a9f/The.Green.Knight.2021.720p.HDCAM.XVID.AC3.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/deeba8683ca4/The.Green.Knight.2021.720p.HDCAM.XVID.AC3.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Snake Eyes: G.I. Joe Origins (2021) HDTS UPDATED 27/07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1w5oiysl5y8t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

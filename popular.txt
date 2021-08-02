@@ -65,7 +65,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/D2KW5D7ECA6UW::LISTNAME:[COLORgold]
 <item>
 <title>[COLORwhite]Worth (2021) HC[/COLOR]</title>
 <link>
-ublink:LISTSOURCE:https://upstream.to/64oq1ibrs0rt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pvinu9f35rcw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/4gfj4fptaesj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/YRGFLIZNLKN76::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>

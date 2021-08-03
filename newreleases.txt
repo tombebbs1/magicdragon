@@ -61,6 +61,61 @@
 </item>
 
 <item>
+<title>[COLORwhite]Zone Drifter (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/4v5wdcro4p76::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ziw3h5p0b2ie::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LYT66NK7ZANTA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqSfH3potDDnkWNjIBTR8P0BkKK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Mondo Hollywoodland (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4v5wdcro4p76::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1htu30hko1qv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QJLVNQZ4V6S6W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uLZDFBC38uRwpQF4xpmTsFYW4bR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Righteous Blood (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/frbzytd7lrbh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mp15rvp3wouf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LX6EISYR7HVNC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u7PHOPv0XyzM57cOkXFh6eCtyW5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Abducted (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/32cte1uklgzs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/27eqskse94ad::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z4TEX57YO2U6I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MaDdo6qd5ivqdPL214AbEfOXBq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A Savage Nature (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/aimyzhkurhhp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q97538vz2rs0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2FT5NEKCMNYVA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wV7pruMhvdMtjMuPRd24tIyqQLG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Worth (2021) HC[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pvinu9f35rcw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

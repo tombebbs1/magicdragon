@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Teddy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7sn7humfejzg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/287d526e4d29/Teddy.2020.FRENCH.ENSUBBED.WEBRip.x264-VXT.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SJPJTE73B4WJC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbMrlaEgYFcWY1a3Cq4xLYPSIv7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lansky (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/g3bbessgk9pa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

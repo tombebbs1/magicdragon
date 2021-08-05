@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mount Adams (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ik49xrtqu73i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/b4xx2zolau23::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TRVQFL23NQJTE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mKGbU5R4XIHSWwrJVx5psN3LncZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pooling to Paradise (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ygd982mmx4cm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

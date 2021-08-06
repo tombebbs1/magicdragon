@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]She Ball (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rwsbnhy8mbxd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qwfa97xohjnw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IRZFZIY5BSFDG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sbmOdQaEofuVCEx52U0C0ywljoa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]John and the Hole (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7aami8rvjnpp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

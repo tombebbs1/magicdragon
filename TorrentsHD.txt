@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Playing God (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cyhfeozxklqj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q6e1bkor15t9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AADSCYWMM3LGE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gPSuSFtQhVXtfkUxGUL16V3PfO1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Suicide Squad (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mmqbcwd86mbf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

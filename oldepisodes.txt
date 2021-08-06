@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]The Bad Batch (2021) S01E15[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/siim1i4vbydt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VNMOFYUSRI2Z2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/WjQmEWFrOf98nT5aEfUfVYz9N2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turner & Hooch (2021) SE01EP03[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qr6junvcxjyn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

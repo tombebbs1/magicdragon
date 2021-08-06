@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Vivo (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/txzc6fbxirp5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/o6t0rcnywxjl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YV2X2QAIBNC3K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Teddy (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7sn7humfejzg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

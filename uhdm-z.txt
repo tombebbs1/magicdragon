@@ -2932,6 +2932,18 @@ sublink:LISTSOURCE:https://1fichier.com/?ri8wc7hig6p6rw0o2cik::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]The Suicide Squad (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mmqbcwd86mbf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zyl6if75lsph::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R2GJORG4R7YCK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NH4ZQEQ2B2PEE::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iCi4c4FvVdbaU1t8poH1gvzT6xM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Sum of All Fears (2002)[COLORred]4K[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptostream.com/i0gy7fiq2px3::LISTNAME:[COLORgold]4K  LINK 1::#

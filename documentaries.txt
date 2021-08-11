@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]In the Shadow of 9/11 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/58fkyk90c9hd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3O4H2T3FRSSM6::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n5bzM6qXBaF6rpNmlEKqaOMpom0.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Val (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zn0yw4jsop5x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

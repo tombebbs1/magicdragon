@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Turner & Hooch (2021) SE01EP04[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/37jcjgymy63r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z6YUPZI7KTLX2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VLk2ObY5298UoGaFARqt0SDyTh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Walking Dead: Origins (2021) SE01EP04[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ns90zlewwhjl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

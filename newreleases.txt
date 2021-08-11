@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bleed with Me (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/406hsj6wx66c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wlgjxhdqctxe::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5BM6WJPMGX7NW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sjNyV8X9R8MU7AYAwvTRj9OBDoz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Joe Bell (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xpkhf2axj4ss::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

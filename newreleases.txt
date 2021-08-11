@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Florist (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/90yrmudq5lsd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/25oolzy96b2o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NRIPCXLOHNBZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aHmm1YWjYfxJBINwpLmL4eUAGHW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Chloe's Mountain (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/90yrmudq5lsd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tligtuqw8xb1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QDZTEB3VMDGTC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aqlYDVgx07CktzdjGvmbeK2ZcV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lethal Love Triangle (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/e60yon1i65ff::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

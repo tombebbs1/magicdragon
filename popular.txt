@@ -63,6 +63,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4GVOPNUXHD6MA::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Eye Without a Face (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kiun9s1d6ul3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kuirkw84l2iy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4HGAC5CWVF4DW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lez8gkotnWSSO9YmUzmQpmhlSi9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Space Jam: A New Legacy (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4gqimsb21fs3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

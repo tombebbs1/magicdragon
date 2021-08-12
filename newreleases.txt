@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Monster Hunter: Legends of the Guild (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/r0j26bbb3ddf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qzoy19vx1f98::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RIYP7HPK3QCMI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fctSbleL7ozVcGyC163nPv4arW1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]The Swarm (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/c5zyz46ccpq6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

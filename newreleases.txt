@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Crime Story (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jokzecrff8jk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kdlrw7pu672o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ETZACRLLWFVJO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2CUU4zck2oQvVmX7zVigszIrIc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Swan Song (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/smc2yklvvf2l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

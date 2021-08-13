@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Buckley's Chance (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w8hya9q3l0ln::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/aafjt30aaxum::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CCG2XTQS6VZHY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y37uK3Woe0uohtAVPZX3HwDkndI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]CODA (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tqueu7vizaby::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,11 +34,22 @@
 </item>
 
 <item>
+<title>[COLORwhite]Beckett (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/37lygyd20b8t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/44c29d615e67/Beckett.2021.1080p.NF.WEB-DL.DDP5.1.x264-TEPES.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4DNRTRHMXBED6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hGIxOfxsgcNS8aco8xgFlv3rYnt.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Naked Singularity (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hf7kg334oii8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/3el71bbp88k8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4DNRTRHMXBED6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NAAAQRKOOXP36::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oUsPN1xUTVaxCAgGpVBRmWLDyJw.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

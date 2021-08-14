@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Demented (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/a0a0ef033r79::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wd7oyw27s2vz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/W5ATYH5IRBNTK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/djFv9X0KbWK2Bp3QSbuxBT57vYo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Buckley's Chance (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w8hya9q3l0ln::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

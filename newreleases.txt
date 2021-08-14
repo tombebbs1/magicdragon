@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Collection (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/p5t724t0zvz6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rg9e75k2zz4d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/F4EXGDYWIE3TA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU5BPOVFbqds8gYzqjIJihPtAWf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spin (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/f2a6rskq4m8q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

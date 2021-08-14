@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]GoodFellas (1990) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u1mn0xrdlxi5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/265z1yqr85lf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PMYVPQBR26XXM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6QMSLvU5ziIL2T6VrkaKzN2YkxK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Death Dimension (1978)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/antwvzx7vjbe::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

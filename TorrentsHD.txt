@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Nowhere Special (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dkv7gfdd92qu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wogtnr17hrkv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CVK4VL4GJOCYU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84Fft28dlLSpAHCLKWaGW3V2SHg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Patriot's Day (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nvwvyfpjpu9o::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

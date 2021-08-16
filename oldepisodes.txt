@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE11 E01[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bw0tv6k8mbai::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DIRDWCTOATNQY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Match Of The Day 2 14/08/2021[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qsbh51aw6wvk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

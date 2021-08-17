@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mind Talker (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9g3r54mqcs8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xnc7tc084miz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OLMJ23CQUB762::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xfiitnIyAqVJV8BnKE2WyuhKwpN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sinister Sorority (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/f7bf7uwi33mu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

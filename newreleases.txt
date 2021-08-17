@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Habit (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tfvkz9cswyl0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lfyytv0tgatz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HI2T44ES2RZSO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYxsMQQTGK1rp1JXhPsOVYYFafQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mind Talker (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9g3r54mqcs8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

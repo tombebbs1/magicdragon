@@ -83,6 +83,50 @@ sublink:LISTSOURCE:https://real-debrid.com/d/ORFHL76AULY4C::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Risen (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/oyhf6gcj5gp5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xppows3kxq4i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RJM52EY5UDGXW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1vdRDS0UYDlJNBqRSqUuhBHf6eb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Annette (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/s991euv3gwi9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bcu6xytto2wl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U64RNM7ZNNI7S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4FTnypxpGltJdIARrfFsP31pGTp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Loud House Movie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/emci1ot4f645::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zhkxd8q1zczw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ERABS4MLUGDXO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpM5WcVj9ssNeriJCOhaPNuj49j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Girl Who Got Away (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2a342krsh36c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1kbcm8dowci5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BNFD4HHILD7MU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yuS2OY6RnvS6G3sFPFPB2OSy2EE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]PAW Patrol: The Movie (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bg6wknr54z5u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/5LGXVDVAHAYHE::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]PAW Patrol: The Movie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bg6wknr54z5u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/eradx2oeqj4b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MKH6MYDN6WR2O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]F9 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/l6j70t1y1ha3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

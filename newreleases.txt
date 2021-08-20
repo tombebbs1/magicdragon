@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Loud House Movie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/emci1ot4f645::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zhkxd8q1zczw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ERABS4MLUGDXO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpM5WcVj9ssNeriJCOhaPNuj49j.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Reminiscence (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/y6v39e9t83af::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The War of the Worlds 2021 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ktgdzhfjav43::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qocmbtzq0v18::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QIVO6T5FWEVAO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/753a8235a48d3ee1eb94d6851fbd12c9.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Extinct (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ujotd5m6tzhj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE11 E02[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xgnywq3uzmhy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3IOVHNXDGR7EG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Superman & Lois (2021) SE01EP15[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4e945yphksit::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

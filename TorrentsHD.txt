@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Poster Boys (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9tkovn4f6rsh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0350kct4ri49::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0350kct4ri49::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/af4kOPsj0Qhs6aXPJgNyyG6U4g0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jurassic Hunt (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9tkovn4f6rsh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lsmv927miy0c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lsmv927miy0c::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Czhr00kB8awffakEcQS5ON1ELm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Witcher: Nightmare of the Wolf (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iychm676rp57::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

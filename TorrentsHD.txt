@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Forever Room (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nkssuzfpw52x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ecbd2e9b6948/The_Forever_Room_2021_HDRip_AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ecbd2e9b6948/The_Forever_Room_2021_HDRip_AC3-EVO.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ztVMpj1zqHvKfLxPs53PqON9tHq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Broken Diamonds (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3knc2n04ef10::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

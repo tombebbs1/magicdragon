@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Girl in Cabin 13 (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/nkssuzfpw52x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f9iks6ey3wam::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f9iks6ey3wam::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oOHypTPeqZQPL2gGMxpSEyR0lLJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Forever Room (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nkssuzfpw52x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

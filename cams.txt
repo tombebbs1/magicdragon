@@ -54,17 +54,6 @@ sublink:LISTSOURCE:https://upstream.to/oifxr9pty4fm::LISTNAME:[COLORgold]HD REAL
 </item>
 
 <item>
-<title>[COLORwhite]Snake Eyes: G.I. Joe Origins (2021) HDCAM UPDATED 26/07[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/1w5oiysl5y8t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ev6h0arvmc0e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/12bc6c891886/Snake.Eyes.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Supercool (2021) HDCAM UPDATED 20/07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ow6oz97vd3o8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

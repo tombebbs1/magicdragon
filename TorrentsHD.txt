@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Take Back the Night (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/sppw7jxuw634::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/frfh0zmi314q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/frfh0zmi314q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVZmfxPXfScM4XY2GfI22AcXM2a.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Wild Man Skunk Ape (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/sppw7jxuw634::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t9hyo1tw4oke::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t9hyo1tw4oke::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6DJQBWx4ZzLjVkT722rNgfQz30k.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Past Shadows (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/sppw7jxuw634::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

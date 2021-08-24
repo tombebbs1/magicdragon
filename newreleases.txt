@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Past Shadows (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sppw7jxuw634::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q5i23r96if23::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q5i23r96if23::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2wCqXnd7ux5NuSrKlQdDcODYipN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Holiday Monday (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jws6mwdw1yg0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

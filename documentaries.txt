@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Untold: Caitlyn Jenner (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w2zjo5uvrcgq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/w2zjo5uvrcgq::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eejrxRrGh46L37vESDScveJbAzz.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Memories of a Murderer: The Nilsen Tapes (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/n380881fyp3s::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Stoker Hills (2020)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/sppw7jxuw634::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/diztgjqq47vy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/diztgjqq47vy::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tBGNWVHcuWUiveb1nFUHV0cN5vT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Take Back the Night (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/sppw7jxuw634::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

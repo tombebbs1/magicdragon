@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Echoes of Violence (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/grsvi2g4qpu2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z8dm44ufcjly::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z8dm44ufcjly::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz37WmzoJYQvHeCrfiZyZjE75b5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Show (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/a2nxhs8diklt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/70xlei10o3qu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/70xlei10o3qu::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipoe7LkCIj06Ij4gYWQyKEnIOul.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]It Came from Below (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8jlbgmdp431p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

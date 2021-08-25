@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Old Ways (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/smhvm3k7siy2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/4cfe230f9790/The.Old.Ways.2020.Web.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/bd5edf048e86/The.Old.Ways.2020.Web.H264-RBB.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wC9d6gSTGmrAOqWGQN1VUqfqQx1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love Upstream (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/r5sx5br3xwd1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

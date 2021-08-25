@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Summer Days, Summer Nights (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6b5wn367w6tf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zvyhbb2tmhg1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cq63agsrmoem::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i1jzGiEm9P5vDnBrETWdWqp9ZXJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Old Ways (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/smhvm3k7siy2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

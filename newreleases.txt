@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love Upstream (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/r5sx5br3xwd1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/f456c05274ab/Love.Upstream.2021.720p.HDTV.X264.Solar.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/924c11a742d8/Love.Upstream.2021.720p.HDTV.X264.Solar.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3rGBuamFct5YPRQseKkqnhVNix.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Girl in Cabin 13 (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/nkssuzfpw52x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

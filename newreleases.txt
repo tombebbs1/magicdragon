@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mosquito State (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yqwfzn9r352l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9dr14pkq2jj2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/a1pqsgqk51kr::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQc3YlV3a3DuyLIdxXyhrInNm6H.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]His Stretch of Texas Ground (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/6b5wn367w6tf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

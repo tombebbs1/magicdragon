@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bob Dylan: Odds And Ends (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jh8xaanu45he::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6rusa753q3ue::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vf6eRb4Lf6f6kXTxQc0BAzfVzck.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Finding Kendrick Johnson (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/j8qpirz14mde::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

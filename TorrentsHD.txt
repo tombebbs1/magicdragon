@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]His Stretch of Texas Ground (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/6b5wn367w6tf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5ahhd5r16kok::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2rh52v6nzpef::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xaQYIptRSZSy4pU0YLDaetdlf7V.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jurassic Shark 2: Aquapocalypse (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/6b5wn367w6tf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

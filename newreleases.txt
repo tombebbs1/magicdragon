@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rushed (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0zctw1nqqdcd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ha3icgacz9yc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MHBIRUM452L4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x7bS7sH7kQv6iVHssxNXhmxVUnP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Protege (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dpuey9zjn9lv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

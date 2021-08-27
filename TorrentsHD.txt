@@ -40,7 +40,7 @@ sublink:LISTSOURCE:https://upstream.to/bbqs0umz7fcp::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://userload.co/f/08dae801b26c/The_Getaway_2021_BRRip_AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/Y4B64OA2BHE3O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mnwfUgNSyZvWDLKm1SJDMmKN1QU.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -73,7 +73,7 @@ sublink:LISTSOURCE:https://upstream.to/m1migf2e487s::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://upstream.to/hkmfutsqtzw0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/A6YTYWURPYATC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/unpeU7UwDLsNsvAdx9vwktd8DcY.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCyJeTAct07ORPJPHyzxCrVtZzh.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

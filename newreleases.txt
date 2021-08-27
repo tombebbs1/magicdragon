@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]He's All That (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tfamu5h01ggo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y86psz3f8c38::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N2G42VJAOEWEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Stairs (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/16zd2lrfwg6q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qc3sso1aiccy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/W5LSZJ643DBZ6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4YbiByC1w8dSChw5R34rbROmnQ8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rushed (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0zctw1nqqdcd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

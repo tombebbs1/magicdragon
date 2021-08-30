@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wired Shut (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qo0tjh1v3t6a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pf902mbe8alz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SGSRM664ZN2DU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kyEqijROoAwdcfssByKBxOT62Fz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Give Up the Ghost (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1pq9wrqp0hdm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qbxsc0xz357w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VC46SEM7QYVEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bldZL4Vc8qPH3WapqwQidk4MQ3G.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Last House on the Street (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9tgbrmbmnr17::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

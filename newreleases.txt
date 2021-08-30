@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Killer Cheer Mom (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/66vxdeyf5nag::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vzzvz9spi1t1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6GWKTCHD6626Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJHVDvCcfPfEg745Pgrpbw5rB99.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wired Shut (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qo0tjh1v3t6a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

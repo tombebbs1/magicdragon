@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]Code 404 (2020) Season 2[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4anwd93w0eih::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/r2vtgqn9inxt::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/oicuf28d2l38::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4bme6cdkslau::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qr55y7l8uisd::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qyauqxyosboq::LISTNAME:[COLORwhite]06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eziqqKVysxen1gRlZX2wbb5BUDq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turner & Hooch (2021) SE01EP07[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vnufp30l20b6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

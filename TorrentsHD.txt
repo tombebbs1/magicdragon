@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Man vs. Bigfoot (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/885hbbfwvt55::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rcf6b12coask::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2QQ3RIYIGVLC2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eNMnJb4M2JF6Da1jV614kJanfzE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Escape From Area 51 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3nfqqjbmxiis::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/22ptus1tk4yk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IEWF7LLLDOJJC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lupJcoizoSaj9MVjLkquLwMJvz2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mortal Kombat Legends: Battle of the Realms (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/g9a3w4fimzql::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

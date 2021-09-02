@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Megalodon Rising (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wv5a666yuily::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g530ghm5h7o3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AJKXARQAJFVZ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d0qeIUL5iGI003heLppnEFP6TpJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Superhost (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gse3kxzzhhqv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bhce25a5g0vp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BDTR3O7C5N5XK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdW5MZB4oQgvbdp9hT2zkIrvLJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Killer Cheer Mom (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/66vxdeyf5nag::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

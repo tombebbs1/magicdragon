@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Outlaw's Buckle (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/wv5a666yuily::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7ibiubitg4mr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QZSVU54YZYNQ2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hjczt2BA1R5HAOtn6aFTO3Y0iuy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Megalodon Rising (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/wv5a666yuily::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

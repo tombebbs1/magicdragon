@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Church People (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kwfoylctwnoz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gr3q0a6jpepa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LPT4HGVEPDZGE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/knVww8cdXj0mdWYl3KZldLXpAVA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Burial Ground Massacre (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/quao4zijn1hc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2jpzfby1pa7f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3I3A77Y45IOHO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sDtfzN4xWqpDDvmfCMKMyoW4u5T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Ted Bundy American Boogeyman (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ifjfva6vrdyr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/61w657709o93::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WAFCD7ZZNEHPM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n3m4yhcosvQQUMZpe3K1HSupA51.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Zone 414 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8v749ta20j3e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

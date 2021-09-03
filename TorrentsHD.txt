@@ -33,6 +33,16 @@
 <fanart>https://kodiapps.com/how-to-install-the-pyramid-on-kodi</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Yakuza Princess (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9eh249ze9cto::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lu87k10fcieh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HPKDWQCC374K2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a8J5xyJIPiNG2FGQVMt4IHHaY9M.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Karen (2021)[/COLOR]</title>
@@ -50,7 +60,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/U7ZVEUH5XFLJI::LISTNAME:[COLORgold]
 <link>
 sublink:LISTSOURCE:https://upstream.to/89l5y3gbagp8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/30dppeaidrwi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/Z53SL3AWTXKJQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KGJH7NRSQAOMC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yDBdLLM1LABsxx4K2I2xnedYMl3.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

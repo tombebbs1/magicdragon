@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Zone 414 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8v749ta20j3e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6w5qdi8yzhpf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XOIWFYDVFDTS4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pyJe6nUYrUAbcqfebbV5MBYMDdP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cinderella (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yw3o6mive85q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

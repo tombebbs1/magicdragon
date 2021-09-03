@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Plan A (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yi26x7guibuq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/of0t7lzvuwug::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EGXUWWHZZDBPS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPk01ALAAuQoXC8XL2dSqqbsQ4d.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Small City (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wh1jbhfvm03i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fovaa7wjrr1e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PC6U5IR4XHJIA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLuRKbdlS7ri9ZZBCXJcreITVYr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Vivandiere (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/61rbdih237pr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lb2615xktz2x::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B6ERPV7J5UZU4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zgdGXzrS4mhSxhcXZM6neThTGDF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't Breathe 2 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tffxggs9das8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -45,6 +45,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/LPT4HGVEPDZGE::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]We Need to Do Something (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/z4iacxbqbkrj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/00lq07fd9126::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Z53SL3AWTXKJQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/junS5fLQYlBmpjTsrGdgJu7CZGe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Burial Ground Massacre (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/quao4zijn1hc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

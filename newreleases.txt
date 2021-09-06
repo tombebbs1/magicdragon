@@ -207,7 +207,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SZDK4LUFI6HGO::LISTNAME:[COLORgold]
 <title>[COLORwhite]Worth (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pvinu9f35rcw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/4gfj4fptaesj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7jmru2echqg3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/Y6XU2BADRPK7W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnabVjHsy1cFc5QBAHC1CYLTOJB.jpg</thumbnail>

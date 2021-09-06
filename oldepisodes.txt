@@ -1,4 +1,34 @@
 <item>
+<title>[B][COLORwhite]Person of Interest (2011) Season 2 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/YRMET63TTMDZS::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6PPTWQJYK3NKK::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QBZSJO36LSQSY::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P5R3XNGSOPODS::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QTIUHJLW3ZRZC::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JZDNNIN6T2F7G::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4FDVFRQSQ4EZC::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2LWAZYAPOQV64::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LSYWBBI4LVHEO::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LATQCEG3SID76::LISTNAME:[COLORwhite]Episode 10[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C3VZ3OGEYMNCA::LISTNAME:[COLORwhite]Episode 11[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2X4RRIODQELPE::LISTNAME:[COLORwhite]Episode 12[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3UAIT6VUOMAJ4::LISTNAME:[COLORwhite]Episode 13[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O77BUOKHMSZXU::LISTNAME:[COLORwhite]Episode 14[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TM3FR6XLODEPC::LISTNAME:[COLORwhite]Episode 15[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Y3PRWIM25LMNG::LISTNAME:[COLORwhite]Episode 16[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SVPRSCNKTZZ6W::LISTNAME:[COLORwhite]Episode 17[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/23FGQKKHBPDVS::LISTNAME:[COLORwhite]Episode 18[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M6B4BCK7ZDV3U::LISTNAME:[COLORwhite]Episode 19[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LGVP7DLCTA5IW::LISTNAME:[COLORwhite]Episode 20[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H4BBLXE6TXN4O::LISTNAME:[COLORwhite]Episode 21[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5XIFPVCJILZBY::LISTNAME:[COLORwhite]Episode 22[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nzWdHTq53KMQFphullKFaVi6252.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Person of Interest (2011) Season 1 Debrid Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/7B7PIIK2FLPRY::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

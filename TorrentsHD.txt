@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dramarama (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w4lsfk5uysnp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/epoqofbh4rk3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TCAPZI3GTG4IE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aT1hGtzbbIs3eTIW7vsUgnSeAFb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]African America (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/j8w2dgib3yw3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,36 @@
 <item>
+<title>[B][COLORwhite]Person of Interest (2011) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/7B7PIIK2FLPRY::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MGDTNGDPQBQGO::LISTNAME:[COLORwhite]Episode 01 Extended[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6V3T7BFPXH5DK::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4IJUPBKN2TJCS::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CAJ2WM5IQAYOM::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/INE4PBACDEZNW::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MAOSR472B5WEK::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5Z4EBUNCKQB2W::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JRZS2F7GRKUPK::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OVBR4WWLWIMRG::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FONFAHVCQXO3M::LISTNAME:[COLORwhite]Episode 10[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FYEPUHTX46IHS::LISTNAME:[COLORwhite]Episode 11[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZNH4XXXFT7UEY::LISTNAME:[COLORwhite]Episode 12[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OIZBXNMKWMKUW::LISTNAME:[COLORwhite]Episode 13[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YRGL36KINVRAC::LISTNAME:[COLORwhite]Episode 14[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SGSHT66SIUKV4::LISTNAME:[COLORwhite]Episode 15[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K27LTVEFTAAOC::LISTNAME:[COLORwhite]Episode 16[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IVKBBQWKMLLYK::LISTNAME:[COLORwhite]Episode 17[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PL2LHTLLTEWCS::LISTNAME:[COLORwhite]Episode 18[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P3OXO7J6L4XPS::LISTNAME:[COLORwhite]Episode 19[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OKMHXQAITYROS::LISTNAME:[COLORwhite]Episode 20[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SD2H3KO77RXTI::LISTNAME:[COLORwhite]Episode 21[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3JGEFMDSB5YBU::LISTNAME:[COLORwhite]Episode 22[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4IKIRSXKIULHE::LISTNAME:[COLORwhite]Episode 23[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nzWdHTq53KMQFphullKFaVi6252.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Walking Dead SE11 E04[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1wax5v8aa2r7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

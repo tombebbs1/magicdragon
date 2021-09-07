@@ -65,7 +65,7 @@
 <link>
 sublink:LISTSOURCE:https://upstream.to/1tbluu44mrdz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/pzbhs446b7i0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/pzbhs446b7i0::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7M5H4OPN4JHRG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://picimg.net/c5060b57c454ec33e8e171bca5b0c1c4.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

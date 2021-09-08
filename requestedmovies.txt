@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The War Game (1966)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n7xgacrlbyia::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/w5oqffzle28d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A4XLW5S7V7V5O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/puJGNnrAPOv3BUMI9mKlCJp3UrQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turner & Hooch (1989)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/n7xgacrlbyia::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

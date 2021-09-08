@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Turner & Hooch (1989)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n7xgacrlbyia::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/kn3dmnkki0ggk8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/75O3IJEK5QNBQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Day After (1983)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/54dyag1ud1rk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

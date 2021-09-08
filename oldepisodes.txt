@@ -1,4 +1,36 @@
 <item>
+<title>[B][COLORwhite]War of the Worlds (2019) Season 2 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/NS6QLF6QVKJYQ::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7OH3RWSBVPSPC::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OB2A34FQ7OV6O::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O4S337HCRXXGQ::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZZLAFUGD2VROU::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CFZWPJKTFGCQA::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JZZY3Y5IG5JPE::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C3YVT7UDLDPPY::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yThmbQkxSzW4HHdAaoj8RYHFH3i.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]War of the Worlds (2019) Season 1 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/ZV6VULSVTZBTO::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N72OYRIRITQL6::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MZP67SHLXPJTQ::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NP4LRNQOE5AB6::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JKHXIW4EXT2AU::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DSVT6BH2WPWL2::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UBSZKQAMXKONG::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NRR7SPLT3VTT2::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yThmbQkxSzW4HHdAaoj8RYHFH3i.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Beyond the Towers (2021)[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hxoy835jfbv1::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

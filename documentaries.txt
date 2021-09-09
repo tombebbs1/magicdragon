@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Being James Bond (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/e175e71762b2/Being.James.Bond.The.Daniel.Craig.Story.2021.WEB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L7YLZ5ASHL4N4::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLaAbwPDzHNbJfZ0Xj0CkeM56CO.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Call: The Shutdown of NYC Bars (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nps36e3rhvdb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

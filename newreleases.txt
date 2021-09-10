@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Manson Brothers Midnight Zombie Massacre (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xhkvsgo90cwa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qm7jgaokusxl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/x0og938emc0f::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qq7bbHXP1sTPOiDxunj7DLRI0qi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Martyrs Lane (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dh9c05o9cxyc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

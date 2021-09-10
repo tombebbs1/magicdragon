@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Romeo & Juliet (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rzt8pl6owbsb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e09940f6c077/Romeo.and.Juliet.2021.720p.HDRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/08b626dd003c/Romeo.and.Juliet.2021.720p.HDRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pdukdqUHS66SdO5gHuz9OPWibSv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Prey (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ap0h15ho9lgb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Gunfight at Dry River (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lk3pw36u16to::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gp4n07gbwtv9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i7v0ofwtnuz9::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yefxiaYqcgvFBC1YOkK9gZfvOzE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Kate (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vqdq5q31qoqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

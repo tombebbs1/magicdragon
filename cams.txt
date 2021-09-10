@@ -9,16 +9,7 @@ sublink:LISTSOURCE:https://upstream.to/gbltgba5pwnb::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Malignant (2021) HDCAM UPDATED 07/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/80q51el8vtuk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/wdg1c8ucm910::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/7cch4zzdux3x::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1N5e56325vwih8IeJ29k9FZf8p8.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Romeo & Juliet (2021) HDCAM UPDATED 07/09[/COLOR]</title>

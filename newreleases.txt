@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Malignant (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/80q51el8vtuk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/239d6rbmvo0p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/997kbw0mfbqt::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1N5e56325vwih8IeJ29k9FZf8p8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Manson Brothers Midnight Zombie Massacre (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xhkvsgo90cwa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

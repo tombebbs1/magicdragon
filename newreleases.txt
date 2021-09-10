@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Voyeurs (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4wh1exnxgfap::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3fzo1rozxi4c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EVXPNWBNSZNFE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dune World (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9si3b6mhayb4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

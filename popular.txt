@@ -49,6 +49,18 @@ sublink:LISTSOURCE:https://upstream.to/997kbw0mfbqt::LISTNAME:[COLORgold]HD REAL
 </item>
 
 <item>
+<title>[COLORwhite]Kate (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vqdq5q31qoqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2ezk8a22n69p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tsjy7334b7oq::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Wild Indian (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xkv5p1nrqe7p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

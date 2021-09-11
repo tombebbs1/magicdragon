@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Copshop (2021) HDCAM UPDATED 11/09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8wj5x0pzl3pc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6tr17y5iqrio::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ADGWSXDAYFSYO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Se3AIepFRZ4VUaaDosADs8WMX5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rise of the Footsoldier: Origins (2021) HDCAM UPDATED 10/09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/28q6llnqw78z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -11,16 +22,7 @@ sublink:LISTSOURCE:https://upstream.to/gbltgba5pwnb::LISTNAME:[COLORgold]HD REAL
 
 
 
-<item>
-<title>[COLORwhite]Romeo & Juliet (2021) HDCAM UPDATED 07/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/rzt8pl6owbsb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/59cfa6e05f9c/Romeo.and.Juliet.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/LS3DG6D5LE6PW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pdukdqUHS66SdO5gHuz9OPWibSv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Queenpins (2021) HDCAM UPDATED 07/09[/COLOR]</title>

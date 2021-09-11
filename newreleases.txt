@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Curse of Lizzie Borden (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/qd0agf40rsoj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/bab61bf4ec59/The.Curse.Of.Lizzie.Borden.2021.WEB.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R6QDB46JAAW32::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/5aa642e39b7cf3777adee87a475829f2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Tales of the Uncanny (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qd0agf40rsoj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2300vxxmt0lg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WDOQGO7AVQSW4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pY3iyKJTD65fsTqRhRfCQVZZ3hS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Romeo & Juliet (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rzt8pl6owbsb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

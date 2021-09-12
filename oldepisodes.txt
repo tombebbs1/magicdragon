@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE11 E05[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yf9omspwlz9z::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/N4ZT4R2EDV6Q6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turner & Hooch (2021) SE01EP08[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zjfjfw7thv6u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -15,6 +15,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Guilty (2021) Screener[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3gpqqc4ypyuf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vchsl8wyfsyo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RTA3S6NANPPE2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l2X5hPbamzNeeaFEPdNIiaVBA2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Power of the Dog (2021) Screener[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mq4clcc95kpi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

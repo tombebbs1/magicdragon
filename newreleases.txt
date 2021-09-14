@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Teenage Vampire (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yfmt20i5x694::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2sm6o99uwk8h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OWLUBKLE6GJDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/58d973dc340ae03d96c2375bc58258bc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Another Girl (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rdnx601ehmg7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

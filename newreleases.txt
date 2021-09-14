@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Royal Jelly (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/q67iabzzezqe::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/59afwm5ywqus::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RP6KMFCJGX5OW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gf1lhd4hKsA1fCnkbByoGjQKE4o.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Best Sellers (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fnub40kcv6wk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

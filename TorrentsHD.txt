@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Best Sellers (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/fnub40kcv6wk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/csrrp5lnglwx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XH3W6JL2Y4STU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVTFceFUrRMh54ifibk54brPHIF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Prisoners of the Ghostland (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/d3lplhm55c15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,13 +1,4 @@
-<item>
-<title>[COLORwhite]Best Sellers (2021) HDCAM UPDATED 13/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/fnub40kcv6wk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/2t4wo2w367ae::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/8l1ix0tlhk14::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVTFceFUrRMh54ifibk54brPHIF.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Card Counter (2021) HDCAM UPDATED 13/09[/COLOR]</title>
@@ -20,16 +11,7 @@ sublink:LISTSOURCE:https://upstream.to/rk51qcq8biw2::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Prisoners of the Ghostland (2021) HDCAM UPDATED 13/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/d3lplhm55c15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/31yp2qw0vxy9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/gf81ysc8sthg::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9424zyRdWp3Ze5XHsXZd64FeFGY.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Copshop (2021) HDCAM UPDATED 11/09[/COLOR]</title>

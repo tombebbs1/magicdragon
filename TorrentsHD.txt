@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Nightbooks (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7sfr6w5cwpl5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7h3io6itki7a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IPVLWVTDCHDLW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ysJte1iqN8pFQ470tumnViB1wHP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Young and the Ratchet (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0wb1sc7052xk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ga83c4maye5u::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7PMPPT5A7DNM4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yepmAiiJBtJoi8iD4IIlDwNZzyq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Moonbound (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5iphlpcf7usv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

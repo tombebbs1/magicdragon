@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Dead Zone (1983)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/myqzj2hm30s1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ampgapl5cwmi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QTUVP4JCEXQB6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDLyNOoV5GEVZrJoeDhvWbD8Zou.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Testament (1983)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fyrjefhr1blo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

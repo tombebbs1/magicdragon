@@ -2,7 +2,16 @@
 
 
 
-
+<item>
+<title>[COLORwhite]The Eyes of Tammy Faye (2021) HDCAM UPDATED 17/09[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bij6vxco1uc0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/r84nocvgp8zq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VW6EDJILDTCD2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Copshop (2021) HDCAM UPDATED 11/09[/COLOR]</title>

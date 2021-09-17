@@ -1,4 +1,29 @@
 <item>
+<title>[COLORwhite]Unbreakable (2000) Remastered[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/myqzj2hm30s1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7ydcndyjjnnj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UJJLFLT64VOCI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Matrix Trilogy[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/5rnevrrcl8f1::LISTNAME:[COLORgold]The Matrix HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JX4J5EB5E44HA::LISTNAME:[COLORgold]The Matrix HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8r1gexhiqrwz::LISTNAME:[COLORgold]Reloaded HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RIO5QXDL4PL4A::LISTNAME:[COLORgold]Reloaded HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xzpwrkeb57j2::LISTNAME:[COLORgold]Revolutions HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EWLBPYGS7L7NU::LISTNAME:[COLORgold]Revolutions HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/I/71-+2B-BJWL._SY300_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Dead Zone (1983)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/myqzj2hm30s1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

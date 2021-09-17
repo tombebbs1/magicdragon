@@ -297,17 +297,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/U64RNM7ZNNI7S::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]The Loud House Movie (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/grqao3cadgim::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/zhkxd8q1zczw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ERABS4MLUGDXO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpM5WcVj9ssNeriJCOhaPNuj49j.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]The Girl Who Got Away (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2a342krsh36c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -387,50 +376,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/LYJQAGCWUSI72::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]12 Mighty Orphans (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/gxaly2xr2zw4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/e32f1744e378/12_Mighty_Orphans_2021_BRRip_AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/XPBVKTTCWCPPW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gGlzMcLFTxnXRYXuLHlKVmj1SFw.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Protege (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/dpuey9zjn9lv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/239bfa873003/The.Protege.2021.1080p.WEB-DL.X264.DDP5.1.Atmos-MeowE.mkv.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/F4SU2FG3ULD42::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ae3cbmy52HKCTebvdUCCF0vZGrK.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Naked Singularity (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/hf7kg334oii8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/3el71bbp88k8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NAAAQRKOOXP36::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oUsPN1xUTVaxCAgGpVBRmWLDyJw.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]CODA (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/tqueu7vizaby::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.sx/f/wnore3exuz0xok::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ELJHBNLG6QBE6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Joe Bell (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xpkhf2axj4ss::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -438,17 +383,6 @@ sublink:LISTSOURCE:https://upstream.to/mxc3hvxxm10a::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/F7UPOUL227Q4K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p1cW2YzH2WMR8Vnw0c5PbUrOyAy.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Eye Without a Face (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/kiun9s1d6ul3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/kuirkw84l2iy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4HGAC5CWVF4DW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lez8gkotnWSSO9YmUzmQpmhlSi9.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -465,28 +399,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/D2KW5D7ECA6UW::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Vivo (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/txzc6fbxirp5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/o6t0rcnywxjl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/YV2X2QAIBNC3K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Worth (2021) HC[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/pvinu9f35rcw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/4gfj4fptaesj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/YRGFLIZNLKN76::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnabVjHsy1cFc5QBAHC1CYLTOJB.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Jolt (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xtx9okeacsvp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -494,17 +406,6 @@ sublink:LISTSOURCE:https://upstream.to/v7bzxksm5n58::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/KRW4PEBN4GCZS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Birthday Cake (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/b0ztfa1ap0qt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/4aitxt1u33s7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GHZQLH5JYGNRC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kI3lTv3f24Fzl2kD0sYVCvCOZh2.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -597,17 +498,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HQPFWSBFI74JU::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Pig (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/ia51gamry3l1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/kw18ltz2s6fw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/SESFZV73AVLWY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qr9IMdzeL6UsHdwERpDuzOfPxhT.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Mortal Kombat (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/sa639hz17t1j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -642,34 +532,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/UB6YZFJMESVV6::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]The House Next Door: Meet the Blacks 2 (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/dleclqhzpv0c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/0mee5dap3b0d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ZJAZOGC4RVWQM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/57khcVRaYhqTHwlDTuUTUwQ9N8i.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Settlers (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/g4ui223zoeym::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/w63ik0e0m208::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.sx/f/3n80kv3lsdpwox::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/BXHVDAYRJIXNW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/XTEM36RJX62DQ::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1CViA7W2ZQLodOBWU9bbxnacYY.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
 <title>[COLORwhite]Peter Rabbit 2: The Runaway (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/z6trpmrid7uz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -680,9 +542,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/S7HWZOKATGNJK::LISTNAME:[COLORgold]
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
 
 <item>
 <title>[COLORwhite]Die in a Gunfight (2021)[/COLOR]</title>
@@ -717,19 +576,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TDSW7RKTXU2VC::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-<item>
-<title>[COLORwhite]America: The Motion Picture (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/xxv4pph4pwn2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/8g22rwhqdm07::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/OPDDERWLPOME2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]Separation (2021)[/COLOR]</title>
 <link>
@@ -740,8 +586,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4X4VIXANAP3PS::LISTNAME:[COLORgold]
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u97rvkruZxoIUio3r3ZySFETHB7.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Fatherhood (2021)[/COLOR]</title>
@@ -774,73 +618,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/H6YCJWK2MJNLG::LISTNAME:[COLORgold]
 sublink:LISTSOURCE:https://real-debrid.com/d/EH7DUKGVB6FLA::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ioTJaEpRw2Amw3001oO4KNZ3cXR.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLORwhite]Censor (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/w7u0hfvgxj8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/880cjjz2lqq8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/23FITT5PVRG4G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hE1nQVUaPJYjyvtSVzaFx4sYWlS.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Misfits (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/51a2d55rr6qs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/3nb52djq021d::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/SQNDYSACW7RJY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khVFEq1nvkKmq4Nz6YC9muuDR1P.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]In The Heights (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/3fdycrwfz1tf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/uo3t5wd7zsnu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/F3GXQ35HYJDU4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a1LtHXN7muEHNE4MezCT1waT32a.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Long Story Short (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/0uigxs5j39rx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/9kf7dhv02l03::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/VSGYQAUQA72DG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19pReeL9VE1banX4JDNdmtwH7kv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Minamata (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/cyiat9lsynhy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/es8bfjxxtups::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/G7R2X52D6HOKQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeFGxIB5h4naYcIILAPOy8CxPyy.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Flashback (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/nx578v25tcc7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/j12e3cz9utf5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/XTPB32IMGHUAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nc7szo7ChOknEk8qCkABJyNgl5y.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -890,17 +667,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YYCREMYNF7A4C::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Gaia (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/k581ly1hiwqi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/7tnepb803px1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/3VLRRIQ2G54EI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Wo1PcpiDIkXuGCUSPnYItKzTNj.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]The Ice Road (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dp5zu4iovtdh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -945,9 +711,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/PKSLTJXVRYQ6G::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
 <item>
 <title>[COLORwhite]Wrath of Man (2021)[/COLOR]</title>
 <link>
@@ -970,19 +733,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/R6HS26PO7LZYM::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-<item>
-<title>[COLORwhite]The Woman in the Window (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/q7b7eny5drha::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/o41ydciyqobv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4RR77Z4VIR23E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUnMWEtz07x5ZeNT7dOZpvDK8Hb.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
 <item>
 <title>[COLORwhite]Those Who Wish Me Dead (2021)[/COLOR]</title>
 <link>
@@ -991,74 +741,6 @@ sublink:LISTSOURCE:https://upstream.to/yagvmcl9adbb::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/D5F6NBQBVQZ5E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Djinn (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/q7b7eny5drha::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/o63ke308mst9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NU5I5ZEQZH44E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kE4j7XP64RvTFNvamhOrf6ZYkb9.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]North Hollywood (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/o5b71ol0svaj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/qnkt4e31zpzu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/43DC4XT3PZE6M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lOlOXsPYfcDi576PKA25x5BjEQz.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Killing of Two Lovers (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/fswltyccyrfc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/5j6codkqlabd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/JRSAEP2UCZOKM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2Vd352RnjDY4lVmyuCnAnrVGZC.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]I Am All Girls (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/4g64xyq21kzc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/5d6bhac1qb3v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/RSEERXJEL37B4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]Things Heard & Seen (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/f5udx4mt7yrs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/6c2mwaduzqns::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ULRVCLMW56KTW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]French Exit (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/9pv2m9fjr9zi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/olk8ey76wc9m::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ZSB5SMQCNM2X6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xKTQAYkjKYJg9i3gpL2OUxsnotu.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1084,8 +766,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/IRCJXUOMNKCEY::LISTNAME:[COLORgold]
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5KYaB1CTAklQHm846mHTFkozgDN.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Tom Clancy's Without Remorse (2021)[/COLOR]</title>
@@ -1132,30 +812,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/5YVYEV5TZQMJU::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]In the Earth (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/avcpcvm52o57::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/c0nnw526glbn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/Z2LGVAT5QK344::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUcWwnm2mHgllN4m95Xj8kSVyzp.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Mainstream (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/svxsbodf5fjk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/3crxq3r6kg8a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/AMC7ORRJNRDFA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9vTf02WXyldeKN4kfwZRwwI4XbG.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-<item>
 <title>[COLORwhite]Voyagers (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/16opqbf3wtdw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -1163,33 +819,6 @@ sublink:LISTSOURCE:https://upstream.to/g781jn97ouj5::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/VGJTEAWMSVAXY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvM8auqa0dckJefuKVGAWG9dFN.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLORwhite]Percy Vs Goliath (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/2kc5gu3h6ivy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/lttdg6umt0jo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/OGU6G6MACAEIO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6ePQ8YqyyyVyr1ASkjs7heil7y.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Mitchells vs. The Machines (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/2d6z32buckcv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/pohbkg3oh0dn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GLBNFHMIOFMRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1212,64 +841,6 @@ sublink:LISTSOURCE:https://upstream.to/cy0sa09x0un6::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/OXNRBWIQHWUBC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YlS6d7tBVUNstYGkjTv1JmHzF3.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Courier (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://dood.so/d/b9wyrgbqsv6h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/cbsnh3eh1c7j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/RZ34ZKEJDZ2W2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/msOfcdWfTxohiboGTPpeJJi7Bln.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Comeback Trail (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/1rasqk60nocx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/cnxvsgt1fk3w::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/P5IOV6HGZCAZW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aAJreHMi0eKh0emmMkc7RTovaT.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Jakob's Wife (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/5snu1uh0aai1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/5fab64t6psyk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/BD6HLUTSOFS6G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6aCQta0OumW92UcXxYSRbmCPB3T.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]The Virtuoso (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/db9tbsajnzcl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/qql3a3vlf9w2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/5PIN6OPKIEUDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8RIjjmWZi8tJf5lRxyHGErentsv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLORwhite]Vanquish (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/u8u8ryswnr34::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/emchjqfkhi70::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/G4P2QZ7QR7BH4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AoWY1gkcNzabh229Icboa1Ff0BM.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1318,17 +889,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6TGHX5FBKVI7S::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Judas and the Black Messiah (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/kwvmt6k5sixr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/obprph3r871y:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NXOOKTMHZFT4W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbztaGbNFRoYTxmuEemIhseFr7x.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Cherry (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://vidlox.me/8evu6byqfo4j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -1361,18 +921,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BNRGSMLBAJE5M::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-<item>
-<title>[COLORwhite]The Dry (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/nhi78j8rz8d6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/j8l2ykyiu1c9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/7PEDMMPE7GTNW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YPPWRco8dTSmtj3LkVdSbyuQvK.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
 <item>
 <title>[COLORwhite]The Father (2020)[/COLOR]</title>
 <link>
@@ -1381,38 +929,6 @@ sublink:LISTSOURCE:https://upstream.to/9jpiyvgumgfa::LISTNAME:[COLORgold]HD FREE
 sublink:LISTSOURCE:https://real-debrid.com/d/DUJN7MT7ZCS7U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/gkZW7lSpqiDBtv6EE66hg7KHUmr.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]My Salinger Year (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/rtk7ro2edwrs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/KD7JGN22UU3P6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMDEyNzY0OTUtYjk2MC00ZTc5LTkxZWYtYWExM2NiYTY0ZDg5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX692_AL_.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Crisis (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://voe.sx/s7sirqomx4l7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/pii9hw88zxuz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/QOW36H423VBYI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPdctK6RgXoquWL4Q06DFm33JWP.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The World to Come (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/fjej9kdxdyt6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/33mjbx78umo5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/TF64RXNII2YJM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j64CnpmbaKB90Cpprk5hM9kHyJI.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1439,17 +955,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WQB42AXLZATS6::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Land (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/rh1jpp4xn678::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ja72jfgujxcp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ORSOW5QCYVKDG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6pYhDPzYPGKvDYpxdf0IUE3RDAS.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Tom & Jerry (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://voe.sx/ddxoo4poh9lr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -1457,118 +962,6 @@ sublink:LISTSOURCE:https://mixdrop.co/f/84v667z4hewnze::LISTNAME:[COLORgold]HD F
 sublink:LISTSOURCE:https://real-debrid.com/d/IYK3S26SMBWYG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e06BpqZIxRSpvNSbItcGcgs0S5I.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Moxie (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://voe.sx/yq7phsol37i1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/sv6ebku842sc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/2MQCUBG6K5IZO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jKY27ZHDnHWpThOmrL2q9GZyqkM.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Concrete Cowboy (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/u82k4s4uc6z8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/dun0sczfjiqu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ACJUWJEACZGKE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aOBMaKVLsHcEPjTQ9sCth4aAyGo.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Monster Hunter (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/ynyg5shk1hni::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/qdxp9f6obtxc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/OO5HD2UYC6YJG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zO9R7Z6DRDgRO9QVz4lAJg3L15o.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]News of the World (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/nzxlqh7xpwxi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/g92fun8d1wkv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/44AVV6LXWQZE2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]The Little Things (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/n6x8akxkjwfg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/z6oo0rpbvxi7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/I3R6C5YQRFPUS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ihJ0yr7v6YqP6zvPVpPKUrOuQ3.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Supernova (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/a9gidt5ubmt5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/sqqti57zt81h::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/3IUYOZRM3TLFG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5n8Qb5Vm01s8UdqI6Brf0J4j6W.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Cosmic Sin (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://voe.sx/apy5ybs7qjbf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/7nffsk4q5b0c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/BEVVHSYV6S53S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5jrmWSzhFTAaqSiDjGM7IlKb7A7.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Kalashnikov AK-47 (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/stvpyjz8idjg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/af1mr4prz1ul::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GOYAEZNHQQKKG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ApfjrFsGunqLo5MKYGtFMTSTaMq.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Redemption Day (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/q2s4s461lhnp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/xnu2wbp9btfr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/JISHVR6X4HWDS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nrWxtM9YbW74PPStSScd5V0lhBM.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]Outside the Wire (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/9cltsnera0kz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/90oygv2ag2sn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/M4WEM4OVBHBDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yPUXrxTFYV7nShGQPXzjXHHP4lF.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
@@ -1584,50 +977,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/HJBX6SMFWMG7Y::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]American Skin (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/yeis3li15pvt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/dj5gehfm1e6r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/OGZYTBWYWSQOA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tP9tl8TWegYNMcGNayQBNROYCQl.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Every Breath You Take (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/5quthfc8qc0x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://dood.so/d/9gde0wxd4vnt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/B6QV66SGKHQTU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Willy's Wonderland (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/udyys5errg1h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/eepiw3ityh3m:LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/G7NXBKX5W75IM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]No Man's Land (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/chg9y91sb3o9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/3ebza6u4uz1j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/QPNWLJT3YPQVS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tKXd7O2nR3hpe3jwulhGbivtF2J.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[COLORwhite]Palmer (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1nw6dj4up8yy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -1637,122 +986,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6NZOX46VSU4WI::LISTNAME:[COLORgold]
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-<item>
-<title>[COLORwhite]Run Hide Fight (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/rtepttcqpksb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/fhmqb5v0yv48::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/5W7Q2CZCM53GU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vrkCShiHKMZRCMENpzG9H7DkGpX.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Malcolm & Marie (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/g3sku1uco13c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.co/f/wn8onxd0s0xgx1l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HUT5V23TVILZ4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdidDnAZwchN5vTenoNuhGPJTri.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Space Sweepers (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/hcr4leai0jjd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/w9bf27tnv800::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/MG2EGKR43ZYYY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hO3pz1wHkFveyfFQx8O5Yz8ErsK.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Bliss (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/ui12pqoer0w2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/pmh2ff96jdxc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/A4NXTKF4QOTIC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]One Night in Miami... (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/a0i5lepdcqm2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/fjw8uf0w6kvk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/FCJCYFFCKIC6E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVlfr9nkOpsvAvL7ngfYRaQvQgY.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Butchers (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/x7aypcu1emgd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/yyh97n9x6h8i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HH5ZM5ZN3DGGQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>http://img.rlsbb.to/images/UpkndL5f4.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Locked Down (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/oq7qgl8htl4l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/q5dp5d3ly5p7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/PKXMPEY5DKI74::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>http://image.rlsbb.to/images/6158a2a25ca99947ec1067521d1f700b.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Saint Maud (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/au861ivy2h37::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/xto0pmet2g50::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/Z2M3BK34SXCAO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQjxpEYktu36ZiWKfn0t0FySmXl.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Synchronic (2020)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://vidlox.me/pzbssnfuaxns::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ozo48cuswi2q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/L5RKAVHRUHQMW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN1QOOF93KtLPekUEIZ529TrGxl.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLORwhite]Twist (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/ycvwmuoxn49g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/6pjwwivrk2s8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/TKALWCJXLZBBC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29dCusd9PwHrbDqzxNG35WcpZpS.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
 
 <item>
 <title>[COLORwhite]Wonder Woman 1984 (2020)[/COLOR]</title>
@@ -1765,22 +998,5 @@ sublink:LISTSOURCE:https://real-debrid.com/d/O247IE7BO74QU::LISTNAME:[COLORgold]
 <thumbnail>https://image.tmdb.org/t/p/w1280/lNVHB85FUDZqLzvug3k6FA07RIr.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

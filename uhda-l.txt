@@ -2468,6 +2468,18 @@ sublink:LISTSOURCE:https://1fichier.com/?k9bkl60m5okgdpngibbe::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Hitman's Wife's Bodyguard (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n2wf3rellxez::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ytkv94otscgh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/M55MTONTVZMSQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LX6M7TLVBR3HO::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oht9CZHNDBEu5KitgxUsb0LhQ8v.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hocus Pocus (1993)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:511170acddbe224974d4ec76298441fb52f113c7&dn=Hocus+Pocus+1993.MULTi.2160p+HDR+Disney+WEBRip+DTS-HD+MA+5.1.%28En.Hindi.Fr.Sp.Pt%29.HEVC-DDR%5BEtHD%5D&xl=11445750976&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

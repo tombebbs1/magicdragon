@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blitz on Britain (1960)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jd2gbxjabh66::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LZKGDVC2XHRAY::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNDA0OWEyZTAtMzJlMy00NDFhLTk5MDYtYWQyZGQ4ODI4MmMyXkEyXkFqcGdeQXVyNDQ3NDM5OQ@@._V1_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]My Heroes Were Cowboys (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hjybls4t35fu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

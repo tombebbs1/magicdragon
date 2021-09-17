@@ -124,16 +124,7 @@ sublink:LISTSOURCE:https://upstream.to/zzb7e2xy7poa::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Old (2021) HDCAM UPDATED 26/07[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/muig97vc0f2p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/2xf653z2up4v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/oifxr9pty4fm::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cGLL4SY6jFjjUZkz2eFxgtCtGgK.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Supercool (2021) HDCAM UPDATED 20/07[/COLOR]</title>

@@ -2213,6 +2213,18 @@ sublink:LISTSOURCE:https://1fichier.com/?wx5r04ra3p::LISTNAME:[COLORgold]4K  LIN
 </item>
 
 <item>
+<title>[COLORwhite]The Green Knight (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sk7yvof0hjsi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/67z3zzagifct::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WJFAWBHXPLX22::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6LHRR5DFKJWNA::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Grinch (2018) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/2umwxu4strm0::LISTNAME:[COLORgold]HD  LINK 1[/COLOR]::#

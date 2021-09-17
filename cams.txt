@@ -1,7 +1,3 @@
-
-
-
-
 <item>
 <title>[COLORwhite]The Eyes of Tammy Faye (2021) HDCAM UPDATED 17/09[/COLOR]</title>
 <link>
@@ -34,10 +30,6 @@ sublink:LISTSOURCE:https://upstream.to/gbltgba5pwnb::LISTNAME:[COLORgold]HD REAL
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t4luRQRweKqqonXzmp3Ya5O8JA7.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
 
 <item>
 <title>[COLORwhite]Queenpins (2021) HDCAM UPDATED 07/09[/COLOR]</title>
@@ -94,8 +86,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4TBTZL25JKLX6::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]The Night House (2021) HDCAM UPDATED 25/08[/COLOR]</title>
 <link>
@@ -106,8 +96,6 @@ sublink:LISTSOURCE:https://userload.co/f/3826402901a1/The.Night.House.2021.HDCAM
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qxGRdNeWKQcMg6jJduTthsiBbsd.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Free Guy (2021) V2 HDCAM UPDATED 15/08[/COLOR]</title>
@@ -120,8 +108,6 @@ sublink:LISTSOURCE:https://userload.co/f/567320f1c73a/Free.Guy.2021.V2.720p.mp4:
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Off the Rails (2021) HDCAM UPDATED 26/07[/COLOR]</title>
 <link>
@@ -133,8 +119,6 @@ sublink:LISTSOURCE:https://upstream.to/zzb7e2xy7poa::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Supercool (2021) HDCAM UPDATED 20/07[/COLOR]</title>
 <link>
@@ -145,8 +129,6 @@ sublink:LISTSOURCE:https://userload.co/f/0f9cf47c3e26/Nsupercool_2021_cam.mp4::L
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Witnesses (2021) HDCAM UPDATED 13/06[/COLOR]</title>

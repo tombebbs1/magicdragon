@@ -61,6 +61,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Auschwitz Report (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g44bgpo1z9z5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bqvuqtzxsfa7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SNQQTY4R4IN4W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UJQS6V0KbHjaZbI0Wv7rL57S7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Everybody's Talking About Jamie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lcx6bx40i27h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bqvuqtzxsfa7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZDTSG4LCIYZCU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vCQfR8gqpM4rAtpD1jSXE4JhZVn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Killing of Kenneth Chamberlain (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wmri2n7q86xe::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/aeejp7tmd12l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PYGMBDR4HKS6I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97HdWKoUXzHxTpI4tA6AuJeph56.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Last Night in Rozzie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/o0ilqbfvhkfy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/u9fjz0c6zwk7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UCUH6UBX7BMPE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1K8RsypDLTy3IF4r5EfWbCbcSYE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Old (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/muig97vc0f2p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

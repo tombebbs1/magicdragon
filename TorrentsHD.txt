@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Obscure Life of the Grand Duke of Corsica (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n81y0aulj3y9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lf63y0mcqrpc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VSJ74WB4HC7UM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scRf3Q2SgvaLg7h4nYlM386YpQK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cry Macho (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cubmr82k5f60::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

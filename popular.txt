@@ -69,6 +69,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/EWLBPYGS7L7NU::LISTNAME:[COLORgold]
 sublink:LISTSOURCE:https://upstream.to/d3lplhm55c15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/ci94vjlpf4bb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/BSXCA7UKUSGOI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CP4EX7U2KZZJK::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9424zyRdWp3Ze5XHsXZd64FeFGY.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

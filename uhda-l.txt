@@ -2975,6 +2975,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TM6AQ4MD2YQ6G::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Kate (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vqdq5q31qoqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2ezk8a22n69p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DNQN2AKYDOYK2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MOKR5RCKGNLX2::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Keeping Up With The Jones 4K [/COLOR]</title>
 <link>http://uptobox.com/oxed5qvs3elm</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM0MjE4OTA2MF5BMl5BanBnXkFtZTgwMDMyNTMwMTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>

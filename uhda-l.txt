@@ -1782,6 +1782,18 @@ sublink:LISTSOURCE:https://1fichier.com/?reiiff7h85::LISTNAME:[COLORgold]HD  LIN
 </item>
 
 <item>
+<title>[COLORwhite]Everybody's Talking About Jamie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lcx6bx40i27h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xwdnzxyhk997::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZDTSG4LCIYZCU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IA6V3GMNJO45G::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vCQfR8gqpM4rAtpD1jSXE4JhZVn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Evil Dead II (1987)[COLORred]4K[/COLOR][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://uptobox.com/4t2ezovchfp9::LISTNAME:[COLORgold]4K  LINK 1[/COLOR]::#

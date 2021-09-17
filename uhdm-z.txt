@@ -908,7 +908,17 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:278e9eca242a3f90285fc5f44364906e58e8b44c&
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLORwhite]Respect (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/e5b413vi6gfy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cmqq1vsomkwu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LYJQAGCWUSI72::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6DA6EGRELWVJ2::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Resident Evil Afterlife 2010 4K [/COLOR]</title>
@@ -1586,6 +1596,18 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:41af54942a6669a79135081814fcd493875f1e03&
 </link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ2MTIyNjM2MF5BMl5BanBnXkFtZTgwMDE3NDMyNjM@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sweet Girl (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/v65i3gdrh8v8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8d03foafpzdi::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ORFHL76AULY4C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7WBNNIR2TNNMG::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tshCVHOq1S99mxaV5IzR0oOco9P.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
 <item>

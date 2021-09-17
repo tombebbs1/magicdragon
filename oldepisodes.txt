@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Lucifer (2016) Season 6 Debrid Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/COM57AL25AGQE::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XUGCNP57F4EP2::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6ZGCI22MNTBSU::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LIIKMBBGTBZEW::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SDVX3I2RMC2EK::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/76UMU2EIHY2B4::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Q5RG5OJHBUB3Y::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JNDJ5ZJ4CQCWY::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2OIZXWS57ZURQ::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4XN7UB6O2CWOI::LISTNAME:[COLORwhite]Episode 10[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turner & Hooch (2021) SE01EP09[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8nxirtqqmsl5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

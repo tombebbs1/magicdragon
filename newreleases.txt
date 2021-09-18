@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Help (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/i0ukl9kun3ud::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y2wg0k01w8m9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/V5BSHDU2O4OY4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/33Z4AmHQYUpMWiM0T1jYq3xPdKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dear Evan Hansen (2021) Screener[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6rh7hx1tlfxk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

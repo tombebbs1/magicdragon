@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Raise a Glass to Love (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6z4jjqnkqr4t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t3hyqpj4rav2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UWUS4RE74AHGO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gNk3AwbmKo2uXRLnhLRwLslr9hS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Streamline (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yy8f7x8icj2i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

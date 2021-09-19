@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Walking Dead SE11 E06[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ehfmcqw0qbuy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ICHBLJHEHIOFM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Lucifer (2016) Season 6 Debrid Only[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://real-debrid.com/d/COM57AL25AGQE::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

@@ -60,6 +60,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Streamline (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yy8f7x8icj2i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/0917dfabd3c8/streamline.2021.1080p.web.h264-naisu.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ON4A5TWIBSPGM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eljWN08RiLOi0TZJrPGIwFCAEtv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Help (2021)[/COLOR]</title>
 <link>

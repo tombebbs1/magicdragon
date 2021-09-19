@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Girls' Night In (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/r5hiruqe16zm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ba806c337786/Girls_Night_In_2021_WEB_H_264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/0f685ed7d0b6/Girls_Night_In_2021_WEB_H_264-RBB.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vdmDcImHpAUPmfFmFcNDPgEYOib.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Raise a Glass to Love (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6z4jjqnkqr4t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

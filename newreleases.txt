@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Night of the Animated Dead (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/j0nbmmmbkl68::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hnvsvn7pyq71::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KIF7LCSC5O2BA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bSGkz0jCvLsEr0yiLMS21tY55bb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Devil's Five (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kidee558kntp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

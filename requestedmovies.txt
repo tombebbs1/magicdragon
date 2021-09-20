@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]L.A. Confidential (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9vqddi1o6hxa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/j9mldkdxame4q8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5IAYUYFGZWIDI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Con Air (1997)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pkvx8f6499jp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

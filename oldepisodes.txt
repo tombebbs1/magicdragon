@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Spitting Image (2021) S02 E01-E02[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nxysq87a369v::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/80w07ygw76ft::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cON9IlBTdLcJcFqbUvOpJ9aUt5j.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E04[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

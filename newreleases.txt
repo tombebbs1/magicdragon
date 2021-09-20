@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]C.I.Ape (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/za5cawxwlyxq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i9ih4xb32i12::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4NVJL5LGYIZGM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9d7k5IkBJDjJiMhHVRXljEsOgrY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Girls' Night In (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/r5hiruqe16zm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

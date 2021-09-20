@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Devil's Five (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kidee558kntp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g28yvvrkqbkz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5DYK4H2DF6IQM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/00aca82b0319eacdd1c38609327d4a33.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Finding Love in Mountain View (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bjsdf0djrhf6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

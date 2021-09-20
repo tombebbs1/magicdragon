@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Con Air (1997)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pkvx8f6499jp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8yx2ysosy8qv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AY3FQR5LEZXTU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPvDtJcD9MYF15QBjIfrxlcddgV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Clue (1985)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mfofypqhjnsx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

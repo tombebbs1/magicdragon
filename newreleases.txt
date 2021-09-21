@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Alpines (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/eufbwjb7bj54::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/gui64x2jkove::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7MXO72UAR3DVS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LphzWlIiwCNk0UHrsXoTVSB66D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]This is the Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jheaar5g1z8x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qvjesr6a89tg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2E3U3KANXRSO6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A5LYQfzC39cldqT5mKIpVNbcOGO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Night of the Animated Dead (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/j0nbmmmbkl68::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

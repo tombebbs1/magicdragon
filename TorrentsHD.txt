@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tethered (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w8l0tvlruw66::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pvbh3347pkzd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WYQKBHKCHJT52::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/9c87f09e7011d948f157ebbf70bae1ab.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blame (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jzkgljjay697::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/iict1456imzp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LKPTJBOAMLLD4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/3ff6b8e39e37e30949deb61c662671a2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Most Dangerous Game (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/s8b9cn3fc1hi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

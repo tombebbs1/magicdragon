@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Intrusion (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2swwndi69e1j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/6q4n1onva8j81q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KYNK7LQ5VUV6M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a2Q3yI7E7kmlRW3c6z996JIOw2y.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Killer Grades (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6ufo2wlz8s4j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

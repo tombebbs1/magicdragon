@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Go! Go! Cory Carson: Chrissy Takes the Wheel (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/e6u0cq7ue215::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/33wky1th93ye::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6CHFIC7BSM2I4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eZvpTcUk0L8paEqegXzUcJa9nG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Intrusion (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2swwndi69e1j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

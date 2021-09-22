@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Cobby: The Other Side of Cute (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6i3ypf0w14gl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6G27DQVJRQPPU::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dnTEhrPbUElzRXximezS9fJPCqX.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Twyla Moves (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/v9a2newl984r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

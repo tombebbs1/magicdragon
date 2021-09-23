@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Free Guy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6attjzo6krxh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rqfqhj1vsktt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S7TL64X7V4R5C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yc2IfL701hGkNHRgzmF4C6VKO14.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Confessions of an Invisible Girl (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vg87sww7nc6m::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

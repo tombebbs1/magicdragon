@@ -1,4 +1,19 @@
 <item>
+<title>[B][COLORwhite]Midnight Mass (2021) Season 1 RD Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/5QCFDLKRBDB4K::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2A7YFV76GTOSI::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MOUK3JBLAPQQW::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6NCKQ4DMKJCP2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UED2EE5PI7DW6::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RA34N64AC4UGQ::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5H2DY3SGBVXUY::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Turner & Hooch (2021) SE01EP10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/u2ufmbwaxerw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

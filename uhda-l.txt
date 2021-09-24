@@ -925,6 +925,18 @@ sublink:LISTSOURCE:https://1fichier.com/?6050zwid7sfia1oo9g1n::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Birds of Paradise (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vdgnvg6l1ti3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rj92kfuur2oa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4Y75YDIJ726C6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/46AYK7U6U4PP2::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zwGUtqNI6aV0ESizG3BSlTrwO9f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:c3b5cea49777c33be1cc9c6835037809295b252b&dn=Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.2160p.HEVC.WEB-DL.DD%2B5.1.Atmos.x265-Telly&xl=18553161439&tr=udp%3A%2F%2Ftracker.leechers-paradise.org:6969/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce&tr=udp%3A%2F%2F9.rarbg.to:2710/announce&tr=udp%3A%2F%2Fbt.xxx-tracker.com:2710/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Fretracker.lanta-net.ru:2710/announce&tr=udp%3A%2F%2F9.rarbg.to:2770/announce&tr=udp%3A%2F%2Feddie4.nl:6969/announce&tr=udp%3A%2F%2Ftracker.mg64.net:6969/announce&tr=udp%3A%2F%2Ftracker.zer0day.to:1337/announce&tr=udp%3A%2F%2Fcoppersurfer.tk:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

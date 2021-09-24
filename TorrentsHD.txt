@@ -34,6 +34,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Birds of Paradise (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vdgnvg6l1ti3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rj92kfuur2oa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4Y75YDIJ726C6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/46AYK7U6U4PP2::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zwGUtqNI6aV0ESizG3BSlTrwO9f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Paper Dragons (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/19izdtn114c1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

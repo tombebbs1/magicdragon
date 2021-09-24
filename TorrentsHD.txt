@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]Time Is Up (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ehwlblsbcn61::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/co0ndyap0mkg::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6PJVG2VNHFTBI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Apache Junction (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w11hqly51ti8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ysw4uq92ro1r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KEODIL7YPL272::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jL5u9PSqoWuVnDFgJcn05hlp3yJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]East of the Mountains (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/hw2ju75wevss::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6asnpy978wvh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TSFHKTPTR5LAI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RAvCEbO2b98DX3HZlXdeDu0KuG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Lone Wolf (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qvy1t0gkrpio::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0nm0g36ci6av::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EKVB4SCDXAU26::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p9XfsBQaaDX7WgbinKewtbrYAcD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]My Little Pony: A New Generation (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/306k6pxu6512::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

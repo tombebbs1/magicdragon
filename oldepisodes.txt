@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Turner & Hooch (2021) SE01EP10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/u2ufmbwaxerw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/u2ufmbwaxerw::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VLk2ObY5298UoGaFARqt0SDyTh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Monsters Inside: The 24 Faces of Billy Milligan (2021) Season 1[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/b5a3df778621/Monsters.Inside.The.24.Faces.of.Billy.Milligan.S01E01.720p.WEB.H264-STRONTiUM.mp4::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
@@ -92,8 +102,8 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4XN7UB6O2CWOI::LISTNAME:[COLORwhite
 <item>
 <title>[COLORwhite]Turner & Hooch (2021) SE01EP09[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://upstream.to/u2ufmbwaxerw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/u2ufmbwaxerw::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8nxirtqqmsl5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/66HZV4GVT2KUC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VLk2ObY5298UoGaFARqt0SDyTh.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

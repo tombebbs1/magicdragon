@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Stop and Go (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dju6x36suzg1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2v4qijfqe8lu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IN2Z422W4JW6E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qpIYSmLhi8AwSJuJQyU0ixhA4DB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Addams Family 2 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/o51peartd1yn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ao94u8x7hq1o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QXQFLLR4PZ4JQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Survivalist (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/03xnr11her01::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

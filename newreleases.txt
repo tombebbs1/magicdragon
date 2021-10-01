@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Black as Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8zrzvznnu5m2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wn33ngn26yg8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HEGPD5QI6XC6M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]While We Sleep (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3vdn3eub32vz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

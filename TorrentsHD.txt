@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Falling for Figaro (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zk0evf3m6tnq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xsos44wai3ks::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QSWEAQA6L2YOS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eGMoAufRzREeigkksysoYONjpXv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]American Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1xwt3vw47e5a::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hh4a68goalg1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S6WN4TUDDYOXW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mV9LJQuaOrQOFOZbtPclgzihApP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Implanted (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ln3akhjr2stc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

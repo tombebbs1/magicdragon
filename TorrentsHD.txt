@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Survivalist (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/03xnr11her01::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tvl0zox6k01e::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5FLHTTWBVMIH2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uIUs7v0T6hIqr6iMpzsKeKzHI8L.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bingo Hell (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/00r2ycgtn69n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9nd178pbqmcb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NFOLD6676LBA6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/86VKuiaox9eVJTETel0ld7XZtiO.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Black as Night (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8zrzvznnu5m2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

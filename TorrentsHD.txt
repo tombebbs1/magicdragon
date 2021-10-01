@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hustle Down (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/poemo54sbu0u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/l0kphfhx25zl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7DRN6T7N7M6ZO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5sHloJoCimZ5J3qGrBCKrjTZH22.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mayday (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/a2df4yct67ls::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

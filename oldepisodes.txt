@@ -1,4 +1,14 @@
 <item>
+<title>[COLORwhite]Turner & Hooch (2021) SE01EP11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nfghsl89rw09::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5xpnwwt9g3ll::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1VLk2ObY5298UoGaFARqt0SDyTh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Walking Dead SE11 E07[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zv44fue8qwlq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

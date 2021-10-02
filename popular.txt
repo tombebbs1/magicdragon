@@ -37,6 +37,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/YDJKDH7JCNLC6::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]The Many Saints of Newark (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/a2qkzecoxkky::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/2fw7ebwcnwbq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OTJHVSYTZSI6G::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Intrusion (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2swwndi69e1j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

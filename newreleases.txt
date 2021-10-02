@@ -62,6 +62,17 @@
 
 
 <item>
+<title>[COLORwhite]Adventures of a Mathematician (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/b9c0yeo308j3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3qtf6yenpuuh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/E2YYKCER45K64::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j2QwbzBQNEw0Wx8ijiCqDZv3TVP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Guilty (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3gpqqc4ypyuf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

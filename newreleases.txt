@@ -62,6 +62,17 @@
 
 
 <item>
+<title>[COLORwhite]Blush (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g4f4a3i1pezy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vl3y04eeh2k8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IS6AT7Y2ZBTWE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bbtOAuvEUVVUXU8zEfuRlhcsPLA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Diana: The Musical (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/iw5numn4h7ox::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

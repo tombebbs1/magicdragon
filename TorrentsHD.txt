@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]LEGO Star Wars Terrifying Tales (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yydtq1z22zwb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h88icq6izht5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AKEO2JSIITYXU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Secret Agent Dingledorf and His Trusty Dog Splat (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gcqqjwju3puc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

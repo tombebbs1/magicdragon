@@ -62,6 +62,17 @@
 
 
 <item>
+<title>[COLORwhite]Like Dogs (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/calkjaxrmtpm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8bpfct24ro0j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IWR63E2UPMKAC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vpeUwvcMmND0iJqiFr5S3rrZs8l.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Bend in the River (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yy9d4e2mru3q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -95,6 +95,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/EPJGFKK2GRJR4::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Rise of the Footsoldier: Origins (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/28q6llnqw78z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/msxg2nkwnr08::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZBKDEFCTKIDTE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t4luRQRweKqqonXzmp3Ya5O8JA7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Starling (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qg4q9xynp8ud::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

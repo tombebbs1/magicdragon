@@ -1,4 +1,28 @@
 <item>
+<title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E06[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/apbs5fplxzk7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3hltr46gbx7t::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j0lh7vyz8pc0::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4sc4pupyi8dk::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/o7jltlc8azz9::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcqV8XIAP6vhFFNW2ICV6a0qIJ2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Walking Dead SE11 E08[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c42e61ewhmdt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4FC3KA73GOMMI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Spitting Image (2021) S02 E01-E03[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nxysq87a369v::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

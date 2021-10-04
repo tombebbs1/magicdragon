@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]One Summer (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/amzaidpjdu1d::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/88d62d771639/One.Summer.2021.Hallmark.720p.HDTV.X264.Solar.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T5QXNGQWGP5HS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yRjSB2Uq3EwGn2ej0I8H78hWaCy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]White Girl Apokalypse (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/enep72w4fbjs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,18 @@
 </item>
 
 
+
+<item>
+<title>[COLORwhite]White Girl Apokalypse (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/enep72w4fbjs::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hxm6oy8b079j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JO354WVLDVAJK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjEwNjE2MjYtZTNlNy00YTJmLWI0MjctNGQxYTlhZDVhODlhXkEyXkFqcGdeQXVyNjE0OTg1Njk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Eating Cars (2021)[/COLOR]</title>
 <link>

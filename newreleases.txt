@@ -62,6 +62,17 @@
 
 
 <item>
+<title>[COLORwhite]Love Strikes Twice (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/26jfa803txr4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uneun3r8eg6t::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EISVSJDXDGU2Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSyJ9LgyRbinRP5NazWUcjBmCh5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Our Father (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nugeupqx5p6j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

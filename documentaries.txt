@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Tiger Mafia (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bdveul4xgfvp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BT5NJ64PIRYHY::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1sO8yd5nHH1VJUqVMWx2upzJID.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Heroes (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/izzfs5z5vvkh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

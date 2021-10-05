@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Chiptune Story (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0zvlpvdaoqfc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3WCEHFWB4D7BM::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mq2ckwJnTcCWjYp8QXQ3Ij3Rjid.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Watchmaker's Apprentice (2015)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qjl20lclrwlt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

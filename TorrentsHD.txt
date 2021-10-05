@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Monsters of War (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/xqjxgl8qch09::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e0a36c958633/Monsters_Of_War_New_2021_Full_Action_Movie_in_English.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e0a36c958633/Monsters_Of_War_New_2021_Full_Action_Movie_in_English.mp4://real-debrid.com/d/UL3JGT6ZQS4SG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dujOnX9lKRv47S2gbZ9MVTMoOmJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dark Web: Descent Into Hell (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xqjxgl8qch09::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

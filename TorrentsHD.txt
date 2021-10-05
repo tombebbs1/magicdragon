@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Mutation (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yjkkb8uc72jb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/86r7o10jj19l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5FW47QU6XWDJE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UglkBOS48b8LOZuSP8AH2XDUAT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Night House (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ixsz4fwaqkql::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

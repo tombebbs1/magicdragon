@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dave Chappelle: The Closer (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/xqjxgl8qch09::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xj5qhdkc5ify::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NEMVIY5AU5W54::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5Z9WAjH8ojyJIFDMj7B1Tb6I25.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Monsters of War (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/xqjxgl8qch09::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

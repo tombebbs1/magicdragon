@@ -34,6 +34,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Because of Charley (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4zw3vjls7wrw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/796e55be8ebe/Because.Of.Charley.2021.720p.WEBRip.x264.AAC-YTS.MX.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YE3XXM6TOFKG6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/98UKSUN99KL6h76f5k2OJI8Ri72.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Sunset on the River Styx (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wqdxjq4rqewy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1jjrofxossbw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BQY4SH5ABM7XY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gmhIgCkkV3HwJTJwpFXZkD5xiKU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Distancing Socially (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4mpvv7zargry::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yu67shabolq2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/L2LUSDJW6F5RC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPt28SYoykqhUYVBWB7Lhdg2MRj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Events Transpiring Before, During, and After a High School Basketball Game (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/hvdpv3dvxxvm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

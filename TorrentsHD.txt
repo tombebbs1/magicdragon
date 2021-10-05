@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Paradox Lost (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cg1x6lboks8c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/9n0vqr4qizw646::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BECT6L6TLLOCQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Ndm1REgzRBdujZNT6sBDtb3QhW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Heaven (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qy6iajwtkr4e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

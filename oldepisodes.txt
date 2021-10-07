@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]The Day of the Triffids (1981) RD Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/CQDMHGQ2SMW2E::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/F772AL3SVTCSG::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5RCUY2YM7EO3Y::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LNRASREO2EYP6::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/76Q7XZRVRAQCM::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/EP6WMKT4MHDKG::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pDGJW9qlHQwnhNhlj9gQReM4NVi.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Brassic (2019) Season 3[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qifghhg360zl::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

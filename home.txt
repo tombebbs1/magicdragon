@@ -45,7 +45,7 @@ channel>
 </channel>
 
 <channel>
-<name>[B][I][COLORwhite]Requested Movies[/B][/I][/COLOR]</name>
+<name>[B][I][COLORwhite]Magic Dragon Movie Picks[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/requestedmovies.txt</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

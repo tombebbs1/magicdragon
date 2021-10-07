@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]God's Not Dead: We The People (2021) HDCAM UPDATED 07/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/eqkvsgv8vobp::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f9b7bf79j8ss::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6FLJ2Z2GNXJOE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oQThklaVbI0rqn3WB5yyEw07fj.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Old Henry (2021) HDCAM UPDATED 04/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gr8dy9c39khb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

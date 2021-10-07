@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]You Only Live Once (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/d8acf0nz7v5h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/w763cjwse5u9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TVWWSPQUHIPG4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aGG64jGhc9t7yTnHoI7oi4Pq0R5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Blue Bayou (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kweaa98lnryy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/pkqz1wl4uvprzz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QSRNCJMILCQOE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]There's Someone Inside Your House (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xkcj3psja4u1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

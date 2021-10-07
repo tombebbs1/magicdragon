@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Blair Witch Project (1999)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4nyp5kyhfa1p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z61f98jr815j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/J4SU7V54N3BVQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9050VGrYjYrEjpOvDZVAngLbg1f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Sleeping Car (1990)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qvow88eyzo7k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

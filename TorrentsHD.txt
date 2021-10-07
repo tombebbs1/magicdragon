@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]If I Can’t Have Love, I Want Power (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zd8i65yybqrf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/a9038899190b/Halsey.If.I.Cant.Have.Love.I.Want.Power.2021.HMAX.WEB.H.264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O64H52PKG3TZA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glVOKhboA12EIkAbc17rMlBccJ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dogface: A Trap House Horror (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nzhgafx2qvco::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

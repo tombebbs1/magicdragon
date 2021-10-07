@@ -300,6 +300,18 @@ sublink:LISTSOURCE:https://1fichier.com/?dnzv4kkx9jxipntpniji::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]A Quiet Place Part II (2021) 4K[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tt8raezugi2b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jy4sn8rcj5u2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HXOAJ5TQG6X4Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2MK2KPKDYUDNO::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Shaun the Sheep Movie: Farmageddon (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:ff3dffe83c70f1737630705abf193efd4da2bebc&dn=A.Shaun.the.Sheep.Movie.Farmageddon.2019.2160p.UHD.BluRay.X265-IAMABLE&xl=13603553605&tr=http%3A%2F%2Ftracker.trackerfix.com:80/announce&tr=udp%3A%2F%2F9.rarbg.me:2750/announce&tr=udp%3A%2F%2F9.rarbg.to:2730/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

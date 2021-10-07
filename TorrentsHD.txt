@@ -45,7 +45,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/3S6R3MSRRF7GU::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]If I Can’t Have Love, I Want Power (2021)[/COLOR]</title>
+<title>[COLORwhite]If I Cant Have Love I Want Power (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zd8i65yybqrf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://userload.co/f/a9038899190b/Halsey.If.I.Cant.Have.Love.I.Want.Power.2021.HMAX.WEB.H.264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

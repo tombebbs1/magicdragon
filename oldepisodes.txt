@@ -1,14 +1,14 @@
 <item>
-<title>[B][COLORwhite]Brassic (2019) Season 3 Ep 01[/COLOR][/B]</title>
+<title>[B][COLORwhite]Brassic (2019) Season 3[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qifghhg360zl::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/fe2n2xgcx33h::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/xcaa7z5vgbl9::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/0ec3d37nvwjf::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/fqecg3s0bcby::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/n070g7fpbr52::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/iza4q0qn95tz::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/k3u25i0420vm::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zt3bhqc1wlfn::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xy6lx9q8r4sv::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/88opwcleiaiz::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kxkoz6dr1si7::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vdbf0sgm7n1a::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g6wp563zkldf::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jmolyp8qp07i::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sZVC91LBsMYMXPeD0hmOyQa54fp.jpg</thumbnail>
 <fanart></fanart>

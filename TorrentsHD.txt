@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Manor (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0zdv8pj1y1vn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pg7mqcyocmv4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RP23F3OMO3GLQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Qm70CJN5DofiLDCHiOlEeYFW1O.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]South of Heaven (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4u6mxytaqpwi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

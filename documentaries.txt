@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Justin Bieber: Our World (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4ogmycnuwjax::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/66RJBKO4TVCTA::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6ZEcx5JUf9f1N5rLzqRNNpOjpA.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]15 Minutes of Shame (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/d5e9rz2sh2xn::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

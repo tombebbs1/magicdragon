@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Muppets Haunted Mansion (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zthgs4cth713::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xzize3mfq1ls::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JEXTG5ZOXNADY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Old Henry (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gr8dy9c39khb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

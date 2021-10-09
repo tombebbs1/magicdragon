@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Madame X (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/43486f9593a3/Madame.X.2021.WEB.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TAEM6MNXWZYEW::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bEMX8HPFtw967ISVQ4EsARAVA23.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Justin Bieber: Our World (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4ogmycnuwjax::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

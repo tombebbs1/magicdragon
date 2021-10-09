@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]The Day of the Triffids (2009) RD Only[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://real-debrid.com/d/E2OS5VT3ZFPVK::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DHU47UG4HK3B6::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NkzdNNlvfwbkCuRcZvZBdtJdf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Spitting Image (2021) S02 E01-E04[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nxysq87a369v::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

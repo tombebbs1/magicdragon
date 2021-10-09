@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Christmas Collision (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x8ug0zg0rtip::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6a2wj4u3jf7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7W6W676NLPHHU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jaz7LlPq92tm4eCquZg1c3P68YL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Silent Hours (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3prd1fa8p48s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

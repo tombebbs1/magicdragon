@@ -61,13 +61,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]Vengeance is Mine (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/oxxr5219muq5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qwtsk8lxb29p::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TRIJSSZQM356W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hZdYq28RVg1O6LTsJcBHdLjg5pR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas Collision (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/x8ug0zg0rtip::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/6a2wj4u3jf7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/7W6W676NLPHHU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jaz7LlPq92tm4eCquZg1c3P68YL.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ueI0qboEJ7CiMcInewusmmRNoZ.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

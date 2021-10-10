@@ -60,6 +60,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Aileen Wuornos: American Boogeywoman (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/80nw7mxjwqqy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dh4rqb4r1rb5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U24ONHBNGJ5TI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dkBRzihXelz8CidEavwCatoDFyd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]South Beach Love (2021)[/COLOR]</title>
 <link>

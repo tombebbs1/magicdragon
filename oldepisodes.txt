@@ -1,4 +1,13 @@
 <item>
+<title>[B][COLORwhite]Fury Vs Wilder[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/0b6f19bc3352/Tyson.Fury.Vs.Deontay.Wilder.III.720p.50fps.ESPN.CiROC.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+</link>
+<thumbnail>https://cdn.mos.cms.futurecdn.net/6ai3AMpR3u3NWxKfTc959k.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The Walking Dead: World Beyond (2020) S02 E01-E03[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gdr4mpjifly8::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

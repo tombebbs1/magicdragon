@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Naughty Books (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nw1onuiyacgl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AWZ3OHMPRXRBI::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNmQzYWZjZjktZjE1My00MzAzLWJmNmUtODdhZGUzOTY4ZjM0XkEyXkFqcGdeQXVyMTE4MTEyMjY3._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Atom: A Love Affair (2016)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ocdj5e82rro3::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

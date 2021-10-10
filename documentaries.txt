@@ -43,6 +43,17 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+
+<item>
+<title>[COLORwhite]Oasis: Live in Manchester (2005)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3h9w0whanczq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LT3IVCRNYEUTU::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2bVKmfSKVL6LsBvv0A5OhNp64WU.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Madame X (2021)[/COLOR]</title>
 <link>

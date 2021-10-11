@@ -1,4 +1,19 @@
 <item>
+<title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E07[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/apbs5fplxzk7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3hltr46gbx7t::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j0lh7vyz8pc0::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4sc4pupyi8dk::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/o7jltlc8azz9::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/isq6ycgwimyj::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcqV8XIAP6vhFFNW2ICV6a0qIJ2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Fury Vs Wilder[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/0b6f19bc3352/Tyson.Fury.Vs.Deontay.Wilder.III.720p.50fps.ESPN.CiROC.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

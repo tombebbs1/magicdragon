@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E01[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/j8z465r24lir::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RIWNULAD4IVA6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E07[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

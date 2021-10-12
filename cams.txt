@@ -1,5 +1,16 @@
 
 <item>
+<title>[COLORwhite]Pleasure (2021) HDCAM UPDATED 12/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6tck3anfxeii::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7e0aa7afj46a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/sd8l1zhagadk::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z3tgSCR2J7dNOq3Dz3WidOPoqnY.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bergman Island (2021) HDCAM UPDATED 10/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mc6dv91adym9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

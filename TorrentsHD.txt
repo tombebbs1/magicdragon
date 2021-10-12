@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Envision (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/91jkob8ls14p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j33s62ztjz4n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SMSWSEG3MEL26::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fkYzmH9avVBBdWCk92EllPeSG3O.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Dwellers (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/x1zem17mtyec::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

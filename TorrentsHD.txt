@@ -34,6 +34,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Cleaner (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cd5gwfq0kwxa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/iftuvc6plmr4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VQ7RPYFFC7Y7O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vsLKVgUhQZS3o9hcZd3RLbfkdUb.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]They Who Surround Us (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gulj4xdox24u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

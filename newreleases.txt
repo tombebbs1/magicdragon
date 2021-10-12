@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]On the Fringe of Wild (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/pt78egtxww9x::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5a41vqmwlu6q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U3J26NX2SAE5Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5H94kXl5hkVZeItyD6t3v4BP4XR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Oh Crappy Day (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/85i0oyy8cf15::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

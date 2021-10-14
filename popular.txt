@@ -71,6 +71,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/2NPYDOHXCMODU::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Copshop (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8wj5x0pzl3pc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/23ht4b3n8p1k::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FM4GMUPTSIJH4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Se3AIepFRZ4VUaaDosADs8WMX5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Manor (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0zdv8pj1y1vn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

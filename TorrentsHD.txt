@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Amityville Cult (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8gsqc2czkt77::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/nod5f74xy384::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CMAXWJ24YJBK4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQ7Sncm72MD9QdOPxFSqIoZMGkX.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Cleveland Kidnappings (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/8wj5x0pzl3pc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Four of Us (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/37qpvvt5ub0w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/6cd77aa0befc/The_Four_of_Us_2021_DUBBED_WEBRip_x264-ION10.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IL2XYVXQNW6UW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tsrJNOy7NaoA4wHtA2M90WXAiVe.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Forgotten Battle (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dy54n2c9udp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

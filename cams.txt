@@ -1,5 +1,16 @@
 
 <item>
+<title>[COLORwhite]Happy Family 2 (2021) HDCAM UPDATED 18/10[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/7ugvue646z9p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j9132f4wwipc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bo49bjxm6x9k::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrCH6JgtDB8tyyGJREGAfHh9fJs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Last Duel (2021) HDCAM UPDATED 15/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7ugvue646z9p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -15,6 +15,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dune (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vf8zdk4cvjde::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wd67cs4fszpr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6Q6LEE4VHNCES::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S56MF6XA1jIzD9I2ejMjd6aNvN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Halloween Kills (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/i6qddriudqyy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

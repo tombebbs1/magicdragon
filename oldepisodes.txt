@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E02[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7ty6q8da87jp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GYXQSYEPQGXXK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The Walking Dead: World Beyond (2020) S02 E01-E04[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gdr4mpjifly8::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

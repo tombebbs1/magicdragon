@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Christmas on the Carousel (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cg72urn3zkhx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/m9sp650jleim::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/FWT6TRIZORAAK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gs99UXoQnjsbJlNxBQRfBVrPSNq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Aiyai Wrathful Soul (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rhq5msobzaeu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

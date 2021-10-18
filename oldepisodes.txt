@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E08[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/apbs5fplxzk7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3hltr46gbx7t::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j0lh7vyz8pc0::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4sc4pupyi8dk::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/o7jltlc8azz9::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/isq6ycgwimyj::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f6jg5o6auxad::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcqV8XIAP6vhFFNW2ICV6a0qIJ2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E01[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/j8z465r24lir::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -8,20 +24,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/RIWNULAD4IVA6::LISTNAME:[COLORgold]
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E07[/COLOR][/B]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/apbs5fplxzk7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/3hltr46gbx7t::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/j0lh7vyz8pc0::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/4sc4pupyi8dk::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/o7jltlc8azz9::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/isq6ycgwimyj::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcqV8XIAP6vhFFNW2ICV6a0qIJ2.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[B][COLORwhite]Fury Vs Wilder[/COLOR][/B]</title>

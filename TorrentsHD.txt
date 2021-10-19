@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wedding Trip (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/exjyq93a29ji::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cl55fm1ch6ga::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZVRSG5VOAU7DK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u1mZOTAZl40KL464io8DYMTbbUl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Signed, Sealed Delivered The Vows We Have Made (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/92i9n0jcq6rl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

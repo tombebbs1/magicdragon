@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Thing Inside Us (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/g4c06ic2w3cj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j1s97f9vboxx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PODAZPF4TDRNY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://media.flickeringmyth.com/q:intelligent/retina:true/webp:true/w:362/url:https://cdn.flickeringmyth.com/wp-content/uploads/2021/10/The-Thing-Inside-Us-1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Pretenders (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/g4c06ic2w3cj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

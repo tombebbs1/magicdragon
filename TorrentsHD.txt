@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Last Testament (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/2kgrd3xuni0i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/abp91uyghupd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LIBQCTOMKB2O6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/9fdf6d1e25f469bb0da1fcbaa96f8746.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Fear PHarm 2 (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2kgrd3xuni0i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

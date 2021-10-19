@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Pretenders (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g4c06ic2w3cj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lgh18kt8jnw8::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZT6SX3KZULNIE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vLhu213cVS8LSym61M2CalvqKWK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Testament (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/2kgrd3xuni0i::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

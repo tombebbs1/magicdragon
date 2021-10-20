@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]White Sky (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0bfbxvec9mgf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i32px53qu3f2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WANQH253KYQ54::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rtqCQdGzOpXNUe28VAsv3HAD0NB.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Coppelia (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/pgpag2hp9nz1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

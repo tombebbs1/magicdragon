@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Shark Huntress (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9m6s8ok8xp7b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f5xxy6cuwjmd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7HLZENLT4QLSU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipNNrgryq4jNxVrhwpIf56Ft5VR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love in a Bottle (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/64qe7yzuza1r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

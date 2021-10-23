@@ -32,16 +32,7 @@ sublink:LISTSOURCE:https://upstream.to/g6k04s5fqlsp::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Happy Family 2 (2021) HDCAM UPDATED 18/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/v3lfc2fhk3ly::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/j9132f4wwipc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/bo49bjxm6x9k::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrCH6JgtDB8tyyGJREGAfHh9fJs.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Last Duel (2021) HDCAM UPDATED 15/10[/COLOR]</title>
@@ -65,16 +56,7 @@ sublink:LISTSOURCE:https://upstream.to/sd8l1zhagadk::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Bergman Island (2021) HDCAM UPDATED 10/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/mc6dv91adym9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/c620d13ba6b5/Bergman_Island_2021_HDCAM_850MB_c1nem4_x264-SUNSCREEN.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HGWYVFYIRQRRQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Venom: Let There Be Carnage (2021) HDTS UPDATED 08/10[/COLOR]</title>

@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Happy Family 2 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/v3lfc2fhk3ly::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bg5by7cu7m94::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GZJH2WBCSCZDG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrCH6JgtDB8tyyGJREGAfHh9fJs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bergman Island (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mc6dv91adym9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ll47p0ukv4mz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CMCQHW6F6WXVQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Don't Let Her In (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xwlwsle0v1wb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sold Out (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rgl64pyizw2p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rc3f3gskn94b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SHB2HUHHE7GUQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pdKjMyctQ4YESvRyyeYCyH41qID.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Lair (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yu2lx75hx754::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

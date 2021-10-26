@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Time Now (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/60zzz8zolclh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/k17pe9gkgcru::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4RQO2N3CWLNSM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0DQB6PMeN6DwKekrxUjgydSSNd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Attached Paranormal (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7e2ch97h70e6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

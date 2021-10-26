@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lair (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yu2lx75hx754::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/m5wt23d75hho::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DLU3KHBD447DK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIainsxPJ2uv3Dfltm6BIkvrxEo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Time Now (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/60zzz8zolclh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

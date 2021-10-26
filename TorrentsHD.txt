@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Attached Paranormal (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7e2ch97h70e6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/s3bwj72j15r7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CZONXE2B3Q5CE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/juBY3D3KC9qa2Z1HVELO1a8oAPl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Language Lessons (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/xol6gmbqca27::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

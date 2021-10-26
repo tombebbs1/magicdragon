@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Saving Sloane (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n54y4yxc2wlw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/k9e1fmmbcq32::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XWPNEU2Z4RVT4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mSlOwJ87IUhrGl85gQg3pYWv1wS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Santa Stakeout (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4qae5087v8nx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

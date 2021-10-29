@@ -1,5 +1,16 @@
 
 <item>
+<title>[COLORwhite]Antlers (2021) HDCAM UPDATED 18/10[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6449qa9r7uja::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mq2vh1x16trj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rmn9xwfuz26o::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klsDRXM68wV7vZTTaAOuu62VNA1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ron's Gone Wrong (2021) HDCAM UPDATED 18/10[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m0ly8wxd6qw2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

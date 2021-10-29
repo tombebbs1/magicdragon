@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Later Days (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/heah2tgdjyar::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/idcmd5ik5ym7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3I6ZYCFSWYAQM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oYoyAztRYi0G9KT361qrCJkeAzU.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Planet Dune (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/orcfub9a4vqw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/61rwl72zonup::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ALHZAQV3OVWEO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYlnNSlyCW43tp1gZJaQ74fuK40.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Horror Noire (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2mnugmabmr2f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

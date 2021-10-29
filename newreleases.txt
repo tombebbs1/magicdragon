@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Snakehead (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/m0nwl7apg3tg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lexm8c0s7bso::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UR5LFK36T4SSW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Later Days (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/heah2tgdjyar::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

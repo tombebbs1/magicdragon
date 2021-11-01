@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Lost Outlaw (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9mqnpre8g20u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qrco5od9p031::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XJYA3QBT7BWOQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ixuKlHqoirpy8qnG6sBH9p2XrH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Decrypted (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vrkkywjsu4uz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

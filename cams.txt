@@ -21,16 +21,7 @@ sublink:LISTSOURCE:https://upstream.to/2iqmzaqic315::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]13 Minutes (2021) HDCAM UPDATED 31/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/xmdzs6i2t5fc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/568566014698/13.Minutes.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/7a9b4abf2c1e/13.Minutes.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6IVRkhRno0Y6Zu63VI7THNMiMZG.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]A Mouthful of Air (2021) HDCAM UPDATED 31/10[/COLOR]</title>

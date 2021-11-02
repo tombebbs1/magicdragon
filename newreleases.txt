@@ -61,13 +61,24 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Spore (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ru7fkj9kk95o::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zk5tx2care3o::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T4GZ2XZQQ6WP6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ff2OvETYloaYieFCFivgGXo6Xsx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Isolation (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jc5lm55v902h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/80qhjalrlyjr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/5DDQOYYFYZLGW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MCCGPD7hUamQ32zmwu604Cfjlh.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nq00RSZRC6AK1g6ZcQ6N5S6nJ6K.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

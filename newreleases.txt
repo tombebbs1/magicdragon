@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Bigfoot Famous (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/vgwr51zu1amx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yd3oerqxrg2n::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4XWRFLDNARZGS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/141Mj7agibo9jmbpKqw3tHppIoa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Covid Killer (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vgwr51zu1amx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

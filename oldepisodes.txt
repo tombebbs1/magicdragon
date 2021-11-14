@@ -1,4 +1,57 @@
 <item>
+<title>[B][COLORwhite]Spitting Image (2021) S02 E01-E09[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nxysq87a369v::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/80w07ygw76ft::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/387ad4zz9cxs::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fvxdlpo7u6xw::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9b2rstjluhoq::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kf1yymke56ue::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/akbi7rlal2bl::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mgrzvj1u29t6::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yzsudzyjpga4::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cON9IlBTdLcJcFqbUvOpJ9aUt5j.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]The Walking Dead: World Beyond (2020) S02 E01-E08[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gdr4mpjifly8::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/n00ektqbxpxw::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ccl53l0y5h3g::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mr5sc8hhf6x2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/goprvg6v5y4g::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tx3u52a7p2pd::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5b7gwm9mgfcp::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tiy1cae55i98::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E06[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wvvqd81q6j47::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VO3PKP3OLGYCM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E05[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4mdjmi50rrnd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/S7DEFA5VODL3Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Y: The Last Man (2021) S01 E01-E10[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zncl30slni6n::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
@@ -16,21 +69,7 @@ sublink:LISTSOURCE:https://upstream.to/x0um7wwua48v::LISTNAME:[COLORwhite]Episod
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLORwhite]Spitting Image (2021) S02 E01-E08[/COLOR][/B]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/nxysq87a369v::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/80w07ygw76ft::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/387ad4zz9cxs::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/fvxdlpo7u6xw::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/9b2rstjluhoq::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/kf1yymke56ue::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/akbi7rlal2bl::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/mgrzvj1u29t6::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cON9IlBTdLcJcFqbUvOpJ9aUt5j.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E04[/COLOR][/B]</title>
@@ -42,19 +81,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WOTOHI4FHAB7S::LISTNAME:[COLORgold]
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLORwhite]The Walking Dead: World Beyond (2020) S02 E01-E06[/COLOR][/B]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/gdr4mpjifly8::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/n00ektqbxpxw::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ccl53l0y5h3g::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/mr5sc8hhf6x2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/goprvg6v5y4g::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tx3u52a7p2pd::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 
 <item>

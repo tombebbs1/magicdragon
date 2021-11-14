@@ -141,16 +141,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6FLJ2Z2GNXJOE::LISTNAME:[COLORgold]
 
 
 
-<item>
-<title>[COLORwhite]No Time to Die (2021) HDCAM UPDATED 01/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/32g6lnmngapr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/dvyurf0is5av::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/zpzrwpcohmbd::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqWaeh21e4ZgHjwpULZVHCGIq9X.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 
@@ -175,16 +166,7 @@ sublink:LISTSOURCE:https://upstream.to/px9bzpx2sht8::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Shang-Chi and the Legend of the Ten Rings (2021) HDCAM UPDATED 03/09[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/6zut4my6d51s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/859b026hvice::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/xqkllcqe261n::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNNZUUYZ3tPUUPlmQMLrxAv5QoV.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Death Rider in the House of Vampires (2021) HDCAM UPDATED 29/08[/COLOR]</title>

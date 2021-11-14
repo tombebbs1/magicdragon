@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Shang-Chi and the Legend of the Ten Rings (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6zut4my6d51s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/epn180ht4hnl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MYLAUAUECZFQC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CURVNLTAJJZTY::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNNZUUYZ3tPUUPlmQMLrxAv5QoV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]No Time to Die (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/32g6lnmngapr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

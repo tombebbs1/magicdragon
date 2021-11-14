@@ -15,6 +15,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]No Time to Die (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/32g6lnmngapr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jg9nn2c8do2r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RGGMB7BWNWPGU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X7IBICPPLBASG::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqWaeh21e4ZgHjwpULZVHCGIq9X.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Finch (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bb2to85h3dfh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

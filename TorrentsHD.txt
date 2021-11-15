@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Book of Vision (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0yop4q3gwvsc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/whgi1uyvt6mc::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IJSI32QY2IZBU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wK3utfBLqkKV7rS0tssOw8xwZvr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Pebble and the Boy (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/gej6pokk7y3n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Legend of Jack and Jill (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jf7i27z96l9m::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/9qjm83xjf1wt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/duo4mzpfa47m::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1EZ3EAxPxCZbZnj8s32fqW8Z4D.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Book of Vision (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0yop4q3gwvsc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

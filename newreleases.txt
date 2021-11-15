@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Repeat (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tl4c2sztvbos::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/sr4jka2n6d64::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/B5H3NZRGZEGZI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wK8yopOXdEbprTKwr6ip9f7PGhu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Adele One Night Only (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/ew60wfh3jtcx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

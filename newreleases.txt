@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Pebble and the Boy (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gej6pokk7y3n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/b2y25gn17syr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VNICRPSHXCXB6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwGhln7PlS8yf9kVdYUmzZB5Txn.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Venom: Let There Be Carnage (2021) Watermarked HD 14/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7r2p00vv0emm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

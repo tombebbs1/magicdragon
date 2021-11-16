@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Don't Say Its Name (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ps5yf7y4tjwj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/or8ew6pyz2vr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XXQDDYJ3L4OCU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOWq3zhuZ189abx3YF6Klb00yFT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Zeme (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ruymqhau7p50::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

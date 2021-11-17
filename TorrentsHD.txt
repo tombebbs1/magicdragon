@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Madison Baker Was Here (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/f7aeku73nwbd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/qlrzr8ngare3xo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6YK43FLMPWFOC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7nBYvoHFos7dRbFEEBaGzqOww1f.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Noahs Shark (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/c57anvqa0eg1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

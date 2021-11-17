@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Noah’s Shark (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/c57anvqa0eg1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/pkqx3rw9agn09l1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XJ5WM4ZK345AI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xZmsDsgDQl9tRPZAIdt69DVIJ9w.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Snowed In for Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/034rtqx8vsz7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

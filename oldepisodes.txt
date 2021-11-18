@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]Crime (2021)[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/4055ab3e37d4/Crime.S01E01.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/b8a7573926c1/Crime.S01E02.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/7936a8baf458/Crime.S01E03.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/760fe56df619/Crime.S01E04.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/705785a4cbe9/Crime.S01E05.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/8c256d47fbf5/Crime.S01E06.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+</link>
+<thumbnail>https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-britbox-crime-instant-expert-hero.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Tiger King 2 (2021)[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/btn6ay1tqqks::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

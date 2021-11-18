@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Blue Moon Ball (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/9dxio7t3xbcd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/7r61lqdmin9xnq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UX5S3UY5TRAAU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tAOZRy8RQPzKG7pykFb2gNn6sWK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Divided We Fall (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9dxio7t3xbcd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

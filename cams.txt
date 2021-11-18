@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]King Richard (2021) HDCAM UPDATED 18/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lz00qd92xyl9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0on9k7379awq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/U4MU27ZZHB6MM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ghostbusters: Afterlife (2021) HDCAM UPDATED 18/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6rzamr5bighx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Zeros and Ones (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6sfjwxtsdgt3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h1b9nkcjptk5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SMMRQBYKTNPPA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6balsDWCFMHPaPT6rFoBpNjR6z.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Bruised (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9rte7pqw3hnj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/94b0ce4u5pm2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QA65PAODLX7WS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVoWypyK7NJIDZDk3WjbOXLMBMG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Fisher (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nrmexu7gcko4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z0kh8q9aw8bf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P5WAQ2TZHJHKQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1TW74g1D5Ktvv3fRo866fvysSMN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Blue Moon Ball (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/9dxio7t3xbcd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

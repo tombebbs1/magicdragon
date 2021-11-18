@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Princess Switch 3: Romancing the Star (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ty7jipfw6vv0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pr18k1e8857b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CF5XTRZ4X2TC4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykcL3gNhckBgm54f1y0r97k8dJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Night in Soho (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7p23khfav84w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,12 +44,6 @@ sublink:LISTSOURCE:https://upstream.to/7zuujtknze9n::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
-
-
 <item>
 <title>[COLORwhite]A Mouthful of Air (2021) HDCAM UPDATED 31/10[/COLOR]</title>
 <link>
@@ -60,8 +54,6 @@ sublink:LISTSOURCE:https://userload.co/f/09dcd5526301/A.Mouthful.of.Air.2021.HDC
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a8hE4EcFfIjX4rmVif9IIgarOD7.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
 
 <item>
 <title>[COLORwhite]Antlers (2021) HDCAM UPDATED 29/10[/COLOR]</title>
@@ -107,8 +99,6 @@ sublink:LISTSOURCE:https://upstream.to/g6k04s5fqlsp::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]The Last Duel (2021) HDCAM UPDATED 15/10[/COLOR]</title>
 <link>
@@ -131,10 +121,6 @@ sublink:LISTSOURCE:https://upstream.to/sd8l1zhagadk::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[COLORwhite]God's Not Dead: We The People (2021) HDCAM UPDATED 07/10[/COLOR]</title>
 <link>
@@ -145,23 +131,6 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6FLJ2Z2GNXJOE::LISTNAME:[COLORgold]
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oQThklaVbI0rqn3WB5yyEw07fj.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]After We Fell (2021) HDCAM UPDATED 03/09[/COLOR]</title>
@@ -174,8 +143,6 @@ sublink:LISTSOURCE:https://upstream.to/px9bzpx2sht8::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Death Rider in the House of Vampires (2021) HDCAM UPDATED 29/08[/COLOR]</title>
 <link>
@@ -186,12 +153,6 @@ sublink:LISTSOURCE:https://upstream.to/929geeyyfg4n::LISTNAME:[COLORgold]HD REAL
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/njtipHinPsYO7CXhwcNXWUYz6VC.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
 
 <item>
 <title>[COLORwhite]Off the Rails (2021) HDCAM UPDATED 26/07[/COLOR]</title>

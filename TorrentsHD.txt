@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Tick Tick Boom (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/0mue2xl15b06::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8l0cmmqzsvvz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XQAE3DBANKUXK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j03WWYfHXWjIpY1B5V2i1Lczcor.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Pizzagate Massacre (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rascnizud12v::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

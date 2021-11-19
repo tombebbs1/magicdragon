@@ -105,6 +105,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/QA65PAODLX7WS::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Heart of Champions (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wll7a522c74q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/73d29dtglcwx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A2R7A5TBGKZRW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sUT7f5W72cTeuXvd1NiAvaAAc3C.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Princess Switch 3: Romancing the Star (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ty7jipfw6vv0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

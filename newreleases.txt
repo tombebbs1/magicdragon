@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Heart of Champions (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wll7a522c74q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/73d29dtglcwx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/A2R7A5TBGKZRW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sUT7f5W72cTeuXvd1NiAvaAAc3C.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Freeland (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ti3um9w54qt7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yzipwj4a7ol9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BJYBMPWGKPW7Q::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ths3Io125YyEPlS6QsF8QLlruS4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Jenkins Family Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9yffuxk99aoz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/b137af79967d/The.Jenkins.Family.Christmas.2021.HDRip.AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PKGWXAQ47TW2O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/9ba03822ce4ea58a64c2334e5b916017.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Princess Switch 3: Romancing the Star (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ty7jipfw6vv0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

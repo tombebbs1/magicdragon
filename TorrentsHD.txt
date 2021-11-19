@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Hide and Seek (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/p1cmk0phtp0n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dk5gitsotydl::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WGQT6SSETJHHU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8fpDuBOCaY32HkQ2dFrym8ArFC4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]She Paradise (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/01jy46sdci5f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

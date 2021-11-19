@@ -27,6 +27,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/X7IBICPPLBASG::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]King Richard (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lz00qd92xyl9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/56j0ctnvpbfb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UBLCJQFBYFVLW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+ublink:LISTSOURCE:https://real-debrid.com/d/U4MU27ZZHB6MM::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Shang-Chi and the Legend of the Ten Rings (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6zut4my6d51s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

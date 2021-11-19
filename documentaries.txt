@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Procession (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/b558j6g8rr67::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/aq8u23ehcc4z::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1t1bf7upwyEDq0OGpz0DvNhk7Ki.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Jagged (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/2037823229f2/Jagged.2021.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

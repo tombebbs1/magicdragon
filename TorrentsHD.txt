@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Elevator (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yjezz7z77ntr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.sx/f/qlrod0goun6368::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T6W5OMCIWQPRC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fWJGHxt2LtF0N8zYY7Bwaz1QME9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Feast (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/9f60cth3ssk1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

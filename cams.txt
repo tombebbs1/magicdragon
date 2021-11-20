@@ -1,4 +1,13 @@
-
+<item>
+<title>[COLORwhite]India Sweets and Spices (2021) HDCAM UPDATED 20/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8bq9eg4a7yd1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/bd982e2bdc94/India.Sweets.and.Spices.2021.720p.HDCAM-C1NEM4.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/acc181285619/India.Sweets.and.Spices.2021.720p.HDCAM-C1NEM4.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o3z2K0NuioCygE89dbacakWW6Q2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]House of Gucci (2021) HDCAM UPDATED 20/11[/COLOR]</title>

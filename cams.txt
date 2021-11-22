@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Silent Night (2021) Watermarked HD 22/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yl2yulpv8oqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yhmctbloc6qy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/KXUKXBD3GOX4K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lqB2Vy6WwJdInxggw8tZbn6zJr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]India Sweets and Spices (2021) HDCAM UPDATED 20/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8bq9eg4a7yd1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

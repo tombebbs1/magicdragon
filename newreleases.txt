@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Black Friday (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1ucjba8bqqtf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/84c1a7a25dbc/Black.Friday.2021.720p.WEBRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/64JYJLW4HUSQO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VOAnadaVtFp1m3QGet4QWU5dAT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Skateshop (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/q1k3cwuat27t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

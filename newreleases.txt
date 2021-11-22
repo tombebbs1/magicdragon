@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Fixed (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/y0dy0qb4pxia::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/b4a32t94cnp1::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/STTNOX5AV4N5U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1sCaIV2MIu2QeUZybsGoVRpoQa.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Black Friday (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/1ucjba8bqqtf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

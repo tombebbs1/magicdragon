@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Autumn Road (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ppp34ygg7m1p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ahai1g2cipi0::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AZOSJJJ5M4Z5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Boiling Point (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kuu0m12lah4u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hq07pl4m295c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3CWXBXA22KJNG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Welcome to the Show (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ylm33k01cjpo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

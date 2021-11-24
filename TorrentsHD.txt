@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Shuroo Process (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9y83bn16vssn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/d66mjn7xy70b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YUDOSIONUVZW2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4oSkmjwU3jWphAez31JOhPjUOuu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Humans (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/24zhbinkfvxb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

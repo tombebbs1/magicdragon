@@ -89,7 +89,7 @@ sublink:LISTSOURCE:https://upstream.to/prfbwwp8ro93::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://userload.co/f/3d87ca3f6f87/Ashley.Jones.Is.Perfectly.Normal.2021.HDRip.XviD.AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/ZHWTGYCIE5BEW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/48gKG0oMvsbXnxzR3WUv7yMcKAv.jpg</thumbnail>
+<thumbnail>https://picimg.net/841df7308af36000ca032e9c6711e2ae.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

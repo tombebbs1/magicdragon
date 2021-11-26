@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Resident Evil: Welcome to Raccoon City (2021) Watermarked HD 26/11[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/95hbqzrfjuvc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/84gn7x791twa::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/x7su8bazhpbm::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIELpX14PEU94ClrexFetVojO35.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Silent Night (2021) Watermarked HD 22/11[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/yl2yulpv8oqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

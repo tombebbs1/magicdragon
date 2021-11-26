@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Clerk (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/b5g5osl3r3b7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/P5P44VXQ3OHZ2::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDzkYcuG3F540M5nu4y7j5catGu.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Cusp (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7qob6mnfmw7a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

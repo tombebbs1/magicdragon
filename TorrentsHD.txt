@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Nine Kittens of Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/hgdgg55qlmix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/zp043k4ei0ee8z::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/zp043k4ei0ee8z::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrY2rneJjRjjFzOm531s6f1sy6G.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas in the Pines (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/d6ljiylncr0c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Christmas vs. The Walters (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/obn6v0qunsz8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vo5ao2l4ap8j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CXKEK3BB5ZISK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhiRycyYUHuhVXVFXjcGtQQHCOh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Castle for Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qs6o88gezb0u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

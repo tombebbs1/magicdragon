@@ -61,59 +61,17 @@
 </item>
 
 <item>
-<title>[COLORwhite]Making Spirits Bright (2021)[/COLOR]</title>
+<title>[COLORwhite]Dirty Little Deeds (2021)[/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://upstream.to/skew5opul1tx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/imqsimlgbdtk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/YBXRTDCVNZBL4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/i1qc50zmkulm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/762ac3324e3f/Dirty.Little.Deeds.2021.WEB.h264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/762ac3324e3f/Dirty.Little.Deeds.2021.WEB.h264-RBB.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfOmrNotL9XeDU2NzgeqmvKl2NE.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AdHccomEItTEOUDS6n7gKJDr2lr.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]5 More Sleeps til Christmas[/COLOR]</title>
-<link>
-ublink:LISTSOURCE:https://upstream.to/xmb2e0yrj3aj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/nuer9w3uyzbx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/GVVYQWONLTTYC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kG9hsI7WwUzuWYHZksDquWGekOC.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Trolls Holiday in Harmony (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/xmb2e0yrj3aj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/4zzbaqtyi2tt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HRFB5TMB562VC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xl0jqhLC8BwtZT6pXGgKwSygQ4u.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Christmas CEO (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/5hjovu0cfx2e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/eqvkyk45wu5j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/ZB67UMJ42T4J2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sEr64YRNev9EW7YIyUqpcxK8Z9T.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Christmas in Tune (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/sr28sft52v8k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/7hy2guas6j76::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4NYRYX43VBNNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uXYN19Zfum1S1HzZq90zAOeWg1.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Sinister Switch (2021)[/COLOR]</title>
@@ -126,16 +84,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/SGFD4FCTRJ2RY::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Madagascar: A Little Wild Holiday Goose Chase (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/2qe74nnu0bfv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tbc1i9s2gowr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/NBWCU7HB7GYSE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vwYx8HHQFlKFVK3Hs8U0Au6nKGa.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Pups Alone (2021)[/COLOR]</title>
@@ -148,49 +97,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/Q6HQX4GHDAXZE::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Nine Kittens of Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/hgdgg55qlmix::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.bz/f/zp043k4ei0ee8z::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.bz/f/zp043k4ei0ee8z::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gGI5PXdfgwvj3S7J9hLE6Acsfy6.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]Christmas in the Pines (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/d6ljiylncr0c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/1fd578780618/Christmas.In.The.Pines.2021.WEB.h264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/7ECG2PXILC6SK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrY2rneJjRjjFzOm531s6f1sy6G.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]Christmas vs. The Walters (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/obn6v0qunsz8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/vo5ao2l4ap8j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/CXKEK3BB5ZISK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhiRycyYUHuhVXVFXjcGtQQHCOh.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]A Castle for Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/qs6o88gezb0u::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/7q3xpijmpfos::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/SMS6VSF7GMNRE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bTSA3B7Ytw7t3ghchFNN2umVebM.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]An Intrusion (2021)[/COLOR]</title>
@@ -225,16 +132,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WL7XRHYJMQYXW::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]A Snowy Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/k5mcw1t1ieg2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/6972a0274759/A.Snowy.Christmas.2021.UpTv.720p.WEB.X264.Solar.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/TKAE2GI6AQPOE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eK0LoNJCHGbRlUpsAE4kAGDS84Y.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Matchmaker (2021)[/COLOR]</title>
@@ -280,38 +178,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/MJIQ7CIXQLBM2::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Every Time a Bell Rings (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/j74lxi96it10::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/b558159a997c/Every.Time.A.Bell.Rings.2021.WEB.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/POHPJXS2J3M5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oONJjxMXeWJehLYR6m35POcxjuv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]8-Bit Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/05r87js1diy3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://mixdrop.bz/f/o7rm7l1vtov4qp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/4IGFKDU7LXC74::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wlh2wY2yC2SkwAdjcMRH4oiw04V.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[COLORwhite]A Boy Called Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/sgcvnzxg5s8y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/6d97jhwhmcs2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/I4OYDVLH5T5TE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1sRejtiHOZGggZd9RcmdqbapLM5.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]The Shuroo Process (2021)[/COLOR]</title>
@@ -335,16 +202,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/RAFWGTXKJUBF6::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas on 5th Avenue (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/ed9qu4d94ckv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/566f31ff74bc/Christmas.on.5th.Avenue.2021.UpTv.720p.HDTV.X264.Solar.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/FURXI3FXCJVFC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pJE4lG23q6xX1MrxUQtqMXyI46f.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Nitram (2021)[/COLOR]</title>
@@ -357,16 +215,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/4ZRP7P7LCQNJQ::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Mistletoe & Molly (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/mo4kg5qr3y0z::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/0a1f6a4b4415/Mistletoe.And.Molly.2021.UpTv.HDTV.H264.RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/IQZNZSSNR26QC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3vPfFJ1sdXl0hzVEGS7xmt99Ldq.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]My Fiona (2021)[/COLOR]</title>
@@ -459,16 +308,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/7WKK6NCFV6DTY::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Silent Night (2021) Watermarked HD 22/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/yl2yulpv8oqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/yhmctbloc6qy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/KXUKXBD3GOX4K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lqB2Vy6WwJdInxggw8tZbn6zJr.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Fixed (2021)[/COLOR]</title>
@@ -626,27 +466,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/BJYBMPWGKPW7Q::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Jenkins Family Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/9yffuxk99aoz::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/b137af79967d/The.Jenkins.Family.Christmas.2021.HDRip.AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/PKGWXAQ47TW2O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://picimg.net/9ba03822ce4ea58a64c2334e5b916017.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
-<item>
-<title>[COLORwhite]The Princess Switch 3: Romancing the Star (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/ty7jipfw6vv0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/pr18k1e8857b::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/CF5XTRZ4X2TC4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykcL3gNhckBgm54f1y0r97k8dJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
 
 <item>
 <title>[COLORwhite]Last Night in Soho (2021)[/COLOR]</title>
@@ -747,16 +567,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/XJ5WM4ZK345AI::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Snowed In for Christmas (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/034rtqx8vsz7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://userload.co/f/31acc2c2d53f/Snowed.In.For.Christmas.2021.UpTv.720p.HDTV.Solar-KsC.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/YK2ASXONBBJAS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f3hKZBbf7K5tCqsgWKs5sk1r8Cz.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Introducing Jodea (2021)[/COLOR]</title>
@@ -780,16 +591,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/D6BM4EFJTY6IK::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Ace & the Christmas Miracle (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/7khxvsgqigl6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/e6kedyqrc0kj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/F4ZBYLWCGXPQC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwlKSNsZknpXaaDP6Jr18N7NLiH.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Don't Say Its Name (2021)[/COLOR]</title>
@@ -1431,16 +1233,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/XWPNEU2Z4RVT4::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]The Santa Stakeout (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/4qae5087v8nx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/qo1z2tb951lz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/Q7G32CA44XPGA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7H4cvUmGC4dQ60ViOrELatrrFW.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Women is Losers (2021)[/COLOR]</title>
@@ -1751,16 +1544,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/O757EL4YGQ3X6::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas on the Carousel (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/cg72urn3zkhx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/m9sp650jleim::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/FWT6TRIZORAAK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gs99UXoQnjsbJlNxBQRfBVrPSNq.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Aiyai Wrathful Soul (2020)[/COLOR]</title>
@@ -2192,16 +1976,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TRIJSSZQM356W::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas Collision (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/x8ug0zg0rtip::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/6a2wj4u3jf7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/7W6W676NLPHHU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ueI0qboEJ7CiMcInewusmmRNoZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]Silent Hours (2021)[/COLOR]</title>
@@ -2566,16 +2341,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TR5P6P7LIMYZE::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Christmas Freak (2021)[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/0j1yz29cvqk4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/xvr86504ylu2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/CNSH3IW5GJVRU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tSmMN2ELoqaKRYltVjtXckuql0I.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLORwhite]The Amityville Moon (2021)[/COLOR]</title>

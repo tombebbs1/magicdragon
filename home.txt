@@ -69,6 +69,14 @@ channel>
 </channel>
 
 <channel>
+<name>[B][I][COLORgreenyellow]Christmas 2021[/B][/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2019.txt</externallink>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][I][COLORblue]Cams/HDTS Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>

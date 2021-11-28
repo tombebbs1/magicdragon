@@ -43,7 +43,7 @@
 </item>
 
 <item>
-<title>[B][COLORred]Christmas Movies Updated 2019[/COLOR][/B]</title>
+<title>[B][COLORred]Christmas Movies Updated 2021[/COLOR][/B]</title>
 <premium>True</premium>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2019.txt</externallink>

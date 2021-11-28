@@ -61,6 +61,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Christmas CEO (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/5hjovu0cfx2e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/eqvkyk45wu5j::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZB67UMJ42T4J2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sEr64YRNev9EW7YIyUqpcxK8Z9T.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Christmas in Tune (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sr28sft52v8k::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7hy2guas6j76::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4NYRYX43VBNNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uXYN19Zfum1S1HzZq90zAOeWg1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sinister Switch (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/2qe74nnu0bfv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

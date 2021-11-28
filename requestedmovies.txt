@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Teen Wolf (1985)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jwiynd3hqtmj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zdsrkynumsfp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MT4MW4OJSBH7W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4aM2aPnIQVl82iiXp2tOl0D2E7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Disappeared (2012)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6y2if4miu9s1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

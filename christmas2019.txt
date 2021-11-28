@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]White Christmas (1954)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/f7j8zl2equb6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dryugoisojhr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BE7VXHSKXXJAA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pM31RqQqGxhYulaKrtPkmrALhM2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Bad Santa (2003)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/i1wjga0a4a9b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

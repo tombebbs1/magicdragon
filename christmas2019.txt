@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Jack Frost (1998)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/efp2ulwlsv0g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/4nz3d030cnmqnw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XVZGECORJUAA2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Gremlins (1984)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/efp2ulwlsv0g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

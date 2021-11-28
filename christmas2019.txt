@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Gremlins (1984)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/efp2ulwlsv0g::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ep5e0dzrgdxt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TNESCDCJXWMQY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]An Unexpected Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/qkm2dur537z1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Bad Santa (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/i1wjga0a4a9b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/f7r98ry6hsik::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/7LKOY5X6W6NKS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dt30keB9txHjYXuMzrqv6uJ499B.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Elf (2003)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jfbplirdqkvg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

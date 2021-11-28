@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]The Walking Dead: World Beyond (2020) S02 E01-E10[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gdr4mpjifly8::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/n00ektqbxpxw::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ccl53l0y5h3g::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mr5sc8hhf6x2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/goprvg6v5y4g::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tx3u52a7p2pd::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5b7gwm9mgfcp::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tiy1cae55i98::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/qtjhofzinows::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/aenhg04ktdyh::LISTNAME:[COLORwhite]Episode 10[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E08[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/mvw3yu5favba::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -96,21 +114,7 @@ sublink:LISTSOURCE:https://upstream.to/yzsudzyjpga4::LISTNAME:[COLORwhite]Episod
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLORwhite]The Walking Dead: World Beyond (2020) S02 E01-E08[/COLOR][/B]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/gdr4mpjifly8::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/n00ektqbxpxw::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ccl53l0y5h3g::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/mr5sc8hhf6x2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/goprvg6v5y4g::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tx3u52a7p2pd::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/5b7gwm9mgfcp::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/tiy1cae55i98::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E06[/COLOR][/B]</title>

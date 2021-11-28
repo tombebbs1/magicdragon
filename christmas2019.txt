@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Elf (2003)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jfbplirdqkvg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vannwmidkeh6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OCZIO5GN5MHRY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDHFQmaxlTIJGQDfTrLTL9RK2tQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas at Castle Hart (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nigox2anxxon::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

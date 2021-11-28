@@ -1,4 +1,24 @@
 <item>
+<title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E08[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/mvw3yu5favba::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LJ2ULX3LPIOK4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLORwhite]Fear the Walking Dead (2015) SE07 E07[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/i3b7pjj51f74::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/3HXYJJKWCTIG6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/upmd11A2ZaZEG1j6wRGdD4B5cxs.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Star Trek: Discovery (2017) SE04 E02[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/h7dacrpd4c93::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

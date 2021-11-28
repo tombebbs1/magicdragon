@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Trolls Holiday in Harmony (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xmb2e0yrj3aj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4zzbaqtyi2tt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/HRFB5TMB562VC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xl0jqhLC8BwtZT6pXGgKwSygQ4u.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas CEO (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5hjovu0cfx2e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

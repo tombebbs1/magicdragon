@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas in Tahoe (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7ej17j97jcyt::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/c1m506h6w54c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RPPMOIDQC5I4U::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTqpT4yqo2uXr7CSYDWHTiIOe6c.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Merry Liddle Christmas Baby (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/wvnstkukp9d6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]BLONDE Purple (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lttcbbrg0jfo::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e18d52e04590/BLONDE_Purple_2021_720p_WEBRip_800MB_x264-_-wAl.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CIZ4GA4ABNNTW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hsywqwU6PLMc5AKQc0s42MuRxNJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Last Duel (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7ugvue646z9p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

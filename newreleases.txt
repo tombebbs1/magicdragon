@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Middle Man (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/l2ekrckktugl::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kpqxwl8b63bz::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QU4WVJKCK3EDO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zl6mxP2ZNp6ElW1T4KZv444dMc0.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Nash Bridges (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kr00l6isp5u1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

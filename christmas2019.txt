@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLORwhite]Santa Inc. (2021) S01 E01-E08[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2rxks9rtedny::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6otk5ccnbacy::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kzx9qhh1lfjd::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/rgkue6zz8ir1::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/stir2fbz8c3k::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/pt9juri99nol::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/1fknk20gz8pz::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/oggwjkh8kyls::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kDrs3u2AXFYdbu42ZnKCcWmF9uQ.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Single All the Way (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/09ubxz0j1k6j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

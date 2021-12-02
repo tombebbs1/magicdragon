@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Single All the Way (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/09ubxz0j1k6j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/h9wvjinitw07::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YPWJY2IUODUZK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bfZPNzAwUQZ6FZQi1d136KLr3wl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas with a Prince: The Royal Baby (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/bde1a4tnighw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

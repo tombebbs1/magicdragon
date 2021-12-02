@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]A Chestnut Family Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/htgdhzct5fq6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vh20ga58xtg2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OQ534HKLRRMNC::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eRvcxeaiRf3ORDaVBErQSbGIHZD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Saying Yes to Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/aw4duehkxdze::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jy8fus4bmu3g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ENMDNAFLEMJG6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ermc5NADcPd18wiWEI4VB8xsvrA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Waltons' Homecoming (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/zl0ykzbhurx8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

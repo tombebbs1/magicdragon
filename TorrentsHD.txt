@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Last Shoot Out (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/h6s7wex0ym7e::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/n9ja6h5qz8p7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IZEBLRGGAZBJO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/37Ue6R1FJEeN3WMM5foCaKU3XCs.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Devil's Triangle (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/s9i3zca8ojh5::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

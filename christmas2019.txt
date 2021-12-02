@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas with a Prince: The Royal Baby (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bde1a4tnighw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uhnkdk0e1kcp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LP3SPDGXP2XPS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bxP1plGJTyk7l8mVzbtziJGcXLI.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Chestnut Family Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/htgdhzct5fq6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

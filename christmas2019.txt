@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Christmas Dance Reunion (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/42zn38reyf3v::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/j7ci1ma8bo0g::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/D7N5QPXSXUVH4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hOVSKyAyyN8Y5tj3wTgQ5Hl1Wq8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Mickey and Minnie Wish Upon a Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/czt4ed5yo4uu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

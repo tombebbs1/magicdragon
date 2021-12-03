@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Bitch Who Stole Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/09ubxz0j1k6j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/nvnrit5hmcbp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RZ3WTNGIKSM5M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ZJDUNqh4zdU71w1UYFf46S4vXp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Santa Inc. (2021) S01 E01-E08[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/2rxks9rtedny::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

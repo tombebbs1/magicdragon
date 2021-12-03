@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Mixtape (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/givmv2kuyj8f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/vkzlc1xcn7i2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZKDP62DEOCXUM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/31L36sAvyzzrJZjSa6ZosgaUmdR.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Diary of a Wimpy Kid (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vryhpai7r59b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

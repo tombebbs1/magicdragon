@@ -34,6 +34,50 @@
 </item>
 
 <item>
+<title>[COLORwhite]This Game's Called Murder (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/d9ju85teshch::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/o0g0sg4ohib2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/O6LNOMQLENJEE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ctTZTiA1uy6ycEjAV3urjE3AYG.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Deadlock (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4asqv1ujhiui::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/p0cc3qbfxlxy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WD6KOEV2A7NFA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/icTNXnpK79VLYwcNV8hmZi8nBRz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Castle Falls (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/kz1uc997wrs6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/q3ecq1agwydb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DGEN4QWHLVSSU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gGlV68mc18S01rf5vxlr5zGMQpx.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Funny Thing About Love (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x1hkxx4sha59::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/bcu9mr6qiecp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BWBXXFSLRHWTW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ahEYD5Yn1Kr1xE4BI23VVApTCGu.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Annie Live! (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/k9w4q2a6g49y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

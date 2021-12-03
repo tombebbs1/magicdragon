@@ -1239,6 +1239,18 @@ sublink:LISTSOURCE:https://1fichier.com/?hk3eyvxtup96mhwsiixu::LISTNAME:[COLORgo
 </item>
 
 <item>
+<title>[COLORwhite]Silent Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yl2yulpv8oqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/518e4e268836/Silent.Night.2021.1080p.WEBRip.DD5.1.x264-NOGRP.mkv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6MXTXPROBMU4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K2BNJLLEP3OW4::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lqB2Vy6WwJdInxggw8tZbn6zJr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Skyfall (2012)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:6bdc30cd89df43ba84cf4d04c87286f3d0d9f020&dn=Skyfall.2012.Multi.2160p.UHDrip.x265.SDR.DTS-HDMA.5.1%5BEn%2BHi%5D-DDR&xl=13838290922&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

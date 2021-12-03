@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Silent Night (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/yl2yulpv8oqa::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/518e4e268836/Silent.Night.2021.1080p.WEBRip.DD5.1.x264-NOGRP.mkv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6MXTXPROBMU4A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/K2BNJLLEP3OW4::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2lqB2Vy6WwJdInxggw8tZbn6zJr.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Red Stone (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ix3z3kytoe88::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

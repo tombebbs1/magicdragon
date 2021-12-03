@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Diary of a Wimpy Kid (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vryhpai7r59b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/13gbat1066mp::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/V3STR2EOCBMXY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/syOPbeIBduFJ7qYzsnUaJWqY93x.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]This Game's Called Murder (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/d9ju85teshch::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
@@ -54,6 +65,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WD6KOEV2A7NFA::LISTNAME:[COLORgold]
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/icTNXnpK79VLYwcNV8hmZi8nBRz.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
+
 
 <item>
 <title>[COLORwhite]Castle Falls (2021)[/COLOR]</title>

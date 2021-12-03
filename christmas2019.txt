@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Mickey and Minnie Wish Upon a Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/czt4ed5yo4uu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/2fafb59275eb/Mickey.And.Minnie.Wish.Upon.A.Christmas.2021.HULU.WEB-DL.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NLCIIXOSEO4XU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95ZqyMPe7otMSMFbOUiyiAD9KUE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Shaun the Sheep: The Flight Before Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7b3fz3cn90qn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/b7npib20iwhd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OSQTOJUVZA4C6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1uODuBes4zjkUgnQ706C7mcDfIS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Home Sweet Home Alone (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7rtnrdgyhh10::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

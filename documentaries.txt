@@ -43,6 +43,27 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+
+<item>
+<title>[COLORwhite]You're Watching Video Music Box (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/xgoko1ytc1au::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/ZVDZJOXJXYZ4C::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tuhfvoFMpJMB1jPjZQT4Yahw5ru.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Rescue (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/skcm2wsoky4i::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VTTTK5BQD3JJW::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r8JUNYiZiTujWNYFhZJpn52i2NG.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]I Am Belmaya (2021)[/COLOR]</title>
 <link>

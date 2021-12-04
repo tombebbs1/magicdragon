@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas Again (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rp63x7kz9zv8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/5khkzxr1pe7q::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QQUI6NWUPHMWY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rnY7WYvxHxRWCiUY7LCKldfijMQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Cape Cod Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m4mhupqp70lv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

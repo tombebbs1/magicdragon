@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The First Wave (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/74d3a4bfd220/The.First.Wave.2021.720p.WEB.H264-MEGABOX.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LA7RFP72PU4LS::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3i4kMs3Mb7W8l5hyQ0pFotUQAz0.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Freddie Mercury: The Final Act (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m5kkh2dv74l7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

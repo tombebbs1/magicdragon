@@ -43,6 +43,15 @@
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
 </item>
 
+<item>
+<title>[COLORwhite]Freddie Mercury: The Final Act (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/m5kkh2dv74l7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/zp0wdkv7agxmo90::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1j9zyKgS7pVWqO5VbHtBUCYmytY.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]You're Watching Video Music Box (2021)[/COLOR]</title>

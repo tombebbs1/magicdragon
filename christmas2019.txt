@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Clüsterfunke Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/80k1c7wovdzu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/912b3849d3d7/A.Clusterfunke.Christmas.2021.HDTV.x264-CRiMSON.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VHAIGV2BBTWXK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xGDKG6xdwuerf4ZRpOxoOEGyQeV.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Kirk Franklin's A Gospel Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/352gd5w0x4cm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

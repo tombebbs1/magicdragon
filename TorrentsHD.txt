@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Wishing Tree (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/abqad17r0ixd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/376e46450ee4/The.Wishing.Tree.2021.720p.WEBRip.800MB.x264.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5QWQU6FQN5IWK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/b3827f4abb5f9eae2bf19e2f2ed51ec9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Maya and Her Lover (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/f8ygtshc1kmh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Maya and Her Lover (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/f8ygtshc1kmh::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/24b4dc1fae32/Maya.and.Her.Lover.2021.720p.WEBRip.800MB.x264.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QAYT5L2LWRXNS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/2e57db702e853d365c75773a4c24f610.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Handler (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/oz3fjlgwrv8n::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

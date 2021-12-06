@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Jingle Bell Princess (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/vclvl64nflkv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/5d6455750f17/Jingle.Bell.Princess.2021.GAC.HDTV.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TIDMVSNRKHEZG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFA4uRAO4dkawbzRCjcFZqKXKvA.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Chance for Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/5uzhe01wy2kg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]David and the Elves (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/us9gpfu7sv3b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/kcq0nl7t1fu9::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RQXCKATGQSO5I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtpnwDfKBlcPokEGcaxWO2fmiNl.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sister Swap A Hometown Holiday (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/kahtm2ip6pht::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Simple As Water (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/zxj5pe2k9jaj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/T4N5VXINCB4HK::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tAGmjGPuAe6VQsTTobVloydkW3m.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The First Wave (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/74d3a4bfd220/The.First.Wave.2021.720p.WEB.H264-MEGABOX.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

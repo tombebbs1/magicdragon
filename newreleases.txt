@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]John 316 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1eg81nm4lsul::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3oe6gvldac81::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JLVWZAPJ266HI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vpsoteJpu95yBN89i64FXBWaDJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]India Sweets and Spices (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/8bq9eg4a7yd1::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

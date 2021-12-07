@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas Beneath the Stars (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8npg5vovap1q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fl0236slbvh4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QMGVKNDEKD7BY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qlR0zJIxai6x8xc5ipGfaAMipU4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas Movie Magic (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/qd3lxsomecag::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

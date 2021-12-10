@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Death Valley (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gqsixj3wco3d::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7vy6cnzqee81::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4ZP4XU6IEULVQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3SCV6GqtQ4QFvzxS0YxPNYgdHLk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Taste of Blood (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cjlf74yol9yr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

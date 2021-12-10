@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Fiance for Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sv1iil8qxigc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/01ecd727ad17/A.Fiance.For.Christmas.2021.HDTV.x264-CRiMSON.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TDIHX6C3L3FZA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pcCyB7ZfMvcI8H9ZMxDmIkQWVNH.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Christmas Proposal (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/t74ka1jzda5c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

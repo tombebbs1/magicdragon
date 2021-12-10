@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Taste of Blood (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/cjlf74yol9yr::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/454c073e9849/The.Taste.Of.Blood.2021.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IEABKLLRUYURU::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODliNWM5YjYtYmEwYS00MWY0LWFiYWYtZTlhZGY5Y2Q5ODg2XkEyXkFqcGdeQXVyODkwMTQ4NTc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Refugee (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/stkjp1fplhag::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

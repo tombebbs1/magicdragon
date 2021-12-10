@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLORwhite]Invasion (2021) S01 E01-E10[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/jhzci00z2049::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/44h9ry0c8eo7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y25xw117niv9::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/mku6tj5gtmp2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/m1j8ktlanv3b::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/85ss0yvoih3q::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/3k6ivregmjgz::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/siip1hmbbmsg::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hvmqnz7xnatn::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/v2azrpq1xzsy::LISTNAME:[COLORwhite]Episode 10[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Landscapers (2021) S01 E01[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/swjtur8d1qx3::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
@@ -10,22 +28,7 @@ ublink:LISTSOURCE:https://upstream.to/mku6tj5gtmp2::LISTNAME:[COLORwhite]Episode
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLORwhite]Invasion (2021) S01 E01-E09[/COLOR][/B]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/jhzci00z2049::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/44h9ry0c8eo7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/y25xw117niv9::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/mku6tj5gtmp2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/m1j8ktlanv3b::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/85ss0yvoih3q::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/3k6ivregmjgz::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/siip1hmbbmsg::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/hvmqnz7xnatn::LISTNAME:[COLORwhite]Episode 09[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[B][COLORwhite]Santa Inc. (2021) S01 E01-E08[/COLOR][/B]</title>

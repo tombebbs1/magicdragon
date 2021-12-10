@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Maps and Mistletoe (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/v3p0zr4huar3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/f6c036c28219/Maps_And_Mistletoe_2021_1080p_AMZN_WEB-DL_DDP5_1_H_264-WELP.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PCC2HQ42LI5K4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIKM3Tw5pdSoL0pdcXpO5eyxGrk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Enchanted Christmas Cake (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/cwn9m6nbssvv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

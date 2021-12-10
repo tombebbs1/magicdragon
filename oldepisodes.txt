@@ -17,12 +17,12 @@ sublink:LISTSOURCE:https://upstream.to/v2azrpq1xzsy::LISTNAME:[COLORwhite]Episod
 </item>
 
 <item>
-<title>[B][COLORwhite]Landscapers (2021) S01 E01[/COLOR][/B]</title>
+<title>[B][COLORwhite]Landscapers (2021) S01[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/swjtur8d1qx3::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/44h9ry0c8eo7::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/y25xw117niv9::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/mku6tj5gtmp2::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/326ntam99g1w::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8ayc11xswhoc::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/yq4vkjc9gvt3::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg</thumbnail>
 <fanart></fanart>

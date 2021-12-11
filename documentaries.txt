@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Real Charlie Chaplin (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/eki0wowkm6gd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/XNR5OYFRZQ4WI::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4TeJ08Csymnd257KrgS0nyxVBEy.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]9 11 I Was There (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/d0eac856276f/9.11.I.Was.There.2021.720p.WEB.h264-BAE..mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

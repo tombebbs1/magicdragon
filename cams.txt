@@ -1,4 +1,13 @@
-
+<item>
+<title>[COLORwhite]National Champions (2021) HDCAM UPDATED 11/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ip0txgkxyrtd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uygi418mnd75::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dd4co5vtfqw3::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6YhSB00YPXtwDpVgQsX6FCe9F6J.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Red Rocket (2021) HDCAM UPDATED 06/12[/COLOR]</title>

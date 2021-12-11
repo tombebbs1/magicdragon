@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dirty Tricks (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/wjy2vj5uu75c::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/C5RUCMEU4HAJ4::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5KTSHLuOkFQEHmDE3XeelR7QrV.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Real Charlie Chaplin (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/eki0wowkm6gd::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

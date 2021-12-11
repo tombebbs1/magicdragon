@@ -169,6 +169,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/IZLCRGHLSSTPC::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Fortress (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tnjfsgergoyk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/brliiogobhye::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/LZURYS5CGUDHO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KRD395VxYHJJAS8Ad9I13Dvxs8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Diary of a Wimpy Kid (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/vryhpai7r59b::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

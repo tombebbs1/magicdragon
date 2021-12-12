@@ -1,4 +1,16 @@
 <item>
+<title>[COLORwhite]Holiday in Santa Fe (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8wzcehc2ic0w::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/foy6uzkkwx6f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/66SIBCOIT5NJM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHkMQtYNIRPAN3SaGxTd7lLKr35.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Snoopy Presents For Auld Lang Syne (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/e328ddc0eec1/FOR_AULD_LANG_SYNE_-_Official_Trailer_2021_Apple_TV.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

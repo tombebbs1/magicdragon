@@ -581,6 +581,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TDFUWAAQZKKEE::LISTNAME:[COLORgold]
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLORwhite]Antlers (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dtu6fjqfnbun::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4ey8g501yzgs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H2G47AI3YK2TO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WYF4AMIP2TO5S::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klsDRXM68wV7vZTTaAOuu62VNA1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Ant-Man (2015)[COLORred]Debrid Only 4K [/COLOR][/COLOR]</title>

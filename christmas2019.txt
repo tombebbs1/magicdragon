@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Blending Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/2ukmm4nyj0cn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/31391e378987/Blending.Christmas.2021.HDTV.x264-CRiMSON_2.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6RNQB4HWGSE2A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/45aEUufsZm7YyBD3lBIpCYDNKJh.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deck the Heart (2020)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/g67fbysvbjph::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

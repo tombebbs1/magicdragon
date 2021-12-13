@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Deck the Heart (2020)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/g67fbysvbjph::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/x7g4o3y911vq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6EGESPUZPQ7SE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q2j7d0cG1oYqwdcwh0QzXwv2IiQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Royal Queens Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0sih2cwvtboc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Godwink Christmas: Miracle of Love (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ty69qw1ozja3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0li0534t54a7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IJQ3F2TWW3L6S::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUkhzklFW3p5m3cNVO5Mqb7n5B3.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Holiday Fix Up (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/m1f4grg6kvd2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

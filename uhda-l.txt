@@ -582,7 +582,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/TDFUWAAQZKKEE::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Antlers (2021)[/COLOR]</title>
+<title>[COLORwhite]Antlers (2021) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dtu6fjqfnbun::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/4ey8g501yzgs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

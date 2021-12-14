@@ -61,6 +61,39 @@
 </item>
 
 <item>
+<title>[COLORwhite]Range Roads (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w6e26z49h2hk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4t8q0t5ppy4y::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H3ANJHXVIJA5W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2zIn2ITbO8ONdtFMbpdpXwJdka6.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Starter Marriage (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/oom3ykjrgdwf::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/6gfasnbo0022::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/R6G5ZGM2GS4BE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7S9YaoSmm77PLlCbZYe7cUvJjg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]The Miss OTB Scandal (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/m56cnkvir68y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/a7jnfgknck8f::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4CEBCKIXZ3V4E::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z1G8TiTqPx095INHLgQ5mviCFH5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Love Is Love Is Love (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rmvtj4x33sym::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

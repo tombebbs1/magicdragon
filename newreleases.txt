@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Love Is Love Is Love (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rmvtj4x33sym::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/diyyxp084540::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/24VL7IZTQOZ2W::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m2pmFiImzpXNUS8uKUAXSVD7lyq.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Hacker: Trust No One (2022)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/popempzhxyi6::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -73,6 +73,16 @@ sublink:LISTSOURCE:https://real-debrid.com/d/FZUTY6WH4IELM::LISTNAME:[COLORgold]
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]The French Dispatch (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gw2dxadjpup7::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dqfaxnk6wwpw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/Q6LP45N3P6OXY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eFfPMX7z6gv50nRt47Be3jkjXlL.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
 
 <item>
 <title>[COLORwhite]Antlers (2021)[/COLOR]</title>

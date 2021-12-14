@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Grave Halloween (2013)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nrne3c1jh6qv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/3ckavykih4ll::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H7HDEPOL5TLVO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/SSr17CBHhh0gmno7rThPaDrcsN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Teen Wolf (1985)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/jwiynd3hqtmj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

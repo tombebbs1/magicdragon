@@ -97,8 +97,6 @@ sublink:LISTSOURCE:https://userload.co/f/5321f47c4b75/Ghostbusters_Afterlife_202
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]House of Gucci (2021) HDCAM UPDATED 29/11[/COLOR]</title>
 <link>
@@ -143,10 +141,6 @@ sublink:LISTSOURCE:https://upstream.to/x7su8bazhpbm::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[COLORwhite]Eternals (2021) HDCAM UPDATED 01/11[/COLOR]</title>
 <link>
@@ -168,19 +162,6 @@ sublink:LISTSOURCE:https://userload.co/f/09dcd5526301/A.Mouthful.of.Air.2021.HDC
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a8hE4EcFfIjX4rmVif9IIgarOD7.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-<item>
-<title>[COLORwhite]Antlers (2021) HDCAM UPDATED 29/10[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/6449qa9r7uja::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/mq2vh1x16trj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/rmn9xwfuz26o::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klsDRXM68wV7vZTTaAOuu62VNA1.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-
 
 <item>
 <title>[COLORwhite]The Beta Test (2021) HDCAM UPDATED 18/10[/COLOR]</title>
@@ -215,8 +196,6 @@ sublink:LISTSOURCE:https://upstream.to/sd8l1zhagadk::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Death Rider in the House of Vampires (2021) HDCAM UPDATED 29/08[/COLOR]</title>
 <link>
@@ -228,8 +207,6 @@ sublink:LISTSOURCE:https://upstream.to/929geeyyfg4n::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-
-
 <item>
 <title>[COLORwhite]Supercool (2021) HDCAM UPDATED 20/07[/COLOR]</title>
 <link>
@@ -240,17 +217,3 @@ sublink:LISTSOURCE:https://userload.co/f/0f9cf47c3e26/Nsupercool_2021_cam.mp4::L
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

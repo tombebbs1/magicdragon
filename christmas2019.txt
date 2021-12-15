@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Ghosts of Christmas Past (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ec70j1tc6nmu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/0b96ee02d3ae/G.o.C.P.2021.HDTV.x264-CRiMSON.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6NTBKSBTF3DDG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1BJblzoLd7Gpb3Y98nEhz34UWfd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]A Christmas Star (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3in51rso33uy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

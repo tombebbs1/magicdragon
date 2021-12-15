@@ -62,6 +62,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/CURVNLTAJJZTY::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Rumble (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tr6m5ckumi4q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/wx52gwkku1ul::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YEUO4KV3EPWNK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spencer (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/irh0a5cjzxks::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

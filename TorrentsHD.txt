@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]I Was a Simple Man (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/w6e26z49h2hk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ke9cx7k9xeig::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5X4K4MPNABEQO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6VJm2nFW7vFXOZx6ZllmpwZtb9C.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rumble (2022)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tr6m5ckumi4q::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]South Park: Post Covid: The Return of Covid (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/bj43zo43irqm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/c843de7bd41b/south.park.s24e00.post.covid.the.return.of.covid.720p.web.h264-whosnext.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5J7YAN7T26HM2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kM0PgLjfbEwn4Xs3ca3UuvWEsn7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]I Was a Simple Man (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/w6e26z49h2hk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

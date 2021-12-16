@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]Star Trek: Discovery (2017) SE04 E05[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/k4po21wi72h7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/WVVCA2YZZRWX4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zh7GLsorxecv0D8d7QAVkQUe1ju.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Hawkeye (2021) S01 E01-E05[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ielm928u972l::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

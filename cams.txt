@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Spider-Man: No Way Home (2021) HDCAM UPDATED 16/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/3rs8cvglb5bn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/d5c5ol1ix1v7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8m07hgo8bttp::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Being the Ricardos (2021) HDCAM UPDATED 14/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tzz4umxon5m3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

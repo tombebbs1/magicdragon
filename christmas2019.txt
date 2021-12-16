@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Christmas Stray (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/gt7q051yuy84::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/guzq4ja19yti::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YGZI5RH6OZ2MA::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnHBtsV6JPT32nMs1qG2ecEfDy4.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ghosts of Christmas Past (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ec70j1tc6nmu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

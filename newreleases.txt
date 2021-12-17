@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Trip (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/89cbae175def/The_Trip_Official_Trailer_Netflix.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7tmqy2upxn1l::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NGCLHIF7HYHO6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uXGoV9IgKChvN7UGMj01y3purGc.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Words (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/fe87da8e3b2b/Last_Words_2020_-_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

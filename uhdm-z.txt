@@ -1671,6 +1671,18 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:41af54942a6669a79135081814fcd493875f1e03&
 </item>
 
 <item>
+<title>[COLORwhite]Swan Song (2021) 4K[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/1m22nwsssst9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/8lkn3pjrmeiv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YJWZL7CL3XNZM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TJICORHHBIR62::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4b65jVx7b0CZGkXX4nOUGvTvZ07.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sweet Girl (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/v65i3gdrh8v8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

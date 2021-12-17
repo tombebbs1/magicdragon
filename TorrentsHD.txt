@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Novice (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/c920b02bd4f0/The_Novice_-_Official_Trailer_HD_IFC_Films.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/srkt9f89v6jk::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BAYGKXM44SWJO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7qkb0LAbaIWe2TbGUogeNRtmKGE.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Wild Game (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/078ofac8pukb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

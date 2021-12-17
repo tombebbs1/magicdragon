@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLORwhite]The Witcher (2021) S02[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/sukd53dtheuw::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/y9no2ssw5t7i::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z1kus8ene4x7::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/hnxeuzkazi6y::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/963702be58a8/the.witcher.s02e05.720p.web.h264-cakes.mp4_at_Streamtape.com.mp4::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/0e2dfcec0c9a/the.witcher.s02e06.720p.web.h264-cakes.mp4::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/8f19cd9ec09a/The.Witcher.S02E07.WEB.x264.mp4::LISTNAME:[COLORwhite]Episode 07[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/two6wha3isr0::LISTNAME:[COLORwhite]Episode 08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Star Trek: Discovery (2017) SE04 E05[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/k4po21wi72h7::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

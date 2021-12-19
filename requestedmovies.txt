@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Howling (1981)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/qm01nakowg3l::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/32sjoohdctd2::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/56KQSLFOQBA3K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nRTonikdpMUYr3y3RXESLBhRUov.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Boys in Blue (1982)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/einno4zxf6jg::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

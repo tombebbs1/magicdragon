@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Last Train to Christmas (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/b6lf8hza265r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/u81fmdh2z2yw::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OAQJKMAMW6MSM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3xkcbqIdsKdPb0EUElFpJtPcDpd.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Twisted Little Lies (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7u7nkj6asm0h::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

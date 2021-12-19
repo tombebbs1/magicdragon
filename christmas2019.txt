@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Toying with the Holidays (2021)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://upstream.to/b6lf8hza265r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e49f116bf6b7/Toying.With.the.Holidays.2021.HDTV.x264-CRiMSON.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QHI465NK3FUOG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Ns4y5FWDxZhmXlou9Ixq0MLlP1.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Last Train to Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/b6lf8hza265r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

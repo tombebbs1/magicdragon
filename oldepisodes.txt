@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]1883 (2021) S01 Ep1-2[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/dnt4q78g4r5h::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/uy66j7j13fct::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kQe9fTlo6V239G7b3sG7oAn48k.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]The Witcher (2021) S02[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/sukd53dtheuw::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

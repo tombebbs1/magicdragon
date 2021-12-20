@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas Takes Flight (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8z5c7hrwn88f::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/7d7aa87b9456/Christmas.Takes.Flight.2021.720p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/39cac6a2f613/Christmas.Takes.Flight.2021.720p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5FEqkHr2HCGR5Gt8q6F3McsYqP.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Christmas for Keeps (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/rvv7omokarkq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

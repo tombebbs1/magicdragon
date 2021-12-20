@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Worst Person in the World (2021) Subbed[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/x731xggsckpw::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ec28dd0fce17/The.Worst.Person.In.The.World.2021.WEB.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/98068c8b7f89/The.Worst.Person.In.The.World.2021.WEB.H264-RBB.mp4::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4dF5NT1dxw4CItns4ckXq4309bg.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deadly Girls Night Out (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/b6lf8hza265r::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

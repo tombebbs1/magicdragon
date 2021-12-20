@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Christmas for Keeps (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/rvv7omokarkq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e9406cc6ddc3/Christmas.for.Keeps.2021.HMM.720p.HDTV.X264.Solar.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/QOIRM7PM6F2OG::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s50BmBzMHJG2gXvOngCMb7QTcu5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Most Wanted Santa (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/8f68e9de7647/Most_Wanted_Santa_Official_Trailer_A_Tubi_Original.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

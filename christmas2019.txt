@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]How the Grinch Stole Christmas (2000)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/9nwdp5y7uyoq::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fc6wd5yow2pb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/CTE3QVUKOZVCI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1WZbbPApEivA421gCOluuzMMKCk.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]A Christmas No 1 (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/y6j2xb6ul36y::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cr2cofz0miut::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VXROPPYTH4BK6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wdPdBAKOOa8vJpAPIvyNWb5eQc7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Under the Christmas Tree (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/0op2fgo9xkev::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

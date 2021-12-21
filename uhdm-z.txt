@@ -964,6 +964,18 @@ sublink:LISTSOURCE:https://real-debrid.com/d/6DA6EGRELWVJ2::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Resident Evil: Welcome to Raccoon City (2021) 4K[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/95hbqzrfjuvc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/854rc3z0zyn6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YGA7KYHKFKCVK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/6GKKWFGJ2UXGI::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIELpX14PEU94ClrexFetVojO35.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Rim of the World (2019)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:9fac83d5f88b319fea922fa1a8bdcc6f2fa33148&dn=Rim+of+the+World+2019.2160p.HEVC.SDR.UHDRip.DDP.5.1-DDR&xl=7933155261&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.internetwarriors.net:1337/announce&tr=udp%3A%2F%2Ftracker.uw0.xyz:6969/announce&tr=udp%3A%2F%2Ftracker.cyberia.is:6969/announce&tr=udp%3A%2F%2Ftracker.moeking.me:6969/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451&tr=udp%3A%2F%2Fexplodie.org:6969/announce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu:80/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2Fexodus.desync.com:6969/announce&tr=udp%3A%2F%2Fopen.demonii.si:1337/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

@@ -146,6 +146,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/MX5GBGHAJI5TI::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]Resident Evil: Welcome to Raccoon City (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/95hbqzrfjuvc::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/854rc3z0zyn6::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YGA7KYHKFKCVK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIELpX14PEU94ClrexFetVojO35.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Venom: Let There Be Carnage (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/7r2p00vv0emm::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

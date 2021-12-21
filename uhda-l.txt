@@ -880,7 +880,7 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:d23d2fcddc72bfbc30681c6cd47e1dc75bfb9913&
 </item>
 
 <item>
-<title>[COLORwhite]Beckett (2021)[/COLOR]</title>
+<title>[COLORwhite]Beckett (2021) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/37lygyd20b8t::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://userload.co/f/44c29d615e67/Beckett.2021.1080p.NF.WEB-DL.DDP5.1.x264-TEPES.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
@@ -892,7 +892,19 @@ sublink:LISTSOURCE:https://real-debrid.com/d/MNRAW7VJ34FEA::LISTNAME:[COLORgold]
 </item>
 
 <item>
-<title>[COLORwhite]Best Sellers (2021)[/COLOR]</title>
+<title>[COLORwhite]Being the Ricardos (2021) 4K[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/tzz4umxon5m3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/7efxg161n1nt::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/4XAXKTEZMD7ZE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OJNXUV2GJEMKW::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Best Sellers (2021) 4K[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fnub40kcv6wk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
 sublink:LISTSOURCE:https://upstream.to/csrrp5lnglwx::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

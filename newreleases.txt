@@ -67,7 +67,7 @@ sublink:LISTSOURCE:https://upstream.to/09e9y9cu9awn::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://upstream.to/32ff9s0xltrr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/GDNPEZLH7XWDE::LISTNAME:[COLORgold]720p REAL DEBRID LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/H4N7GQKT77RGY::LISTNAME:[COLORgold]1080p REAL DEBRID LINK[/COLOR]::#
-ublink:LISTSOURCE:https://upstream.to/pp3gxei8v5k5::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SOME2C5SXW7RS::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
 </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>

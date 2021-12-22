@@ -2723,6 +2723,19 @@ sublink:LISTSOURCE:magnet:?xt=urn:btih:8842b279d22c68e1093cb6a46774507ee4788198&
 </item>
 
 <item>
+<title>[COLORwhite]The Matrix Resurrections (2021) 4K[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/09e9y9cu9awn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/32ff9s0xltrr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/GDNPEZLH7XWDE::LISTNAME:[COLORgold]720p REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H4N7GQKT77RGY::LISTNAME:[COLORgold]1080p REAL DEBRID LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SOME2C5SXW7RS::LISTNAME:[COLORgold]4K REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Matrix Revolutions (2003)[COLORred]Debrid Only 4K [/COLOR] 4K [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:magnet:?xt=urn:btih:ced63d719729e2a9fcbc422b92024036eabb1295&dn=The.Matrix.Revolutions.2003.Multi.mUHD.2160p.x265.HDR.DD.5.1-DTOne&xl=14110028078&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk:6969/announce&tr=udp%3A%2F%2F9.rarbg.to:2740/announce&tr=udp%3A%2F%2F9.rarbg.me:2710/announce&tr=udp%3A%2F%2Ftracker.opentrackr.org:1337/announce&tr=udp%3A%2F%2Ftracker.tiny-vps.com:6969/announce&tr=udp%3A%2F%2Ftracker.pirateparty.gr:6969/announce&tr=udp%3A%2F%2Ftracker.vanitycore.co:6969/announce&tr=udp%3A%2F%2Fopen.stealth.si:80/announce&tr=udp%3A%2F%2Ftracker.torrent.eu.org:451::LISTNAME:[COLORgold]HD  LINK 1[COLORred] Debrid Only[/COLOR][/COLOR]::#

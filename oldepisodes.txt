@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLORwhite]Hawkeye (2021) S01[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ielm928u972l::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/fv9nwbxo33rm::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/k49gccoc4aj3::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/54mt3tv7rc9w::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/dreef6igejol::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0e1foor9r0og::LISTNAME:[COLORwhite]Episode 06[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]1883 (2021) S01 Ep1-2[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dnt4q78g4r5h::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
@@ -34,18 +48,7 @@ sublink:LISTSOURCE:https://real-debrid.com/d/WVVCA2YZZRWX4::LISTNAME:[COLORgold]
 <fanart></fanart>
 </item>
 
-<item>
-<title>[B][COLORwhite]Hawkeye (2021) S01 E01-E05[/COLOR][/B]</title>
-<link>
-sublink:LISTSOURCE:https://upstream.to/ielm928u972l::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/fv9nwbxo33rm::LISTNAME:[COLORwhite]Episode 02[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/k49gccoc4aj3::LISTNAME:[COLORwhite]Episode 03[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/54mt3tv7rc9w::LISTNAME:[COLORwhite]Episode 04[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/dreef6igejol::LISTNAME:[COLORwhite]Episode 05[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>
 <title>[B][COLORwhite]Star Trek: Discovery (2017) SE04 E04[/COLOR][/B]</title>

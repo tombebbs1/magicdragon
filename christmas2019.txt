@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Candy Cane Candidate (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/8rgzepb6bb0c::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/4918cbafeb54/Candy.Cane.Candidate.2021.HDTV.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DZCUHEDOMJYTS::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cZH8Zm9JOYrKiL72QLAqQzL4diD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Joy For Christmas (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/r4xieqvqpvdi::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

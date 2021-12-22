@@ -1,4 +1,26 @@
 <item>
+<title>[COLORwhite]Home Alone (1990)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/f69d6659f08a/Home_Alone_1990_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/315yhx35yfql::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SXM5CAJAOWVBI::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Home Alone 2: Lost in New York (1992)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/71fdf7b23d3e/Home_Alone_2_-_Lost_in_New_York_1992_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/xhjs1w9v2ddh::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/NGHL237DND7KW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Chitty Chitty Bang Bang (1968)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fisxvb14te88::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

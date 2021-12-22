@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Story of Film: A New Generation (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/52aekn2wzekj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/2RWKTVLUJEVSW::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/11anvRr2hRlkVHmUZ80RaJ6Kau0.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Alec Baldwin: Unscripted (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/20b462556620/Alec.Baldwin.Unscripted.2021.1080p.DSNP.WEB-DL.AAC2.0.H.264-WELP.mkv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

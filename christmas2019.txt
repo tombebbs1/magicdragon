@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Father Christmas Is Back (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/l55a23402cbb::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/58ar3w8df4b5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/X2ITXBHV74JX2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Grumpy Christmas (2021) Dubbed[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4px9q6si90j2::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

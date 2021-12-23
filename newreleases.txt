@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ebony Hustle (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/nk4uho91qwbx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e924a4f61595/Ebony.Hustle.2021.WEB.H264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DVYA6TVLJXKAK::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp5Sr4ezGoMsAjGgiSKv6UJqhP2.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Matrix Resurrections (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/09e9y9cu9awn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

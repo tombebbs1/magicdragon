@@ -34,6 +34,28 @@
 </item>
 
 <item>
+<title>[COLORwhite]Wolf (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/16e0rr12dpzu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/t2bq7cwd5wfs::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/JJLHC3QXDFA72::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i1SFq1qSNWv02kXE9YGvrVnRYIN.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Cmon Cmon (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/n93z2n3mmdr0::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/0x5h5cu0ea2r::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/BRSWIUCSJV54A::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ebony Hustle (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/nk4uho91qwbx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

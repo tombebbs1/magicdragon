@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]Reno 911! The Hunt for QAnon (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7v4e7zfn0atj::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ba24c5820b3a/Reno.911.The.Hunt.for.QAnon.2021.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/PIVZLMDWDMJM6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qDSy1uQjpXDx1jGHmbFaNVZ2SM7.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Wolf (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/16e0rr12dpzu::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

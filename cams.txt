@@ -136,16 +136,7 @@ sublink:LISTSOURCE:https://upstream.to/36zxwzbp7jhu::LISTNAME:[COLORgold]HD REAL
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Encanto (2021) HDCAM UPDATED 26/11[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:https://userload.co/f/f44183da6481/Disneys_Encanto__Official_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
-sublink:LISTSOURCE:https://upstream.to/ni13lw3h5xls::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
-sublink:LISTSOURCE:https://real-debrid.com/d/HHPTMJZS5I67C::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
-</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBcm62yBEDGHdMOGRrElBe4ZtXJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
+
 
 
 

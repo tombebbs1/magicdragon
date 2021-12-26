@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Amazing Mr. Blunden (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/aa209fd94fc8/The_Amazing_Mr._Blunden_Official_Trailer_Sky_Max.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/33aea29bffb8/The.Amazing.Mr.Blunden.2021.AHDTV.x264-DARKFLiX.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/RNLENPPPPPI24::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eQ6DKclRghjLL2G4jYPwZLMTM6l.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Writing Around the Christmas Tree (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/h7end59t6iuy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

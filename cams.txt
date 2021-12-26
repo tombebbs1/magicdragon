@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]A Journal for Jordan (2021) HDCAM UPDATED 26/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/p09hwo30l7xv::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/z9rb5mx4fegy::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/laggih0p1qny::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2kYYbeFhEfbZKTaivO8zwQMdipp.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Spider-Man: No Way Home (2021) HDTS V3 UPDATED 24/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/3rs8cvglb5bn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

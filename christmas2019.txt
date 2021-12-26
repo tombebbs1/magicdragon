@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Writing Around the Christmas Tree (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/h7end59t6iuy::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/69ky71vgo4kb::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/H2JF7ISNYECJO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7kLS3Qjx6ag4JVoT7ce7pgVcbDM.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Abominable Snow Baby (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/f0be2df7739b/Terry_Pratchett_s_The_Abominable_Snowbaby._Christmas_Day_at_7.30pm_on_Channel_4_and_All_4.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

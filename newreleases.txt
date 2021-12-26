@@ -60,6 +60,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Superworm (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/3e26a22a6577/Superworm_Official_Trailer_Gruffalo_World_-_Superworm.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/7bec9fcd8d79/Superworm_2021_720p_WEB-DL_BONE_-mTe.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AAXEKUZGYSO7I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7xUnyk0QgdIpsHgpKRkw9xwUC0C.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Don't Look Up (2021)[/COLOR]</title>
 <link>

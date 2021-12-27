@@ -61,6 +61,18 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Kindred (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/7kf37q70710s::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/44a15db8e188/The.Kindred.2022.720p.WEBRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/AXU5EZGM2EK5M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDXAaMLk7NNXdXZkeTMtr4xo6f5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+
+<item>
 <title>[COLORwhite]Jekyll and Hyde (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/orzyrf8d8o0j::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

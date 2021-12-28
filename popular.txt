@@ -75,6 +75,17 @@ sublink:LISTSOURCE:https://real-debrid.com/d/XAK5DUXXCIPZQ::LISTNAME:[COLORgold]
 </item>
 
 <item>
+<title>[COLORwhite]National Champions (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/ip0txgkxyrtd::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/679ae377cd95/National.Champions.2021.720p.WEBRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OZ4FLEOJSPE4Y::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6YhSB00YPXtwDpVgQsX6FCe9F6J.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Being the Ricardos (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/tzz4umxon5m3::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

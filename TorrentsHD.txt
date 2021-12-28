@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Great and Terrible Day of the Lord (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/lz600hu32vd9::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/1c24505f7a9d/The.Great.and.Terrible.Day.of.the.Lord.2021.720p.WEBRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/F7V23WCZUJXW6::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6EyEGGhkaDZLCjxRIRoeUm248G8.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Red Rocket (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/15a7636c21ea/Red_Rocket_Official_Trailer_HD_A24.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

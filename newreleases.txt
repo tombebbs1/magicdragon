@@ -145,7 +145,7 @@ sublink:LISTSOURCE:https://upstream.to/be2xygg1m2gc::LISTNAME:[COLORorchid]SHOW 
 sublink:LISTSOURCE:https://userload.co/f/76b2561b1021/Cicada.2021.HDRip.XviD.AC3-EVO.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
 sublink:LISTSOURCE:https://real-debrid.com/d/JHT7LW3DH2526::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
 </link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yvSsaz0gR5HyIFu4UAMCaAhK53p.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1EMsewHT8CV4X00lSHLkc4O17eH.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 

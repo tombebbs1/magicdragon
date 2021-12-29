@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Land That Time Forgot (1974)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/489d3d98dabd/tlttf.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/mdwv4zdlce30jj::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/VWMMLJWXRLA5K::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Jtm4aP4kj4vHimFfnLqjnm8LqF.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Company Business (1991)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/fc40wz1zik8p::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

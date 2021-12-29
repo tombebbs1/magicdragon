@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Ghostbusters: Afterlife (2021) HD RIP with Ads 29/12[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/6rzamr5bighx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/cpbvb99blwnr::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/jcbcf2qz9sp7::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2gkoDo7SBHicakfQodHCaa8RG16.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]American Siege (2022)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/ku64x24ujldk::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

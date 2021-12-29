@@ -1,4 +1,14 @@
 <item>
+<title>[B][COLORwhite]The Book of Boba Fett (2021) SE01 E01[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/8fd0272ce2bf/The.Book.of.Boba.Fett.S01E01.Chapter.1.720p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-NOSiViD.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/I7SZB6C3WPXAY::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3IAghjAacZKP2aomDmZsUDuq812.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]1883 (2021) S01 Ep1-3[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/dnt4q78g4r5h::LISTNAME:[COLORwhite]Episode 01[/COLOR]::#

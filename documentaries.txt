@@ -44,6 +44,16 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Super Bob Einstein Movie (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/e5f561d254e6/The.Super.Bob.Einstein.Movie.2021.720p.WEBRip.800MB.x264-GalaxyRG.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5FSJO2WYUYXAA::LISTNAME:[COLORgreen]HD REAL DEBRID LINK[COLORred] Real Debrid Only[/COLOR][/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5EktQEJyRS5mLtYxY4ADB0u2zA.jpg</thumbnail>
+<fanart>https://i.imgur.com/dm1Tk83.png</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]In the Dark of the Valley (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/7becc106e3ba/In.The.Dark.of.the.Valley.2021.WEBRip.x264-ION10.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

@@ -1,3 +1,14 @@
+
+<item>
+<title>[B][COLORwhite]Star Trek: Discovery (2017) SE04 E07[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://upstream.to/4t9o8k1tkyre::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/5RRWUUZOSNNJE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zh7GLsorxecv0D8d7QAVkQUe1ju.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[B][COLORwhite]The Book of Boba Fett (2021) SE01 E01[/COLOR][/B]</title>
 <link>

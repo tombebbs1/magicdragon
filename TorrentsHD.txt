@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Megaboa (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/f5cb8e0e9068/Megaboa_-_Official_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/1v01kwl4ikw370v::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/OLIC6JEGA67R2::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Amityville in the Hood (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/786522437741/Amityville_In_The_Hood_Official_Trailer_Horror_Brains.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Lost Daughter (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/7f07c26c4581/THE_LOST_DAUGHTER_Trailer_2021_Dakota_Johnson_Olivia_Colman.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/zknlkvtqo9wf::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/SRXAUTU6W4LQQ::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]iGilbert (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/74af78fe344c/PHLAFF_2021_-_iGilbert_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

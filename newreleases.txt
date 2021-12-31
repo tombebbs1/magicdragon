@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Amityville in the Hood (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/786522437741/Amityville_In_The_Hood_Official_Trailer_Horror_Brains.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://mixdrop.bz/f/1v01kwolc7npjo::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/27CPIHLCIF264::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lnOMRCOaqVTesGf8g696CexzMVi.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ghostbusters: Afterlife (2021) HD RIP with Ads 29/12[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6rzamr5bighx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

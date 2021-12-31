@@ -1,5 +1,23 @@
 
 <item>
+<title>[B][COLORwhite]Cobra Kai Season 4[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/935776eb75d7/cobra.kai.s04e01.720p.web.h264-cakes.mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/903ec3b8e47c/cobra.kai.s04e02.720p.web.h264-cakes.mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/c93e4000ffbd/Cobra.Kai.S04E03.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/cb0790cb9c37/Cobra.Kai.S04E04.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/18bda85c193a/Cobra.Kai.S04E05.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/bfcf25711e43/Cobra.Kai.S04E06.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/3ee3094043ae/Cobra.Kai.S04E07.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/e37786a28568/Cobra.Kai.S04E08.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]08[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/9b9ec22eba2b/Cobra.Kai.S04E09.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]09[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/a82d3937ae5a/cobra.kai.s04e10.720p.web.h264-cakes.mkv.mp4::LISTNAME:[COLORwhite]10[/COLOR]::#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/obLBdhLxheKg8Li1qO11r2SwmYO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Star Trek: Discovery (2017) SE04 E07[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/4t9o8k1tkyre::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#

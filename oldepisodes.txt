@@ -1,5 +1,21 @@
 
 <item>
+<title>[B][COLORwhite]Stay Close (2021) Season 1[/COLOR][/B]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/4c5a58636feb/Stay.Close.S01E01.720p.WEB.H264-PECULATE.mp4::LISTNAME:[COLORwhite]01[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ff4e61a8bf5d/Stay.Close.S01E02.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]02[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/6f8174226fa2/Stay.Close.S01E03.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]03[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/f7fe239eaa90/Stay.Close.S01E04.WEBRip.x264-ION10.mp4::LISTNAME:[COLORwhite]04[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/ff7eeeec5ac0/Stay.Close.S01E05.WEB.h264-RBB.mp4::LISTNAME:[COLORwhite]05[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/70b2f6b581d6/Stay_Close_S01E06_480p_x264-mSD.mp4::LISTNAME:[COLORwhite]06[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/a7ac19644ab1/Stay.Close.S01E07.AAC.MP4-Mobile.mp4::LISTNAME:[COLORwhite]07[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/00eb4acc6d80/Stay.Close.S01E08.WEBRip.x264-ION10.mp4::LISTNAME:[COLORwhite]08[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xi9sm3R42Lseeb36yifxMsDIlo0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[B][COLORwhite]Cobra Kai Season 4[/COLOR][/B]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/935776eb75d7/cobra.kai.s04e01.720p.web.h264-cakes.mp4::LISTNAME:[COLORwhite]01[/COLOR]::#

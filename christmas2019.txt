@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]The Housewives of the North Pole (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/d914dd8397c3/The_Housewives_of_the_North_Pole_Official_Trailer_Peacock_Original.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://userload.co/f/70d5445459f9/The.Housewives.Of.The.North.Pole.2021.WEB.h264-RBB.mp4::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/DNM2THTN47Y2I::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewr7dZLvqnlNhJEKXG1PvCt9dfC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]2021 and Done with Snoop Dogg & Kevin Hart (2021)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/599xjchf7mkn::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

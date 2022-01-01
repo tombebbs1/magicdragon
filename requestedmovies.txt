@@ -1,4 +1,15 @@
 <item>
+<title>[COLORwhite]Let Him Have It (1991)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/1741d530a406/lhhi.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://voe.sx/2hv7vwouftm5::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MDAWP3N56V4AW::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cv6UNrIUrSuiBoIDRj9pqQWZwUQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Land That Time Forgot (1974)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/489d3d98dabd/tlttf.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

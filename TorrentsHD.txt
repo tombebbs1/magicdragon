@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Sheer Pandemic (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/50c81caffc46/SHEER_PANDEMIC_TRAILER.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/tvanhdbtco87::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MW2PNZSGLTPXM::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://picimg.net/2ae90cf91e61bb325541a00e3b92142b.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Delicate State (2022)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/ff5c7d98ed4f/Delicate_State_TRAILER_2022.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -60,6 +60,18 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLORwhite]Into Schrodinger's Box (2021)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/3db27f15f240/INTO_SCHRODINGERS_BOX_Official_HD_Trailer_2020_THRILLER_Film_Threat_Trailers.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/25xy1gta5pvv::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/IVQJCYC46IP2O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vWWSn7Ht8IOwtwL3lVnYremewFD.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <item>
 <title>[COLORwhite]Dragon: The Weapon of God (2022)[/COLOR]</title>
 <link>

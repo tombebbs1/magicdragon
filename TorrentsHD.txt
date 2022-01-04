@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Iris Warriors (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/dad6e2ae9750/IRIS_WARRIORS_THE_MAKING_OF_-_TEASER.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/g08gywu2ozkm::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/UBM3UCYA2LTWO::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d66HyW5xNM0KZjGRsrPbeXL2ZcS.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Ghostbusters: Afterlife (2021)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://upstream.to/6rzamr5bighx::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

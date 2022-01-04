@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Rucker (The Trucker) (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/927023cddf20/Rucker_2022_-_Official_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ct2l0g41v56a::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/YBKVZUVFJKDCE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khJNgccWl7wOvLtNbY4bUx6kwFT.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Deadly Garage Sale (2022)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://upstream.to/5cxrhwn5ptv8::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Dragon: The Weapon of God (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/c541066362dc/Dragon_-_The_Weapon_of_God_-_Official_Trailer.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/4eceps9bwjpq::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/MYRBQRZKHHA4O::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3220Mn1llRXWUHFG2fW6r4O7pXC.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Sheer Pandemic (2022)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/50c81caffc46/SHEER_PANDEMIC_TRAILER.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -17,42 +17,6 @@
 </item>
 
 <item>
-<title>[B][COLORred] GO TO NEW RELEASES PAGE 2[/B][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr2.txt</externallink>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLORred]GO TO NEW RELEASES PAGE 3[/B][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr3.txt</externallink>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLORred]GO TO NEW RELEASES PAGE 4[/B][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr4.txt</externallink>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLORred]GO TO NEW RELEASES PAGE 5[/B][/COLOR]</title>
-<premium>True</premium>
-<link>ignorme</link>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/nr5.txt</externallink>
-<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
-</item>
-
-<item>
 <title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc></jsonrpc>

@@ -34,6 +34,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]The Way (2022)[/COLOR]</title>
+<link>
+ublink:LISTSOURCE:https://userload.co/f/b253c2fda1bc/MONSTERS_IN_THE_CLOSET_-_Official_Trailer_2022_Horror_Thriller_Movie_Luke_Couzens_Shanna_Bess.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/lq3zqktok646::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TBDIK6Q4IQJ7M::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sOW7rebR71QItWm6sYai7C0KYId.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]Iris Warriors (2022)[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://userload.co/f/dad6e2ae9750/IRIS_WARRIORS_THE_MAKING_OF_-_TEASER.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

@@ -61,6 +61,17 @@
 </item>
 
 <item>
+<title>[COLORwhite]Delicate State (2022)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://userload.co/f/ff5c7d98ed4f/Delicate_State_TRAILER_2022.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#
+sublink:LISTSOURCE:https://upstream.to/ingt949psntu::LISTNAME:[COLORgold]HD FREE LINK[/COLOR]::#
+sublink:LISTSOURCE:https://real-debrid.com/d/TUZ7QV5QVSRPE::LISTNAME:[COLORgold]HD REAL DEBRID LINK[/COLOR]::#
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MB6xoh2JKteL76KM1u5JDuUv52.jpg</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
 <title>[COLORwhite]The Way (2022)[/COLOR]</title>
 <link>
 ublink:LISTSOURCE:https://userload.co/f/b253c2fda1bc/MONSTERS_IN_THE_CLOSET_-_Official_Trailer_2022_Horror_Thriller_Movie_Luke_Couzens_Shanna_Bess.mp4::LISTNAME:[COLORorchid]SHOW ME THE TRAILER FIRST[/COLOR]::#

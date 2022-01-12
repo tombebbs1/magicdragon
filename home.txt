@@ -95,7 +95,7 @@ channel>
 <channel>
 <name>[B][I][COLORorange]4K Movies Debrid Only[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/uhd.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/uhd1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -103,7 +103,7 @@ channel>
 <channel>
 <name>[B][I][COLORwhite]Latest Episodes / Seasons[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/oldepisodes.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info>Hundreds Of Documentarys To Choose From</info>
 </channel>
@@ -169,4 +169,3 @@ channel>
 </channel>
 
 </channels>
-

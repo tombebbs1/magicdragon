@@ -31,7 +31,7 @@ channel>
 <channel>
 <name>[B][I][COLORgreenyellow]Documentary's[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/documentaries.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/documentaries1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -39,7 +39,7 @@ channel>
 <channel>
 <name>[B][I][COLORmagenta]People Watching[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/popular.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/popular.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -47,7 +47,7 @@ channel>
 <channel>
 <name>[B][I][COLORwhite]Magic Dragon Movie Picks[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/requestedmovies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/requestedmovies1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -55,7 +55,7 @@ channel>
 <channel>
 <name>[B][I][COLORyellowgreen]New Releases HD Debrid Only[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/TorrentsHD.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -63,7 +63,7 @@ channel>
 <channel>
 <name>[B][I][COLORlime]Movie Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/newreleases.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -71,7 +71,7 @@ channel>
 <channel>
 <name>[B][I][COLORwhite]****Christmas 2021****[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/christmas2019.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/christmas20191.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -79,7 +79,7 @@ channel>
 <channel>
 <name>[B][I][COLORblue]Cams/HDTS Releases[/B][/I][/COLOR]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/cams.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/cams1.xml</externallink>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <info></info>
 </channel>
@@ -169,5 +169,4 @@ channel>
 </channel>
 
 </channels>
-
 
